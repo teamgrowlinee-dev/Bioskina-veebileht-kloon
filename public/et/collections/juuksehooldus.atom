@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/juuksehooldus.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-26T10:05:10+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10304865075527</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-50ml-copy"/>
+    <title>BEE IT taastav juuksemask 1000ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-1000ml-6779386.png?v=1756222787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            46.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304865075527</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303987679559</id>
+    <published>2025-08-26T10:05:09+03:00</published>
+    <updated>2025-08-26T10:05:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-50ml"/>
+    <title>BEE IT taastav juuksemask 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-200ml-244590.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303987679559</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084352393543</id>
+    <published>2025-03-28T09:16:54+02:00</published>
+    <updated>2025-03-28T09:16:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-moisturizing-hair-mask-with-rhubarb-extract-refill-100ml"/>
+    <title>Magrada Rabarberi juuksemask riitsinusõliga täitepakend - 500 ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-refill-500ml-702844.png?v=1743213040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            30.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<div class="entry-content"><p>Kuldmedaliga pärjatud (Pure Beauty Global Awards 2021 Winner) juuksemask on mõeldud kuivade ja kahjustunud kiharate intensiivseks toitmiseks ja niisutamiseks.</p>
+<p>Rabarberi juuksemask riitsinus- ja makadaamiapähkliõliga hellitab, taaselustab ning silub kahjustada saanud juukseid. Taimede elujõud tasakaalustab ja toidab. Looduslik hoolitsus parandab juuksestruktuuri ja vähendab kahusust, lisades soengule lummava sära. Siidjalt kreemine koostis annab juustele kevadise värskuse ning rabarberi mahlase aroomi.</p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Makadaamiapähkliõlis</u> on ohtralt rasvhappeid ja kaaliumi, mis muudavad juuksed tugevamaks ja kergemini kammitavaks. Makadaamiaõli sisaldab antioksüdante, mis aitavad juustel kahjulikest keskkonnamõjudest taastuda.</li><li><u>Riitsinusõli</u> on mikroobidevastase toimega, aidates kõõma ja teiste peanahaprobleemide vastu, mis halvendavad juuste tervist. Õlis sisalduv E-vitamiin niisutab juuksejuuri ning annab kiharatele terve sära.</li></ul>
+<p><b>Kasutamine: </b>Kanna mask pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 5-15 minutit, seejärel loputa rohke veega.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 94,16%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan&nbsp;| alkoholivaba&nbsp;| EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084352393543</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084341285191</id>
+    <published>2025-03-28T09:16:53+02:00</published>
+    <updated>2025-03-28T09:16:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-moisturizing-hair-mask-with-rhubarb-extract-travel-size-100-ml"/>
+    <title>Magrada Rabarberi juuksemask riitsinusõliga reisisuuruses - 100 ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-travel-size-100ml-344835.png?v=1743213039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<div class="entry-content"><p>Kuldmedaliga pärjatud (Pure Beauty Global Awards 2021 Winner) juuksemask on mõeldud kuivade ja kahjustunud kiharate intensiivseks toitmiseks ja niisutamiseks.</p>
+<p>Rabarberi juuksemask riitsinus- ja makadaamiapähkliõliga hellitab, taaselustab ning silub kahjustada saanud juukseid. Taimede elujõud tasakaalustab ja toidab. Looduslik hoolitsus parandab juuksestruktuuri ja vähendab kahusust, lisades soengule lummava sära. Siidjalt kreemine koostis annab juustele kevadise värskuse ning rabarberi mahlase aroomi.</p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Makadaamiapähkliõlis</u> on ohtralt rasvhappeid ja kaaliumi, mis muudavad juuksed tugevamaks ja kergemini kammitavaks. Makadaamiaõli sisaldab antioksüdante, mis aitavad juustel kahjulikest keskkonnamõjudest taastuda.</li><li><u>Riitsinusõli</u> on mikroobidevastase toimega, aidates kõõma ja teiste peanahaprobleemide vastu, mis halvendavad juuste tervist. Õlis sisalduv E-vitamiin niisutab juuksejuuri ning annab kiharatele terve sära.</li></ul>
+<p><b>Kasutamine: </b>Kanna mask pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 5-15 minutit, seejärel loputa rohke veega.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 94,16%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan&nbsp;| alkoholivaba&nbsp;| EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084341285191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945653117255</id>
+    <published>2025-01-21T20:04:32+02:00</published>
+    <updated>2025-01-21T20:04:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-feed-repair-dry-rescue-hair-mask-180ml"/>
+    <title>MÁDARA Repair &amp; Dry juuksemask 180ml</title>
+    <s:type>Hair Mask</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-feed-repair-dry-rescue-hair-mask-180ml-298387.png?v=1740808672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Hair Mask<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toida juukseid sügavuti selle erakordse taimeõlide põhise ja kukeseene ekstrakti sisaldava taastava maskiga, mis hoiab ära juuksekiu kahjustumise, hoiab juuksevärvi värske ja juuksed pehmena. Tugevdab juukseid ja muudab need vastupidavamaks mehaanilistele ja kuumakahjustustele. Tagab siidiselt siledad ja läikivad juuksed.</p><p><b>Kasutamine: </b>Kanna puhastele, kergelt niisketele juustele ja juukseotstele. Lase mõjuda 5–10 minutit ja loputa hoolikalt.</p><p><b>Koostisosad:</b>&nbsp;Cantharellus cibarius (chanterelle) extract, Cetearyl Alcohol, Distearoylethyl Dimonium Chloride, Glycerin, Brassica Alcohol, PCA Glyceryl Oleate, Sodium PCA, Brassicyl Isoleucinate Esylate, Lactic Acid, Aroma, Cocos Nucifera (Coconut) Oil, Xylitylglucoside, Butylene Glycol, Guar Hydroxypropyltrimonium Chloride, Benzyl Alcohol, Anhydroxylitol, Persea Gratissima (Avocado) Oil, Hydrolyzed Wheat Protein, Sodium Benzoate, Xylitol, Hydrolyzed Keratin, Potassium Sorbate, Ascorbyl Palmitate, Butyrospermum Parkii (Shea) Butter, Oenothera Biennis (Evening Primrose) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tocopherol, Crambe Maritima (Sea Kale) Leaf Extract, Leuconostoc/Radish Root Ferment Filtrate, Linalool, Limonene, Citrus Aurantium Peel Oil, Juniperus Virginiana Oil, Benzyl Salicylate</p><p>COSMOS NATURAL sertifikaadiga<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945653117255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9674447552839</id>
+    <published>2024-10-04T15:10:26+03:00</published>
+    <updated>2024-10-04T15:10:26+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-hydrating-hair-mist-100ml"/>
+    <title>HOIA Sügavniisutav juuksesprei 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-hydrating-hair-mist-100ml-963057.jpg?v=1739897245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meeldiva lõhnaga sügavniisutav juuksesprei aitab juukseid hoida tervete, tugevate ja säravatena.&nbsp;Sprei sisaldab juukseid tugevdavat kodumaist nõgest ja riisivett, taimset keratiini, sügavniisutavat hüaluroonahapet ja aaloed, juukseid pehmendavaid vetikaekstrakte ja kodumaiseid taimehüdrosoole, toitvaid õlisid ja sära lisavaid eeterlikke õlisid.</p>
+<p><b>Kasutamine:</b>&nbsp;Loksuta pudelit enne kasutamist ja piserda sobiv kogus märgadesse või kuivadesse juustesse. Loputada pole vaja.</p>
+<p><b>Koostisosad:</b>&nbsp;*Salvia Officinalis Distillate water, *Achillea Millefolium Distillate water, Oryza Sativa Seed water, Chodrus Crispus extract, Sargassum Fluitans/Natans extract, Hydrolyzed Wheat Protein, Crambe Abyssinica Seed oil, *Nigella Sativa Seed oil, Saccharomyces Ferment, Lactobacillus Ferment, Hydronated Sodium Hyaluronate, Glycerin, Aloe Barbadensis Leaf juice, Sodium Levulinate, Urtica Dioica Plant extract, Pentylene Glycol, Sodium Anisate, *Lavandula Angustifolia oil, *Pelargonium Graveolens oil, Citric Acid. **Citral, **Geraniol, **Linalool, **Limonene, **Citronellol.</p>
+<p>*Mahepõllumajanduslik päritolu. *Eeterliku õli looduslikud komponendid.</p>
+<p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9674447552839</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975923675463</id>
+    <published>2024-05-19T20:32:26+03:00</published>
+    <updated>2024-05-19T20:32:26+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/rabarberi-juuste-mask-kastooroliga-250-ml"/>
+    <title>Magrada Rabarberi juuksemask riitsinusõliga - 250 ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-250ml-9001472.png?v=1763665705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            15.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<!--StartFragment-->
+<!--StartFragment--><img class="alignnone wp-image-11509" src="https://www.magrada.eu/wp-content/uploads/2020/12/5-300x300.png" alt="pure beauty global awards 2021" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img class="alignnone wp-image-11514" src="https://www.magrada.eu/wp-content/uploads/2020/12/6-1-300x300.png" alt="pure beauty global awards 2021" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img class="alignnone wp-image-11524" src="https://www.magrada.eu/wp-content/uploads/2020/12/8-300x300.png" alt="global green beauty awards 2021" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img class="alignnone wp-image-11519" src="https://www.magrada.eu/wp-content/uploads/2020/12/7-300x300.png" alt="buduaar beauty award 2022" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><!--EndFragment-->
+<p>Kuldmedaliga pärjatud (Pure Beauty Global Awards 2021 Winner) juuksemask on mõeldud kuivade ja kahjustunud kiharate intensiivseks toitmiseks ja niisutamiseks.</p>
+<p>Rabarberi juuksemask riitsinus- ja makadaamiapähkliõliga hellitab, taaselustab ning silub kahjustada saanud juukseid. Taimede elujõud tasakaalustab ja toidab. Looduslik hoolitsus parandab juuksestruktuuri ja vähendab kahusust, lisades soengule lummava sära. Siidjalt kreemine koostis annab juustele kevadise värskuse ning rabarberi mahlase aroomi.</p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Makadaamiapähkliõlis</u> on ohtralt rasvhappeid ja kaaliumi, mis muudavad juuksed tugevamaks ja kergemini kammitavaks. Makadaamiaõli sisaldab antioksüdante, mis aitavad juustel kahjulikest keskkonnamõjudest taastuda.</li><li><u>Riitsinusõli</u> on mikroobidevastase toimega, aidates kõõma ja teiste peanahaprobleemide vastu, mis halvendavad juuste tervist. Õlis sisalduv E-vitamiin niisutab juuksejuuri ning annab kiharatele terve sära.</li></ul>
+<p><b>Kasutamine: </b>Kanna mask pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 5-15 minutit, seejärel loputa rohke veega.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 94,16%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan&nbsp;| alkoholivaba&nbsp;| EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975923675463</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9175632150855</id>
+    <published>2024-04-28T20:20:14+03:00</published>
+    <updated>2024-04-28T20:20:14+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-easy-styling-hair-lotion-for-baby-kids-150ml"/>
+    <title>NAIF Easy Styling juuksevedelik beebidele ja lastele 150ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-easy-styling-hair-lotion-for-baby-kids-150ml-404694.png?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Juuksevedelik laste juuste taltsutamiseks ja hooldamiseks.&nbsp;Naïfi juuksevedelik muudab kammimise lihtsamaks ning vähendab pusasid ja kahusust, mõeldud kõigile juuksetüüpidele.&nbsp;</p><ul><li>Looduslike koostisosadega juuksevedelik, mis ei muuda juukseid rasuseks</li><li>Pehmendab ja harutab pusasid ja vähendab lokkide kahusust</li><li>Saab kasutada ka beebikõõma puhul</li><li>Kasutamiseks imikutele ja lastele, kõikidele juuksetüüpidele</li><li>Ei sisalda mikroplasti, mineraalõlisid, sulfaate (SLES) ega silikoone</li></ul>
+<p><b>Kasutamine: </b>Pihusta rätikukuivadesse juustesse u 30 cm kauguselt. Masseeri õrnalt, kammi juuksed läbi ja stiliseeri.</p><p><b>Koostisosad:</b> Aqua/Water, Methylpropanediol, Caprylyl/Capryl Glucoside, Glycerin, Gossypium Hirsutum (Cotton Seed) Extract, Caprylyl Glycol, Phenylpropanol, Inulin, Betaine, Sodium Cocoyl Glutamate, Glyceryl Caprylate, Polyglyceryl-6 Oleate, Sodium Surfactin, Parfum/Fragrance (allergen-free), Lactic Acid, Citric Acid, Sodium Hydroxide</p>
+<p>Taaskasutatud plastikust valmistatud pakend</p>
+<div><b></b>﻿</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9175632150855</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148187410759</id>
+    <published>2024-04-09T15:29:04+03:00</published>
+    <updated>2024-04-09T15:29:04+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-250ml-1"/>
+    <title>BEE IT taastav juuksemask 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-200ml-244590.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148187410759</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

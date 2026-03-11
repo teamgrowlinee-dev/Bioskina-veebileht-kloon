@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/kehakoorija.atom"/>
+  <title>bioskina</title>
+  <updated>2026-02-17T11:27:17+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/8977197531463</id>
+    <published>2026-02-17T11:27:17+02:00</published>
+    <updated>2026-02-17T11:27:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/body-scrub-coffee-peppermint"/>
+    <title>HOIA Body Scrub Coffee &amp; Peppermint 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-coffee-peppermint-200ml-813070.jpg?v=1739897403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Extremely invigorating coffee scrub cleans, tones and massages your skin, it removes dead skin cells and helps to alleviate dry and flaky skin. It is rich in unrefined organic shea butter and coconut oil, which leaves your skin soft, moisturized and silky smooth. Fresh ground coffee beans have a high caffeine content, which is known to help prevent cellulite. Peppermint essential oil is refreshing, uplifting and invigorating.</p>
+<p><strong>How to use: </strong>Apply on moist skin and massage on your skin for a few minutes, then rinse with water. No need to use a moisturizer afterwards. Keep the product under +25 °C.</p>
+<p><strong>Ingredients:</strong> *Sucrose, Coffee Arabica Beans, *Butyrospermun Parkii Butter, *Cocos Nucifera Oil, *Mentha Piperita  Leaf Oil, Tocopherol,**Limonene.  *From organic farming.  **Natural component of essential oil.</p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/8977197531463</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10521425969479</id>
+    <published>2025-12-06T08:29:41+02:00</published>
+    <updated>2025-12-06T08:29:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-sea-mineral-scrub-250g"/>
+    <title>NURME Sea Mineral Scrub 250g</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-sea-mineral-scrub-250g-1052276.webp?v=1765078814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Deep cleansing sea mineral scrub will fill your bathroom with delicious fresh peppermint scent. Sea minerals are known for their ability to remove toxins from the body and to improve blood circulation in the skin. The scrub will get rid of dead skin cells and will leave your skin feeling young and fresh. Sea salt combined with refreshing peppermint helps reduce the appearance of cellulite.</span></p>
+<div>
+<div>
+<strong>How to use: </strong>Apply a small amount of scrub on wet skin in circular motions. Wait a few minutes before rinsing. In order to get maximum results from the oils in the scrub, we do not recommend washing the exfoliated areas with soap.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> Maris Sal (Sea salt), Olea Europaea (Olive) Fruit Oil, Simmondsia Shinensis (Jojoba) Seed Oil, Mentha Piperita (Peppermint) Oil, Sodium Benzoate, Mentha Viridis (Spearmint) Leaf Oil, Potassium Sorbate, Tocopherol (Vitamin E). Limonene* </div>
+<div><br></div>
+<div>* Occurs naturally in essential oils</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10521425969479</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10521413517639</id>
+    <published>2025-12-06T08:29:41+02:00</published>
+    <updated>2025-12-06T08:29:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-grapefruit-sugar-scrub-250g"/>
+    <title>NURME Grapefruit Sugar Scrub 250g</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-grapefruit-sugar-scrub-250g-9359903.webp?v=1765078814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Refreshing body scrub with grapefruit, sugar and pink clay will give your skin a much-needed vitamin boost. Pink clay is rich in minerals and iron which improve elasticity while grapefruit is full of vitamin C, leaving your skin firm and smooth and smelling absolutely delicious. Regular use helps reduce the appearance of cellulite. Suitable for dry and sensitive skin.</span></p>
+<div>
+<div>
+<strong>How to use: </strong>Apply a small amount of scrub on wet skin in circular motions, massage gently and rinse. In order to get maximum results from the oils in the scrub, we do not recommend washing the exfoliated areas with soap.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> Sucrose (Sugar), Prunus Amaygdalus Dulcis (Almond Sweet) Oil, Cocos Nucifera (Coconut) Oil, Simmondsia Shinensis (Jojoba) Seed Oil, Citrus Grandis (Grapefruit) Peel Oil, Sodium Benzoate (and) Potassium Sorbate, Kaolin (Pink Clay), Tocopherol (Vitamin E). Limonene*<em> </em>
+</div>
+<div><br></div>
+<div>* Occurs naturally in essential oils</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10521413517639</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10521380782407</id>
+    <published>2025-12-06T08:29:40+02:00</published>
+    <updated>2025-12-06T08:29:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-sea-buckthorn-and-orange-sugar-scrub-250g"/>
+    <title>NURME Sea Buckthorn and Orange Sugar Scrub 250g</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-sea-buckthorn-and-orange-sugar-scrub-250g-2757463.webp?v=1765078816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Refreshing body scrub with sweet orange, sugar and sea buckthorn oil will give your skin a much needed vitamin load. Sea buckthorn oil is rich in vitamins, promotes skin cell renewal, strengthens it and protects the skin. At the same time, sweet orange essential oil has a stimulating effect and gives energy irresistibly good scent. Suitable for all skin types. </span></p>
+<div>
+<div>
+<strong>How to use: </strong>Apply a small amount of scrub in a circular motion on wet skin, gently massage and then rinse. It is not advisable to wash the peeled areas with soap to maximize the oils in the scrub.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> Sucrose (Sugar), Olea Europaea (Olive) Fruit Oil, Sodium Cocoamphoacetate,  Ricinus Communis (Castor) Seed Oil, Hippophae Rhamnoides (Sea Buckthorn) Oil, Citrus Aurantium Dulcis (Sweet Orange) Peel Oil, Sodium Benzoate (and) Potassium Sorbate, Tocopherol (Vitamin E), Limonene*</div>
+<div><br></div>
+<div>* Occurs naturally in essential oils</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10521380782407</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10010723647815</id>
+    <published>2025-02-28T10:56:09+02:00</published>
+    <updated>2025-02-28T10:56:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-body-scrub-unicorn-dust-200ml"/>
+    <title>HOIA Body Scrub Unicorn Dust 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-unicorn-dust-200ml-403541.jpg?v=1740808676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Unicorn Dust body scrub is a moisturizing scrub that leaves your skin silky soft and luxuriously sparkling. This scrub is rich in organic unrefined shea butter and coconut oil, which effectively moisturize, hydrate and soften your skin. The scrub contains sugar, which offers your skin a nice and stimulating massage. </span></p>
+<p><span>Unicorn Dust is enriched with refreshing essential oils, which will add a mood-boosting and pleasant aromatherapic spa experience to your scrubbing session. Shimmering particles in this product are of mineral origin and they do not harm the environment. </span></p>
+<p><strong>How to use:</strong> <span>Apply in a circular motion and massage it on your skin for few minutes, rinse with water and enjoy your sparkle. No need to use a moisturizer afterwards. </span></p>
+<p><span>Do not use the scrub before sunbathing and visiting the solarium.</span></p>
+<p><strong>Ingredients:</strong> <span>*Sucrose, *Butyrospermum Parkii Butter, *Cocos Nucifera Oil, Tocopherol, Helianthus Annuus Seed oil, *Lavandula Angustifolia Flower oil, *Mentha Piperita Leaf oil, *Citrus Aurantifolia Peel oil, **Fluorphlogopite, **Titanium Dioxide, **Tin Oxide, ***Limonene, ***Linalool, ***Citral, ***Geraniol. *From organic farming. **Mineral component of Mica. ***Natural components of essential oils</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10010723647815</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10010733707591</id>
+    <published>2025-02-28T10:55:04+02:00</published>
+    <updated>2025-02-28T10:55:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-body-scrub-strawberry-margarita-200ml"/>
+    <title>HOIA Body Scrub Strawberry Margarita 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-strawberry-margarita-200ml-410886.jpg?v=1740808676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Strawberry Margarita is an enticing body scrub with the aroma of strawberries and lemons, transforming your shower into an aromatic exfoliating spa ritual. The product helps stimulate circulation, cools the skin, removes dead skin cells, and leaves the skin delightfully soft and silky.</p>
+<p>The body scrub contains organic unrefined shea butter and coconut oil, which effectively alleviate skin dryness and nourish the skin with vitamins.</p>
+<p><strong>How to use:</strong> <span>Massage the scrub onto the skin in circular motions – start from the soles of your feet and work your way up to the neck. Allow it to work for a few minutes, enjoy the aromatherapy, and then rinse off. There’s no need to moisturize the skin after using the body scrub. </span></p>
+<p><span>Do not use the scrub before sunbathing and visiting the solarium.</span></p>
+<p><strong>Ingredients:</strong> <span>*Sucrose, *Cocos Nucifera Oil, *Butyrospermum Parkii Butter, *Citrus Limon Peel Oil, Natural Parfum, Helianthus Annuus Seed oil, Tocopherol, **Limonene, **Linalool. * From Organic Farming. ** Natural component of essential oil.</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10010733707591</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10010736918855</id>
+    <published>2025-02-28T10:54:27+02:00</published>
+    <updated>2025-02-28T10:54:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-body-scrub-virgin-mojito-200ml"/>
+    <title>HOIA Body Scrub Virgin Mojito 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-virgin-mojito-200ml-768258.jpg?v=1740808668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>This citrusy fresh Mojito-scented body scrub transforms your shower and sauna experiences into aromatic exfoliating spa rituals. The scrub helps stimulate circulation, cools the skin, aids in removing dead skin cells, and leaves the skin delightfully soft and silky.</p>
+<p>Containing organic unrefined Nilotica shea butter and coconut oil, the scrub effectively alleviates skin dryness and nourishes the skin with vitamins. The fresh scent is imparted by lime and peppermint essential oils.</p>
+<p><strong>How to use:</strong> <span>Massage the scrub onto the skin in circular motions – start from the soles of your feet and work your way up to the neck. Allow it to work for a few minutes and then rinse off. There’s no need to moisturize afterward.</span><span> </span></p>
+<p><span>Do not use the scrub before sunbathing and visiting the solarium.</span></p>
+<p><strong>Ingredients:</strong> <span>*Sucrose, *Cocos Nucifera Oil, *Butyrospermum Parkii Butter, *Citrus Aurantifolia Peel Oil, *Mentha Piperita Leaf Oil, *Citral, **Limonene, **Linalool. * From Organic Farming. ** Natural component of essential oil</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10010736918855</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10010740293959</id>
+    <published>2025-02-28T10:53:45+02:00</published>
+    <updated>2025-02-28T10:53:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-body-scrub-saltshaker-200ml"/>
+    <title>HOIA Body Scrub Saltshaker 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-saltshaker-200ml-566902.png?v=1740808670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Saltshaker Body Scrub is a freshly scented body scrub with Himalayan salt and magnesium, providing your skin with a refreshing and aromatherapeutic spa experience. After use, your skin will be nourished and silky soft. </span></p>
+<p><span>The body scrub contains organic unrefined shea butter, coconut oil, and aloe extract, which improve skin circulation, relieve dryness, and make the skin silky smooth. The inclusion of magnesium and a carefully selected blend of essential oils helps your body relax and your mind to calm down.</span></p>
+<p><strong>How to use:</strong> <span>Massage the scrub onto the skin in circular motions – start from the soles of your feet and work your way up to the neck. Allow it to work for a few minutes and then rinse off. There’s no need to moisturize afterward.</span><span> </span></p>
+<p><span>Do not use the scrub before sunbathing and visiting the solarium.</span></p>
+<p><strong>Ingredients:</strong> <span>Sodium Chloride (Himaalaja sool), Magnesium Sulfate, *Butyrospermum Parkii Butter, Cocos Nucifera Oil, *Lavandula Angustifolia Flower oil, *Hyssop Ocinalis Decumbens Leaf oil, *Citrus Bergamia Peel oil, Aloe Vera extract. **Limonene, *Linalool. *Organic. **Natural component of essential oils</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10010740293959</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10010743243079</id>
+    <published>2025-02-28T10:53:08+02:00</published>
+    <updated>2025-02-28T10:53:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-body-scrub-sassy-citrus-200ml"/>
+    <title>HOIA Body Scrub Sassy Citrus 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-sassy-citrus-200ml-880150.jpg?v=1740808667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p data-start="60" data-end="366">This deliciously scented Sassy Citrus Body Scrub cleanses, tones, and gently massages the skin while removing dead skin cells and relieving dryness and flakiness. Infused with organic unrefined shea butter and coconut oil, it deeply nourishes, leaving the skin soft, smooth, and hydrated.</p>
+<p data-start="368" data-end="503">The invigorating blend of citrus essential oils provides a refreshing boost, helping to combat fatigue and uplift the senses.</p>
+<p><strong>How to use:</strong> <span>Massage the scrub onto the skin in circular motions – start from the soles of your feet and work your way up to the neck. Allow it to work for a few minutes and then rinse off. There’s no need to moisturize afterward.</span><span> </span></p>
+<p><span>Do not use the scrub before sunbathing and visiting the solarium.</span></p>
+<p><span>Store below +25°C</span></p>
+<p><strong>Ingredients:</strong> <span>Sucrose, *Butyrospermum Parkii Butter, *Cocos Nucifera Oil, Citrus Grandis Peel Oil, Citrus Aurantifolia Oil, Citrus Aurantium Bergamia Fruit Oil, **Limonene, **Linalool, **Citral. * From Organic Farming. ** Natural components of essential oils.</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10010743243079</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013986750791</id>
+    <published>2025-02-25T13:45:53+02:00</published>
+    <updated>2025-02-25T13:45:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-seabuckthorn-body-scrub-200ml"/>
+    <title>LUUV Natural Seabuckthorn Body Scrub 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-seabuckthorn-body-scrub-200ml-989413.png?v=1740560026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural Seabuckthorn Body Scrub – your ultimate skincare indulgence for radiant, velvety-soft skin. This body scrub is expertly formulated to provide your skin with the care it truly deserves. Infused with the goodness of sea buckthorn and enriched with exfoliating particles, it offers a multi-dimensional approach to skincare. It gently removes dull, lifeless skin cells, revealing a fresh and luminous complexion. All this without causing any harm to your delicate skin.</p>
+<p>The true beauty lies in moisturizing herbal oils. As you massage the scrub onto your skin, these oils work in harmony to lavish your body with hydration, leaving it irresistibly soft and silky. Zesty essence of orange and mandarin essential oils not only stimulate your skin but also invigorate your mind, transforming your shower routine into an awakening experience that leaves you feeling refreshed and renewed. ECOCERT / COSMOS eco-certificate guarantees that this body scrub is crafted with the utmost respect for nature, ensuring that your beauty regimen is as sustainable as it is effective.</p>
+<p>Embrace the luxury of softness, the thrill of rejuvenation, and the enchantment of an energizing citrus symphony – all within a single jar of LUUV Natural Seabuckthorn Body Scrub.</p>
+<ul>
+<li><span>Gentle, but effective</span></li>
+<li aria-level="1">
+<span>Doesn</span><span>‘</span><span>t dry skin</span>
+</li>
+<li aria-level="1"><span>Refreshing citrus aroma</span></li>
+<li aria-level="1"><span>Safe for the environment</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li><span><span style="text-decoration: underline;">Seabuckthorn oil</span> is a natural super moisturizer. It contains a high concentration of fatty acids, including omega-3, omega-6, omega-7, and omega-9, which help maintain the skin’s moisture level and prevent moisture loss.<br>The high content of vitamin C in the oil makes the skin radiant and bright, helping to even out the complexion.<br>The antioxidants present in the oil, such as vitamin C, vitamin E, and beta-carotene, protect the skin from free radical damage and promote a youthful appearance.</span></li>
+<li><span><span style="text-decoration: underline;">Carrot oil</span> (specifically carrot seed oil) contains a lot of carotene, which gives a complexion-enhancing effect. Carrot oil is always in a carrier oil (i.e., diluted) because it is too intense on its own. It contains a lot of vitamin A. The natural SPF of carrot oil is around 40, but since it is diluted, it ends up around SPF 10.</span></li>
+<li><span>Exfoliating particles made from<strong> </strong><span style="text-decoration: underline;">rice</span> – no plastic! The particles are not angular or sharp, so they do not damage the skin. At the same time, they are strong enough to provide a good exfoliating effect. </span></li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified | paraben free</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Incorporate it into your routine once a week to maintain beautifully polished skin. Also ideal before applying self-tanning products, ensuring an even and flawless tan that lasts.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Oryza Sativa (Rice) Powder, Glycerin, Dunaliella Salina Extract, Helianthus Annus Seed Oil, Coco-Glucoside, Glyceryl Oleate, Xanthan gum, Hippophae Rhamnoides (Sea Buckthorn) oil, Citrus Aurantium Dulcis (Orange) Oil, Citrus Nobilis Peel (Mandarin) Oil, Citric Acid, Sodium benzoate, Potassium Sorbate, Aroma, Citral, Linalool, Limonene</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013986750791</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9939528384839</id>
+    <published>2025-01-19T10:14:45+02:00</published>
+    <updated>2025-01-19T10:14:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/vielo-organic-body-scrub-50ml"/>
+    <title>Vielö Organic Body Scrub 50ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-body-scrub-50ml-231547.webp?v=1739897173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nourishing organic body scrub, specially designed to cleanse and exfoliate the skin gently, to remove dead skin cells and revitalise your body.</span><br><br><span>Created with organic whey (nourishing), finely ground apricot kernels (exfoliating), wheat germ oil (moisturising), organic extracts of birch leaf (purifying), lavender (soothing) and rosemary (stimulating).</span><br><br><span>Suitable for all skin types.</span></p>
+<p class="content-translations text-15 leading-loose text-black"><span><strong>How to use:</strong> Shake well before use. Apply to damp skin. In circular movement massage in gently. Rinse off thoroughly. On contact with water and by gently massaging in, the scrub transforms into a nourishing lotion that can be washed off easily.</span></p>
+<p class="content-translations text-15 leading-loose text-black"><span><strong>Ingredients: </strong></span>Lactis Serum Proteinum**, Glycerin**, Aqua*, Decyl Glucoside*, Prunus Armeniaca Seed Powder**, Triticum Vulgare Germ Oil**, Citric Acid*, Betaine*, Xanthan Gum*, Disodium Cocoyl Glutamate*, Sodium Cocoyl Glutamate*, Lavandula Angustifolia Flower Oil**, Potassium Sorbate, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Lavandula Angustifolia Flower Extract**, Betula Alba Leaf Extract**, Glycine Soja Seed Extract*, Rosmarinus Officinalis Leaf Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p>
+<p>* from natural origin (99,8%)<br>** certified organic (74,9%)<br>*** from natural essential oils</p>
+<p class="content-translations text-15 leading-loose text-black">Handmade in Austria</p>
+<p class="content-translations text-15 leading-loose text-black">Inspired by circular economy, Vielö refines a high-quality by-product of cheese production, liquid organic whey, and uses it to create certified organic and sustainable skin and body care products.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9939528384839</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/8975928951111</id>
+    <published>2024-05-21T11:34:54+03:00</published>
+    <updated>2024-05-21T11:34:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/lavender-body-scrub-with-grapefruit-essential-oil-250-ml"/>
+    <title>Magrada Lavender Body Scrub With Grapefruit Essential Oil 250ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-lavender-body-scrub-with-grapefruit-essential-oil-250ml-906916.jpg?v=1739897402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><img loading="lazy" class="alignnone wp-image-11691" src="https://www.magrada.eu/wp-content/uploads/2020/11/auhinnad-300x300.png" alt="anne stiil ilulemmik 2017" width="99" height="99"></p>
+<p>The nightly beauty ritual will create a spa-like pleasure in the comfort of your home. The organic body oil will provide a relaxing pleasure for your body and senses. The composition of the naturally extracted essential oils from small organic producers alleviates tensions and facilitates falling asleep.</p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Cold-pressed organic safflower oil</span><strong> </strong>restores and preserves the moisture level of the skin.</li>
+<li>
+<span style="text-decoration: underline;">Organic apricot kernel oil</span> with its light structure nurtures the skin with minerals and vitamins A, B, C, and E.</li>
+<li>
+<span style="text-decoration: underline;">Organic jojoba oil</span> contains vitamins A and E and has wonderful tightening properties.</li>
+</ul>
+<p>Aromatherapy has a positive effect on your well-being and senses. Grapefruit oil is calming and relaxing, improves your mood, alleviates anxiety, and promotes sleep.</p>
+<ul>
+<li>Provence – one of the most beautiful areas of France with violet lavender fields which only give the best organic lavender essential oil.</li>
+<li>Cold-pressed organic white grapefruit essential oil adds sunny synergy.</li>
+<li>Organic juniper essential oil has a relaxing and calming effect.</li>
+</ul>
+<p><strong>How to use:</strong> <span>Rub the body scrub on moist skin with circular movements and rinse with water. We advise to use the scrub once or twice a week.</span></p>
+<p><strong>Ingredients:</strong> Sodium Chloride, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Tocopherol (Vitamin E), Citrus Paradisi (Grapefruit) Peel Oil*, Lavandula Angustifolia (Lavender) Oil*, Juniperus Communis (Juniper) Fruit Oil, Linalool, Limonene</p>
+<div>
+<p class="Default">*COSMOS Certified Organic Ingredient</p>
+</div>
+<div>
+<p class="Default">Ingredients of natural origin: 100%.</p>
+<p class="Default">The list of ingredients may be changed. Please see the packaging for the updated and most accurate list of ingredients.</p>
+</div>
+<p><span>paraben-free </span><span>|</span><span> sulphate-free </span><span>|</span><span> silicone-free </span><span>|</span><span> vegan </span><span>|</span><span> alcohol-free | cruelty-free </span><span>|</span><span> hand-made </span><span>|</span><span> with a minimal list of ingredients</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/8975928951111</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/8975921480007</id>
+    <published>2024-05-21T11:21:45+03:00</published>
+    <updated>2024-05-21T11:21:45+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/peony-body-scrub-with-organic-fruit-oils-250-ml"/>
+    <title>Magrada Peony Body Scrub With Organic Fruit Oils 250ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-peony-body-scrub-with-organic-fruit-oils-250ml-2310111.png?v=1763665704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><img height="100" width="100" alt="pure beauty global awards 2019 finalist" src="https://www.magrada.eu/wp-content/uploads/2020/03/17-1-300x300.png" class="alignnone wp-image-11711"></p>
+<p>The efficient sea salt and fruit oil composition captivates with a Mediterranean elegance. The mineral-rich finely ground sea salt gently peels off dead skin cells. Apricot, safflower, and jojoba oils, however, nurture and soften the skin.</p>
+<p>Peeling the body helps to invigorate the skin regeneration process and improves subcutaneous circulation. This is a luxurious beauty treatment which tones and moisturises, making the skin beautifully radiant.</p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Cold-pressed organic safflower oil</span> restores and preserves the moisture level of the skin.</li>
+<li>
+<span style="text-decoration: underline;">Organic apricot kernel oil</span> with its light structure nurtures the skin with minerals and vitamins A, B, C, and E.</li>
+<li>
+<span style="text-decoration: underline;">Organic jojoba oil</span> contains vitamins A and E and has wonderful tightening properties.</li>
+<li>
+<span style="text-decoration: underline;">Organic black elderflower berry extract</span> calms irritated skin, while the aroma of the berries adds alluring notes to the scent of the fruit oil.</li>
+</ul>
+<p>The body scrub contains finely ground sea salt, which still has all of its biologically active minerals. The sea salt helps to relax muscles and stimulates the natural regeneration process of skin cells.</p>
+<ul>
+<li>
+<span style="text-decoration: underline;">The peony aroma</span> comes from natural petals of the flower and has been captured into the bottle in France. The alluring flower oil is custom-made.</li>
+</ul>
+<p><strong>How to use:</strong> <span>Rub the body scrub on moist skin with circular movements and rinse with water. We advise to use the scrub once or twice a week.</span></p>
+<p><strong>Ingredients:</strong> Sodium Chloride, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Tocopherol (Vitamin E), Parfum (Natural), Magnesium Aluminum Silicate, Kaolin, Montmorillonite, Mica</p>
+<p>*COSMOS Certified Organic Ingredient</p>
+<p>Ingredients of natural origin: 100%.</p>
+<p>The list of ingredients may be changed. Please see the packaging for the updated and most accurate list of ingredients.</p>
+<p><span>paraben-free </span><span>|</span><span> sulphate-free </span><span>|</span><span> silicone-free </span><span>|</span><span> vegan</span><span> | alcohol-free |cruelty-free </span><span>|</span><span> hand-made </span><span>|</span><span> with a minimal list of ingredients</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/8975921480007</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9213816635719</id>
+    <published>2024-05-18T22:42:17+03:00</published>
+    <updated>2024-05-18T22:42:17+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-body-scrub-beach-bum-200ml"/>
+    <title>HOIA Anti-Cellulite Body Scrub Beach Bum 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-anti-cellulite-body-scrub-beach-bum-200ml-650540.jpg?v=1739897246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>This Body Scrub is designed to fight cellulite. It is rich in caffeine and powerful essential oils. With scrubbing massage it helps to boost micro circulation, combat fluid retention, detoxify, tone and tighten your skin. This product has a high content of unrefined organic shea butter and coconut oil, which nourishes and moisturizes your skin. Body Scrub improves elasticity, keeps it healthy-looking and silky smooth.</span></p>
+<p><strong>How to use:</strong> <span>Massage the scrub on problematic areas for 5 minutes, let it sit for a few minutes and rinse with water, For maximum results use daily. No need to use a moisturizer after your scrubbing session.</span></p>
+<p><strong>Ingredients:</strong> <span>*Sucrose, *Butyrospermum Parkii butter, *Cocos Nucifera oil, Coee Arabica Bean powder, Sodium Chloride (Himalayan salt), Citrus Paradisi Peel oil, *Rosimarinus Ocinalis Leaf oil, *Cymbopogon Flexuosus Leaf oil, *Juniperus Virginiana oil, Piper Nigrum Fruit oil, Tocopherol, **Linalool, **Geraniol. *From organic farming. **Natural components of essential oils.</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9213816635719</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9213815521607</id>
+    <published>2024-05-18T22:42:16+03:00</published>
+    <updated>2024-05-18T22:42:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-shimmer-scrub-200ml"/>
+    <title>HOIA Shimmer Body Scrub Überblingen 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-shimmer-body-scrub-uberblingen-200ml-977319.png?v=1739897255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Überblingen is a super shimmering body scrub with a tropical mandarin and flower (ylang-ylang) aroma. Shimmer Scrub is rich in organic unrefined shea butter and coconut oil, which effectively moisturize, hydrate and soften your skin; it contains sugar and Himalayan salt, which help to scrub away all impurities and dead skin cells leaving your skin soft and silky smooth. There is no need to use a moisturizer after using this scrub. Shimmering particles in this product are of mineral origin and they do not harm environment.</span></p>
+<p><strong>How to use:</strong> <span>Apply in a circular motion and massage it on your skin for a few minutes, rinse with water. No need to use a moisturizer afterwards. Keep product under +25 °C.</span></p>
+<p><strong>Ingredients:</strong> <span>Sucrose, Sodium Chloride (Himalayan salt), *Butyrospermum Parkii (shea) Butter, *Cocos Nucifera (coconut) Oil, Citrus Nobilis (mandarin) Peel oil, Cananga Odorata (ylang -ylang) Flower Oil, Elettaria Cardamomum (cardemon) Seed Oil, Mica, **Tin Oxide (CI 77861), **Titanium Oxide (CI 77891), **CI 77491 (Iron Oxide), **Synthetic Fluorphlogopite, ***Linalool, ***Limonene. * From organic farming. ** Plastic-free mineral component of Mica. ***Natural component of essential oil.</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>eurovision</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9213815521607</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/8977210507591</id>
+    <published>2024-05-18T22:42:16+03:00</published>
+    <updated>2024-05-18T22:42:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/body-scrub-lemongrass"/>
+    <title>HOIA Body Scrub Lemongrass 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-lemongrass-200ml-783431.jpg?v=1739897402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Zestfully smelling lemongrass body scrub cleans, tones and massages your skin, removes dead skin cells and helps to alleviate dry, red and aky skin. It is rich in unrefined organic shea butter and coconut oil, which leaves your skin soft, moisturized and silky smooth. </p>
+<p><strong>How to use:</strong> Apply on moist skin and massage on your skin for few minutes, rinse with water. No need to use a moisturizer afterwards. Keep product under +25 °C.</p>
+<p><strong>Ingredients:</strong> *Sucrose,*Butyrospermum Parkii  Butter, *Cocos Nucifera  Oil, Cymbopogon Flexuosus Herb  Oil, ­**Citral, *Gerniol, **Linalool, **Cintronellol, **Limonene. * From Organic Farming. ** Natural components of essential oils.</p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/8977210507591</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/8977197334855</id>
+    <published>2024-05-18T22:42:15+03:00</published>
+    <updated>2024-05-18T22:42:15+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/body-scrub-bali-spa"/>
+    <title>HOIA Body Scrub Bali Spa 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-bali-spa-200ml-191051.jpg?v=1739897408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Bali Spa Body Scrub is inspired by the sensual scents of Bali, which are known to enrich your love life, calm your mind and body. This body scrub is designed to create an ultimate spa-experience at your own home –therapeutic essential oils filling your bathroom with sensual aroma… invigorating sugarmassage while scrubbing, that silky-soft skin after you are finished… It makes you feel that you just stepped out of your favorite spa! Deliciously smelling body scrub cleans, tones and while applying massages your skin, it removes dead skin cells and helps to alleviate dry and flaky skin. It is rich in organic unrefined shea butter and coconut oil, which leave your skin soft and silky smooth.</p>
+<p><strong>How to use:</strong> Apply on moist skin and massage for a few minutes, then rinse with water. No need to use a moisturizer afterwards. Do not use this scrub right before tanning or solarium. Keep the product under +25 °C.</p>
+<p><strong>Ingredients:</strong> *Sucrose, *Butyrospermum Parkii  Butter, *Cocos Nucifera Oil, Plumeria Alba Flower Oil, Citrus Aurantifolia Peel Oil, Helianthus Annuus Seed Oil, Tocopherol, **Citral, **Citronellol, **Eugenol, **Coumarin, **Geraniol, **Linalool, **Limonene, **Hydroxycitronellal, **Benzyl Alcohol, **Benzyl Salicylate. * From Organic Farming. ** Natural components of essential oils.</p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/8977197334855</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

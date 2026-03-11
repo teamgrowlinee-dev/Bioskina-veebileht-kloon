@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/paevitus.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-26T10:05:12+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10304982942023</id>
+    <published>2025-08-26T10:05:12+03:00</published>
+    <updated>2025-08-26T10:05:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-sun-spf50-maya-50ml"/>
+    <title>BEE IT päikesekaitsekreem Maya SPF50 50ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-sun-spf50-maya-50ml-7388105.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kõrge kaitsega päikesekaitsekreem kaitseb nahka nii UVA- kui ka UVB-kiirguse eest. Sobib tundlikule nahale ja ka alla 3-aastastele lastele. Kaitseb nahka päikesekahjustuse eest ning hoiab selle niisutatuna. </p><p>Tõhus ka mesilaste kaitsmisel! </p><p><b>Kasutamine:</b>&nbsp;Kanna näole ja kehale enne päikese käes viibimist. Korda pealekandmist sageli, et saavutada ohutu, ühtlane ja kauakestev päevitus.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua [Water], Ethylhexyl methoxycinnamate, Octocrylene, Butyl methoxydibenzoylmethane, Methylene bis-benzotriazolyl tetramethylbutylphenol, Helianthus annuus (Sunflower) seed oil, Glyceryl stearate SE, Prunus amygdalus dulcis (Sweet almond) oil, Glycerin, Phenoxyethanol, Decyl glucoside, Tocopheryl acetate, Citric acid, Parfum [Fragrance], Ethylhexylglycerin, Aloe barbadensis leaf juice*, Tetrasodium glutamate diacetate, Olea europaea (Olive) fruit oil*, Oryza sativa (Rice) bran oil, Vitis vinifera (Grape) seed oil, Allantoin, Propylene glycol, Xanthan gum, Vaccinium myrtillus (Myrtle) fruit extract, Avena sativa (Oat) kernel extract*, Calendula officinalis flower extract*, Sodium hydroxide, Mel/Honey*, Propolis wax, Sodium benzoate, Potassium sorbate.</p><p>*Orgaanilist päritolu<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas. <br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304982942023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9175461265735</id>
+    <published>2025-07-30T17:09:18+03:00</published>
+    <updated>2025-07-30T17:09:18+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-spray-spf50-100ml"/>
+    <title>NAIF mineraalne päikesekaitsesprei SPF50 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-spray-spf50-100ml-4393539.jpg?v=1753967197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf mineraalne päikesekaitsesprei 50 SPF on välja töötatud tundlikule nahale ja sobib kogu perele. Kreem on korallrifisõbraliku koostisega. Tsinkoksiidil põhinev UV-filter kaitseb nahka koheselt UVA- ja UVB-kiirguse eest seda minimaalselt ärritades. Mugav pihusti muudab pealekandmise kiireks ja lihtsaks.&nbsp;</p>
+<p><b>Kasutamine:</b> Loksuta enne kasutamist. Kanna rikkalik kogus kehale ja näole enne päikese kätte minekut. Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist. Ära hoia toodet päikese käes.</p>
+<p><b>Koostisosad: </b>Decyl Oleate, Zinc Oxide, Coco-Caprylate/Caprate, Alcohol, Triheptanoin, Parfum/Fragrance, Polyhydroxystearic Acid, Allantoin, Tocopherol, Aqua/Water, Silica Dimethyl Silylate, Pongamol, Helianthus Annuus Seed Oil, Bisabolol, Denatonium Benzoate</p>
+<p>Bioplastikust valmistatud pakend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9175461265735</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10278236029255</id>
+    <published>2025-07-30T16:50:42+03:00</published>
+    <updated>2025-07-30T16:50:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-nurturing-day-cream-50ml-copy"/>
+    <title>NAIF päevitusjärgne geel aloe veraga 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-cooling-aftersun-100ml-5567632.png?v=1753967377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Naïf jahutav <i>aftersun</i> geel rahustab, niisutab ja taastab nahka pärast päikese käes olemist. Aloe Vera jahutab ja taastab, glütseriin niisutab. See hoiab ka kõige tundlikuma naha pehme ja elastse. Täpselt see, mida nahk pärast UV-kiirgusega kokkupuudet vajab. Geel imendub kiiresti ega jäta kleepuvat kihti.</p><p><b>Kasutamine:&nbsp;</b>Kanna peale rohkes koguses pärast päikese käes viibimist. Eriti just nendele kehapiirkondadele, mis on saanud palju päikest. <br><br>Nõuanne: hoia geeli külmkapis, et säilitada eriti jahutav efekt.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua/Water, Glycerin, Methylpropanediol, Cetearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate Citrate, Parfum/Fragrance, Aloe Barbadensis Leaf Juice Powder, Allantoin, Caprylyl Glycol, Phenylpropanol, Xanthan Gum, Lactic Acid, Sodium Hydroxide</p><p>Kõik Naïf tooted on vegan‑sõbralikud, õrnalt lõhnastatud ja dermatoloogiliselt testitud. Vabad 26 kõige levinumast allergeenist! Need ei sisalda ka SLES‑i ega mikroplasti. Tuubid on valmistatud suhkruroo‑baasil bioplastikust.</p>
+<!--EndFragment--><!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10278236029255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019581821255</id>
+    <published>2025-02-28T09:54:51+02:00</published>
+    <updated>2025-02-28T09:54:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/upcircle-beauty-spf-25-mineral-sunscreen-60ml"/>
+    <title>UpCircle Mineraalne SPF 25 päikesekaitsekreem 60ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>UpCircle Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/upcircle-beauty-spf-25-mineral-sunscreen-60ml-821303.png?v=1740808678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpCircle Beauty<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            32.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rifisõbralik ja mereelustikule ohutu dermatoloogiliselt heakskiidetud mineraalne päikesekaitsekreem pakub  füüsilist kaitset päikese poolt põhjustatud enneaegse vananemise vastu. Looduslikult saadud mittenano- tsinkoksiid kaitseb nahka, samas kui võimas antioksüdantne vaarikaseemneõli kaitseb vabade radikaalide kahjustuste eest.<br><br>Koostises on kasutatud ainult kõrgeima kvaliteediga tsinkoksiidi, mis sulandub nahka ning jätab sellele loomuliku sära. UpCircle täiusliku koostisega vegan päikesekaitsekreem on võitnud mitmeid auhindu!<br><br>Pärast pealekandmist imendub kreem 15 minuti jooksul ja annab loomuliku viimistluse ja sära. Nahka rahustav aloe vera leevendab põletikku ja tugevdab naha niiskusbarjääri. Taimne glütseriin aitab lukustada niiskuse. Plastikuvaba päikesekaitsekreem on koostatud mittekomedogeense päevalilleõli ja lavendliõliga, mistõttu on see suurepärane päikesekaitsekreem neile, kellel on aknele kalduv nahk.<b><br><br>Kasutamine: </b>Kanna rohkelt kreemi puhtale niisutatud näole, masseeri&nbsp;kuni imendumiseni. Kanna nahale enne päikese käes viibimist. Kaitse säilitamiseks korda pealekandmist, eriti higistamisel, pärast ujumist ja rätikuga kuivatamist.  </p><p><b>Koostisosad:&nbsp;</b>Aqua, Zinc Oxide, Caprylic/Capric Triglyceride, Coco Caprylate/Caprate, Glycerin, Coco Glucoside, Cetearyl Alcohol, Isoamyl Laurate, Coconut Alcohol, Rubus Idaeus (Raspberry) Seed Oil, Aloe Barbadensis Leaf Extract, Tocopherol, Helianthus Annuus Seed Oil, Lavandula Angustifolia (Lavender) Flower Oil, Cellulose Gum, Lecithin, Xanthan Gum, Glucose, Cetearyl Glucoside, Glyceryl Caprylate, Isostearic Acid, Polyhydroxystearic Acid, Polyglyceryl-3 Polyricinoleate, Dehydroacetic Acid, Benzyl Alcohol, Geraniol^, Limonene^, Linalool^.<br></p><p>^Loetletud eeterlike õlide looduslik koostisosa</p><p>99% LOODUSLIKUD KOOSTISOSAD</p><p>Käsitsi valmistatud | Sotsiaalne hüve | Taaskasutatud materjalid | Nulljäätmed | Julmusevaba | Vegan | Loodusvarad | Mittetoksiline<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:tag>upcircle</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019581821255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014171103559</id>
+    <published>2025-02-25T13:42:23+02:00</published>
+    <updated>2025-02-25T13:42:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-shimmering-carrot-dry-oil-bronze-100ml"/>
+    <title>LUUV Sädelusega porgandi kuivõli PRONKS 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-shimmering-carrot-dry-oil-bronze-100ml-155486.png?v=1740560028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pronksjas sädelev nahk on vaid käeulatuses! LUUV Sädelusega porgandi kuivõli on aaloe baasil rikkalikult niisutav vitamiinipomm, mis annab nahale pilkupüüdvalt kauni sära. A-vitamiini ja beetakaroteeni rikas porgandiõli muudab naha kaunilt jumekaks ilma isepruunistava efektita.<br><br>Porgandiõlis sisalduvad antioksüdandid ja E-vitamiin aitavad säilitada naha nooruslikkust, aaloe aga rahustab ja niisutab nahka sügavuti ning aitab säilitada selle niiskustaset. Nahk jääb siidiselt pehme, elastne, elujõuline ja särav. Kuivõli teeb õrnalt sädelevaks mica valgustpeegeldavad osakesed, mis on ohutud nii nahale kui keskkonnale. Sobib ideaalselt kõikidele nahatüüpidele, ei ummista nahapoore ning sobib igapäevaseks kasutamiseks. Geelja tekstuuriga kuivõli libiseb sulgkergelt üle naha, imendub kiiresti ning ei jäta nahka kleepuvaks ega õliseks. </p>
+<ul><li>Niisutab sügavuti</li><li>Parandab naha elastsust</li><li>Parandab jumet</li><li>Geeljas tekstuur</li><li>Imendub kiiresti</li><li>Mahapestav sädelus</li><li>Kõikidele nahatüüpidele</li><li>Looduslik SPF10</li></ul>
+<p><u>Põhilised koostisosad:</u></p>
+<ul><li><u>Porgandiõli</u>&nbsp;(täpsemalt porgandi seemneõli) sisaldab palju karoteeni, mis annab jumet parandava efekti. Porgandiõli on alati mingis kandjaõlis (st lahjendatuna), kuna iseseisvalt on ta liiga intensiivne. Sisaldab rohkelt A-vitamiini. Porgandiõli looduslik SPF on u 40, aga kuna ta on lahjendatud, siis jääb u SPF 10.</li><li><u>Aaloet</u> on kasutatud rahvameditisiinis juba sajandeid. Aaloe on väga hea naha niisutaja ja ärrituste leevendaja, seepärast aitab ka suurepäraselt päikesepõletuse puhul. Aaloe on rahustava toimega ja kannab hapnikku nahas. Teeb naha siidiseks ja pehmeks.</li><li><u>Apelsini eeterlikku õli</u> kasutatakse enamasti toote lõhnastamiseks – värske, magusa tsitruselise aroomiga. Eeterlikud õlid on võimelised läbi naha minema. Annab kohese tujutõstva, energiat andva tunde. Tsitrused sobivad naha kirgastamiseks.</li><li>Karamelli kasutame tooni andmiseks (isepruunistavas vahus, Pronksi kuivõlis), 100% looduslik värv. Omab ka mõnusat karamellist aroomi. Keskkonnasõbralik valik.</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p>
+<p>Toode on valmistatud Eestis</p>
+<p><b>Kasutamine:</b> Loksuta pudelit enne kasutamist. Määri sobiv kogus toodet puhtale nahale.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Dunaliella Salina Extract, Helianthus Annuus Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Nobilis (Mandarin) Peel Oil, Citrus Aurantium (Orange) Peel Oil, Xanthan Gum, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Mica, Titanium Dioxide (CI 77891), Raphanus Sativus (Radish) Root Extract, Citric Acid, Maltodextrin, Parfum, Citral, Limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014171103559</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014163992903</id>
+    <published>2025-02-25T13:42:17+02:00</published>
+    <updated>2025-02-25T13:42:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-carrot-dry-oil-with-aloe-vera-100ml"/>
+    <title>LUUV Porgandi kuivõli aaloega 100ml</title>
+    <s:type>Foot Cream</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-carrot-dry-oil-with-aloe-vera-100ml-860544.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Foot Cream<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loomulik särav jume ilma päevitamise ja isepruunistajateta? Jah, LUUV Porgandi kuivõliga on see võimalik! See kuivõli on looduslik vitamiinipomm, mis niisutab su nahka sügavuti ning taastab selle sära ja elastsuse. Porgandiõlis sisalduv A-vitamiin ja beetakaroteen annavad nahale kauni tervisliku jume, kuid ei isepruunista nahka. Kuivõlis leidub ka rohkesti antioksüdante ja E-vitamiini, mis aitavad säilitada naha nooruslikkust. Aaloe mõjub aga rahustavalt ning pakub pikaajalist niisutust.<br><br>Kuivõlil on geeljas kergesti hajutatav tekstuur, mis imendub kiiresti ning ei jäta nahka rasvaseks ega kleepuvaks. Selle mõnus tsitruseline lõhn mõjub värskendavalt ja meeli lõõgastavalt. Porgandi kuivõli on loodud kõiki nahatüüpe silmas pidades, see ei ummista poore ning sobib hästi igapäevaseks nahahoolduseks. Porgandi kuivõli aaloega on looduslik, vegan ning sisaldab ainult häid koostisosasid.</p>
+<ul><li>Niisutab sügavuti</li><li>Parandab naha elastsust</li><li>Parandab jumet</li><li>Imendub kiiresti</li><li>Ei jäta nahka rasvaseks</li><li>Kõikidele nahatüüpidele</li><li>Looduslik SPF10</li></ul>
+<p><u>Põhilised koostisosad:</u></p>
+<ul><li><u>Porgandiõli </u>(täpsemalt porgandi seemneõli) sisaldab palju karoteeni, mis annab jumet parandava efekti. Porgandiõli on alati mingis kandjaõlis (st lahjendatuna), kuna iseseisvalt on ta liiga intensiivne. Sisaldab rohkelt A-vitamiini. Porgandiõli looduslik SPF on u 40, aga kuna ta on lahjendatud, siis jääb u SPF 10.</li><li><u>Aaloet</u> on kasutatud rahvameditisiinis juba sajandeid. Aaloe on väga hea naha niisutaja ja ärrituste leevendaja, seepärast aitab ka suurepäraselt päikesepõletuse puhul. Aaloe on rahustava toimega ja kannab hapnikku nahas. Teeb naha siidiseks ja pehmeks.</li><li><u>Apelsini eeterlikku õli</u> kasutatakse enamasti toote lõhnastamiseks – värske, magusa tsitruselise aroomiga. Eeterlikud õlid on võimelised läbi naha minema. Annab kohese tujutõstva, energiat andva tunde. Tsitrused sobivad naha kirgastamiseks.</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p>
+<p><b>Kasutamine:&nbsp;</b>Kanna sobiv kogus toodet puhtale nahale. Sobib igapäevaseks kasutamiseks kõikidele nahatüüpidele.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Dunaliella Salina Extract, Helianthus Annuus Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Reticulata (Mandarin Oil), Citrus Sinensis (Orange Oil), Xanthan Gum, Triethyl Citrate, Sodium benzoate, Potassium sorbate, Glyceryl Caprylate, Citric Acid, Benzoic Acid, Parfum, Citral, Limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014163992903</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004524859719</id>
+    <published>2025-02-22T00:35:04+02:00</published>
+    <updated>2025-02-22T00:35:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-spf30-100ml"/>
+    <title>NAIF mineraalne päikesekaitsekreem SPF30 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-spf30-100ml-826299.png?v=1740228553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mineraalne päikesekaitsekreem SPF30 sobib kogu perele. Tsinkoksiidil põhinev UV-filter kaitseb nahka koheselt seda minimaalselt ärritades. </p><p>Tsinkoksiid loob nahale kaitsekihi, mis peegeldab tagasi päikesekiiri. Selle tulemuseks on kaitse nii UVA- kui UVB-kiirguse eest. Koostisesse lisatud looduslikud õlid muudavad pealekandmise lihtsaks.</p><ul><li>Kaitseb nahka UVA- ja UVB- kiirguse eest, sobib igale nahatüübile</li><li>Veekindel koostis</li><li>Dermatoloogiliselt testitud</li></ul><p><b>Kasutamine:&nbsp;</b>Enne kasutamist loksuta. Kanna rikkalik kogus ühtlaselt kehale ja näole, enne kui päikese kätte lähed. Päikesekreem pakub kaitset koheselt! Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist. </p><p>Pea meeles, et tsinkoksiid, päike ja vesi võivad nahka kuivatada. Pärast päikese käes viibimist niisuta nahka kindlasti päevitusjärgse või toitva kreemiga. </p><p>Ära hoia toodet päikese käes.</p><p><b>Koostisosad:</b> Caprylic/Capric Triglyceride, Decyl Oleate, Zinc Oxide, Hydrogenated Vegetable Oil, Caprylic/Capric/Myristic/Stearic Triglyceride, Dextrin Palmitate, Coco-Caprylate/Caprate, Triheptanoin, Ricinus Communis Seed Oil, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cocos Nucifera Oil, Polyhydroxystearic Acid, Parfum/Fragrance, Allantoin, Tocopherol, Palmitic Acid, Helianthus Annuus Seed Oil, Oryzanol, Bisabolol, Pongamo</p><p>Taaskasutatud plastikust valmistatud pakend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004524859719</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004522074439</id>
+    <published>2025-02-22T00:35:03+02:00</published>
+    <updated>2025-02-22T00:35:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-stick-0-perfume-for-baby-kids-spf50-36g"/>
+    <title>NAIF mineraalne lõhnaainevaba päikesekaitsepulk SPF50 beebidele &amp; lastele 36g</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-stick-0-perfume-for-baby-kids-spf50-36g-964551.png?v=1741554338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf mineraalne päikesekaitsepulk 50SPF on välja töötatud beebide ja laste tundlikule nahale.&nbsp;Tsinkoksiidil põhinev UV-filter kaitseb nahka koheselt seda minimaalselt ärritades. Lihtne kaasa võtta ja peale kanda, isegi lastel, kes tahavad kõike ise teha. Ilma lisatud lõhnaaineta ja sobiv tundlikule nahale.</p>
+<p>Päikesekaitse sisaldab tsinoksiidi, looduslikku koostisosa, mis&nbsp;lisab nahale kaitsekihi, mis peegeldab tagasi päikesekiiri.&nbsp;Selle tulemuseks on kaitse nii UVA- kui UVB-kiirguse eest.<br></p>
+<ul><li>Kaitseb beebide ja laste nahka UVA- ja UVB- kiirguse eest</li><li>Veekindel koostis</li><li>Dermatoloogiliselt testitud, 0% parfüümi eriti tundliku naha jaoks</li></ul>
+<p><b>Kasutamine:&nbsp;</b> Kanna rikkalik kogus ühtlaselt kehale ja näole, enne kui lapsed päikese kätte lähevad. Määri hoolikalt laiali. Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist.</p>
+<p><b>Koostisosad:&nbsp;</b>Caprylic/Capric/Myristic/Stearic Triglyceride, Zinc Oxide, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Tocopherol, Pongamol, Helianthus Annuus Seed Oil, Ascorbyl Palmitate</p>
+<p>Taaskasutatud plastikust valmistatud pakend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004522074439</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004518371655</id>
+    <published>2025-02-22T00:35:03+02:00</published>
+    <updated>2025-02-22T00:35:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-0-perfume-spf50-for-baby-kids-100ml"/>
+    <title>NAIF mineraalne lõhnaainevaba päikesekaitsekreem beebidele &amp; lastele 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-0-perfume-for-baby-kids-spf50-100ml-633941.png?v=1741554339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf mineraalne päikesekaitsekreep 50SPF on välja töötatud beebide ja laste tundlikule nahale. Tsinkoksiidil põhinev UV-filter kaitseb nahka koheselt seda minimaalselt ärritades. </p>
+<p>Päikesekaitsekreem sisaldab tsinkoksiidi, looduslikku koostisosa, mis lisab nahale kaitsekihi ning peegeldab tagasi päikesekiiri. Päikesekreem ei sisalda lisatud parfüümi, sobides ka kõige tundlikumale nahale. Kohene ja tõhus kaitse UVA- ja UVB- kiirguse eest. Kreemis sisalduvad looduslikud õlid teevad pealekandmise lihtsaks ning niisutavad nahka.</p>
+<ul><li>Kaitseb beebide ja laste nahka UVA- ja UVB- kiirguse eest</li><li>Veekindel koostis</li><li>Dermatoloogiliselt testitud, 0% parfüümi eriti tundliku naha jaoks</li></ul>
+<p><b>Kasutamine: </b>Enne kasutamist loksuta. Kanna rikkalik kogud ühtlaselt kehale ja näole, enne kui lapsed päikese kätte lähevad.&nbsp;Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist. Ära hoia toodet päikese käes. </p>
+<p><b>Koostisosad:</b>&nbsp;Caprylic/Capric/Myristic/Stearic Triglyceride, Zinc Oxide, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Tocopherol, Pongamol, Helianthus Annuus Seed Oil, Ascorbyl Palmitate</p>
+<p>Bioplastikust plastikust valmistatud pakend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004518371655</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9963005018439</id>
+    <published>2025-01-31T09:21:53+02:00</published>
+    <updated>2025-01-31T09:21:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/blokzeep-sun-block-mineral-sunscreen-spf30-40g"/>
+    <title>Blokzeep Tahke mineraalne päikesekaitsekreem SPF30 40g</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>Blokzeep</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/blokzeep-sun-block-mineral-sunscreen-spf30-40g-331893.jpg?v=1739897171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blokzeep<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naha kaitsmine on väga oluline. Seetõttu on Blokzeep välja töötanud mineraalse päikesekaitsekreemi, mis mitte ainult ei kaitse sind, vaid ka korallriffe. Tõhusa SPF-filtrina sisaldab kreem mineraalset tsinkoksiidi. See on 100% looduslik UV-filter, mis ei jää loodusesse ega sinu kehasse. Tsinkoksiid kaitseb nii UVA kui UVB kiirte eest, hoides ära nii päikesepõletuse kui ka naha vananemise. Päikesekaitsekreemi saad kasutada nii kehal kui näol, nii et kõik vajaliku leiad ühest tootest. Lisaks sisaldab päikesekaitse looduslikku ja värskendavat piparmündiõli, millel on jahutavad omadused. Sinu nahk tänab sind pärast päevitamist!<br><br>Blokzeep pakub plastivaba ja mineraalset päikesekaitset ilma lisanduva jamata. Looduslikud koostisosad, loodusele ohutud ja ilma kuivatava alkoholita! Pakend on 100% plastikuvaba.<br><br>Mineraalne päikesekaitsekreem on ka üliökonoomne kasutada ja seetõttu kestab kaua!<b><br><br>Kasutamine: </b>Soojenda tahket tükki käte vahel või hoia seda hetkeks vastu nahka, et seda soojendada. Hõõru&nbsp; nüüdseks pehmenenud tükk nahale ja määri (päikesekaitsekreem) kätega laiali. Ära unusta päikesekaitsekreemi iga 2–3 tunni järel uuendada, kui viibid lauspäikese käes.</p><p><b>Koostisosad:&nbsp;</b>Cetearyl Alcohol, Myristyl Myristate, Caprylic/Capric Triglyceride, Euphorbia Cerifera Cera, Zinc Oxide, Olea Europaea Fruit Oil, Lavandula Angustifolia Extract, Mentha Arvensis Oil, Tocopheryl Acetate, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blokzeep</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9963005018439</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9941169275207</id>
+    <published>2025-01-19T13:12:06+02:00</published>
+    <updated>2025-01-19T13:12:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-organic-the-protector-spf30-face-cream"/>
+    <title>HEJ Cactus kaitsev SPF30 päevakreem 30ml</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-the-protector-spf30-face-cream-30ml-965181.png?v=1739897165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SPF30 päevakreem kaitseb teie nahka iga päev ja iga ilmaga ning pidurdab seega naha enneaegset vananemist. Mineraalne UV-filter kaitseb  UVA- ja UVB-kiirte eest nahka valgeks jätmata. Kreemi kiiresti imenduv tekstuur on kerge ja niisutav.</p><ul><li>Kerge  SPF30 kaitsega päevane hooldus kõikidele nahatüüpidele</li><li>Mineraalne UV-filter ei jäta nahka valgeks</li><li>C-vitamiin ja hüaluroonhape kaitsevad nahka ja niisutavad</li><li>Nüüd veelgi säästvam: alumiiniumist tuub (100% taaskasutatav) toote täielikuks tühjendamiseks</li><li>100% vegan ja looduslik</li></ul><p><b>Kasutamine: </b>Kanna hommikuti näole, kaelale ja dekolteepiirkonnale ning täiendavalt siis, kui viibid pikka aega õues.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Opuntia Ficus-Indica Flower Extract*, Caprylic/Capric Triglyceride, Titanium Dioxide, Glycine Soja Oil*, Glyceryl Citrate/Lactate/Linoleate/Oleate, Butyrospermum Parkii Butter*, Zinc Oxide, Prunus Amygdalus Dulcis Oil*, Pongamia Glabra Seed Oil*, Glycerin, Opuntia Ficus-Indica Seed Oil*, Sodium Hyaluronate, Simmondsia Chinensis Seed Oil*, Citrus Paradisi Fruit Extract*, Tocopherol, Polyglyceryl-2 Dipolyhydroxystearate, Polyglyceryl-3 Diisostearate, Sodium PCA, Sorbitol, Ascorbyl Palmitate, Hydrogenated Coco-Glycerides, Acacia Senegal Gum, Alumina, Lauroyl Lysine, Xanthan Gum, Levulinic Acid, Cetearyl Alcohol, p-Anisic Acid, Glyceryl Caprylate, Stearic Acid, Glyceryl Stearate Citrate, Glyceryl Stearate, Parfum**, Citral**, Citronellol*, Limonene*, Linalool**</p><p>*koostisosad sertifitseeritud mahepõllumajandusest<br>**looduslikud eeterlikud õlid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>päevakreem</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9941169275207</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9941189230919</id>
+    <published>2025-01-19T13:01:03+02:00</published>
+    <updated>2025-01-19T13:01:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-organic-glow-drops-14ml"/>
+    <title>HEJ Glow Drops säratilgad 14ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-glow-drops-14ml-361453.png?v=1739897159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Säratilgad panevad su jume särama ja on täiuslik viimistlus  – olgu meigiga või ilma! Sobitub iga tootega, kuid  toob sära ka iseseisvalt kasutades. Niatsiinamiid aitab poore ahendada.</p><ul><li>Särav viimistlus</li><li>Ühtlane naha tekstuur tänu niatsiinamiidile</li><li>Võib kasutada nii näol kui kehal</li><li>Sobib kõikidele nahatüüpidele</li><li>100% lõhnavaba<br></li></ul><p><b>Kasutamine:</b> Sega 3-5 tilka oma näohooldus-, jumestus-&nbsp; või kehakreemi hulka. Täiendava sära saamiseks võid kanda ka otse nahale. Kontuurimiseks või soovitud piirkondade esile tõstmiseks kanna otse  põskedele või silmalaugudele.</p><p><b>Koostisosad:</b>&nbsp;Aqua (Water), Glycerin, Neopentyl Glycol Dicaprylate/Dicaprate, Tridecyl Trimellitate, Dicaprylyl Ether, CI 77891 (Titanium Dioxide), Hydroxypropyl Starch, Glyceryl Stearate SE, Synthetic Flourphlogopite, Mica, Niacinamide, Tocopherol, Citrullus Lanatus Fruit Extract, Phenoxyethanol, Oryza Sativa Starch, Sodium Stearoyl Glutamate, Xanthan Gum, Sodium Acrylates Copolymer, Ethylhexyglycerin, CI 77492 (Iron Oxides), CI 77491 (Iron Oxides), Citric Acid, Lecithin, Tocopheryl Acetate, Tin Oxide, Sodium Citrate</p><!--StartFragment-->
+﻿<p><br></p><p><br></p><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9941189230919</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9941172289863</id>
+    <published>2025-01-19T12:11:41+02:00</published>
+    <updated>2025-01-19T12:11:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-organic-sun-drops-15ml"/>
+    <title>Sun Drops päikesetilgad 15ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-sun-drops-15ml-961268.png?v=1739897167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Päikesetilgad annavad teie nahale ühtlase ja särava jume päikese käes viibimata. Aloe vera niisutab nahka intensiivselt ning seda saab kombineerida kõigi hooldustoodetega.</p><ul><li>Õrn päevituse efekt tänu DHA-le</li><li>Aloe vera toidab nahka</li><li>Dosaatoriga reguleeritav</li><li>Sobib kõikidele nahatüüpidele</li><li>100% lõhnavaba</li></ul><p><b>Kasutamine:</b> Ühtlase tulemuse saavutamiseks koori nahk enne tilkade kasutamist. Sega 2-5 tilka hooldusvahendisse ja jaota ühtlaselt näole, kaelale ja dekolteepiirkonnale. Pärast kasutamist pese käed. Päevitus tekib u. 5-8 tundi jooksul ja kestab 3-5 päeva.</p><p><b>Koostisosad:</b>&nbsp;Aqua (Water), Dihydroxyacetone, Aloe Barbadensis Leaf Juice, Pentylene Glycol, Xanthan Gum, Citric Acid, Potassium Sorbate, Sodium Benzoate</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9941172289863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9343419842887</id>
+    <published>2024-07-18T11:00:59+03:00</published>
+    <updated>2024-07-18T11:00:59+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-spf30-plant-stem-cell-age-defying-face-sunscreen-40ml"/>
+    <title>MÁDARA SPF30 taimsete tüvirakkudega vananemisvastane päikesekreem näole 40ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-spf30-plant-stem-cell-age-defying-face-sunscreen-40ml-514512.jpg?v=1739897254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            32.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Läbimurdeline igapäevane päikesekaitsekreem näole on välja töötatud kombineerides loodusliku päritoluga koostisosi ning uuenduslikke rakubioloogilisi võtteid. Kreem tagab laia spektriga kaitse jäädes samaaegselt nahal märkamatuks.</p>
+<p>Sisaldab ainulaadseid taimseid sileda tondipea tüvirakke, mis turgutab nahka antioksüdantidega, kaitseb linnasaaste eest, kaitseb naha mikrobioomi, uuendab nahka ja on vananemisvastase toimega.&nbsp;</p>
+<p>Hüaluroonhapet ja SPF-i võimendavat vaarikaseemneõli sisaldav ülikerge ja õrnalt tooniv tekstuur on nahal märkamatu ega jäta valgeid jälgi. Parim kaitse igavesti päikeselise välimuse jaoks.</p>
+<p><b>Kasutamine:</b> Kanna puhtale nahale pärast niisutavat päevakreemi. Vajadusel uuenda kaitset päeva jooksul.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Zinc Oxide, Aloe Barbadensis (Aloe) Leaf Juice, Dicaprylyl Carbonate, Isoamyl Laurate, Lecithin, Polyglyceryl-3 ricinoleate, Glycerin, Butylene Glycol, Sorbitan olivate, Aqua, CI 77891 (Titanium Dioxide), Oryza Sativa (Rice) Bran Oil, Vegetable Oil, Helianthus Annuus (Sunflower) Seed Wax, Oryza Sativa (Rice) Bran Wax, Rhus Succedanea Fruit Wax, Hydrated Silica, Aroma, Sodium Chloride, Xanthan Gum, Sorbitan Caprylate, Jojoba Esters, Citric acid, Propanediol, Caprylic/Capric Triglyceride, Dracocephalum Ruyschiana (Dragonhead) Cell Culture Extract, Polyhydroxystearic Acid, Rubus Idaeus (Raspberry) Seed Oil, Caprylyl glycol, Benzoic Acid, Tocopherol, Ascorbyl Palmitate, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), Sodium phytate, Camellia Sinensis (Green Tea) Leaf Extract, Quercus Robur (Oak) Bark Extract, Vitis Vinifera (Grape) Seed Extract, Isostearic Acid, Polyglyceryl-3 Polyricinoleate, Sodium Benzoate, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Potassium Sorbate, Propylene Glycol, Limonene, Benzyl Salicylate, Citral, Linalool, Eugenol</p>
+<p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>päevakreem</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9343419842887</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975928754503</id>
+    <published>2024-05-19T09:11:19+03:00</published>
+    <updated>2024-05-19T09:11:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/carrot-oil-with-rosemary-extract-75-ml"/>
+    <title>Magrada Porgandiõli rosmariiniekstraktiga 75ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-carrot-oil-with-rosemary-extract-75ml-130403.png?v=1739897404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            14.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toetudes porgandi vitamiinirikkale väele oleme loonud minimalistliku valemiga näo-ja kehaõli, mis sobib imeliselt igapäevaseks hoolduseks. Porgandieliksiir valmistab naha ette päikesehooajaks ja päevitamiseks.</p>
+<p>Kooslus ühendab endas päevalilleseemneõli ning võimsaid porgandijuure- ja rosmariiniekstrakte. See on loomuliku päevituse pikendaja, mis kiirendab päevitusprotsessi ja hoiab naha niisutatuna. Porgandiõli kuldne värvus kingib ka nahale kullasärase lõpptulemuse.</p>
+<ul><li><u>Porgandijuureekstrakt</u> soodustab päevitumist ning aitab jumel kauem püsida.</li><li><u>Rosmariiniekstrakt</u> on suurepärane põletikuvastane antioksüdant, mis sobib ka tundlikule ja õrnale nahale.</li><li><u>Päevalilleseemneõli </u>on uskumatult rikas loodusliku E-vitamiini ja asendamatute rasvhapete – oomega-6 jaoomega-9 – allikas. Kerge toitev õli sobib ideaalselt naha niisutamiseks, rahustamiseks ja taastamiseks, aidates samal ajal parandada jumet.</li></ul>
+<p>Õli on valmistatud juunist oktoobrini korjatud maheporgandite juurtest. Porgandijuuri leotatakse päevalilleseemneõlis, mis annab tootele kollakas-oranžika värvuse. See omakorda kingib päevituseliksiirile suure beetakaroteeni ja vitamiinide sisalduse.</p>
+<p><b>Kasutamine:</b>&nbsp;Alusta õli kasutamist paar nädalat enne lõunamaareisi või rannahooaja algust. Kanna seda õhtuti puhtale nahale – nii imendub eliksiir kõige paremini ning nahk saab maksimaalselt kasu. Jätka toote kasutamist päevitamise ajal iga päev. Kasuta õli ka pärast päikese käes viibimist, et jume säilitada ja pikendada. Enne päikese kätte minekut kasuta alati päikesekaitsekreemi, kuna õli ei sisalda UV-filtreid. Toode ei määri riideid.</p>
+<p><b>Koostisosad:</b>&nbsp;Helianthus Annuus (Sunflower) Seed Oil*, Daucus Carota Sativa (Carrot) Root Extract*, Rosemary (Rosmarinus Officinalis) Leaf Extract*</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 100%.&nbsp;Orgaanilise päritoluga koostisosad: 100%.&nbsp;</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | alkoholivaba | lõhnaainetevaba| EL allergeenidevaba | vegan |&nbsp;<br> julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975928754503</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9213979099463</id>
+    <published>2024-05-19T08:13:11+03:00</published>
+    <updated>2024-05-19T08:13:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-bodycocktail-body-glam-50ml"/>
+    <title>HOIA Kehakokteil Body Glam 50ml</title>
+    <s:type>Body Serum</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-cocktail-body-glam-50ml-454447.png?v=1739897253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Serum<br>
+        <strong>Price: </strong>
+            18.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kehakokteil on tõeliselt edev toode naistele, kellele meeldib ennast pealaest jalatallani üles lüüa! Body Glam annab nahale kauni jume ja jätab selle kelmikalt kumama. Kehakokteil on valmistatud õuna, arbuusi ja hibiskuse taimedest destilleeritud hüdrosoolidest, mis annavad tootele mõnusa puuviljasse lõhna ning poputavad nahka taimsete vitamiinide, fütosteroolide, mineraalide ning antioksüdantidega. Body Glam kokteili koostises on kolme erineva molekulmassiga hüaluroonhape, mis aitab nahka sügavuti niisutada ja säilitada selle elastsuse. Toote koostises olev aaloe ja vetikaekstrakt jätavad naha pehmeks ning siidiselt siledaks. Tootes sisalduvad säraosakesed on mineraalset päritolu, mis ei reosta keskkonda.</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna paar pumbatäit kehakokteili kehale, määri kuni imendumiseni ja naudi oma siidpehmet ja õrnalt sätendavat nahka!</p>
+<p><b>Koostisosad:</b>&nbsp;*Pyrus Malus Fruit Water, *Citrullus Vulgaris Fruit Water, *Hibiscus Rosa-Sinensis Flower Water, *Glycerin, Aqua, Sodium Levulinate, Sodium Anisate, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice Powder, Furcellaria Lumbricalis Extract, Xanthan Gum, Mica, Iron Oxide, Citric Acid. *From organic farming.</p>
+<p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehamask</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>päike</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9213979099463</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9175471423815</id>
+    <published>2024-04-28T20:20:12+03:00</published>
+    <updated>2024-04-28T20:20:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-spf50-for-baby-kids-100ml"/>
+    <title>NAIF mineraalne päikesekaitsekreem beebidele &amp; lastele 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-spf50-for-baby-kids-100ml-103208.png?v=1739897347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf&nbsp;mineraalne päikesekaitsekreem 50SPF on välja töötatud beebide ja laste tundlikule nahale. Kreem on&nbsp; korallrifisõbraliku koostisega. Tsinkoksiidil põhinev UV-filter kaitseb nahka koheselt seda minimaalselt ärritades.&nbsp;<br></p>
+<p>Tsinkoksiid loob nahale kaitsekihi, mis peegeldab tagasi päikesekiiri. Selle tulemuseks on kaitse nii UVA- kui UVB-kiirguse eest. Koostisesse lisatud looduslikud õlid muudavad pealekandmise lihtsaks ning niisutavad nahka.&nbsp;</p>
+<p><b>Kasutamine:</b> Enne kasutamist loksuta. Kanna rikkalik kogus ühtlaselt kehale ja näole, enne kui lapsed päikese kätte lähevad. Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist. Ära hoia toodet päikese käes.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Decyl Oleate, Zinc Oxide, Caprylic/Capric Triglyceride, Triheptanoin, Coco-Caprylate/Caprate, Hydrogenated Vegetable Oil, Dextrin Palmitate, Parfum/Fragrance, Tocopherol, Polyhydroxystearic Acid, Allantoin, Helianthus Annuus Seed Oil, Bisabolol, Pongamol, Palmitic Acid.</p>
+<p>Taaskasutatud plastikust valmistatud pakend</p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9175471423815</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9175459922247</id>
+    <published>2024-04-28T20:20:12+03:00</published>
+    <updated>2024-04-28T20:20:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-spray-spf50-for-baby-kids-100ml"/>
+    <title>NAIF mineraalne päikesekaitsesprei SPF50 beebidele &amp; lastele 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-spray-spf50-for-baby-kids-100ml-887359.png?v=1739897345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf mineraalne päikesekaitsesprei 50SPF on välja töötatud beebide ja laste tundlikule nahale. Kreem on  korallrifisõbraliku koostisega. Tsinkoksiidil põhinev mineraalne filter kaitseb nahka koheselt UVA- ja UVB-kiirguse eest seda minimaalselt ärritades. Mugav pihusti muudab pealekandmise kiireks ja lihtsaks. Kohene kaitse nii UVA- kui UVB-kiirguse eest.</p>
+<p><b>Kasutamine:</b> Enne kasutamist loksuta. Kanna rikkalik kogus ühtlaselt kehale ja näole, enne kui lapsed päikese kätte lähevad. Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist. Ära hoia toodet päikese käes.&nbsp;</p>
+<p><b>Koostisosad:</b> Decyl Oleate, Zinc Oxide, Coco-Caprylate/Caprate, Alcohol, Triheptanoin, Polyhydroxystearic Acid, Allantoin, Tocopherol, Aqua/Water, Silica Dimethyl Silylate, Pongamol, Helianthus Annuus Seed Oil, Bisabolol, Denatonium Benzoate.</p>
+<p>Bioplastikust plastikust valmistatud pakend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9175459922247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148243149127</id>
+    <published>2024-04-09T16:18:03+03:00</published>
+    <updated>2024-04-09T16:18:03+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-aftersun-50ml"/>
+    <title>BEE IT päevitusjärgne kreem 50ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-aftersun-50ml-405291.png?v=1739897341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrna ja värske geelja tekstuuriga päevitusjärgne kreem ühtlustab nahatooni pehme luminestseeruva puudutusega. Toode sisaldab hüaluroonhapet, inositooli, taime&nbsp;<i>Acmella oleracea</i>, orgaanilist mett ja taruvaiku, et tagada tõhus niisutav, kaitsev, taastav ja siluv toime. Sügavalt toidetud ja niisutatud naha jaoks.&nbsp;</p>
+<p><b>Kasutamine:</b> Kanna näole ja kehale pärast päikese käes viibimist, ole valmis vau-efektiks.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Polysorbate 20, Parfum [Fragrance], Carbomer, Mannitol, Phenoxyethanol, Microcrystalline cellulose, Sodium hydroxide, Tetrasodium glutamate diacetate, Ethylhexylglycerin, Propanediol, CI 77492 [Iron oxides], CI 77491 [Iron oxides], Mica, Acmella oleracea extract, Acrylates/ammonium methacrylate copolymer, CI 77891 [Titanium dioxide], Tocopheryl acetate, Triethyl citrate, Caprylic/capric triglyceride, CI 77499 [Iron oxides], Titanium dioxide, Hydroxypropyl methylcellulose, Sodium hyaluronate, 1,2-Hexanediol, Simethicone, Inositol, Mel/Honey*, Propolis wax.<br><br><!--StartFragment-->*Orgaanilist päritolu</p><!--StartFragment--><p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas. <br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148243149127</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148221980999</id>
+    <published>2024-04-09T16:14:58+03:00</published>
+    <updated>2024-04-09T16:14:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-sun-spf30-50ml"/>
+    <title>BEE IT päikesekaitsekreem SPF30 50ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-sun-spf30-50ml-603793.png?v=1739897345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Päikesekaitsekreem, mis kaitseb, toidab ja niisutab nahka, tagades samaaegselt ühtlase ja intensiivse päevituse. Orgaaniline aloe vera ekstrakt koos magusmandliõli, tsinkoksiidi, E-vitamiini, orgaanilise mee ja taruvaiguga aitab vältida UV-kiirtega kokkupuutest tingitud enneaegset vananemist. Niisutatud, pehmele ja kadestamisväärselt päevitunud nahale.&nbsp;</p>
+<p><b>Kasutamine:</b> Kanna näole ja kehale enne päikese käes viibimist. Korda pealekandmist sageli, et saavutada ohutu, ühtlane ja kauakestev päevitus.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Ethylhexyl methoxycinnamate, Octocrylene, Butyl methoxydibenzoylmethane, Glyceryl stearate SE, Cetearyl alcohol, Helianthus annuus (Sunflower) seed oil, Prunus amygdalus dulcis (Sweet almond) oil, Methylene bis-benzotriazolyl tetramethylbutylphenol, Phenoxyethanol, Parfum [Fragrance], Decyl glucoside, Citric acid, Glycerin, Titanium dioxide, Tocopheryl acetate, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Zinc oxide, Aloe barbadensis leaf juice*, Propylene glycol, Xanthan gum, Mel/Honey*, Propolis wax, Sodium benzoate, Potassium sorbate.</p>
+<p><!--EndFragment-->*Orgaanilist päritolu</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<!--EndFragment--><br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.&nbsp;<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148221980999</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

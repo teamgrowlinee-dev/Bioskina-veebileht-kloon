@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/seerum.atom"/>
+  <title>bioskina</title>
+  <updated>2026-02-19T13:28:42+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/10657732952391</id>
+    <published>2026-02-19T13:28:42+02:00</published>
+    <updated>2026-02-19T13:28:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-face-oil-30ml"/>
+    <title>BERRICHI Face Oil 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-face-oil-30ml-4740726.png?v=1771546571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            41.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pure Vital Glow is a fast-absorbing face oil that replenishes skin moisture, strengthens the protective barrier, and brings out a natural glow. Astaxanthin provides powerful antioxidant defense, while bakuchiol supports cell renewal and a smoother, more even texture. A nourishing blend of oils improves elasticity and softness, keeping skin balanced and comfortable. The gentle scent of red mandarin turns skincare into a delightful ritual.</p>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Astaxanthin</span> – an exceptionally strong natural antioxidant (up to 6000× stronger than vitamin C), helps protect against UV exposure and free radicals, supports youthful-looking skin, and helps preserve collagen and elastin.</li>
+<li>
+<span style="text-decoration: underline;">Bakuchiol oil</span> – a plant-based alternative to retinol that supports cell renewal, refines skin texture, and evens tone without the potential irritation of traditional retinol.</li>
+<li>
+<span style="text-decoration: underline;">Cacay oil</span> – a natural source of retinol and vitamin E, helps smooth the skin’s surface, improves elasticity, and supports anti-age care.</li>
+<li>
+<span style="text-decoration: underline;">Rosehip seed oil</span> – rich in vitamin C, helps even out the complexion, supports collagen production, and improves elasticity.</li>
+<li>
+<span style="text-decoration: underline;">Black cumin seed oil</span> – calming and restorative, supports the skin’s barrier and suits mildly irritated skin.</li>
+<li>
+<span style="text-decoration: underline;">Evening primrose oil</span> – a source of gamma-linolenic acid (GLA), helps maintain moisture, softness, and comfort, especially for dry or sensitive skin.</li>
+<li>
+<span style="text-decoration: underline;">Milk thistle oil</span> – rich in antioxidants and vitamin E, supports the skin’s natural defenses and helps reduce oxidative stress.</li>
+<li>
+<span style="text-decoration: underline;">Red mandarin essential oil</span> – lends a gently citrus, feel-good aroma and makes skincare a pleasurable ritual.</li>
+</ul>
+<p><span>For all skin types.</span></p>
+<p><strong>How to use: </strong>Apply to clean skin morning and evening before your cream, or mix a few drops of oil into your favorite moisturizer. Also perfect for facial massage.</p>
+<p><strong>Ingredients:</strong> Simmondsia Chinensis Seed (Jojoba) Oil*, Nigella Sativa Seed (Black Cumin) Oil*, Prunus Armeniaca Kernel (Apricot) Oil*, Sambucus Nigra Seed (Elderberry) Oil*, Caryodendron Orinocense Seed (Cacay) Oil, Persea Gratissima (Avocado) Oil*, Silybum Marianum Seed (Milk Thistle) Oil*, Rosa Canina Seed (Rosehip) Extract*, Oenothera Biennis (Evening Primrose) Oil*, Ricinus Communis Seed (Castor) Oil*, Psoralea Corylifolia Seed (Bakuchi) Oil, Citrus Nobilis Peel (Mandarin) Oil Expressed,  Astaxanthin, Haematococcus Pluvialis Oil Tocopherol</p>
+<p>* Ingredients from organic farming</p>
+<p>100% natural origin of total</p>
+<p>COSMOS NATURAL certified by Ecocert Greenlife according to COSMOS Standard</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10657732952391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">41.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10656387793223</id>
+    <published>2026-02-18T15:05:59+02:00</published>
+    <updated>2026-02-18T15:05:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-hydra-glow-hyaluron-peptide-serum-30ml"/>
+    <title>MÁDARA Hydra Glow Hyaluron Peptide Serum 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-hydra-glow-hyaluron-peptide-serum-30ml-3697792.jpg?v=1771463666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span lang="EN-US"><span>Meet your glow in a bottle! </span></span><span lang="EN-US">Infused with hydrating skincare ingredients, this glowy oil-free serum provides moisturising feeling and adds a mesmerising radiance. Apply to clean skin daily and reapply whenever needed. Shake before use. </span></p>
+<p><span lang="EN-US">For all skin types!</span></p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong><span>Apply as a glow-boosting primer under makeup or mix with your moisturiser for extra hydration and sparkle or use on its own.</span></span><br></p>
+<p><strong>Ingredients:</strong> AQUA; BUTYLENE GLYCOL; BETULA ALBA (BIRCH) JUICE*; GLYCERIN**; PENTYLENE GLYCOL; SODIUM PCA; SILICA; XANTHAN GUM; PULLULAN; AROMA; SCLEROTIUM GUM; HEXAPEPTIDE-11; SORBITOL; SODIUM PHYTATE; LACTIC ACID; LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE; SPIRODELA POLYRHIZA EXTRACT; ACACIA SENEGAL GUM; HYDROLYZED HYALURONIC ACID; SODIUM HYALURONATE; TREHALOSE; LINALOOL***; LIMONENE***; CITRUS LIMON PEEL OIL; MICA (CI 77019)****; CI 77891 (TITANIUM DIOXIDE) ****; CI 77861 (TIN OXIDE)****; CI 77491 (IRON OXIDES)****; CI 77492 (IRON OXIDES)****</p>
+<p>*Ingredients from organic farming<br>**Made using organic ingredients<br>***From natural essential oils<br>****Pure mineral pigments<br><br>100% Natural origin of total<br>9% Organic of total</p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10656387793223</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10531696509255</id>
+    <published>2025-12-09T09:22:00+02:00</published>
+    <updated>2025-12-09T09:22:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-kojic-alternative-pigment-serum-30ml"/>
+    <title>MÁDARA Kojic Alternative Pigment Serum 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-kojic-alternative-pigment-serum-30ml-7001581.jpg?v=1765327463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            43.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Infused with a powerful blend of skin-tone-balancing botanicals, this natural certified serum is dermatologically proven to fade existing pigment spots and help to reduce new discoloration from forming. </p>
+<div>Boosted by a unique complex of Alpha Arbutin, Juniper Stem Cells and Bidens Pilosa extract, this plant-based alternative serum visually brightens pigmented areas and evens out the overall skin tone, all while promoting a more vibrant and radiant skin look. <br>
+</div>
+<div><br></div>
+<div>In a dermatological trial, 97% of the total of 30 volunteers admitted that their skin looked brighter and more even, while 90% noticed less visible pigment spots after 8 weeks*. </div>
+<div></div>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply onto clean face every morning and evening. Follow with sunscreen in the morning.</span><br></p>
+<p><strong>Ingredients: </strong>AQUA; GLYCERIN; SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL*; DICAPRYLYL CARBONATE; PENTYLENE GLYCOL; POLYGLYCERYL-6 STEARATE; CETEARYL ALCOHOL; SODIUM PCA; ALPHA-ARBUTIN; ASTROCARYUM MURUMURU SEED BUTTER; GOSSYPIUM HERBACEUM SEED OIL; BIDENS PILOSA EXTRACT; POLYGLYCERYL-6 BEHENATE; LINUM USITATISSIMUM (LINSEED) SEED OIL; SQUALANE; XANTHAN GUM; AROMA; TOCOPHEROL; ASCORBYL PALMITATE; LACTIC ACID; SODIUM PHYTATE; CI 77491 (IRON OXIDES)***; CI 77492 (IRON OXIDES)***; HYDROLYZED HYALURONIC ACID; JUNIPERUS COMMUNIS (JUNIPER) CALLUS EXTRACT; SODIUM HYALURONATE; LIMONENE**; TERPINEOL**; LINALOOL**; VANILLIN</p>
+<p>*Ingredients from organic farming<br>**From natural essential oils<br>***Pure mineral pigments<br><br>99% Natural origin of total<br>8% Organic of total</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10531696509255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">43.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10010791641415</id>
+    <published>2025-02-28T10:50:52+02:00</published>
+    <updated>2025-02-28T10:50:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-superserum-sundrops-30ml"/>
+    <title>HOIA Superserum Sundrops 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-superserum-sundrops-30ml-597589.png?v=1740808672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Sundrops Superserum is a luxurious blend of fast absorbing oils, which gives your face a subtle suntouched complexion and keeps your skin healthy and glowing. Superserum helps to protect skin from environmental stress and it has a natural sunblock, estimated at SPF 25.</span></p>
+<p><span>Sundrops is enriched with more than 10 skin-improving fatty acids and potent blend of organic essential oils with powerful anti-aging effects. This blend reduces the appearance of fine lines, tones, tightens and firms your skin, improves its texture, complexion and elasticity, it also alleviates sunburnt skin. </span></p>
+<p><strong>How to use:</strong> A<span>pply 3 drops on face and massage until absorbed. Sundrops can be used as a  sunblock during the day, or as a repairing face serum during the night. Keep the product from direct sunlight and keep under +25C.</span></p>
+<p><strong>Ingredients:</strong> <span>Rubus Idaeus Seed Oil, Helianthus Annuus Seed Oil, *Vaccinium Macrocarpon Seed Oil, Squalane, *Nigella Sativa Seed Oil, Dunaliella Salina Extract, *Daucus Carota Sativa Seed Oil, *Commiphora Myrrha Oil, *Fusanus Spicatus Wool Oil, *Lavandula Angustifolia Flower oil, **Geraniol, **Linalool, **Limonene. *Organic. **Natural components of essential oils.</span></p>
+<p><span>Handmade in Saaremaa</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10010791641415</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9996024676679</id>
+    <published>2025-02-17T09:16:47+02:00</published>
+    <updated>2025-02-17T09:16:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-plump-glow-serum-30ml"/>
+    <title>BERRICHI Plump &amp; Glow Serum 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-plump-glow-serum-30ml-678109.png?v=1739897180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            39.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plump &amp; Glow serum is designed for intensive hydration and to support skin elasticity and radiance. The carefully selected ingredients provide daily care that helps the skin feel hydrated and refreshed.</p>
+<p>The lightweight formula leaves the skin soft and radiant, providing instant hydration and a refreshing feeling. Regular use helps improve the overall appearance and texture of the skin.</p>
+<p>The Plump &amp; Glow serum bottle is equipped with UV protection, which helps maintain product quality and extends its shelf life.<strong></strong></p>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Furcellaran</span>– helps maintain the skin’s moisture balance and strengthens the skin’s protective barrier, slowing down the skin aging process.</li>
+<li>
+<span style="text-decoration: underline;">Hyaluronic Acid</span> – helps hydrate and support skin plumpness, reducing the appearance of fine lines and wrinkles. In our serum, we use the innovative HyaRius™ B hyaluronic acid, obtained through fermentation, which deeply hydrates the skin.</li>
+<li>
+<span style="text-decoration: underline;">Avocado Peptides</span> – support the skin’s moisture balance and help maintain its elasticity, while also having a detoxifying effect.</li>
+<li>
+<span style="text-decoration: underline;">Aspar’age™ Seeweed Extract</span> – helps reduce signs of aging.</li>
+<li>
+<span style="text-decoration: underline;">SeaBalance 2000</span> – the world’s first seaweed-based emulsifier, which gives the serum a light and silky texture and allows for quick absorption, leaving the skin soft and radiant.</li>
+<li>
+<span style="text-decoration: underline;">Usnea barbata</span>– with antibacterial properties, helps to soothe and protect the skin, promoting a more even and radiant complexion.</li>
+</ul>
+<ul></ul>
+<p><span>For all skin types, also suitable for sensitive skin.</span></p>
+<p><strong>How to use: </strong>Apply the serum to clean skin in the morning and evening before using a cream.</p>
+<p><strong>Ingredients:</strong> <span>Aqua, Propanediol, Sargassum Fluitans/Natans (Algae) Extract, Glycerin**, Potassium Sorbate, Sodium Hyaluronate, Xanthan Gum, Furcellaria Lumbricalis (Algae) Extract, Pentylene Glycol, Citric Acid, Persea Gratissima Fruit (Avocado) Extract, Maltodextrin, Commiphora Myrrha Resin Extract, Usnea Barbata Extract, Asparagopsis Armata (Algae) Extract </span></p>
+<p><span>** Made using organic ingredients</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9996024676679</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945485312327</id>
+    <published>2025-01-21T16:03:53+02:00</published>
+    <updated>2025-01-21T16:03:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-vitamin-c-intense-glow-concentrate-30ml"/>
+    <title>MÁDARA Vitamin C Intense Glow Concentrate 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-vitamin-c-intense-glow-concentrate-30ml-695517.jpg?v=1739897190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dial up your skin’s glow with this super-potent brightening concentrate, starring a powerful blend of ferulic acid and vitamins C+E that tackle visible signs of aging such as fine lines, hyperpigmentation and loss of elasticity.</p>
+<div>Ferulic acid works to firm the skin and multiplies its defence against free radical damage, while the combination of vitamins C and E help brighten and even out skin tone, boosting radiance and supporting collagen synthesis.</div>
+<div><br></div>
+<p><strong>How to use:</strong> <span>Apply to clean skin, follow with a moisturiser. Recommended to use daily or or as a treatment course 2–3 times a year. Avoid direct sun exposure after application and wear sunscreen.  </span></p>
+<p><strong>Ingredients:</strong> <span>Aqua, Glycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Pentylene Glycol, Butylene Glycol, Ascorbyl Glucoside, Cetearyl Alcohol, Glyceryl Stearate Citrate, Betaine, Caprylic/Capric Triglyceride, Ferulic Acid, Sodium PCA, Tocopherol, Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Isoamyl Laurate, Triheptanoin, Potassium Hydroxide, Cellulose, Aroma, Sodium Citrate, Xanthan Gum, Rubus Chamaemorus (Cloudberry) Fruit Extract, Ascorbyl Palmitate, Ricinus Communis (Castor) Seed Oil, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Sodium phytate, Citric acid, Limonene, Citronellol, Linalool, Geraniol, Citral</span><span></span><br><br><span>COSMOS NATURAL certified</span></p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945485312327</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">42.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9941189230919</id>
+    <published>2025-01-19T13:01:03+02:00</published>
+    <updated>2025-01-19T13:01:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-organic-glow-drops-14ml"/>
+    <title>HEJ Organic Glow Drops 14ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-glow-drops-14ml-361453.png?v=1739897159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Glow Drops make your complexion shine and are the perfect finish for every look - whether with or without make-up. Compatible with every product, but can also shine all on its own. Niacinamide helps refine your pores.</span></p>
+<ul>
+<li><span>Glowy finish or spot highlights</span></li>
+<li><span>Even skin texture thanks to niacinamide</span></li>
+<li><span>Can be used for face and body</span></li>
+<li><span>Suitable for all skin types </span></li>
+<li><span>100% fragrance free  </span></li>
+</ul>
+<p><span><strong>How to use: </strong>Mix 3-5 drops with your care or foundation. For that extra glow you can also apply directly to the skin. Add highlights to your cheeks or eyelids.</span></p>
+<p><span><strong>Ingredients:</strong> Aqua (Water), Glycerin, Neopentyl Glycol Dicaprylate/Dicaprate, Tridecyl Trimellitate, Dicaprylyl Ether, CI 77891 (Titanium Dioxide), Hydroxypropyl Starch, Glyceryl Stearate SE, Synthetic Flourphlogopite, Mica, Niacinamide, Tocopherol, Citrullus Lanatus Fruit Extract, Phenoxyethanol, Oryza Sativa Starch, Sodium Stearoyl Glutamate, Xanthan Gum, Sodium Acrylates Copolymer, Ethylhexyglycerin, CI 77492 (Iron Oxides), CI 77491 (Iron Oxides), Citric Acid, Lecithin, Tocopheryl Acetate, Tin Oxide, Sodium Citrate</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9941189230919</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9941172289863</id>
+    <published>2025-01-19T12:11:41+02:00</published>
+    <updated>2025-01-19T12:11:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-organic-sun-drops-15ml"/>
+    <title>HEJ Organic Sun Drops 15ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-sun-drops-15ml-961268.png?v=1739897167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sun Drops tan your skin evenly and ensure a glowy finish. Aloe vera provides your skin with intensive moisture, can be combined with all care products.</span></p>
+<ul>
+<li><span>Gentle tanning effect thanks to DHA</span></li>
+<li><span>Aloe Vera nourishes the skin</span></li>
+<li><span>Can be dosed individually</span></li>
+<li><span>Suitable for all skin types </span></li>
+<li><span>100% fragrance free </span></li>
+</ul>
+<p><span><strong>How to use: </strong>Peel your skin before use for an even result. Mix 2-5 drops into the care product and distribute it evenly over the face, neck and décolleté. Wash your hands after use. The tanning starts after approx. 5-8 hours and lasts for 3-5 days. </span></p>
+<p><span><strong>Ingredients:</strong> Aqua (Water), Dihydroxyacetone, Aloe Barbadensis Leaf Juice, Pentylene Glycol, Xanthan Gum, Citric Acid, Potassium Sorbate, Sodium Benzoate</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9941172289863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9674478649671</id>
+    <published>2024-10-04T14:48:05+03:00</published>
+    <updated>2024-10-04T14:48:05+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-brightening-vitamin-c-serum"/>
+    <title>HOIA Brightening Vitamin C Serum</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-brightening-vitamin-c-serum-302190.jpg?v=1739897238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            44.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Vitamin C serum contains various derivatives of vitamin C, vitamin E, hyaluronic acid, niacinamide and algae. It helps to neutralize free radicals in the skin, repair and protect it from environmental stress, such as sun damage. It helps to rejuvenate and brighten skin, stimulate collagen synthesis, reduce and prevent the formation of pigmentation spots, even out skin tone, relieve redness. This serum is fast absorbing and suitable for all skin types. </span></p>
+<p><strong>How to use:</strong> Apply to clean skin and massage until absorbed. Also suitable to use in sunburnt areas, mix it with your daily moisturizer or body cream right before use.</p>
+<p><strong>Ingredients:</strong> <span>*Citrus Aurantium Amara Flower water, 3-0-Ethyl Ascorbic acid, Ascorbyl Tetraisopalmitate, Sargassum Fluitans/Natans extract, Niacinamide, Aqua, Glycerin, Tocopherol-Acetate, Sodium Hyaluronate, Hydronated Sodium Hyaluronate, Pentylene Glycol, Sodium Anisate, Sodium Levulinate, Citric Acid. </span></p>
+<p><span>*Organic</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674478649671</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">44.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9343494652231</id>
+    <published>2024-07-18T11:01:01+03:00</published>
+    <updated>2024-07-18T11:01:01+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-intense-blemish-pore-treatment-20ml"/>
+    <title>MÁDARA Intense Blemish &amp; Pore Serum 20ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-intense-blemish-pore-serum-20ml-5911846.jpg?v=1770966612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            18.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enriched with soothing and keratolytic actives, this intensive cream helps to keep your complexion pure and balanced. Improves the condition and appearance of oily, clogged and problem-prone skin. Good for teenagers and adults.</p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply a thin layer on blemish-prone areas morning and/or night. Follow with a moisturiser. Use as a 6 week course or regularly. For best results, use in combination with the rest of ACNE solutions.</span><br></p>
+<p><strong>Ingredients:</strong> Aqua, Alcohol, Glycerin, Argania Spinosa (Argan) Kernel Oil, Cannabis Sativa (Hemp) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Polyglyceryl-6 Stearate, Cetearyl Alcohol, Salicylic Acid, Betaine, Ilex Paraguariensis (Mate) Leaf Extract, Sodium PCA, Tocopherol, Palmitic acid, Stearic Acid, Xanthan Gum, Zinc PCA, Polyglyceryl-6 Behenate, Cellulose, Potassium Hydroxide, Ascorbyl Palmitate, Cetraria Islandica (Iceland Moss) Extract, Usnea Barbata (Lichen) Extract, Juniperus Communis (Juniper) Callus Culture Extract, Maltodextrin, CI 75815 (Chlorophyllin Copper Complex), Limonene, Linalool</p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>noored</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9343494652231</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9335427367239</id>
+    <published>2024-07-18T11:00:58+03:00</published>
+    <updated>2024-07-18T11:00:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-sos-hydra-repair-intensive-serum-30ml"/>
+    <title>MÁDARA SOS Hydra Repair Intensive Serum 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-sos-hydra-repair-intensive-serum-30ml-456327.jpg?v=1739897256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            37.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 0.875rem;">SOS Hydra Repair Intensive Serum works to restore moisture, balance and comfort, giving your skin a plumper look. The moisturising blend of Peony root, linseed and hyaluronic acid delivers immediate and long-lasting effects of hydrated, soothed and more luminous skin. </span><span style="font-size: 0.875rem;"></span></p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong><span>Apply to clean skin mornings and/or evenings, follow with a moisturiser. For best results, use in combination with SOS Hydra Recharge Cream.</span></span><br></p>
+<p><strong>Ingredients:</strong> Aloe Barbadensis (Aloe) Leaf Juice, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Glyceryl Stearate Citrate, Pentylene Glycol, Cetearyl Alcohol, Simmondsia Chinensis (Jojoba) Seed Oil, Rosa Damascena (Rose) Flower Water, Dicaprylyl Carbonate, Isoamyl Laurate, Cellulose, Hippophae Rhamnoides (Sea Buckthorn) Fruit Extract, Sodium PCA, Aroma, Xanthan Gum, Sodium Hyaluronate, Ascorbyl Palmitate, Linum Usitatissimum (Linseed) Seed Extract, Paeonia Lactiflora (Peony) Root Extract, Tocopherol, Urtica Dioica (Nettle) Leaf Extract, Mica (CI 77019), CI 77891 (Titanium Dioxide), Aqua, Hydrolyzed Hyaluronic Acid, Sodium phytate, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), Benzyl Alcohol, Potassium Hydroxide, Sodium Benzoate, Potassium Sorbate, Citronellol, Geraniol, Benzyl Salicylate, Eugenol</p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9335427367239</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">37.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9201240473927</id>
+    <published>2024-05-15T15:56:16+03:00</published>
+    <updated>2024-05-15T15:56:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-naked-glow-boosting-serum-30ml"/>
+    <title>HEJ Organic Naked Glow Boosting Serum 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-naked-glow-boosting-serum-30ml-738304.png?v=1739897246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Naked is a fragrance-free skincare line with highly effective and 100% natural ingredients.</span></p>
+<p><span>Highly effective combination of vitamin C and bakuchiol can help you slow down the natural skin aging process. I can stimulate your collagen production for a strong skin barrier and the look of naturally toned skin. On top I give you an instant glow effect.</span><span></span></p>
+<p><span>Through highly effective and particularly rare combination of vitamin C and bakuchiol, the serum supports the skin in regeneration and counteracts your skin's natural aging process.</span></p>
+<ul>
+<li><span>Instant glow effect and skin booster</span></li>
+<li><span>Contains vitamin C for a radiant complexion and against redness</span></li>
+<li><span>With the calming properties of Bakuchiol</span></li>
+<li><span>Skin type: Particularly suitable for impure, oily and combination skin</span></li>
+<li><span>100% fragrance-free and natural</span></li>
+</ul>
+<p><span><strong>How to use: </strong>Apply to your face after cleansing (approx. 2-3 drops). Before you use me, please shake well! </span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Helianthus Annuus Seed Oil*, Nelumbo Nucifera Root Water, Pentylene Glycol, Polyglycerly-4 Laurate, Betaine, Polyglyceryl-6 Laurate, Disodium Phosphate, Glycerin*, Cannabis Sativa Seed Oil*, Propanediol, Glyceryl Carpylate, Magnesium Ascorbyl Phasphate, Bakuchiol, Prunus Armeniaca Fruit Extract*, Sodium Hyaluronate, Magnolia Officinalis Bark Extract, Tocopherol, Xanthan Gum, Citric Acid, Cetearyl Alcohol * from certified organic agriculture</span><span></span></p>
+<p><span>Organic | Cruelty Free | Vegan | Natural Resources</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>valentinipäev</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9201240473927</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9200781394247</id>
+    <published>2024-05-15T15:56:15+03:00</published>
+    <updated>2024-05-15T15:56:15+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-sensitive-oil-serum-30ml"/>
+    <title>HEJ Organic Sensitive Oil-Serum 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-sensitive-oil-serum-30ml-764330.png?v=1739897242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            15.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gentle oil with a light texture. I give your skin a silky feeling, surprisingly non-oily, but with the right amount of glow. After all, the focus should not be on me, but on your radiant complexion.</span><span></span></p>
+<ul>
+<li><span>Extra portion of care counteracts tense skin and gives it a rich glow</span></li>
+<li><span>Very light texture without an oily feeling on the skin</span></li>
+<li><span>Power active ingredient complex made from hemp oil, oat and chamomile extract provides intensive moisture</span></li>
+<li><span>Skin type: Especially for sensitive skin</span></li>
+<li><span>Allergen-reduced perfume oil, 100% vegan and natural</span></li>
+</ul>
+<p><span><span style="text-decoration: underline;">Hemp Oil</span> contains important Omega-6 fatty acids, is cell-regenerating and protects the skin without overgreasing it.</span></p>
+<p><span><span style="text-decoration: underline;">Oat Extract</span> has an anti-inflammatory and calming effect and is particularly suitable for sensitive skin.</span></p>
+<p><span><span style="text-decoration: underline;">Chamomile Extract</span> intensively moisturises, is extra gentle and has an antibacterial effect.</span></p>
+<p><span><strong>How to use: </strong>Apply it to your face in the morning and evening after cleansing (approx. 2-3 drops) or mix it into your day or night cream</span></p>
+<p><span><strong>Ingredients:</strong> Helianthus Annuus Seed Oil*, Prunus Armeniaca Kernel Oil, Prunus Amygdalus Dulcis Oil, Coco-Caprylate, Cannabis Sativa Seed Oil*, Shea Butter Ethyl Esters, Brassica Campestris Sterols, Cetearyl Alcohol, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Tocopherol, Glycerin, Aqua, Chamomilla Recutita Flower Extract*, Avena Sativa Kernel Extract*, Hypericum Perforatum Extract*, Alcohol, alpha-Bisabolol, Perfume** * Ingredients from Certified organic agriculture, * * Natural essential oils</span><span></span></p>
+<p><span>Organic | Cruelty Free | Vegan | Natural Resources</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9200781394247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9132677038407</id>
+    <published>2024-03-30T21:02:52+02:00</published>
+    <updated>2024-03-30T21:02:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/copy-of-norrskin-face-foam-cleanser-150ml"/>
+    <title>NorrSkin Face Repair Serum 30ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>bioskina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/norrskin-face-repair-serum-30ml-625618.png?v=1739897346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bioskina<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boosts skin with vitamins and supports skin repairing processes. Balances sebum production &amp; skin tone. Through gentle exfoliation, tightens skin pores.</p>
+<p><span style="text-decoration: underline;">Benefits: </span></p>
+<ul>
+<li aria-level="1"><span>Visibly improves skin texture and tone</span></li>
+<li aria-level="1"><span>By gentle exfoliation it reduces appearance of skin pores, dark spots and wrinkles </span></li>
+<li aria-level="1"><span>Anti inflammatory, anti acne</span></li>
+<li aria-level="1"><span>Calms down redness and irritation</span></li>
+<li aria-level="1"><span>Balances oil/sebum production with 5% Niacinamide</span></li>
+<li aria-level="1"><span>Support regenerating and repairing processes in your skin</span></li>
+</ul>
+<p><span data-mce-fragment="1"><span style="text-decoration: underline;">Azelaic Acid</span> regulates sebum production, lightens discolouration, reduces excessive keratinisation, gently exfoliates. Has antibacterial properties.</span></p>
+<p><span data-mce-fragment="1"><span style="text-decoration: underline;">Niacinamide</span>, also knows as Vitamin B3 and strong antioxidant, has a cleaning, detoxifying and brightening properties. Decreases redness and irritations on the skin. Stimulates elasticity.</span></p>
+<p><span data-mce-fragment="1"><span style="text-decoration: underline;">Linseed Extract</span> is extra-rich, plant-derived source of Omega-3 fatty acids. Provides a nourishing and protective barrier for your skin, enhancing its natural glow.</span></p>
+<p><span data-mce-fragment="1">91,9% natural origin ingredients, dermatologically tested.</span></p>
+<p><span data-mce-fragment="1"><strong>How to use:</strong> Apply a small amount of serum on clean skin on your face and neck. Wait until absorbed. Proceed to the Norrskin House of Lin cream.</span></p>
+<p><span data-mce-fragment="1"><strong>Ingredients:</strong> Aqua, Propanediol, Glycerin, Azelaic Acid, Niacinamide, Arginine, Sodium Hydroxide, Linum Usitatissimum Seed Extract, Fragaria Vesca Fruit Extract, Panthenol, Pantolactone, Xanthan Gum, Lactic Acid, Sodium Benzoate, Potassium Sorbate, Sodium Levulinate, Levulinic Acid, Parfum, Trisodium Ethylenediamine Disuccinate, Polysorbate 80, Hexyl Cinnamal. </span></p>
+<p><span data-mce-fragment="1">Natural Certified | Clean Certified | Vegan Certified</span></p>
+<p><span data-mce-fragment="1">Inspired by Hälsingland, Sweden.</span></p>
+<p><span data-mce-fragment="1">NorrSkin plants 1 tree for every product sold.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>norrskin</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9132677038407</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9041935794503</id>
+    <published>2024-02-16T12:12:08+02:00</published>
+    <updated>2024-02-16T12:12:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/organic-hyaluron-serum-50ml"/>
+    <title>Vielö Organic Hyaluron Serum 50ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hyaluron-serum-50ml-505516.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span>Intensely nourishing organic hyaluron serum to deliver long- lasting moisture and to strengthen the skin.</span><br><br><span>Created with organic whey (nourishing), hyaluronic acid (hydrating) and organic extracts of calendula (regenerating), rose hip (anti-inflammatory) and eyebright (strengthening).</span><br><br><span>Suitable for all skin types, also for dry and sensitive skin.</span><br><br><span><strong>How to Use</strong>: Shake well before use. In the morning and evening apply 1-2 drops on the hands and gently tap into cleansed face and neck.</span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><strong>Ingredients: </strong>Lactis Serum Proteinum**, Aqua*, Glycerin**, Betaine*, Sodium Levulinate*, Xanthan Gum*, Glyceryl Caprylate*, Sodium Hyaluronate*, Sodium Anisate, Potassium Sorbate, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Citronellol**/***, Polyglyceryl-4 Caprate*, Pelargonium Graveolens Flower Oil**, Citric Acid*, Euphrasia Officinalis Extract**, Rosa Canina Fruit Ex- tract**, Sodium Lactate*, Geraniol**/***, Calendula Officinalis Flower Extract**, Limonene**/***, Citral**/***.</p>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>* from natural origin (99,7%)<br>** certified organic (93,2%)<br>*** from natural essential oils</p>
+</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>Handmade in Austria</p>
+<p><span>Inspired by circular economy, Vielö refines a high-quality by-product of cheese production, liquid organic whey, and uses it to create certified organic and sustainable skin and body care products. </span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9041935794503</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>92</s:grams>
+    </s:variant>
+  </entry>
+</feed>

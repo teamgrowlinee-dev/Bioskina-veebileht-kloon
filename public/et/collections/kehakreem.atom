@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/kehakreem.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-30T19:19:27+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10333406888263</id>
+    <published>2025-08-30T19:19:27+03:00</published>
+    <updated>2025-08-30T19:19:27+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-hand-and-body-cream-50ml"/>
+    <title>BEE IT käte- ja kehakreem 50ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-hand-and-body-cream-50ml-5351249.png?v=1756636043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Niisutav käte- ja kehakreem on pehme tekstuuriga ja lõhnastatud, sobib suurepäraselt kuivale, punetavale ja hoolt vajavale nahale. Rikastatud õlide, vitamiinide, taruvaigu ja orgaanilise meega, toidab see sinu nahka, muutes selle elastseks, säravaks ja lõhnavaks. Pehme ja kerge nagu pai, eemaldab see igapäevase stressi ja toob meeldiva lõõgastustunde nii kehale kui vaimule.&nbsp;</p><p><b>Kasutamine: </b>Kasuta iga päev pärast dušši või vanni kuival nahal. Kanna kogu kehale ja masseeri õrnalt kuni kreem on täielikult imendunud.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Helianthus annuus seed oil, Glyceryl stearate SE, Cetearyl alcohol, Ethylhexyl palmitate, Parfum, Glycerin, Prunus amygdalus dulcis oil, Potassium sorbate, Sodium benzoate, Citric acid, Tocopheryl acetate, Mel*, Propolis, Coumarin, Limonene, Tetrasodium glutamate diacetate, Alpha-isomethyl ionone, Hydroxycitronellal, Linalool, Geraniol, Isoeugenol.</p><p>*Orgaanilist päritolu<br><br>100% looduslikud koostisosad<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333406888263</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10278236029255</id>
+    <published>2025-07-30T16:50:42+03:00</published>
+    <updated>2025-07-30T16:50:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-nurturing-day-cream-50ml-copy"/>
+    <title>NAIF päevitusjärgne geel aloe veraga 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-cooling-aftersun-100ml-5567632.png?v=1753967377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Naïf jahutav <i>aftersun</i> geel rahustab, niisutab ja taastab nahka pärast päikese käes olemist. Aloe Vera jahutab ja taastab, glütseriin niisutab. See hoiab ka kõige tundlikuma naha pehme ja elastse. Täpselt see, mida nahk pärast UV-kiirgusega kokkupuudet vajab. Geel imendub kiiresti ega jäta kleepuvat kihti.</p><p><b>Kasutamine:&nbsp;</b>Kanna peale rohkes koguses pärast päikese käes viibimist. Eriti just nendele kehapiirkondadele, mis on saanud palju päikest. <br><br>Nõuanne: hoia geeli külmkapis, et säilitada eriti jahutav efekt.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua/Water, Glycerin, Methylpropanediol, Cetearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate Citrate, Parfum/Fragrance, Aloe Barbadensis Leaf Juice Powder, Allantoin, Caprylyl Glycol, Phenylpropanol, Xanthan Gum, Lactic Acid, Sodium Hydroxide</p><p>Kõik Naïf tooted on vegan‑sõbralikud, õrnalt lõhnastatud ja dermatoloogiliselt testitud. Vabad 26 kõige levinumast allergeenist! Need ei sisalda ka SLES‑i ega mikroplasti. Tuubid on valmistatud suhkruroo‑baasil bioplastikust.</p>
+<!--EndFragment--><!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10278236029255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10010760053063</id>
+    <published>2025-02-28T10:52:23+02:00</published>
+    <updated>2025-02-28T10:52:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-virgin-goddess-body-whip-200ml"/>
+    <title>HOIA Kehavaht Virgin Goddess 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-virgin-goddess-body-whip-200ml-982281.jpg?v=1740808665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Virgin Goddess kehavaht jätab naha pehmeks ja siidiselt siledaks. See on lõhnastatud laimi ja mandariini eeterlike õlidega ning annab nahale päikeselise jume. Kehavaht sisaldab rikkalikult orgaanilist rafineerimata sheavõid, kookosõli, kakaovõid, E-vitamiini ja taimsete õlide segu, mis aitavad tõhusalt nahka niisutada ja pehmendada. Kehavaht leevendab naha kuivust ja ketendust, vähendab punetust, aitab parandada venitusarmide väljanägemist ning parandab naha tekstuuri ja elastsust.<b><br><br>Kasutamine:</b>&nbsp;Kanna sobiv kogus kehavahtu nahale ja masseeri imendumiseni. Hoia toodet eemal otsesest päikesevalgusest ja temperatuuril alla +25 °C.</p><p><b>Koostisosad:</b>&nbsp;*Butyrospermum Parkii (shea) Butter, *Cocos Nucifera (coconut) Oil, *Theobroma Cacao (cocoa) Butter, Helianthus Annuus Seed (sunower) oil, Rubus Ideaus Seed (raspberry) Oil, Tocopherol (E-vitamin), Dunaliella Salina Extract, Citrus Aurantifolia (lime) Peel Oil, Citrus Reticulatar (tangerine) Peel Oil, Eucalyptus Globulus (eucalypt) Leaf Oil, **Citral, **Geraniol, **Linalool, **Limonene, *From organic farming. **Natural component of essential oil.</p><p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10010760053063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019991060807</id>
+    <published>2025-02-28T09:54:25+02:00</published>
+    <updated>2025-02-28T09:54:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-calendula-balm-55ml"/>
+    <title>Petit&amp;Jolie Saialillesalv 55ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-calendula-balm-55ml-648274.png?v=1740808673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit &amp; Jolie saialillekreem on spetsiaalselt välja töötatud ärritunud või lõhenenud naha jaoks, nagu näiteks lõhenenud nibud ja mähkmelööve. Mahepõllumajanduslikult kasvatatud saialille ekstrakt on taastava ja rahustava toimega. </p><p>Salv ei sisalda parfüümi ega vett. Kreem koosneb 100% loodusliku päritoluga koostisosadest. Ei sisalda parabeene, parafiini ja sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine: </b>Soojenda saialillesalvi sõrmedega ja masseeri see&nbsp;õrnalt nahale. Korda nii tihti kui vaja.</p><p><b>Koostisosad:</b>&nbsp;Ricinus Communis Seed Oil, Helianthus Annuus Hybrid Oil *, Cocoglycerides, Hydrogenated Vegetable Oil, Decyl Oleate, Cera Alba, Polyglyceryl-2 Dipolyhydroxystearate, Calendula Officinalis Flower Extract *, Daucus Carota Sativa Root Extract *, Rosmarinus Officinalis Leaf Extract *, Simmondsia Chinensis Seed Oil, Capsicum Annuum Extract *, Lithospermum Erytrorhizom Root Extract, Helianthus Annuus Seed Oil, Tocopherol.</p><p>* orgaaniline päritolu</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019991060807</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019905929543</id>
+    <published>2025-02-28T09:54:24+02:00</published>
+    <updated>2025-02-28T09:54:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-body-lotion-150ml"/>
+    <title>Petit&amp;Jolie Beebi kehapiim 150ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-body-lotion-150ml-598489.png?v=1740808669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie Beebi kehapiim on toitev ja niisutav kreem, mis on loodud spetsiaalselt beebi õrnale ja tundlikule nahale. Kehapiimas sisalduv aprikoosiõli muudab naha elastseks ja pehmendab nahka pikaajaliselt. Kreemi on kerge peale kanda ja see imendub kiiresti.</p><p>Kehapiim on 100% looduslikest koostisosadest, seega ei sisalda see parabeene, parafiini ega sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine: </b>Masseeri õrnalt lapse nahale pärast pesemist.</p><p><b>Koostisosad:</b>&nbsp;Aqua (Water), Helianthus Annuus (sunflower) Hybrid Oil*, Decyl Oleate, Glycerin, Prunus Armeniaca (apricot) Kernel Oil, Pentylene Glycol, Cetearyl Alcohol, Glyceryl Stearate Citrate, Glyceryl Caprylate, Hippophae Rhamnoides (sea buckthorn) Fruit Extract*, Chamomilla Recutita (camomile) Flower&nbsp; Extrakt*, Schizandra Sphenanthera (schisandra) Fruit Extract, Rosmarinus Officinalis (rosemary) &nbsp;Leaf Extract<em>, Salvia Officinalis (sage) Leaf Extract, Helianthus Annuus (sunflower) Seed Oil, Tocopherol, Sodium Phytate, Oryzanol, Xanthan Gum, Parfum</em>*</p><p>* orgaaniline päritolu</p><p>** looduslikest eeterlikest õlidest<!--EndFragment--><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019905929543</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019880468807</id>
+    <published>2025-02-28T09:54:23+02:00</published>
+    <updated>2025-02-28T09:54:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-diaper-cream-75ml"/>
+    <title>Petit&amp;Jolie Mähkmekreem 75ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-diaper-cream-75ml-385720.png?v=1740808665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie mähkmekreem kaitseb, taastab ja toidab tundlikku beebi nahka mähkme vahetuspiirkonnas. Kreemis sisalduv mesilasvaha annab beebi pepule lisa kaitsekihi niiskuse eest. Tsinkoksiidil on aga kuivatav toime. Looduslike koostisosade ainulaadne koostis rahustab nahka ja ennetab mähkmelööbe teket.&nbsp;Kreem teeb naha siidiseks ja pehmeks. </p><p>Mähkmekreem on parfüümivaba ja valmistatud 100% looduslikest koostisosadest, seega ei sisalda see parabeene, parafiini ega sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine:</b> Kanna nahale peale mähkmete vahetamist.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Decyl Oleate, Helianthus Annuus Hybrid Oil*, Sesamum Indicum Seed Oil*, Zinc Oxide, Polyglyceryl-3 Polyricinoleate, Cera Alba*, Cetyl Ricinoleate, Sorbitan Sesquioleate, Lanolin, Magnesiumsulfate, Zinc PCA, Glyceryl Caprate, Tocopherol, Helianthus Annuus Seed Oil, Aluminium Tristearate, Magnesium Stearate, Oryzanol, Vanilla Planifolia Fruit Extract*</p><p>* orgaaniline päritolu</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019880468807</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019853664583</id>
+    <published>2025-02-28T09:54:23+02:00</published>
+    <updated>2025-02-28T09:54:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-nourishing-cream-75ml"/>
+    <title>Petit&amp;Jolie Toitev beebikreem 75ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-nourishing-cream-75ml-115815.png?v=1740808669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            9.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie toitev ja niisutav kreem sobib spetsiaalselt õrnale (beebi)nahale.&nbsp;Selle ainulaadne koostis sisaldab orgaanilist sheavõid ja mandliõli, mis pakuvad nahale lisaniisutust ja kaitset. Toitev kreem sobib kuiva ja tundliku nahaga beebidele ja  sobib kasutamiseks nii näol kui ka kehal.</p><p> Kõik koostisosad on 100% looduslikku päritolu. Seetõttu ei sisalda kreem parabeene, parafiini, sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine: </b>Kanna iga päev beebi nahale või näole. Kui naha seisund paraneb, võid asendada kehapiima vastu.</p><p><b>Koostisosad:&nbsp;</b>Aqua (Water), Glycerin, Helianthus Annuus (Sunflower) Hybrid Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Pentylene Glycol, Cetearyl Alcohol, Prunus Amygdalus Dulcis (Almond) Oil*, Squalane, Butyrospermum Parkii (Shea) Butter*, Cetyl Palmitate, Glyceryl Stearate Citrate, Polyglyceryl-3 Stearate, Palmitic Acid, Stearic Acid, Limnanthes Alba (Meadowfoam) Seed Oil, Sodium Polyphosphat, Jojoba Esters, Helianthus Annuus (Sunflower) Seed Wax, Acacia Decurrens Flower Wax, Polyglycerin-3, Tocopherol Dipotassium Glycyrrhizate, Helianthus Annuus (Sunflower) Seed Oil, Sodium Hyaluronate, Tocopherol, Sodium Levulinate, Xanthan Gum, Sodium Anisate, Parfum (Fragrance)**, Oryzanol</p><p>* orgaaniline päritolu </p><p>** looduslikest eeterlikest õlidest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019853664583</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012280652103</id>
+    <published>2025-02-25T14:04:45+02:00</published>
+    <updated>2025-02-25T14:04:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deep-moisture-soft-plum-body-cream-200ml"/>
+    <title>LUUV Looduslik sügavniisutav ploomi kehakreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deep-moisture-soft-plum-body-cream-200ml-412185.png?v=1740560030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ütle tere LUUV veetlevale looduslikule sügavniisutavale ploomiõliga kehakreemile! See ploomi- ja kookosõliga rikastatud kreem toob naha niiskustasesse tasakaalu ja harmoonia ja aitab eemale peletada kõik kahjulikud tegurid, mis tahavad õrnale nahale liiga teha.&nbsp;Kreemi staarkomponent – külmpressitud ploomituumaõli – sisaldab rohkelt A-, C- ja E-vitamiini, mis toidavad nahka sügavuti.&nbsp; Lisaks on ploomituumaõli rikas omega-rasvhapete poolest, mis taastavad ja niisutavad nahka ning jätavad selle erakordselt elastseks ja pehmeks. Ning loomulikult ei tohi unustada võimast antioksüdanti – jõhvikaekstrakti! Jõhvikaekstrakt aitab võidelda vananemise märkidega ning annab su nahale nooruslikult särava väljanägemise. <br></p><p>Ploomi kreem on kerge vahuse tekstuuriga, imendub kiiresti, ei jäta nahka kleepuvaks ning ei ummista poore.  Lisaks sobib see imeliselt ka tundlikule nahale, pakkudes õrna hooldust. Lase ploomide lummaval aroomil end võluda ning tunne  rõõmu siledast, toidetud ja säravast nahast!</p><ul><li>Kerge vahune tekstuur</li><li>Sügavalt niisutava toimega</li><li>Kiiresti imenduv</li><li>Sobib tundlikule nahale</li><li>Mahe ploomi lõhn</li></ul><p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:&nbsp;</b>Sobib igapäevaseks kasutamiseks. Kanna kreemi puhtale nahale ja hõõru ringjate liigutustega kuni imendumiseni.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cocos nucifera oil, Mangifera indica seed (Mango) butter, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydrolyzed wheat protein, Prunus domestica (Plum) seed oil, Cetyl alcohol, Vaccinium Macrocarpon fruit (Cranberry) extract, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Xanthan gum, Parfum, Mica, Titanium dioxide, CI 77491</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012280652103</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012274393415</id>
+    <published>2025-02-25T14:04:32+02:00</published>
+    <updated>2025-02-25T14:04:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-nourishing-and-protecting-honey-cream-200ml"/>
+    <title>LUUV Looduslik toitev ja kaitsev mee kehakreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-nourishing-and-protecting-honey-cream-200ml-311638.png?v=1740560031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV toitev ja kaitsev mee kehakreem muudab nahahooldusrutiini eriti magusaks ja toitvaks kogemuseks. See siidpehme kreem mitte ainult ei hellita nahka, vaid loob nahale ka loomuliku ja tugeva kaitsekilbi – kreemis sisalduv mesilasvaha kaitseb nahka karmi vee ja kahjulike ilmastikutingimuste eest ning toitev sheavõi niisutab nahka sügavuti. Kreemi magus meearoom aga paitab õrnalt nii keha kui meeli.<br><br>Kreem on spetsiaalselt loodud kuiva, väga kuiva ja küpse naha hoolduseks, olles ideaalne kaaslane neile, kelle nahk vajab ekstra niisutust ja hella hoolt. Regulaarsel kasutamisel muutub nahk siledamaks, vastupidavamaks ning vastupandamatult pehmeks. Lisaks on kreem sertifitseeritud üle maailma tunnustatud ECOCERT/COSMOS ökosertifikaadiga, seega võid kindel olla, et kasutad toodet, mis pole mitte hea ainult Sulle, vaid ka meie armsale planeedile.</p><ul><li>Siidiselt vahune tekstuur</li><li>Sügavalt niisutav</li><li>Kuivale ja küpsele nahale</li><li>Mesimagus lõhn</li></ul><p>looduslik | julmusevaba | jätkusuutlik | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Sobib igapäevaseks kasutamiseks. Kanna kreemi puhtale nahale ja hõõru ringjate liigutustega kuni imendumiseni.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cocos Nucifera Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate SE, Cera Alba (Beeswax), Glycerin, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Hippophae Rhamnoides Fruit Oil, Glyceryl Caprylate, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Tocopherol, Triethyl Citrate, Benzoic Acid, Aroma, Citral, D-limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012274393415</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012297560391</id>
+    <published>2025-02-25T14:04:21+02:00</published>
+    <updated>2025-02-25T14:04:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deep-moisture-soft-plum-body-cream-200ml-copy"/>
+    <title>LUUV Vitamiinirikas astelpaju-mango kehakreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-energizing-vitamin-body-cream-200ml-663135.png?v=1740560032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astelpaju kasulikkusega rikastatud kehakreem pehmendab ja taaselustab nahka imeliselt. Sobib kõikidele nahatüüpidele, see toob tõelise muutuse sinu nahahooldusrutiini. Naudi mangovõi luksuslikku puudutust,  see toidab ja niisutab sügavuti, muutes  naha vastupandamatult siidiseks ja siledaks.<br><br>Astelpajuõli on tõeline vitamiinipomm, mis on A- ja C-vitamiinist tulvil. Need võimsad antioksüdandid ergutavad naha uuenemisprotsessi ning aitavad taastada selle nooruslikku väljanägemist.&nbsp;Porgandiõlis sisalduv A-vitamiin ja karoteen taastavad naha elujõu ja sära ning annavad nahale loomuliku ja vastupandamatu jume. Samal ajal taastab porgandiõli elujõu ja sära, andes teie jumele loomuliku sära, mis on lihtsalt hingemattev.&nbsp;Kehakreem aitab tasakaalustada nii kuiva kui rasust nahka ummistamata sealjuures poore. Kuid tõeline ime juhtub siis, kui vaatad peeglisse - ilus, särav jume, mis kiirgab elujõudu ja tervist.&nbsp;</p><ul><li>Kerge vahune tekstuur</li><li>Pehmendab ja toidab</li><li>Kõikidele nahatüüpidele</li><li>Mõnus tsitruse aroom</li></ul><p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:&nbsp;</b>Sobib igapäevaseks kasutamiseks. Kanna kreemi puhtale nahale ja hõõru ringjate liigutustega kuni imendumiseni.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Cocos Nucifera, Mangifera Indica seed (Mango) butter, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydrolyzed Wheat Protein, Cetyl Alcohol, Dunaliella Salina (Carrot) Extract, Helianthus Annuus Seed Oil, Hippophae Rhamnoides (Sea buckthorn) oil, Citrus Nobilis (Mandarin oil), Citrus Aurantium (Orange oil), Triethylcitrate, Glyceryl Caprylate, Xanthan Gum, Benzoic Acid, Parfum, Limonene, Citral, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012297560391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014032789831</id>
+    <published>2025-02-25T13:44:35+02:00</published>
+    <updated>2025-02-25T13:44:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-magnesium-cream-200ml"/>
+    <title>LUUV Looduslik magneesiumikreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-magnesium-cream-200ml-418252.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tujutõstev ja noorendav LUUV magneesiumkreem on värava heaolu ja lõõgastuse maailma. Prestiižse ECOCERT/COSMOS ökosertifikaadiga sertifitseeritud magneesiumkreem on sinu heaolu jaoks usaldusväärne ja jätkusuutlik valik. Igapäevasel kasutamisel saab sellest sinu partner magneesiumipuuduse ennetamisel ja vähendamisel, pakkudes samal ajal leevendust lihasvaludele ja pingetele. Toode sisaldab magneesiumkloriidi, mis&nbsp; on kõige paremini omastatav läbi naha ning ühtlasi on&nbsp;ka kiireim viis magneesiumipuuduse vähendamiseks. <br></p><p>Kreemile on lisatud ka rikkalikult kookosõli, mis sarnaneb naha enda lipiididega ning tagab selle, et isegi kuiva naha puhul imendub magneesium tõhusalt. Kookosõli toidab nahka sügavuti ning muudab selle siidiselt pehmeks.<br>Magneesiumkloriid sobib isegi tundlikule nahale, tagades õrna ja rahustava kogemuse kõigile.</p><ul><li>Igapäevaseks kasutamiseks</li><li>Ennetab/vähendab magneesiumipuudust</li><li>Leevendab lihasvalusid ja -pingeid</li><li>Niisutav ja toitev</li><li>Kogu perele</li><li>Sobib rasedatele</li><li>ECOCERT/COSMOS sertifitseeritud</li><li>Beauty Shortlist Awards 2024- wellbeing kategooria kuldmedal</li></ul><p><u>Põhilised koostisosad:</u></p><ul><li><u>Magneesium</u> aitab lihastel lõdvestuda, lihastõmblused tekivadki magneesiumipuudusest. Spordijärgselt on nahakaudne magneesium parim, kuna see on lokaalne (kannad sellele piirkonnale, mis lihaseid pingutasid). Nahakaudse magneesiumi tarbimisel ei ole kõrvalmõjusid ja efekt on kohene. </li><li><u>Kookosõli/kookosrasv</u> on tahketest rasvadest kõige kergem. Hea imenduvusega ja sulandub hästi nahale, toidab kuid ei ole raske. On väga sarnane meie enda naha lipiididega, seetõttu omandab inimese nahk seda hästi. </li><li><u>Sidruni eeterliku õli</u> kasutatakse toote lõhnastamiseks, kuid tal on ka tugevad detox omadused. Mõnusa tsitruselise lõhnaga, aga piisavalt mahe. Sobib hästi tselluliidivastastesse toodetesse ning naha turgutamiseks. Tugevdab immuunsüsteemi.</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Magneesiumkreem sobib kasutamiseks kogu perele ja on ohutu kasutada ka rasedatele. See aitab imeliselt leevendada lihaspingeid pärast treeningut ning ennetab ja vähendab magneesiumipuudust organismis. Lastel aitab see leevendada kasvuvalust tingitud vaevusi. Kreem sisaldab magneesiumkloriidi, mis imendub kõige paremini läbi naha ja on ühtlasi ka kiireim viis magneesiumipuudust vähendada.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Magnesium Chloride , Cocos Nucifera Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glyceryl stearate SE, Citrus Limon Peel (Lemon) Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Mentha Piperita (Peppermint) Oil, Triethyl Citrate, Glyceryl Caprylate, Xanthan gum, Benzoic Acid, Citral, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>magnesium</s:tag>
+    <s:tag>sport</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014032789831</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004476723527</id>
+    <published>2025-02-18T20:12:04+02:00</published>
+    <updated>2025-02-18T20:12:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-body-cream-firming-touch-200ml"/>
+    <title>Berrichi Kehakreem Body 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-body-cream-firming-touch-200ml-516839.png?v=1739979954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            31.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kehakreem Body on tõeline pai loodusest Sinu nahale. Kehakreem Body on loodud neile, kes soovivad pakkuda oma nahale intensiivset hooldust ja niisutust. See aromaatne kreem sisaldab hoolikalt valitud looduslikke koostisosi, mis niisutavad, toidavad ja parandavad naha elastsust. Kofeiin, mis toimib loomuliku stimulandina, aitab vähendada tselluliidist põhjustatud ebatasasusi ja toetab teiste toimeainete tõhusat imendumist.</p><ul><li>Mango ja greibi lõhnaga</li><li>Vähendab tselluliiti</li><li>Niisutab ja toidab nahka sügavuti</li><li>Leevendab kuiva naha probleeme</li><li>Muudab naha siidiselt pehmeks</li></ul><p><u>Peamised koostisosad:</u></p><ul><li><u>Furtsellaraan</u> -&nbsp;antioksüdant, aitab säilitada naha niiskustasakaalu ja tugevdada naha kaitsebarjääri, aeglustab naha vananemisprotsesse, vähendab põletikke ja kuivust. Furtsellaraani saame Eesti vetes kasvanud vetikatest.</li><li><u>Astaksantiin</u> -&nbsp;antioksüdant, tõhusaim looduslik vananemisvastane aine, millel on võime läbida rakumembraane, mõjutades nahka sügavuti. Stimuleerib kollageeni tootmist, tasakaalustab naha niiskusetaset, kaitseb nahka keskkonnategurite eest.</li><li><u>Greipfruudiõli</u> -&nbsp;tõstab energiataset, on põletikuvastane ja leevendab kuiva naha probleeme, jättes selle pehmeks ja tervisest pakatavaks.</li><li><u>Babassuõli</u> -&nbsp;kaitseb nahka väliste stressorite eest, leevendab karedust ja ketendust ning on põletikuvastase toimega. Leevendab naha kuivust ning aitab ekseemi korral.</li><li><u>Maarjaohakaõli</u> -&nbsp;sügavniisutav ja antioksüdantsete omadustega, aeglustab vananemist, rahustab ärritunud nahka ning on põletikuvastase toimega.</li><li><u>Astelpajuõli </u>-&nbsp;antioksüdantiderohke, niisutab nahka ja toetab selle taastumist. Sisaldab C-vitamiini ja rasvhappeid, pakkudes nahale terviklikku hoolt, lisaks on ta põletikuvastase toimega.</li><li><u>Kakaovõi</u> -&nbsp;puhas kakaovõi sisaldab palju rasvhappeid ja niisutab nahka sügavalt, kuna kakaovõis sisalduvad rasvad moodustavad niiskuse hoidmiseks kaitsva barjääri.</li></ul><p>Sobib kõikidele mahatüüpidele.</p><p><b>Kasutamine:</b> Kanna puhtale nahale kerge kiht kreemi, eriti keskendudes kuivadele kohtadele. Sobib igapäevaseks kasutamiseks. Enne riietumist lase tootel täielikult imenduda.</p><p><b>Koostisosad:</b>&nbsp;Organic Silybum Marianum (Milk Thistle) Seed Oil*, Organic Prunus Armeniaca (Apricot) Kernel Oil*, Euphorbia Cerifera Cera (Candelilla Wax), Caryodendron Orinocensa (Cacay) Seed Oil, Organic Oryza Sativa (Rice) Bran Oil*, Organic Theobroma Cacao Seed Butter*, Organic Orbignya Oleifera (Babassu) Seed Oil*, Haematococcus Pulvialis Oil, Astaxanthin, Tocopherol</p><p>* Mahepõllumajandusest pärit koostisosad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004476723527</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">31.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9995938038087</id>
+    <published>2025-02-17T22:10:15+02:00</published>
+    <updated>2025-02-17T22:10:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/sokind-love-lines-emollient-stretch-mark-balm-200ml"/>
+    <title>SoKind Love Lines pehmendav venitusarmide palsam 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>SoKind</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/sokind-love-lines-emollient-stretch-mark-balm-200ml-933477.png?v=1739897159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SoKind<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Lines palsam on klientide poolt armastatud ja selle tekstuuri saab kõige paremini kirjeldada kui õhulist sufleed. Tuntav mõju venitusarmidele koos palsami niisutavate ja elastsust suurendavate omadustega on teinud sellest toote, mille juurde paljud kliendid ikka ja jälle tagasi pöörduvad.&nbsp;</p><p>Loodusliku koostisega venitusarmide palsam sisaldab tõhusat aktiivset koostisosa Regestril™, mis parandab nähtavalt venitusarmide väljanägemist ja hoiab ära nende tekke.<br><br>Registril™ koosneb Lima oa ekstraktidest ja peptiididest ning toimib nii, et muudab pigmentatsiooni heledamaks ja parandab nahka venitusarmide sees ja nende ümber, muutes need palju vähem nähtavaks. Samal ajal stimuleerivad peptiidid kollageeni tootmist, nii et naha elastsus paraneb ning parandatakse ja silutakse kahjustatud kudesid, mistõttu sobib toode ideaalselt ka keisrilõike armile.&nbsp;<br><br>Aloe vera, sheavõi ja shoreavõi toovad nahale pehmuse ja niisutuse ning parandavad elastsust. Antioksüdantidest on lisatud E-vitamiin ja astelpaju, millel on tervendav ja põletikuvastane toime venitusarmidele ja ümbritsevale nahale.</p><p><b>Kasutamine:&nbsp;</b>Kanna rohkelt venitusarmidele kalduvale nahale hommikul ja õhtul.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Pentylene Glycol, Cetyl Palmitate, Coco-Caprylate/Caprate, Shorea Stenoptera (Sal) Seed Butter, Glycerin*, Cetyl Alcohol, Butyrospermum Parkii (Shea) Butter*, Simmondsia Chinensis (Jojoba) Seed Oil*, Butylene Glycol, Glyceryl Stearate Citrate, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phaseolus Lunatus Seed Extract, Rutin, Caprylyl Glycol, Tocopherol, Hippophae Rhamnoides (Sea Buckthorn) Fruit Juice, Cetearyl Olivate, Xanthan Gum, Cetyl Hydroxyethylcellulose, Dipotassium Phosphate, Sorbitan Olivate, Sodium Gluconate, Citric Acid, Lactic Acid, Sodium Benzoate, Potassium Sorbate.</p><p>*orgaaniline koostisosa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>sokind</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9995938038087</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9995940036935</id>
+    <published>2025-02-17T22:10:07+02:00</published>
+    <updated>2025-02-17T22:10:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/sokind-pure-kindness-repairing-multi-product-30ml"/>
+    <title>SoKind Pure Kindness taastav kreem 30ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>SoKind</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/sokind-pure-kindness-repairing-multi-product-30ml-665242.png?v=1739897159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SoKind<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik, ennetav ja niisutav mitmetoimeline toode, mis kaitseb, ravib, rahustab ja taastab lõhenenud, ketendavat ja kuiva nahka kõikjal sinu või sinu lapse nahal.<br><br>See on spetsiaalselt välja töötatud kasutamiseks rinnaga toitmise ajal nii ennetava kui ka parandava nibupalsamina, mida ei pea enne lapse imetamist maha pesema.<br><br>Pure Kindness on valmistatud põhjamaisest soolarohust, mis on eriti tuntud oma niiskust siduvate omaduste ja kaitsebarjääri loomise võime poolest. Soolarohi aitab vähendada punetust ja ärritust ning tasakaalustab naha loomulikku pH väärtust, omades samas ka põletikuvastaseid omadusi.<br><br>Põhjamaade soolarohi on kombineeritud rasvhappeid sisaldavate mandli ja avokaado õlidega, mis toetavad naha loomulikku kollageeni tootmist ning kaitsevad ja parandavad nahka.<b><br><br>Kasutamine:</b> Kanna väike kogus soovitud piirkonda ja tupsuta õrnalt. Palsamit saab uuesti peale kanda nii mitu korda kui vaja. See on peale jäetav palsam ja seda ei pea enne imetamist maha pesema.</p><p><b>Koostisosad:&nbsp;</b>Ricinus Communis Seed Oil, Olus Oil, Oleic/Linoleic/Linolenic Polyglycerides, Persea Gratissima Oil, Cetyl Palmitate, Tribehenin, Butyrospermum Parkii Butter*, Prunus Amygdalus Dulcis Oil*, Salicornia Herbacea Extract, Caprylic/Capric Triglyceride, Tocopheryl Acetate, Tocopherol</p><p>*orgaaniline koostisosa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>sokind</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9995940036935</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">42.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9956186882375</id>
+    <published>2025-01-25T13:19:21+02:00</published>
+    <updated>2025-01-25T13:19:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-hydra-body-balm-x-lauren-travel-size-100ml"/>
+    <title>Magrada taastav kehakreem X Lauren reisisuuruses 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-hydra-body-balm-x-lauren-travel-size-100ml-420018.png?v=1739897187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hellita end Magrada x Lauren Padari taastava kehakreemiga – see on just see, mida sinu nahk on oodanud! Unusta kuiv ja tuhm nahk – see kehakreem on tõeline toitainete kokteil kuivale nahale.</p>
+<p>Luksuslik segu seitsmest taimeõlist, lilleekstraktidest ning E-vitamiinist tungib sügavale sinu nahka, toites seda rikkaliku niisutusega ning taastades elastsuse ja loomuliku kaitsebarjääri. Eksklusiivne valge pojengi- ja karikakra ekstraktide kombinatsioon rahustab ja kaitseb nahka. Siidine ja kerge tekstuur imendub kiiresti jättes nahale taevaliku aroomi ja ülipehme tunde.</p><ul><li><u>Karikakra ekstrakt</u> taastab naha kaitsebarjääri, niisutab sügavalt ja aitab ennetada vananemise märke.</li><li><u>Pojengijuureekstraktil</u> on vananemisvastased omadused ning sobib tundlikule nahale.</li><li><u>Orgaaniline küdooniaekstrakt</u> omab nahka siluvat toimet. Väärtuslik ekstrakt sisaldab orgaanilisi happeid, mil on nahale sära andvad omadused.</li><li><u>Hüaluroonhappel</u> on kõrge veesidumisvõime, tulemuseks naha suurepärane niisutatus.</li><li><u>Orgaaniline värvohakaõli</u> külmpressituna taastab ja säilitab naha niiskustaset.</li><li><u>Orgaanilise aprikoosikiviõli</u> kerge tekstuur toidab nahka A-, B-, C- ja E-vitamiinide ning mineraalidega.</li><li><u>Orgaaniline jojoobiõli</u> sisaldab A- ja E-vitamiini ning sel on ka imelised nahka pinguldavad omadused.</li></ul>
+<p><b>Kasutamine:</b>&nbsp;Masseeri kehakreem õrnade ringjate liigutustega puhtale nahale. Sobib igapäevaseks kasutamiseks.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Caprylic/ Capric Triglyceride, Cocos Nucifera (Coconut) Oil, Polyglyceryl-3 Methylglucose Distearate, Glycerin, Carthamus Tinctorius (Safflower) Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter, Glyceryl Stearate, Persea Gratissima (Avocado) Oil, Stearyl Alcohol, Parfum, Sodium Polyacrylate, Ethylhexyl Stearate, Paeonia Albiflora (White Peony) Flower Extract, Bellis Perennis (Daisy) Flower Extract, Pyrus Cydonia (Quince) Seed Extract, Citric Acid, Sodium Hyaluronate Crosspolymer, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Isostearate, Lecithin, Ascorbyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 97,88%</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | alkoholivaba | EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lauren</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9956186882375</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945127911751</id>
+    <published>2025-01-20T13:10:03+02:00</published>
+    <updated>2025-01-20T13:10:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-multipurpuse-baby-balm-50ml"/>
+    <title>NURME Mitmetoimeline beebide kehapalsam 50ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-multipurpose-baby-balm-50ml-881507.webp?v=1739897161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitmetoimeline palsam on loodud beebi õrnale nahale. Pehmendavat palsamit saab kasutada huultel, näol, kehal või mähkmekreemi ja massaažipalsamina, hooldades nahka igal ajal ja igal pool. Beebipalsam on formuleeritud järgides rangeid ECOCERTi põhimõtteid, kasutades ainult orgaanilisi koostisosi ja välistades kõik lõhnakomponendid ja keemilised koostisosad.<br><br>Eriti asendamatu on see palsam just talvehooajal, sest vankris magades, jalutades või õues mängides võib külm sageli lapse naha punaseks ja karedaks muuta. Beebide palsam on toitev ja kaitseb suurepäraselt külmakahjustuste eest.<br><br>Suvel on mitmetoimelisest beebide kreemist abi, kui päike on väikelapse naha punetavaks muutnud või kui sääsehammustused sügelevad ja põletikuliseks muutuvad. See on ka suurepärane mähkmekreem – õrnatoimeline ja toitev, ennetab ja ravib mähkmelööbeid.<b><br><br>Kas﻿utamine: </b>Kasuta väikestes kogustes. Masseeri väike kogus palsamit ettevaatlikult soovitud nahapiirkonnale.</p><p><b>Koostisosad:&nbsp;</b>Butyrospermum Parkii (Shea) Butter*, Butyrospermum Parkii (Shea) Oil, Tocopherol (Vitamin-E).<br><br>*Orgaaniline</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945127911751</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945126699335</id>
+    <published>2025-01-20T10:49:28+02:00</published>
+    <updated>2025-01-20T10:49:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-mild-baby-body-lotion-150ml"/>
+    <title>NURME Õrnatoimeline ihupiim beebidele 150ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-mild-baby-body-lotion-150ml-388686.webp?v=1739897168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beebi nahk on pehme ja õrn. See on tundlikum kui täiskasvanute nahk ja võib kergesti muutuda kuivaks, valulikuks ja ketendavaks. Nurme beebisarja tooted, sealhulgas beebide ihupiim, aitavad hoolitseda beebi õrna naha eest.<br><br>Niisutav ja pehmendav beebi ihupiim on spetsiaalselt loodud õrnale ja tundlikule nahale. Kehakreem on igapäevaseks kasutamiseks ohutu, kuna see on täiesti vaba kemikaalidest ja lõhnaainetest. See kaitseb lapse nahka kuivuse ja ketenduse eest. Rahustab nahka ja toetab selle loomulikku kaitsefunktsiooni.<br></p><p>Kehapiim sisaldab rikkalikult vitamiine ja rasvu, mis on olulised beebi naha tervena hoidmiseks. Kiiresti imenduv koostis tagab hea imendumise ja muudab pealekandmise lihtsaks.<b><br><br>Kasutamine:</b> Määri väike kogus kehapiima, eelistavalt peale pesemist, soovitud nahapiirkonnale ja hõõru õrnalt masseerivate liigutustega kuni kehapiim on imendunud.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Helianthus Annuus (Sunflower) Seed Oil*, Cocos Nucifera (Coconut) Oil*, Butyrospermum Parkii*, Glyceryl Stearate, Glycerin, Theobroma Cacao (Cocoa) Seed Butter*, Coco Glucoside, Sucrose Stearate, Coconut Alcohol, Rosa Canina (Rosehip) Fruit Oil*, Prunus Amygdalus Dulcis (Almond) Oil*, Aloe Barbadensis Leaf Juice Powder*, Tocopherol, Xanthan Gum, Benzyl Alcohol, Dehydroacetic Acid. 80.87% Certified Organic Ingredients.</p><p>*Orgaaniline</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945126699335</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939547980103</id>
+    <published>2025-01-19T10:24:54+02:00</published>
+    <updated>2025-01-19T10:24:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-body-lotion-refill-500ml"/>
+    <title>Vielö Orgaaniline kehakreem täitepakend 500ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-body-lotion-refill-500ml-719231.jpg?v=1739897176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kehakreem, mis on spetsiaalselt loodud kuiva ja tundliku naha niisutamiseks ja pehmendamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), nisuiduõli (kaitsev), hüaluroonhape (niisutav), saialille (taastav), lavendli (rahustav) ja salvei (tugevdav) orgaanilised ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.</p><p><b>Kasutamine: </b>Enne kasutamist loksuta põhjalikult. Kanna puhtale ja kuivale nahale. Masseeri õrnalt sisse.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Potassium Sorbate, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Gra- veolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Arnica Montana Flower Extract**, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (89,7%)<br>*** looduslikest eeterlikest õlidest<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p><!--StartFragment-->
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939547980103</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9674442473799</id>
+    <published>2024-10-04T14:46:52+03:00</published>
+    <updated>2024-10-04T14:46:52+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-baby-cream-with-coconut-75ml"/>
+    <title>HOIA Beebivaht kookosega 75ml</title>
+    <s:type>Baby Care</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-baby-cream-with-coconut-75ml-214265.jpg?v=1739897250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Baby Care<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eriti pehme koostisega beebivaht sisaldab rikkalikult rafineerimata sheavõid, kookosõli, kakaovõid ning teisi taimseid õlisid, mis niisutavad ja kaitsevad sinu nahka. Beebikreemil on põletikuvastased omadused, mis aitavad leevendada punetust, nahakuivust ja ketendust, jättes naha pehmeks ja niisutatuks. Kehakreem sobib ideaalselt imikutele, rasedatele ja tundliku nahaga inimestele.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna sobiv kogus kehavahtu nahale ja masseeri imendumiseni. Hoia toodet temperatuuril alla&nbsp;+25 °C.</p>
+<p><b>Koostisosad:</b>&nbsp;Organic Butyrospermum Parkii Butter (shea), Organic Cocos Nucifera Oil (coconut), Organic Thebroma Cacao Seed Butter (cocoa), Organic Prunus Armeniaca (apricot) Kernel Oil, Organic Rosa Canina (rosehip) Fruit Oil, Organic Camellina Sativa Seed Oil, Tocopherol (vitamin E).</p>
+<p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9674442473799</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9674427269447</id>
+    <published>2024-10-04T14:46:14+03:00</published>
+    <updated>2024-10-04T14:46:14+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-baby-cream-with-zinc-75ml"/>
+    <title>HOIA Beebivaht tsingiga 75ml</title>
+    <s:type>Baby Care</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-baby-cream-with-zinc-75ml-564671.jpg?v=1739897255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Baby Care<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beebivaht tsingiga on pehme tekstuuriga vahustatud võie, mis sisaldab rikkalikult rafineerimata sheavõid, kookosrasva, kakaovõid ja teisi taimseid õlisid, mis niisutavad ja hooldavad efektiivselt nahka.&nbsp; Beebivaht sisaldab looduslikku tsinkoksiidi, mis kaitseb nahka ärrituste eest, väldib haudumist ja leevendab mähkmelöövet. Toode aitab leevendada põletikulist, kuiva, punetavat ja ketendavat nahka. Sobib tundlikule nahale ja imikutele.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna sobiv kogus kehavahtu nahale ja masseeri imendumiseni. Hoia toodet temperatuuril alla +25 °C.</p>
+<p><b>Koostisosad:</b>&nbsp;*Butyrospermum Parkii (shea) Butter, *Cocos Nucifera (coconut) Oil, Zinc Oxide, *Theobroma Cacao (cacao) Seed Butter, *Prunus Armeniaca (apricot) Kernel Oil, *Rosa Canina (rosehip) Fruit Oil, *Camelina Sativa Seed oil, Tocopherol (E-vitamin).</p>
+<p>*Mahepõllumajanduslik päritolu</p>
+<p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9674427269447</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975919087943</id>
+    <published>2024-06-28T17:57:47+03:00</published>
+    <updated>2024-06-28T17:57:47+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/firming-algae-body-serum-with-plant-extracts-35-100-ml"/>
+    <title>Magrada Pinguldav merevetika kehaseerum taimeekstraktidega, 35% 100ml</title>
+    <s:type>Body Serum</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-firming-algae-body-serum-with-plant-extracts-35-100-ml-787867.jpg?v=1739897403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Serum<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lifting Complex on lausa loodud võitlema tselluliidiga! Igapäevaseks hoolduseks mõeldud seerum sisaldab botaaniliste koostisosade jõudu, mis aitab luua trimmis, elastset ja säravat lõpptulemust. Kontsentreeritud koostisega seerum sisaldab rukkilillevett ja rabajõhvika ekstrakti, mis on tuntud oma kõrge C-vitamiini sisalduse poolest. Samuti leidub tootes hobukastani ja hõlmikpuuekstrakte, mis võitlevad tõhusalt tselluliidiga. Rikkalikult meremineraale sisaldav vetikaekstrakt omab niisutavat ja jääkaineid väljutavat mõju. Olgugi et kerge koostisega seerum imendub kiirelt, säilib niisutatud tunne nahal pikalt.</p><!--StartFragment--><div><ul><li><b><span lang="ET">Orgaaniline r</span></b><b>ukkilille</b><b><span lang="PT">õ</span></b><b>ievesi </b>toimib kui verevarustuse aktiveerija. Lisaks on sel <span lang="NL">toniseeri</span>vad ja jumet kirgastavad omadused, tulemuseks värske ja puhanud ilmega nahk.</li></ul></div>
+<div><ul><li><b><span lang="NL">Orgaanilisel </span></b><b><span lang="ET">h</span></b><b>obukastaniekstraktil </b>on p<span lang="PT">õ</span>letikuvastased ja antioksüdantiivsed omadused, mis aitavad efektiivselt v<span lang="PT">õ</span>idelda tselluliidiga, <span lang="PT">parandades naha vereringet.</span></li></ul></div>
+<div><ul><li><b><span lang="NL">Orgaanilisel j</span></b><b><span lang="PT">õ</span></b><b>hvikaekstraktil </b>on nahka pinguldavad omadused, mis <span lang="ES-TRAD">paranda</span>vad naha elastsust. J<span lang="PT">õ</span>hvikas sisalduvad antioksüdandid ja salitsüü<span lang="PT">lhape </span>kingivad nahale värskust ja sä<span lang="PT">ra.</span></li></ul></div>
+<div><ul><li><b>H</b><b><span lang="PT">õ</span></b><b>lmikpuu (lehe)ekstraktil </b>on nahka noorendav toime. Ekstrakt aitab vähendada tselluliiti ning rahustab <span lang="SV">ä</span>rritunud nahka.</li></ul></div>
+<div><ul><li><b>P</b><b><span lang="PT">õ</span></b><b>isadruekstrakt </b>stimuleerib naharakkude vahetust, <span lang="PT">parandades </span>sellega naha üldist välimust.</li></ul>
+<p><b>Kasutamine:&nbsp;</b>Kanna seerumit kaks korda päevas (hommikul ja õhtul) probleemsetele piirkondadele: käsivartele, kõhule, puusadele, tuharatele, reitele ja põlvedele. Veelgi tugevama ja kauakestvama tulemuse saavutad, kui kombineerid seerumit sama sarja tselluliidikreemiga. Soovitame kasutada toodet kuurina.</p>
+<p><b>Koostisosad:</b>&nbsp;Centaurea Cyanus (Cornflower) Flower Water*, Aqua, Glycerin, Polysorbate 20, Alcohol, Aesculus Hippocastanum (Horse Chestnut) Seed Extract*, Xanthan Gum, Vaccinium Macrocarpon (Cranberry) Fruit Extract*, Ginkgo Biloba (Maidenhair Tree) Leaf Extract, Fucus Vesiculosus (Bladderwrack) Extract, Parfum (Natural), Phenoxyethanol, Ethylhexylglycerin, Citric Acid, Potassium Sorbate, Sodium Benzoate</p><!--StartFragment--><p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 96%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan |&nbsp; EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></div>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>kehamask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975919087943</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975915352391</id>
+    <published>2024-06-28T17:57:23+03:00</published>
+    <updated>2024-06-28T17:57:23+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/firming-algae-body-cream-with-plant-extracts-200-ml"/>
+    <title>Magrada Pinguldav kehakreem taimeekstraktidega 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-firming-algae-body-cream-with-plant-extracts-200-ml-964874.jpg?v=1739897407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            30.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mere paitav puudutus sinu nahal. Botaaniline pinguldav kompleks on rikastatud vetika-, hobukastani-, jõhvika-, hõlmikpuu- ja aaloeekstraktiga, mis aitavad väljutada kehast vett ja mürkaineid, vähendavad tselluliiti ning on nahka trimmiva toimega. Sametise tekstuuriga kergelt imenduv kreem pakatab kristallselge merevee värskusest. Naturaalsele aroomile lisab kirkaid nüansse mimoosi ja maalähedaste lõhnanootide segu.</p>
+<!--StartFragment--><ul><li><b>M</b><b><span lang="DA">agusmandli</span></b><b><span lang="PT">õ</span></b><b>li</b>, mis on tulvil A-vitamiinist, pehmendab kuiva nahka, tasakaalustades niiskust <span lang="NL">ja veekadu.</span></li><li><b>Hobukastaniekstraktil </b>on p<span lang="PT">õ</span>letikuvastased ja antioksüdantiivsed omadused. Ekstrakt aitab efektiivselt võidelda tselluliidiga,<span lang="PT">parandades naha vereringet.</span></li><li><b><span lang="NL">Orgaanilisel j</span></b><b><span lang="PT">õ</span></b><b>hvikaekstraktil </b>on nahka pinguldavad omadused. J<span lang="PT">õ</span>hvikas sisalduvad antioksüdandid ja salitsüülhape kingivad nahale nooruslikkust ja sä<span lang="PT">ra.</span></li><li><b>H</b><b><span lang="PT">õ</span></b><b>lmikpuu (lehe)ekstraktil </b>on nahka noorendav toime. See aitab vähendada tselluliiti ning rahustab<span lang="SV">ä</span>rritunud nahka.</li><li><b>P</b><b><span lang="PT">õ</span></b><b>isadruekstrakt </b>stimuleerib naharakkude vahetust, parandades naha üldist välimust.</li><li><b>P</b><b>ä</b><b>evalilleseemne</b><b>õ</b><b>li </b>on uskumatult rikas loodusliku E-vitamiini ja asendamatute rasvhapete – <span lang="NL">oomega-6 ja</span>oomega-9 – allikas. Kerge, toitev õli sobib ideaalselt naha niisutamiseks, rahustamiseks ja taastamiseks, tulemuseks kaunis jume.</li><li><b>E-vitamiin </b>kaitseb nahka keskkonnastressorite eest, rahustades ja parandades selle struktuuri.</li></ul>
+<p><b>Kasutamine:</b>&nbsp;Kanna kreemi kaks korda päevas (hommikul ja õhtul) probleemsetele piirkondadele: käsivarrele, kõhule, puusadele, tuharatele, reitele ja põlvedele. Soovitav on kasutada kreemi kuurina. Pärast kasutamist sulge hoolikalt. Kaitse otsese päikesevalguse eest.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glycerin, Parfum (Natural), Sodium Polyacrylate, Glyceryl Citrate/Lactate/Linoleate/Oleate, Panthenol, Alcohol, Aloe Barbadensis (Aloe Vera) Extract, Lecithin, Ascorbyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol (Vitamin E), Vaccinium Macrocarpon (Cranberry) Fruit Extract*, Ginkgo Biloba (Maidenhair Tree) Leaf Extract, Fucus Vesiculosus (Bladderwrack) Extract, Aesculus Hippocastanum (Horse Chestnut) Seed Extract*, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 96,45%.&nbsp;</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975915352391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9228074123591</id>
+    <published>2024-05-28T20:53:54+03:00</published>
+    <updated>2024-05-28T20:53:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-cherishing-body-lotion-cactus-200ml"/>
+    <title>HEJ Cactus Hellitav kehapiim 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-cherishing-body-lotion-cactus-200ml-291842.png?v=1739897244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hej Cactus hellitav kehapiim on ideaalne - selle piimjat tekstuuri on lihtne peale kanda ja see imendub kiiresti. Viigikaktuse ja argaaniapuu vägevad koostisosad pakuvad intensiivset ja kauakestvat niisutust. Lisaks kaitsevad losjoonis sisalduvad antioksüdandid sinu nahka kahjulike keskkonnamõjude eest. Kehapiima võib kasutada igapäevaselt või vastavalt vajadusele.&nbsp;</p>
+<ul><li>Pakub intensiivset niisutust</li><li>Muudab sinu naha beebipehmeks</li><li>Säilitab naha elastsuse ja sileduse</li><li>Antioksüdandid kaitsevad ja rahustavad sinu nahka</li></ul>
+<p><b>Kasutamine:</b> Kanna peale pärast duši all või vannis käimist ning masseeri sisse.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua (Water), Opuntia Ficus-Indica Flower Extract [1], Glycine Soja (Soybean) Oil [1], Caprylic/capric Triglyceride, Olea Europaea Fruit Oil [1], Argania Spinosa (Argan) Kernel Oil [1], Prunus Amygdalus Dulcis (Sweet Almond) Oil [1], Butyrospermum Parkii (Shea) Butter [1], Isoamyl Laurate, Hydrogenated Coco-Glycerides, Cetearyl Alcohol, Glyceryl Stearate Citrate, Glycerin, Citrus Paradisi Fruit Extract [1], Opuntia Ficus-Indica Seed Oil [1], Simmondsia Chinensis (Jojoba) Seed Oil [1], Amorphophallus Konjac Root Powder, Lysolecithin, Levulinic Acid, Acacia Senegal Gum, Xanthan Gum. Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Glyceryl Caprylate, P-Anisic Acid, Perfume (Fragrance) [2], Citral [2], Citronellol [2], Limonene [2], Linalool [2] 1. from controlled organic agriculture 2. from natural essential oils</p>
+<p>Orgaaniline | Julmusevaba | Vegan | Looduslik<br></p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9228074123591</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9222830031175</id>
+    <published>2024-05-26T10:24:42+03:00</published>
+    <updated>2024-05-26T10:24:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/lauren-padar-x-magrada-hydra-body-balm-200ml"/>
+    <title>Magrada taastav kehakreem X Lauren 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-hydra-body-balm-x-lauren-200ml-182382.png?v=1739897251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            33.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hellita end Magrada x Lauren Padari taastava kehakreemiga – see on just see, mida sinu nahk on oodanud! Unusta kuiv ja tuhm nahk – see kehakreem on tõeline toitainete kokteil kuivale nahale.</p>
+<p>Luksuslik segu seitsmest taimeõlist, lilleekstraktidest ning E-vitamiinist tungib sügavale sinu nahka, toites seda rikkaliku niisutusega ning taastades elastsuse ja loomuliku kaitsebarjääri. Eksklusiivne valge pojengi- ja karikakra ekstraktide kombinatsioon rahustab ja kaitseb nahka. Siidine ja kerge tekstuur imendub kiiresti jättes nahale taevaliku aroomi ja ülipehme tunde.</p><ul><li><u>Karikakra ekstrakt</u> taastab naha kaitsebarjääri, niisutab sügavalt ja aitab ennetada vananemise märke.</li><li><u>Pojengijuureekstraktil</u> on vananemisvastased omadused ning sobib tundlikule nahale.</li><li><u>Orgaaniline küdooniaekstrakt</u> omab nahka siluvat toimet. Väärtuslik ekstrakt sisaldab orgaanilisi happeid, mil on nahale sära andvad omadused.</li><li><u>Hüaluroonhappel</u> on kõrge veesidumisvõime, tulemuseks naha suurepärane niisutatus.</li><li><u>Orgaaniline värvohakaõli</u> külmpressituna taastab ja säilitab naha niiskustaset.</li><li><u>Orgaanilise aprikoosikiviõli</u> kerge tekstuur toidab nahka A-, B-, C- ja E-vitamiinide ning mineraalidega.</li><li><u>Orgaaniline jojoobiõli</u> sisaldab A- ja E-vitamiini ning sel on ka imelised nahka pinguldavad omadused.</li></ul>
+<p><b>Kasutamine:</b>&nbsp;Masseeri kehakreem õrnade ringjate liigutustega puhtale nahale. Sobib igapäevaseks kasutamiseks.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Caprylic/ Capric Triglyceride, Cocos Nucifera (Coconut) Oil, Polyglyceryl-3 Methylglucose Distearate, Glycerin, Carthamus Tinctorius (Safflower) Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter, Glyceryl Stearate, Persea Gratissima (Avocado) Oil, Stearyl Alcohol, Parfum, Sodium Polyacrylate, Ethylhexyl Stearate, Paeonia Albiflora (White Peony) Flower Extract, Bellis Perennis (Daisy) Flower Extract, Pyrus Cydonia (Quince) Seed Extract, Citric Acid, Sodium Hyaluronate Crosspolymer, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Isostearate, Lecithin, Ascorbyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 97,88%</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | alkoholivaba | EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lauren</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>valentinipäev</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9222830031175</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">33.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975915516231</id>
+    <published>2024-05-21T11:34:53+03:00</published>
+    <updated>2024-05-21T11:34:53+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/jasmine-body-cream-with-black-elderberry-extract-200-ml"/>
+    <title>Magrada Jasmiini kehakreem musta leedrimarjaekstraktiga 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-jasmine-body-cream-with-black-elderberry-extract-200ml-412618.png?v=1739897409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Too enda ilurutiini salapära. Ilu, õnne ja armastuse lill jasmiin koos seitsme orgaanilise taimeõliga lisavad sinu nahale sillerdust ja sära. Sensuaalse lillearoomiga kehakreem pehmendab ja toidab nahka, hoides selle niiskustasakaalu. Lisaväärtust kingib võimsa antioksüdatiivse toimega orgaaniline musta leedrimarja ekstrakt. Kehakreem on mõeldud kuiva ja vananeva naha igapäevaseks niisutamiseks.</p>
+<ul><li><u>Musta leedripuu marjade orgaaniline ekstrakt</u> rahustab ärritunud nahka ning omab tõhusat antioksüdatiivset ja põletikuvastast toimet.</li><li><u>E-vitamiin</u> kaitseb nahka keskkonnastressorite eest, rahustades ja parandades selle struktuuri.</li><li><u>Hüaluroonhappel</u> on kõrge veesidumisvõime, tulemuseks naha suurepärane niisutatus.</li></ul>
+<p>Jasmiini aroom on saadud lille naturaalsetest kroonlehtedest ning püütud pudelisse Prantsusmaal. Lummav lilleõli valmib eritellimustööna.</p>
+<p><b>Kasutamine:</b>&nbsp;Masseeri kehakreem õrnade ringjate liigutustega puhtale nahale. Sobib igapäevaseks kasutamiseks.Hoida tihedalt suletud originaalpakendis. Kaitsta otsese päikesevalguse eest.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Caprylic/ Capric Triglyceride, Cocos Nucifera (Coconut) Oil, Polyglyceryl-3 Methylglucose Distearate, Glycerin, Carthamus Tinctorius (Safflower) Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter, Glyceryl Stearate, Persea Gratissima (Avocado) Oil, Stearyl Alcohol, Parfum (Natural), Sodium Polyacrylate, Ethylhexyl Stearate, Pyrus Cydonia (Quince) Seed Extract, Sambucus Nigra (Elderberry) Fruit Extract, Sodium Hyaluronate Crosspolymer, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Isostearate, Lecithin, Ascorbyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Citric Acid, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 98,06%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | alkoholivaba | EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975915516231</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

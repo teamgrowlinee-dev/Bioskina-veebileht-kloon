@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/lapsed.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-26T12:28:58+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10303870730567</id>
+    <published>2025-08-26T12:28:58+03:00</published>
+    <updated>2025-08-26T12:28:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-conditioner-for-kids-200ml"/>
+    <title>LUUV Looduslik laste juuksepalsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-conditioner-for-kids-200ml-2844222.jpg?v=1756222791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV looduslik laste juuksepalsam niisutab, toidab ja kaitseb su pisikese säravaid kiharaid. LUUV laste juuksepalsam on&nbsp;sertifitseeritud üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga.</p><p>On aeg jätta hüvasti kangekaelsete pusadega ja tervitada probleemivaba stiili! Palsam&nbsp;tugevdab juukseid juurtest otsteni, muutes need kergesti kammitavaks ja imeliselt kergeks. Rikastatud naturaalsete õlide ja betaiiniga, niisutab palsam juukseid sügavuti ning parandab juuste üldist tervist ja väljanägemist.&nbsp;Ning otse loomulikult ei saa me mööda vaadata sellest mõnusalt magusast vaniljearoomist, mis on looduslikku päritolu, ei sisalda allergeene ning mis kohe kindlasti võidab iga lapse(meelse)südame. </p><ul><li>Looduslik ja allergeenivaba</li><li>Magus vaniljearoom</li><li>Ei ärrita nahka ega silmi</li><li>ECOCERT/COSMOS sertifikaadiga</li><li>98,72% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p><b>Kasutamine:</b>&nbsp;Kasuta palsamit pärast šampooniga pesu ja kanna juukseotstele. Lase mõjuda ja loputa! Palsamit võid kasutada pärast iga pesukorda.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Cetyl Alcohol, Betaine, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303870730567</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304982942023</id>
+    <published>2025-08-26T10:05:12+03:00</published>
+    <updated>2025-08-26T10:05:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-sun-spf50-maya-50ml"/>
+    <title>BEE IT päikesekaitsekreem Maya SPF50 50ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-sun-spf50-maya-50ml-7388105.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kõrge kaitsega päikesekaitsekreem kaitseb nahka nii UVA- kui ka UVB-kiirguse eest. Sobib tundlikule nahale ja ka alla 3-aastastele lastele. Kaitseb nahka päikesekahjustuse eest ning hoiab selle niisutatuna. </p><p>Tõhus ka mesilaste kaitsmisel! </p><p><b>Kasutamine:</b>&nbsp;Kanna näole ja kehale enne päikese käes viibimist. Korda pealekandmist sageli, et saavutada ohutu, ühtlane ja kauakestev päevitus.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua [Water], Ethylhexyl methoxycinnamate, Octocrylene, Butyl methoxydibenzoylmethane, Methylene bis-benzotriazolyl tetramethylbutylphenol, Helianthus annuus (Sunflower) seed oil, Glyceryl stearate SE, Prunus amygdalus dulcis (Sweet almond) oil, Glycerin, Phenoxyethanol, Decyl glucoside, Tocopheryl acetate, Citric acid, Parfum [Fragrance], Ethylhexylglycerin, Aloe barbadensis leaf juice*, Tetrasodium glutamate diacetate, Olea europaea (Olive) fruit oil*, Oryza sativa (Rice) bran oil, Vitis vinifera (Grape) seed oil, Allantoin, Propylene glycol, Xanthan gum, Vaccinium myrtillus (Myrtle) fruit extract, Avena sativa (Oat) kernel extract*, Calendula officinalis flower extract*, Sodium hydroxide, Mel/Honey*, Propolis wax, Sodium benzoate, Potassium sorbate.</p><p>*Orgaanilist päritolu<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas. <br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304982942023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304944210247</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-for-kids-maya-50ml"/>
+    <title>BEE IT šampoon ja dušigeel Maya lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-50ml-4970425.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.<b><br><br>Kasutamine: </b>Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p><p><b>Koostisosad:</b>&nbsp;Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.</p><p>Kasutamine: Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p><p>*Orgaanilist päritolu<br><br>Looduslik toode füsioloogilise pH-ga 4.5-5.5<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304944210247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304872186183</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-blue-for-kids-50ml-copy"/>
+    <title>BEE IT šampoon ja dušigeel Maya lastele 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-250ml-2802370.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.<b><br><br>Kasutamine: </b>Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.</p>
+<p>Kasutamine: Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p>*Orgaanilist päritolu<br><br>Looduslik toode füsioloogilise pH-ga 4.5-5.5<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304872186183</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303997477191</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-blue-for-kids-50ml"/>
+    <title>BEE IT šampoon ja dušigeel sinine lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-blue-for-kids-250ml-687213.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303997477191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303992791367</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-pink-for-kids-50ml"/>
+    <title>BEE IT šampoon ja dušigeel roosa lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-pink-for-kids-250ml-813819.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam. </p>
+<p><b>Kasutamine:</b> Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303992791367</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10278236029255</id>
+    <published>2025-07-30T16:50:42+03:00</published>
+    <updated>2025-07-30T16:50:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-nurturing-day-cream-50ml-copy"/>
+    <title>NAIF päevitusjärgne geel aloe veraga 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-cooling-aftersun-100ml-5567632.png?v=1753967377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Naïf jahutav <i>aftersun</i> geel rahustab, niisutab ja taastab nahka pärast päikese käes olemist. Aloe Vera jahutab ja taastab, glütseriin niisutab. See hoiab ka kõige tundlikuma naha pehme ja elastse. Täpselt see, mida nahk pärast UV-kiirgusega kokkupuudet vajab. Geel imendub kiiresti ega jäta kleepuvat kihti.</p><p><b>Kasutamine:&nbsp;</b>Kanna peale rohkes koguses pärast päikese käes viibimist. Eriti just nendele kehapiirkondadele, mis on saanud palju päikest. <br><br>Nõuanne: hoia geeli külmkapis, et säilitada eriti jahutav efekt.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua/Water, Glycerin, Methylpropanediol, Cetearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate Citrate, Parfum/Fragrance, Aloe Barbadensis Leaf Juice Powder, Allantoin, Caprylyl Glycol, Phenylpropanol, Xanthan Gum, Lactic Acid, Sodium Hydroxide</p><p>Kõik Naïf tooted on vegan‑sõbralikud, õrnalt lõhnastatud ja dermatoloogiliselt testitud. Vabad 26 kõige levinumast allergeenist! Need ei sisalda ka SLES‑i ega mikroplasti. Tuubid on valmistatud suhkruroo‑baasil bioplastikust.</p>
+<!--EndFragment--><!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10278236029255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012314435911</id>
+    <published>2025-03-01T13:40:08+02:00</published>
+    <updated>2025-03-01T13:40:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-shower-foam-150ml"/>
+    <title>LUUV Looduslik laste dušivaht 200ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shower-foam-150ml-609563.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>See on LUUV laste dušivaht – ülim vannikaaslane, mis toob rõõmu, mängulisust ja keskkonnateadlikkust lapse igapäevarutiini! Juhtiva ECOCERT / COSMOS ökosertifikaadiga sertifitseeritud mõnus vaht muudab duši all käimise seikluseks, mis on täis naeru ja lõbusust.<br><br>Sinu lapse õrn nahk väärib ainult parimat, mistõttu on see dušivaht valmistatud hoolikalt valitud pesuainetest, mis on õrnad ega ärrita  lapse väärtuslikku nahka. Magus ja mahlane pirni aroom on täielikult saadud looduslikest allikatest, tagades kütkestava lõhna ilma allergeenideta. Mis puutub särtsakasse roosakaslillasse värvi, siis on kasutatud üllatavat salakoostist – kartuliekstrakti!  Justkui värvilise maagia puhang igas pumbatäies!</p><ul><li>Looduslik ja allergeenivaba</li><li>Mahlane pirniaroom</li><li>Ei ärrita ega kuivata nahka</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine: </b>Kanna dušigeel ringjate liigutustega niiskele nahale, loputa ja kuivata.&nbsp;</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cocamidopropyl Betaine, Glycerin, Coco-Glucoside, Ipomoea Batatas (Potato) Root Extract, Cetyl Alcohol, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma, Acacia Senegal Gum, Maltodextrin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012314435911</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013911187783</id>
+    <published>2025-03-01T13:40:01+02:00</published>
+    <updated>2025-03-01T13:40:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-shampoo-250ml"/>
+    <title>LUUV Looduslik lastešampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shampoo-250ml-163262.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> LUUV looduslik lastešampoon – kus mäng kohtub läikivate juustega! See looduslik pisaravaba koostisega šampoon viib laste juuksehoolduse täiesti uuele tasemele! Spetsiaalselt pere väikestele mõeldud šampoon muudab juuksed tugevaks, kergesti kammitavaks ja kaunilt läikivaks.&nbsp; Üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga saad aga kindel olla, et šampoon pole mitte ainult õrn pere pisematele, vaid on ohutu ka meie keskkonnale.</p><p>Hoolikalt valitud taimsed pesuained hooldavad ja rahustavad lapse õrna peanahka ega ärrita silmi. Lisaks on šampoon rikastatud niisutava aaloe ja hooldava taimse betaiiniga – need mitte ainult ei tee juuksed kergesti kammitavaks ega alista isegi kõige tõrksamad pusad, vaid aitavad ka laste juukseid juurtest otsteni tugevdada. Šampoonil on mõnusalt mahlane pirniaroom, mis kohe kindlasti kogu pere südamed võidab. Ning otse loomulikult on see lõhn looduslikku päritolu ega sisalda allergeene.</p><ul><li>Looduslik ja allergeenivaba</li><li>Pisaravaba koostis</li><li>Mahlane pirniaroom</li><li>Ei ärrita nahka</li><li aria-level="1" style="box-sizing: inherit; font-weight: 400;"><span style="box-sizing: inherit; font-weight: 400;">ECOCERT/COSMOS sertifikaadiga</span></li><li style="box-sizing: inherit; font-weight: 400;" aria-level="1">98,4% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;anna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Oryza Sativa (Rice) Starch, Aloe Barbadensis Leaf Juice, Betaine, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Glyceryl Oleate, Hydrolyzed Wheat Protein, Sodium Benzoate, Potassium Sorbate, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013911187783</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013922165063</id>
+    <published>2025-03-01T13:39:52+02:00</published>
+    <updated>2025-03-01T13:39:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-bubble-bath-200ml"/>
+    <title>LUUV Looduslik laste vannivaht 200ml</title>
+    <s:type>Bath Foam</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-bubble-bath-200ml-677435.png?v=1740891419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Bath Foam<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Muuda vanniskäik magusaks, mänguliseks ja vahvaks! LUUV laste vannivaht pole mitte ainult sertifitseeritud üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga, vaid muudab ka iga vanniskäigu üheks toredaks vahuseks seikluseks. Rikkalik ja sametiselt pehme vaht, mis pärineb hoolikalt valitud taimsetest pesuainetest, hellitab su pisikese õrna nahka ning ei põhjusta ärritust ega kuivust. Vannivahu mõnusalt mahlane pirniaroom, mis on üdini looduslik ja allergeenivaba, loob aga veelgi imelisema vannielamuse.</p><ul><li>Looduslik ja allergeenivaba<br></li><li>Mahlane pirniaroom</li><li>Ei äärita ega kuivata nahka</li><li aria-level="1" style="box-sizing: inherit; font-weight: 400;"><span style="box-sizing: inherit; font-weight: 400;">ECOCERT/COSMOS sertifikaadiga</span></li><li style="box-sizing: inherit; font-weight: 400;" aria-level="1">98,72% looduslikku päritolu</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Lisa vannivaht soojale jooksvale vanniveele ning vahupidu võib alata!</p><p><b>Koostisosad:</b>&nbsp;Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Aroma, Glyceryl Oleate, Sodium Benzoate, Potassium Sorbate, Citric Acid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>vann</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013922165063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013928227143</id>
+    <published>2025-03-01T13:39:40+02:00</published>
+    <updated>2025-03-01T13:39:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-detangling-spray-100ml"/>
+    <title>LUUV Looduslik laste pusapalsam 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-detangling-spray-100ml-412749.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laste pusapalsam, millel on ülemaailmselt tunnustatud ECOCERT/COSMOS sertifikaat, muudab sinu lapse juuksehooldusrutiini. On aeg jätta hüvasti kangekaelsete pusadega ja tervitada probleemivaba stiili!<br></p><p>Pusasprei on spetsiaalselt laste juustele välja töötatud ning loodud alistama kõik pusad, sõlmed ja sasipuntrad. Palsam jätab juuksed kergesti kammitavaks ja siidpehmeks ning selle mahlane pirniaroom on looduslik, allergeenivaba ja laste vaieldamatu lemmik. Lisaks võid olla rahulik, teades, et lõhn on looduslikult saadud ega sisalda allergeene. Sinu lapse juuksed on heades kätes. </p><ul><li>Looduslik ja allergeenivaba</li><li>Mahlane pirniaroom</li><li>Ei ärrita nahka</li><li>ECOCERT/COSMOS sertifikaadiga</li><li>99,76% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Enne kasutamist loksuta pudelit. Pihusta palsam juustele, lase mõni hetk toimida ning kammi juuksed läbi. Võib kasutada nii märgadel juustel peale pesu kui ka kuivadel juustel igapäevaselt.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Propanediol, Betaine, Coconut Alkanes, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013928227143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019995582791</id>
+    <published>2025-02-28T09:54:25+02:00</published>
+    <updated>2025-02-28T09:54:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-mineral-sunscreen-30spf-100ml"/>
+    <title>Petit&amp;Jolie Mineraalne päikesekaitsekreem 30SPF 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-mineral-sunscreen-30spf-100ml-844493.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit &amp; Jolie päikesekaitsekreem SPF 30 kaitseb sinu nahka kahjulike UV-kiirte eest. Kreem imendub nahka kergesti ega jäta valgeid rante. Kreem sisaldab loodusliku päikesefiltrina mittenano-tsinkoksiidi.<br><br>Mineraalne päikesekaitsekreem ei sisalda parfüümi.<br><br>OLULINE: Kreem kaitseb tõhusalt UV-kiirte eest, kuid ei saa garanteerida 100% kaitset. Imikuid ja lapsi tuleks hoida otsese päikesekiirguse eest.<b><br><br>Kasutamine: </b>Kanna nahale ohtralt päikesekaitsekreemi. Optimaalse kaitse tagamiseks korda pealekandmist sageli.&nbsp;</p><p><b>Koostisosad:</b>&nbsp;Aqua (water), Zinc Oxide, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Pentylene Glycol, Calcium Sodium Borosilicate, Sucrose Palmitate, Polyhydroxystearic Acid, Glyceryl Stearate, Oryzanol, Sucrose Distearate, Pongamia Pinnata Seed Extract, Xanthan Gum, Sodium Stearoyl Glutamate</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:tag>päike</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019995582791</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019991060807</id>
+    <published>2025-02-28T09:54:25+02:00</published>
+    <updated>2025-02-28T09:54:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-calendula-balm-55ml"/>
+    <title>Petit&amp;Jolie Saialillesalv 55ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-calendula-balm-55ml-648274.png?v=1740808673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit &amp; Jolie saialillekreem on spetsiaalselt välja töötatud ärritunud või lõhenenud naha jaoks, nagu näiteks lõhenenud nibud ja mähkmelööve. Mahepõllumajanduslikult kasvatatud saialille ekstrakt on taastava ja rahustava toimega. </p><p>Salv ei sisalda parfüümi ega vett. Kreem koosneb 100% loodusliku päritoluga koostisosadest. Ei sisalda parabeene, parafiini ja sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine: </b>Soojenda saialillesalvi sõrmedega ja masseeri see&nbsp;õrnalt nahale. Korda nii tihti kui vaja.</p><p><b>Koostisosad:</b>&nbsp;Ricinus Communis Seed Oil, Helianthus Annuus Hybrid Oil *, Cocoglycerides, Hydrogenated Vegetable Oil, Decyl Oleate, Cera Alba, Polyglyceryl-2 Dipolyhydroxystearate, Calendula Officinalis Flower Extract *, Daucus Carota Sativa Root Extract *, Rosmarinus Officinalis Leaf Extract *, Simmondsia Chinensis Seed Oil, Capsicum Annuum Extract *, Lithospermum Erytrorhizom Root Extract, Helianthus Annuus Seed Oil, Tocopherol.</p><p>* orgaaniline päritolu</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019991060807</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019914350919</id>
+    <published>2025-02-28T09:54:24+02:00</published>
+    <updated>2025-02-28T09:54:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-massage-oi-100ml"/>
+    <title>Petit&amp;Jolie Beebi massaažiõli 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-massage-oil-100ml-159958.png?v=1740808668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit &amp; Jolie massaažiõli toidab ja kaitseb nahka ning sobib väga hästi beebimassaažiks, pakkudes lõõgastava hetke teile mõlemale. Ülipehme õli koosneb mahepõllumajanduslikult kasvatatud päevalille-, jojoba- ja mandliõlide kombinatsioonist. </p><p>Massaažiõli on 100% looduslikest koostisosadest ning ei sisalda parafiini ega sünteetilisi lõhna- ja värvaineid.</p><p>Massaažiõli sobib ka nahaõliks (igale vanusele).</p><p><b>Kasutamine: </b>Tilguta paar tilka õli õrnalt kätele ja beebi nahale.</p><p><b>Koostisosad:&nbsp;</b>Helianthus Annuus Hybrid Oil*&nbsp;<em>(sunflower),</em>&nbsp;Simmondsia Chinensis Seed Oil*&nbsp;<em>(jojoba),</em>&nbsp;Prunus Amygdalus Dulcis Oil*&nbsp;<em>(almond),</em>&nbsp;Schizandra Sphenanthera Fruit Extract, Tocopherol&nbsp;<em>(vitamin E),</em>&nbsp;Helianthus Annuus Seed Oil&nbsp;<em>(sunflower),</em>&nbsp;Vanilla Planifolia Fruit Extract<em>&nbsp;(vanilla), Parfum</em>*</p><p>* orgaaniline päritolu</p><p> ** looduslikest eeterlikest õlidest<br><br> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019914350919</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019905929543</id>
+    <published>2025-02-28T09:54:24+02:00</published>
+    <updated>2025-02-28T09:54:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-body-lotion-150ml"/>
+    <title>Petit&amp;Jolie Beebi kehapiim 150ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-body-lotion-150ml-598489.png?v=1740808669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie Beebi kehapiim on toitev ja niisutav kreem, mis on loodud spetsiaalselt beebi õrnale ja tundlikule nahale. Kehapiimas sisalduv aprikoosiõli muudab naha elastseks ja pehmendab nahka pikaajaliselt. Kreemi on kerge peale kanda ja see imendub kiiresti.</p><p>Kehapiim on 100% looduslikest koostisosadest, seega ei sisalda see parabeene, parafiini ega sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine: </b>Masseeri õrnalt lapse nahale pärast pesemist.</p><p><b>Koostisosad:</b>&nbsp;Aqua (Water), Helianthus Annuus (sunflower) Hybrid Oil*, Decyl Oleate, Glycerin, Prunus Armeniaca (apricot) Kernel Oil, Pentylene Glycol, Cetearyl Alcohol, Glyceryl Stearate Citrate, Glyceryl Caprylate, Hippophae Rhamnoides (sea buckthorn) Fruit Extract*, Chamomilla Recutita (camomile) Flower&nbsp; Extrakt*, Schizandra Sphenanthera (schisandra) Fruit Extract, Rosmarinus Officinalis (rosemary) &nbsp;Leaf Extract<em>, Salvia Officinalis (sage) Leaf Extract, Helianthus Annuus (sunflower) Seed Oil, Tocopherol, Sodium Phytate, Oryzanol, Xanthan Gum, Parfum</em>*</p><p>* orgaaniline päritolu</p><p>** looduslikest eeterlikest õlidest<!--EndFragment--><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019905929543</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019880468807</id>
+    <published>2025-02-28T09:54:23+02:00</published>
+    <updated>2025-02-28T09:54:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-diaper-cream-75ml"/>
+    <title>Petit&amp;Jolie Mähkmekreem 75ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-diaper-cream-75ml-385720.png?v=1740808665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie mähkmekreem kaitseb, taastab ja toidab tundlikku beebi nahka mähkme vahetuspiirkonnas. Kreemis sisalduv mesilasvaha annab beebi pepule lisa kaitsekihi niiskuse eest. Tsinkoksiidil on aga kuivatav toime. Looduslike koostisosade ainulaadne koostis rahustab nahka ja ennetab mähkmelööbe teket.&nbsp;Kreem teeb naha siidiseks ja pehmeks. </p><p>Mähkmekreem on parfüümivaba ja valmistatud 100% looduslikest koostisosadest, seega ei sisalda see parabeene, parafiini ega sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine:</b> Kanna nahale peale mähkmete vahetamist.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Decyl Oleate, Helianthus Annuus Hybrid Oil*, Sesamum Indicum Seed Oil*, Zinc Oxide, Polyglyceryl-3 Polyricinoleate, Cera Alba*, Cetyl Ricinoleate, Sorbitan Sesquioleate, Lanolin, Magnesiumsulfate, Zinc PCA, Glyceryl Caprate, Tocopherol, Helianthus Annuus Seed Oil, Aluminium Tristearate, Magnesium Stearate, Oryzanol, Vanilla Planifolia Fruit Extract*</p><p>* orgaaniline päritolu</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019880468807</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019853664583</id>
+    <published>2025-02-28T09:54:23+02:00</published>
+    <updated>2025-02-28T09:54:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-nourishing-cream-75ml"/>
+    <title>Petit&amp;Jolie Toitev beebikreem 75ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-nourishing-cream-75ml-115815.png?v=1740808669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            9.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie toitev ja niisutav kreem sobib spetsiaalselt õrnale (beebi)nahale.&nbsp;Selle ainulaadne koostis sisaldab orgaanilist sheavõid ja mandliõli, mis pakuvad nahale lisaniisutust ja kaitset. Toitev kreem sobib kuiva ja tundliku nahaga beebidele ja  sobib kasutamiseks nii näol kui ka kehal.</p><p> Kõik koostisosad on 100% looduslikku päritolu. Seetõttu ei sisalda kreem parabeene, parafiini, sünteetilisi lõhna- ja värvaineid.</p><p><b>Kasutamine: </b>Kanna iga päev beebi nahale või näole. Kui naha seisund paraneb, võid asendada kehapiima vastu.</p><p><b>Koostisosad:&nbsp;</b>Aqua (Water), Glycerin, Helianthus Annuus (Sunflower) Hybrid Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Pentylene Glycol, Cetearyl Alcohol, Prunus Amygdalus Dulcis (Almond) Oil*, Squalane, Butyrospermum Parkii (Shea) Butter*, Cetyl Palmitate, Glyceryl Stearate Citrate, Polyglyceryl-3 Stearate, Palmitic Acid, Stearic Acid, Limnanthes Alba (Meadowfoam) Seed Oil, Sodium Polyphosphat, Jojoba Esters, Helianthus Annuus (Sunflower) Seed Wax, Acacia Decurrens Flower Wax, Polyglycerin-3, Tocopherol Dipotassium Glycyrrhizate, Helianthus Annuus (Sunflower) Seed Oil, Sodium Hyaluronate, Tocopherol, Sodium Levulinate, Xanthan Gum, Sodium Anisate, Parfum (Fragrance)**, Oryzanol</p><p>* orgaaniline päritolu </p><p>** looduslikest eeterlikest õlidest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019853664583</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019841507655</id>
+    <published>2025-02-28T09:54:22+02:00</published>
+    <updated>2025-02-28T09:54:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-joliehair-body-shampoo-200ml"/>
+    <title>Petit&amp;Jolie Beebide juukse- ja kehašampoon 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-hair-body-shampoo-200ml-339984.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie juukse- ja kehašampoon puhastab ja hooldab õrnalt beebi nahka ja juukseid. Ainulaadsed koostisosad ennetavad naha kuivust ja tagavad naha pehmuse ja niisutatuse. Šampoon sobib kuiva ja tundliku nahaga lastele. See ei tekita silmades kipitust.&nbsp;</p><p>Beebi juukse- ja kehašampoon ei sisalda parabeene, SLS-i, parafiini ega sünteetilisi lõhna- ja värvaineid. Beebišampoon on valmistatud 100% looduslikest koostisosadest. </p><p>Pudel on valmistatud 100% taaskasutatud plastikust. </p><p><b>Kasutamine:</b> Duši all või vannis käies lisa väike kogus šampooni oma käele või pesulapile ning masseeri kergelt beebi nahka ja juukseid. Pärast seda loputa hästi veega.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Glycerin, Sodium Cocoyl Glutamate, Coco-Glucoside, Decyl Glucoside, Xanthan Gum, Glyceryl Oleate, Parfum*, Dicaprylyl Ether, Sodium Anisate, Sodium Levulinate</p><p>* looduslikest eeterlikest õlidest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019841507655</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019793699143</id>
+    <published>2025-02-28T09:54:21+02:00</published>
+    <updated>2025-02-28T09:54:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-milky-bath-oil-for-baby-kids-100ml-copy"/>
+    <title>Petit&amp;Jolie Beebi vanniõli 200ml</title>
+    <s:type>Bath Oil</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-bath-oil-200ml-845366.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Bath Oil<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie vanniõli puhastab vannitamise ajal õrnalt nahka. Rikkalik emulsioon on hooldava toimega, muutes beebinaha pehmeks ning on seetõttu sobilik ka (väga) kuiva nahaga beebidele. </p><p>Vanniõli on valmistatud 100% looduslikest koostisosadest. Ei sisalda õli parabeene, parafiini, SLS-i ega sünteetilisi lõhna- ega värvaineid. </p><p>Vanniõli võib kasutada alates sünnist, kuid loomulikult saavad vanniõli väga hästi kasutada ka vanemad lapsed ja täiskasvanud. </p><p>Pakend on valmistatud 100% taaskasutatud plastikust. </p><p><b>Kasutamine:</b> Vanni veega täitmise ajal lisa väike kogus vanniõli vette ja sega käega laiali. </p><p><b>Koostisosad:</b>&nbsp;Glycerin, Helianthus Annuus Hybrid Oil*, Polyglyceryl-5 Oleate, Parfum**, Rosmarinus Officinalis Leaf Extract*, Helianthus Annuus Seed Oil</p><p>* orgaaniline päritolu<br></p><p>** looduslikest eeterlikest õlidest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:tag>vann</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019793699143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014032789831</id>
+    <published>2025-02-25T13:44:35+02:00</published>
+    <updated>2025-02-25T13:44:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-magnesium-cream-200ml"/>
+    <title>LUUV Looduslik magneesiumikreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-magnesium-cream-200ml-418252.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tujutõstev ja noorendav LUUV magneesiumkreem on värava heaolu ja lõõgastuse maailma. Prestiižse ECOCERT/COSMOS ökosertifikaadiga sertifitseeritud magneesiumkreem on sinu heaolu jaoks usaldusväärne ja jätkusuutlik valik. Igapäevasel kasutamisel saab sellest sinu partner magneesiumipuuduse ennetamisel ja vähendamisel, pakkudes samal ajal leevendust lihasvaludele ja pingetele. Toode sisaldab magneesiumkloriidi, mis&nbsp; on kõige paremini omastatav läbi naha ning ühtlasi on&nbsp;ka kiireim viis magneesiumipuuduse vähendamiseks. <br></p><p>Kreemile on lisatud ka rikkalikult kookosõli, mis sarnaneb naha enda lipiididega ning tagab selle, et isegi kuiva naha puhul imendub magneesium tõhusalt. Kookosõli toidab nahka sügavuti ning muudab selle siidiselt pehmeks.<br>Magneesiumkloriid sobib isegi tundlikule nahale, tagades õrna ja rahustava kogemuse kõigile.</p><ul><li>Igapäevaseks kasutamiseks</li><li>Ennetab/vähendab magneesiumipuudust</li><li>Leevendab lihasvalusid ja -pingeid</li><li>Niisutav ja toitev</li><li>Kogu perele</li><li>Sobib rasedatele</li><li>ECOCERT/COSMOS sertifitseeritud</li><li>Beauty Shortlist Awards 2024- wellbeing kategooria kuldmedal</li></ul><p><u>Põhilised koostisosad:</u></p><ul><li><u>Magneesium</u> aitab lihastel lõdvestuda, lihastõmblused tekivadki magneesiumipuudusest. Spordijärgselt on nahakaudne magneesium parim, kuna see on lokaalne (kannad sellele piirkonnale, mis lihaseid pingutasid). Nahakaudse magneesiumi tarbimisel ei ole kõrvalmõjusid ja efekt on kohene. </li><li><u>Kookosõli/kookosrasv</u> on tahketest rasvadest kõige kergem. Hea imenduvusega ja sulandub hästi nahale, toidab kuid ei ole raske. On väga sarnane meie enda naha lipiididega, seetõttu omandab inimese nahk seda hästi. </li><li><u>Sidruni eeterliku õli</u> kasutatakse toote lõhnastamiseks, kuid tal on ka tugevad detox omadused. Mõnusa tsitruselise lõhnaga, aga piisavalt mahe. Sobib hästi tselluliidivastastesse toodetesse ning naha turgutamiseks. Tugevdab immuunsüsteemi.</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Magneesiumkreem sobib kasutamiseks kogu perele ja on ohutu kasutada ka rasedatele. See aitab imeliselt leevendada lihaspingeid pärast treeningut ning ennetab ja vähendab magneesiumipuudust organismis. Lastel aitab see leevendada kasvuvalust tingitud vaevusi. Kreem sisaldab magneesiumkloriidi, mis imendub kõige paremini läbi naha ja on ühtlasi ka kiireim viis magneesiumipuudust vähendada.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Magnesium Chloride , Cocos Nucifera Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glyceryl stearate SE, Citrus Limon Peel (Lemon) Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Mentha Piperita (Peppermint) Oil, Triethyl Citrate, Glyceryl Caprylate, Xanthan gum, Benzoic Acid, Citral, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>magnesium</s:tag>
+    <s:tag>sport</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014032789831</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004528038215</id>
+    <published>2025-02-22T00:35:04+02:00</published>
+    <updated>2025-02-22T00:35:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-lotion-baby-wipes-54pcs"/>
+    <title>NAIF niisutavad salvrätikud 54tk</title>
+    <s:type>Baby Wipes</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-lotion-baby-wipes-54pcs-938646.jpg?v=1740228550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Baby Wipes<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf plastikuvabad niisutavad salvrätikud on kõik, mida ühelt beebisalvrätikult&nbsp; võib oodata: tugevad, hästi niisutavad, koostisosadega, mis hoolitsevad tundliku beebinaha eest. Ei sisalda polüesterkiude ja mikroplasti. Sobib ka ninapuhastajaks.<br><br>Sisaldavad ekstra  glütseriini (taimset), aloe verat ja bambust täiendavaks niisutamiseks ja beebi punetava naha rahustamiseks. Losjoon on dermatoloogiliselt testitud ega sisalda alkoholi, parfüümi ega muid koostisosi, mis võivad lapse tundlikku nahka ärritada.&nbsp;<b><br><br>Kasutamine:</b> Mähkimise ajal ava pakend ühe käega, hoides teise käega beebit. Pühi piirkond hoolikalt ja ära unusta volte. Kui oled lõpetanud, sulge pakend tihedalt, et vältida niiskusekadu.&nbsp;</p><p><b>Koostisosad:</b>&nbsp;Aqua, Glycerin, Bambusa Arundinacea Stem (Bamboo) Extract, Sodium Cocoyl Glutamate, Levulinic Acid, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Sodium Benzoate, Citric Acid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004528038215</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">3.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004522074439</id>
+    <published>2025-02-22T00:35:03+02:00</published>
+    <updated>2025-02-22T00:35:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-stick-0-perfume-for-baby-kids-spf50-36g"/>
+    <title>NAIF mineraalne lõhnaainevaba päikesekaitsepulk SPF50 beebidele &amp; lastele 36g</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-stick-0-perfume-for-baby-kids-spf50-36g-964551.png?v=1741554338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf mineraalne päikesekaitsepulk 50SPF on välja töötatud beebide ja laste tundlikule nahale.&nbsp;Tsinkoksiidil põhinev UV-filter kaitseb nahka koheselt seda minimaalselt ärritades. Lihtne kaasa võtta ja peale kanda, isegi lastel, kes tahavad kõike ise teha. Ilma lisatud lõhnaaineta ja sobiv tundlikule nahale.</p>
+<p>Päikesekaitse sisaldab tsinoksiidi, looduslikku koostisosa, mis&nbsp;lisab nahale kaitsekihi, mis peegeldab tagasi päikesekiiri.&nbsp;Selle tulemuseks on kaitse nii UVA- kui UVB-kiirguse eest.<br></p>
+<ul><li>Kaitseb beebide ja laste nahka UVA- ja UVB- kiirguse eest</li><li>Veekindel koostis</li><li>Dermatoloogiliselt testitud, 0% parfüümi eriti tundliku naha jaoks</li></ul>
+<p><b>Kasutamine:&nbsp;</b> Kanna rikkalik kogus ühtlaselt kehale ja näole, enne kui lapsed päikese kätte lähevad. Määri hoolikalt laiali. Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist.</p>
+<p><b>Koostisosad:&nbsp;</b>Caprylic/Capric/Myristic/Stearic Triglyceride, Zinc Oxide, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Tocopherol, Pongamol, Helianthus Annuus Seed Oil, Ascorbyl Palmitate</p>
+<p>Taaskasutatud plastikust valmistatud pakend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004522074439</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004518371655</id>
+    <published>2025-02-22T00:35:03+02:00</published>
+    <updated>2025-02-22T00:35:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-mineral-sunscreen-0-perfume-spf50-for-baby-kids-100ml"/>
+    <title>NAIF mineraalne lõhnaainevaba päikesekaitsekreem beebidele &amp; lastele 100ml</title>
+    <s:type>Suncreen</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-mineral-sunscreen-0-perfume-for-baby-kids-spf50-100ml-633941.png?v=1741554339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Suncreen<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf mineraalne päikesekaitsekreep 50SPF on välja töötatud beebide ja laste tundlikule nahale. Tsinkoksiidil põhinev UV-filter kaitseb nahka koheselt seda minimaalselt ärritades. </p>
+<p>Päikesekaitsekreem sisaldab tsinkoksiidi, looduslikku koostisosa, mis lisab nahale kaitsekihi ning peegeldab tagasi päikesekiiri. Päikesekreem ei sisalda lisatud parfüümi, sobides ka kõige tundlikumale nahale. Kohene ja tõhus kaitse UVA- ja UVB- kiirguse eest. Kreemis sisalduvad looduslikud õlid teevad pealekandmise lihtsaks ning niisutavad nahka.</p>
+<ul><li>Kaitseb beebide ja laste nahka UVA- ja UVB- kiirguse eest</li><li>Veekindel koostis</li><li>Dermatoloogiliselt testitud, 0% parfüümi eriti tundliku naha jaoks</li></ul>
+<p><b>Kasutamine: </b>Enne kasutamist loksuta. Kanna rikkalik kogud ühtlaselt kehale ja näole, enne kui lapsed päikese kätte lähevad.&nbsp;Optimaalse kaitse tagamiseks kasuta uuesti iga kahe tunni tagant ja pärast ujumist. Ära hoia toodet päikese käes. </p>
+<p><b>Koostisosad:</b>&nbsp;Caprylic/Capric/Myristic/Stearic Triglyceride, Zinc Oxide, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Tocopherol, Pongamol, Helianthus Annuus Seed Oil, Ascorbyl Palmitate</p>
+<p>Bioplastikust plastikust valmistatud pakend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004518371655</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9995938038087</id>
+    <published>2025-02-17T22:10:15+02:00</published>
+    <updated>2025-02-17T22:10:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/sokind-love-lines-emollient-stretch-mark-balm-200ml"/>
+    <title>SoKind Love Lines pehmendav venitusarmide palsam 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>SoKind</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/sokind-love-lines-emollient-stretch-mark-balm-200ml-933477.png?v=1739897159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SoKind<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Lines palsam on klientide poolt armastatud ja selle tekstuuri saab kõige paremini kirjeldada kui õhulist sufleed. Tuntav mõju venitusarmidele koos palsami niisutavate ja elastsust suurendavate omadustega on teinud sellest toote, mille juurde paljud kliendid ikka ja jälle tagasi pöörduvad.&nbsp;</p><p>Loodusliku koostisega venitusarmide palsam sisaldab tõhusat aktiivset koostisosa Regestril™, mis parandab nähtavalt venitusarmide väljanägemist ja hoiab ära nende tekke.<br><br>Registril™ koosneb Lima oa ekstraktidest ja peptiididest ning toimib nii, et muudab pigmentatsiooni heledamaks ja parandab nahka venitusarmide sees ja nende ümber, muutes need palju vähem nähtavaks. Samal ajal stimuleerivad peptiidid kollageeni tootmist, nii et naha elastsus paraneb ning parandatakse ja silutakse kahjustatud kudesid, mistõttu sobib toode ideaalselt ka keisrilõike armile.&nbsp;<br><br>Aloe vera, sheavõi ja shoreavõi toovad nahale pehmuse ja niisutuse ning parandavad elastsust. Antioksüdantidest on lisatud E-vitamiin ja astelpaju, millel on tervendav ja põletikuvastane toime venitusarmidele ja ümbritsevale nahale.</p><p><b>Kasutamine:&nbsp;</b>Kanna rohkelt venitusarmidele kalduvale nahale hommikul ja õhtul.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Pentylene Glycol, Cetyl Palmitate, Coco-Caprylate/Caprate, Shorea Stenoptera (Sal) Seed Butter, Glycerin*, Cetyl Alcohol, Butyrospermum Parkii (Shea) Butter*, Simmondsia Chinensis (Jojoba) Seed Oil*, Butylene Glycol, Glyceryl Stearate Citrate, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Phaseolus Lunatus Seed Extract, Rutin, Caprylyl Glycol, Tocopherol, Hippophae Rhamnoides (Sea Buckthorn) Fruit Juice, Cetearyl Olivate, Xanthan Gum, Cetyl Hydroxyethylcellulose, Dipotassium Phosphate, Sorbitan Olivate, Sodium Gluconate, Citric Acid, Lactic Acid, Sodium Benzoate, Potassium Sorbate.</p><p>*orgaaniline koostisosa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>sokind</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9995938038087</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">64.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9995940036935</id>
+    <published>2025-02-17T22:10:07+02:00</published>
+    <updated>2025-02-17T22:10:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/sokind-pure-kindness-repairing-multi-product-30ml"/>
+    <title>SoKind Pure Kindness taastav kreem 30ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>SoKind</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/sokind-pure-kindness-repairing-multi-product-30ml-665242.png?v=1739897159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SoKind<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik, ennetav ja niisutav mitmetoimeline toode, mis kaitseb, ravib, rahustab ja taastab lõhenenud, ketendavat ja kuiva nahka kõikjal sinu või sinu lapse nahal.<br><br>See on spetsiaalselt välja töötatud kasutamiseks rinnaga toitmise ajal nii ennetava kui ka parandava nibupalsamina, mida ei pea enne lapse imetamist maha pesema.<br><br>Pure Kindness on valmistatud põhjamaisest soolarohust, mis on eriti tuntud oma niiskust siduvate omaduste ja kaitsebarjääri loomise võime poolest. Soolarohi aitab vähendada punetust ja ärritust ning tasakaalustab naha loomulikku pH väärtust, omades samas ka põletikuvastaseid omadusi.<br><br>Põhjamaade soolarohi on kombineeritud rasvhappeid sisaldavate mandli ja avokaado õlidega, mis toetavad naha loomulikku kollageeni tootmist ning kaitsevad ja parandavad nahka.<b><br><br>Kasutamine:</b> Kanna väike kogus soovitud piirkonda ja tupsuta õrnalt. Palsamit saab uuesti peale kanda nii mitu korda kui vaja. See on peale jäetav palsam ja seda ei pea enne imetamist maha pesema.</p><p><b>Koostisosad:&nbsp;</b>Ricinus Communis Seed Oil, Olus Oil, Oleic/Linoleic/Linolenic Polyglycerides, Persea Gratissima Oil, Cetyl Palmitate, Tribehenin, Butyrospermum Parkii Butter*, Prunus Amygdalus Dulcis Oil*, Salicornia Herbacea Extract, Caprylic/Capric Triglyceride, Tocopheryl Acetate, Tocopherol</p><p>*orgaaniline koostisosa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>sokind</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9995940036935</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">42.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

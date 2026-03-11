@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/katepesu.atom"/>
+  <title>bioskina</title>
+  <updated>2025-01-22T13:27:38+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/9945557369159</id>
+    <published>2025-01-22T13:27:38+02:00</published>
+    <updated>2025-01-22T13:27:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-wild-woods-moisture-wash-500ml"/>
+    <title>MÁDARA Wild Woods vedelseep 500ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-wild-woods-moisture-wash-500ml-660570.jpg?v=1739897158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imelise aroomiga niisutav vedelseep koirohu- ja osjaekstraktiga kätkeb endas põhjamaiste metsade taimestiku värskust ja kargust. <br></p><p>Kätele ja kehale mõeldud vedelseep on dermatoloogiliselt testitud ja vaba nii karmidest pindaktiivsetest ainetest, sünteetilistest lõhnaainetest kui kunstlikest värvainetest.</p><p><b>Kasutamine:</b> Masseerige niiskel nahal vahule, lopta hoolikalt. Seejärel kanna kehale ja kätele MÁDARA käte- või kehakreemi.</p><p><b>Koostisosad:</b>&nbsp;Aloe Barbadensis (Aloe) Leaf Juice, Sodium Coco-sulfate, Sodium cocoamphoacetate, Cocamidopropyl Betaine, Coco-glucoside, Citric acid, Aroma, Sodium PCA, Benzyl Alcohol, Aqua, Artemisia Absinthium (Absinthium) Herb Extract, Equisetum Arvense (Horsetail) Extract, Sodium Benzoate, Potassium Sorbate, Limonene, Linalool, Eugenol, Citral</p><p>COSMOS NATURAL sertifikaadiga</p><p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>madara</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945557369159</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945564021063</id>
+    <published>2025-01-22T11:19:19+02:00</published>
+    <updated>2025-01-22T11:19:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-bitter-honey-moisture-wash-500ml"/>
+    <title>MÁDARA Bitter Honey vedelseep 500ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-bitter-honey-moisture-wash-500ml-849581.jpg?v=1739897182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taevalikult lõhnavas kehapesuvahendis segunevad hommikuse kastevärskuse, õitsva angervaksa ning kauni põhjamaise suve lõhnanoodid. Looduslike niisutajatega hoolikalt valmistatud vedelseep puhastab ja toidab samaaegselt, jättes naha pehmeks ja vetruvaks. </p><p>Kätele ja kehale mõeldud vedelseep on dermatoloogiliselt testitud ja vaba nii karmidest pindaktiivsetest ainetest, sünteetilistest lõhnaainetest kui kunstlikest värvainetest. </p><p><b>Kasutamine: </b>Masseeri niiskel nahal vahule, loputa hoolikalt. Seejärel kanna kehale ja kätele MÁDARA käte- või kehakreemi.</p><p><b>Koostisosad:</b> Aloe Barbadensis (Aloe) Leaf Juice, Sodium Coco-sulfate, Sodium cocoamphoacetate, Cocamidopropyl Betaine, Citric acid, Coco-glucoside, Aroma, Benzyl Alcohol, Aqua, Sodium PCA, Sodium Benzoate, Spiraea Ulmaria (Meadowsweet) Flower Extract, Galium Verum (Lady's Bedstraw/Madara) Extract, Potassium Sorbate, Sodium Chloride, Linalool, Limonene, Citrus Aurantium Peel Oil, Juniperus Virginiana Oil, Benzyl Salicylate</p><p>COSMOS NATURAL sertifikaadiga</p><p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>madara</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945564021063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939551486279</id>
+    <published>2025-01-19T10:26:56+02:00</published>
+    <updated>2025-01-19T10:26:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-hand-wash-refill-500ml"/>
+    <title>Vielö Orgaaniline kätepesu täitepakend 500ml</title>
+    <s:type>Hand Wash</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hand-wash-refill-500ml-257750.jpg?v=1739897189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Hand Wash<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kätepesu, mis on spetsiaalselt loodud õrnalt puhastama, jättes käed pehmeks ja siledaks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), sojavalk (tugevdav) ja orgaanilised lavendli (rahustav), nõgese (antioksüdant) ja rosmariini (stimuleeriv) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna toode märgadele kätele, loputa korralikult.<b><br><br>Koostisosad:</b> Lactis Serum Proteinum**, Aqua*, Glycerin**, Decyl Glucoside*, Disodium Cocoyl Glutamate*, Betaine*, Polyglyceryl-3 Caprate*, Xanthan Gum*, Sodium Cocoyl Glutamate*, Citric Acid*, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Hydrolyzed Soy Protein*, Polyglyceryl-4 Caprate*, Sodium Lactate*, Caesalpinia Spinosa Gum*, Lavandula Angustifolia Flower Extract**, Urtica Dioica Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (67,5%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939551486279</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9222825869639</id>
+    <published>2024-05-26T10:24:41+03:00</published>
+    <updated>2024-05-26T10:24:41+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-luxurious-bubble-hand-soap-400ml"/>
+    <title>Magrada Luksuslik Bubble kätepesugeel 400ml</title>
+    <s:type>Hand Wash</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-luxurious-bubble-hand-soap-400ml-861222.png?v=1739897260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Hand Wash<br>
+        <strong>Price: </strong>
+            25.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p></p>
+<p>Koostöös Mulligaleriiga oleme loonud tõeliselt luksusliku ja lummava tootesarja, mis ühendab endas parima kvaliteetvahuveini külluslikud aroomid ja õrnad botaanilised ekstraktid, et kinkida sulle nauditav elamus. Kipslill, aaloe, pesuakaatsia ja balaniit moodustavad nahka hellitava neliku, mis pakub rikkalikku hoolitsust. Eksklusiivne kätepesuseep paitab sinu meeli ning siidine seebivaht puhastab ja niisutab su nahka, jättes selle pehmeks ja säravaks.</p>
+<p></p>
+<p><b>Kasutamine: </b>Kanna kätele, loputa veega.</p>
+<p><b>Koostisosad:</b> Aqua, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Cocamidopropyl Betaine, Citric Acid, Sodium Chloride, Parfum, Isostearamide MIPA, Aloe Barbadensis (Aloe Vera) Leaf Extract, Sodium Lactate, Sodium PCA, Glyceryl Laurate, Acacia Concinna (Shikakai) Fruit Extract, Balanites Aegyptiaca (Soapberry Tree) Fruit Extract, Gypsophila Paniculata (White Saponaria) Root Extract, Glycine, Fructose, Urea, Niacinamide, Inositol, Lactic Acid, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sorbic Acid</p>
+<p>Loodusliku päritoluga koostisosad: 95,33%</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | EL allergeenidevaba | julmusevaba | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>eurovision</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9222825869639</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041705009479</id>
+    <published>2024-02-16T10:36:56+02:00</published>
+    <updated>2024-02-16T10:36:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-kasipesu-250ml"/>
+    <title>Vielö Orgaaniline kätepesu 250ml</title>
+    <s:type>Hand Wash</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hand-wash-250ml-158204.jpg?v=1739897343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Hand Wash<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kätepesu, mis on spetsiaalselt loodud õrnalt puhastama, jättes käed pehmeks ja siledaks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), sojavalk (tugevdav) ja orgaanilised lavendli (rahustav), nõgese (antioksüdant) ja rosmariini (stimuleeriv) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine: </b>Enne kasutamist loksuta põhjalikult. Kanna toode märgadele kätele, loputa korralikult.<b><br><br>Koostisosad:</b> Lactis Serum Proteinum**, Aqua*, Glycerin**, Decyl Glucoside*, Disodium Cocoyl Glutamate*, Betaine*, Polyglyceryl-3 Caprate*, Xanthan Gum*, Sodium Cocoyl Glutamate*, Citric Acid*, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Hydrolyzed Soy Protein*, Polyglyceryl-4 Caprate*, Sodium Lactate*, Caesalpinia Spinosa Gum*, Lavandula Angustifolia Flower Extract**, Urtica Dioica Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (67,5%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041705009479</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

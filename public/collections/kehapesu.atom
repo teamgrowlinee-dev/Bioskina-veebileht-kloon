@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/kehapesu.atom"/>
+  <title>bioskina</title>
+  <updated>2025-12-09T09:22:09+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/10531671114055</id>
+    <published>2025-12-09T09:22:09+02:00</published>
+    <updated>2025-12-09T09:22:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/magrada-ph-balancing-intime-wash-100ml"/>
+    <title>Magrada pH-Balancing Intime Wash 100ml</title>
+    <s:type>Intimate Wash</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-ph-balancing-intime-wash-100ml-8159402.png?v=1765327449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Intimate Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>This fragrance-free gentle intime wash provides you with the perfect balance of cleanliness, freshness and softness.</p>
+<p>Gynaecologically and dermatologically tested.</p>
+<p><strong>How to use:</strong> Apply to damp skin, rinse thoroughly with warm water.</p>
+<p><strong>Ingredients: </strong>Aqua, Sodium Laureth-5 Carboxylate, Cocamidopropyl Betaine, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Chloride, PEG-7 Glyceryl Cocoate, Polyquaternium-7, Coco-Glucoside, Jasminum Officinale (Jasmine) Flower Extract, Aloe Barbadensis (Aloe Vera) Extract, Lactic Acid, Panthenol, Chamomilla Recutita (Matricaria) Extract, Alcohol, Citric Acid, Glycerin, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate</p>
+<p>Ingredients of natural origin: 95,44%</p>
+<p>paraben-free <span>|</span> sulphate-free <span>|</span> silicone-free <span>|</span> vegan <span>|</span> EU allergen-free <span>|</span> cruelty-free <span>|</span> with a minimal list of ingredients</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>intiimpesu</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10531671114055</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10464146653511</id>
+    <published>2025-11-05T12:44:42+02:00</published>
+    <updated>2025-11-05T12:44:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-spicy-orange-energising-body-wash-250ml"/>
+    <title>NURME Spicy Orange Energising Body Wash 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-spicy-orange-energising-body-wash-250ml-7508692.webp?v=1762389117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Turns your washing ritual into a refreshing and energizing experience, leaving your body silky soft and smooth, and charmingly scented. Spicy Orange Energising Body Wash refreshes and cleanses your body, leaving it pleasantly moisturized. </span></p>
+<p><span>Petitgrain is a refreshing scent that keeps your mind and body alert. Sweet orange fills your bathroom and mind with wonderful aromas, leaving your body smelling irresistibly.</span></p>
+<p><strong>How to use: </strong>Apply on skin and rub, then rinse with water.</p>
+<p><strong>Ingredients:</strong> Aqua, Sodium Coco-Sulfate*, Coco-Glucoside*, Hydrolyzed Wheat Protein*, Glyceryl Oleate*, Sodium Benzoate*, Potassium Sorbate*, Citric Acid, Sodium Chloride, Citrus Aurantium Dulcis Peel Oil, Litsea Cubeba Fruit Oil, Citrus Aurantium Amara Leaf Oil, Citral**, Linalool**, Geraniol**, Limonene**.</p>
+<p>* Natural cosmetics approved ingredient<br>** Occurs naturally in essential oils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10464146653511</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10333989437767</id>
+    <published>2025-08-31T16:29:15+03:00</published>
+    <updated>2025-08-31T16:29:15+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-natural-shower-gel-200ml"/>
+    <title>HOIA Natural Shower Gel 200ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-shower-gel-200ml-3790215.png?v=1756718905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            15.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>HOIA Shower Gel turns your washing ritual into an exciting experience! The natural shower gel gently cleanses and cares for your skin and leaves it pleasantly moisturized after washing. Shower gel has a fresh aroma and is suitable for everyday use by both men and women.</span></p>
+<p><span>The essential oils contained in it have a refreshing, cleansing and mood-boosting effect. The product does not contain SLS, silicones or synthetic fragrances. HOIA Shower gel has a thicker gel composition, which means it lasts longer.</span><span></span></p>
+<p><strong>How to use:</strong> <b> </b><span>Apply the shower gel to your skin, enjoy the aromas and rinse off with water. </span></p>
+<p><strong>Ingredients:</strong> <span>Aqua, Cocamidopropyl Betaine, Lauryl Glucoside, Disodium Laureth Sulfosuccinate, *Glycerin, Olive Oil Glycereth-8 esters, Betaine, Sodium Levulinate, *Citrus Aurantifolia Oil, *Cymbopogon Citratus Leaf Oil, *Rosmarinus Officinalis Leaf Oil,*Camelina Sativa seed oil, Guar Hydroxypropyltrimonium Chloride, *Furcellaria Lumbricalis Extract, Sodium Anisate, Sodium Gluconate, Xanthan Gum, Lactic Acid, **Linalool, **Limonene, **Citral, **Geraniol.</span></p>
+<p><span>*Organic</span></p>
+<p><span>**Natural components of essential oils</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10333989437767</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10333987897671</id>
+    <published>2025-08-31T16:29:14+03:00</published>
+    <updated>2025-08-31T16:29:14+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-natural-shower-gel-lavender-200ml"/>
+    <title>HOIA Natural Shower Gel Lavender 200ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-shower-gel-lavender-200ml-1455670.png?v=1756718907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            15.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>With HOIA Shower Gel, turn your shower ritual into a relaxing and calming aromatherapy session! This natural shower gel contains organic lavender and Saaremaa camelina oils, which gently cleanse and nourish your skin, leaving it wonderfully moisturized and pleasantly fragrant after washing. Suitable for daily use by both men and women, the lavender essential oil provides stress-relieving and calming effects.</span></p>
+<p><span>The product is free from sulfates, silicones, and synthetic fragrances. Our shower gel has a gel-like texture, meaning it lasts longer.</span></p>
+<p><strong>How to use:</strong> <span>Apply the shower gel to damp skin, rub gently, enjoy the aromatherapy, and rinse.</span></p>
+<p><strong>Ingredients:</strong> <span>Aqua, Cocamidopropyl Betaine, Lauryl Glucoside, Disodium Laureth Sulfosuccinate, *Glycerin, Olive Oil Glycereth-8 esters, Betaine, Sodium Levulinate, *Lavandula Angustifolia Herb Oil, *Camelina Sativa seed oil, Guar Hydroxypropyltrimonium Chloride, *Furcellaria Lumbricalis Extract, Sodium Anisate, Sodium Gluconate, Xanthan Gum, Lactic Acid, **Linalool, **Limonene, **Citral, **Geraniol.</span></p>
+<p><span>*Organic</span></p>
+<p><span>**Natural components of essential oils</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10333987897671</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10304944210247</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-shampoo-body-wash-for-kids-maya-50ml"/>
+    <title>BEE IT Shampoo &amp; Body Wash for Kids Maya 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-50ml-4970425.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal">Physiological pH shampoo and body wash rich in natural ingredients to to enjoy the bath time as a pleasant experience of play and creativity. With organic aloe vera, sweet almond oil, organic honey and propolis, for a delicate and nourishing action.</p>
+<p class="MsoNormal">Amused and clean, leaves hair velvety and luminous and skin soft.</p>
+<p class="MsoNormal"><b>How to use:</b> Apply to hair and body and massage gently, then rinse.</p>
+<p class="MsoNormal"><b>Ingredients:</b> Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassiu<img>m sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p>
+<p class="MsoNormal">*Organic</p>
+<p class="MsoNormal">Natural product with physiological pH 4.5-5.5</p>
+<p class="MsoNormal">Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</p>
+<p class="MsoNormal">“Less plastic is fantastic” packaging is using 70% less plastic compared to a normal bottle pack. Less bulk, being soft and doesn’t break, generates a better recycling chain and allows use of all its contents.</p>
+<p class="MsoNormal">By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </p>
+<p class="MsoNormal">Made in Italy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10304944210247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10304872186183</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-shampoo-body-wash-blue-for-kids-50ml-copy"/>
+    <title>BEE IT Shampoo &amp; Body Wash for Kids Maya 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-250ml-2802370.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal">Physiological pH shampoo and body wash rich in natural ingredients to to enjoy the bath time as a pleasant experience of play and creativity. With organic aloe vera, sweet almond oil, organic honey and propolis, for a delicate and nourishing action.</p>
+<p class="MsoNormal">Amused and clean, leaves hair velvety and luminous and skin soft.</p>
+<p class="MsoNormal"><b>How to use:</b> Apply to hair and body and massage gently, then rinse.</p>
+<p class="MsoNormal"><b>Ingredients:</b> Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassiu<img>m sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p>
+<p class="MsoNormal">*Organic</p>
+<p class="MsoNormal">Natural product with physiological pH 4.5-5.5</p>
+<p class="MsoNormal">Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</p>
+<p class="MsoNormal">“Less plastic is fantastic” packaging is using 70% less plastic compared to a normal bottle pack. Less bulk, being soft and doesn’t break, generates a better recycling chain and allows use of all its contents.</p>
+<p class="MsoNormal">By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </p>
+<p class="MsoNormal">Made in Italy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10304872186183</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303997477191</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-shampoo-body-wash-blue-for-kids-50ml"/>
+    <title>BEE IT Shampoo &amp; Body Wash Blue for Kids 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-blue-for-kids-250ml-687213.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal">Physiological pH shampoo &amp; body wash rich in natural ingredients to enjoy the bath time as a pleasant experience of play and creativity. With organic aloe vera, sweet almond oil, organic honey and propolis, for a delicate and nourishing action.<br>Amused and clean, his hair will be velvety and luminous, and his skin will be even softer and more fragrant.</p>
+<p class="MsoNormal"><b>How to use:</b> Apply to hair and body and massage gently, then rinse.</p>
+<p class="MsoNormal"><b>Ingredients:</b> Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p>
+<p class="MsoNormal">*Organic</p>
+<p class="MsoNormal">Natural product with physiological pH 4.5-5.5</p>
+<p class="MsoNormal">Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</p>
+<p class="MsoNormal">“Less plastic is fantastic” packaging is using 70% less plastic compared to a normal bottle pack. Less bulk, being soft and doesn’t break, generates a better recycling chain and allows use of all its contents.</p>
+<p class="MsoNormal">By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </p>
+<p class="MsoNormal">Made in Italy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303997477191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303992791367</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-shampoo-body-wash-pink-for-kids-50ml"/>
+    <title>BEE IT Shampoo &amp; Body Wash Pink for Kids 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-pink-for-kids-250ml-813819.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal">Physiological pH shampoo &amp; body wash rich in natural ingredients to enjoy the bath time as a pleasant experience of play and creativity. With organic aloe vera, sweet almond oil, organic honey and propolis, for a delicate and nourishing action.<br>Amused and clean, his hair will be velvety and luminous, and his skin will be even softer and more fragrant.</p>
+<p class="MsoNormal"><b>How to use:</b> Apply to hair and body and massage gently, then rinse.</p>
+<p class="MsoNormal"><b>Ingredients:</b> Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p>
+<p class="MsoNormal">*Organic</p>
+<p class="MsoNormal">Natural product with physiological pH 4.5-5.5</p>
+<p class="MsoNormal">Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</p>
+<p class="MsoNormal">“Less plastic is fantastic” packaging is using 70% less plastic compared to a normal bottle pack. Less bulk, being soft and doesn’t break, generates a better recycling chain and allows use of all its contents.</p>
+<p class="MsoNormal">By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </p>
+<p class="MsoNormal">Made in Italy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303992791367</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303975129415</id>
+    <published>2025-08-26T10:05:08+03:00</published>
+    <updated>2025-08-26T10:05:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-regenerating-shower-gel-50ml"/>
+    <title>BEE IT Regenerating Shower Gel 50ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-regenerating-shower-gel-250ml-523322.jpg?v=1739897335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Sensory body wash with naturally active biological ingredients with a regenerating action.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Promotes the natural feeling of well-being thanks to the beneficial properties of propolis and organic honey.</span></p>
+<p><strong>How to use:</strong> <span data-mce-fragment="1">Apply all over the body. Rinse off, appreciating your moment.</span></p>
+<p><strong>Ingredients:</strong> <span data-mce-fragment="1">Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Potassium sorbate, Sodium benzoate, Citric acid, Tetrasodium glutamate diacetate, Coumarin, Limonene, Alpha-isomethyl ionone, Hydroxycitronellal, Dehydroacetic acid, Mel/Honey*, Propolis wax.</span></p>
+<p>*Organic</p>
+<p>100% Natural Ingredients</p>
+<p><span>Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</span></p>
+<p><span>“Less plastic is fantastic” packaging is using 70% less plastic compared to a normal bottle pack. Less bulk, being soft and doesn’t break, generates a better recycling chain and allows use of all its contents.</span></p>
+<p><span>By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </span></p>
+<p><span>Made in Italy</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303975129415</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10274443559239</id>
+    <published>2025-07-28T16:17:53+03:00</published>
+    <updated>2025-07-28T16:17:53+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/magrada-silky-body-cleanser-x-lauren-200ml"/>
+    <title>Magrada Silky Body Cleanser X Lauren 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-silky-body-cleanser-x-lauren-200ml-3983999.jpg?v=1753801435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Infused with a hint of sparkle, this hydrating formula gently cleanses and nourishes your skin, leaving it soft and radiant with every use. </p>
+<p><strong>How to use:</strong> Apply gently on wet skin, then rinse off with water.</p>
+<p><strong>Ingredients: </strong>Aqua, Coco-Glucoside, Glycolipids, Glycerin, Betaine, Xanthan Gum, Cucumis Sativus (Cucumber) Extract, Parfum, Phenoxyethanol, Ethylhexylglycerin, Calcium Sodium Borosilicate, CI 77891, Tin Oxide</p>
+<p>Ingredients of natural origin: 97,50%</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lauren</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10274443559239</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012314435911</id>
+    <published>2025-03-01T13:40:08+02:00</published>
+    <updated>2025-03-01T13:40:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-kids-shower-foam-150ml"/>
+    <title>LUUV Natural Kids Shower Foam 150ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shower-foam-150ml-609563.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is LUUV kids shower foam – the ultimate bath-time companion that brings joy, playfulness, and eco-consciousness to your little one’s daily routine! Certified with the leading ECOCERT / COSMOS eco-certificate, this delightful foam will make showering an adventure filled with laughter and fun.</p>
+<p>We understand that your child’s delicate skin deserves only the best, which is why this shower foam is crafted from carefully selected detergents that are gentle and won’t irritate your child’s precious skin. The sweet and juicy pear aroma is completely derived from natural sources, ensuring a captivating scent without any allergens. As for the vibrant pinkish purple color, a surprising secret ingredient is used – potato extract! That’s right, this eco-certified formula uses this natural wonder to create a mesmerizing hue that will captivate your child’s imagination. It’s like a burst of colorful magic in every pump!</p>
+<ul>
+<li>Natural and allergen-free</li>
+<li>Fresh pear scent</li>
+<li>Does not irritate or dry skin<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shower gel on damp skin with light circular movements, rinse and dry.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocamidopropyl Betaine, Glycerin, Coco-Glucoside, Ipomoea Batatas (Potato) Root Extract, Cetyl Alcohol, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma, Acacia Senegal Gum, Maltodextrin</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012314435911</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10019841507655</id>
+    <published>2025-02-28T09:54:22+02:00</published>
+    <updated>2025-02-28T09:54:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/petit-joliehair-body-shampoo-200ml"/>
+    <title>Petit&amp;Jolie Hair &amp; Body Shampoo 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-hair-body-shampoo-200ml-339984.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-slate-node="element" class="css-ss00rg">
+<p><span>Petit&amp;Jolie Hair&amp;Body Shampoo cleanses and cares for the skin and hair in a mild way. The special composition ensures supple skin and prevents dehydration. </span><span>The shampoo is suitable for children with dry and sensitive skin. </span><span>It doesn't sting the eyes.</span><br><br><span>Like all our products, the baby hair &amp; body shampoo does not contain parabens, SLS, paraffin or synthetic fragrances and dyes. The baby shampoo is made from 100% natural ingredients.</span><br><br><span>The bottle is made from 100% recycled plastic.</span></p>
+</div>
+<p><strong>How to use: </strong>While taking a shower or bath, add a small amount of shampoo to your hand or washcloth and lightly massage the skin and hair of your baby. Rinse well with water afterwards.</p>
+<p><strong>Ingredients: </strong>Aqua, Glycerin, Sodium Cocoyl Glutamate, Coco-Glucoside, Decyl Glucoside, Xanthan Gum, Glyceryl Oleate, Parfum*, Dicaprylyl Ether, Sodium Anisate, Sodium Levulinate</p>
+<p>* natural essential oils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10019841507655</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012262302023</id>
+    <published>2025-02-25T14:40:49+02:00</published>
+    <updated>2025-02-25T14:40:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-energizing-shower-gel-250ml"/>
+    <title>LUUV Natural Energizing Carrot Shower Gel 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-energizing-carrot-shower-gel-250ml-522072.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imagine stepping into your shower and being greeted by a burst of citrusy goodness that awakens your senses and puts a smile on your face every morning. That’s exactly what this shower gel delivers with its pleasant citrus scent that’s bound to become your new favorite. But it’s more than just a fragrant delight. This shower gel is formulated to effectively remove dirt and grime, leaving your skin squeaky clean and revitalized. It also deeply moisturizes your skin, ensuring that you step out of the shower feeling as soft and smooth as a carrot straight from the garden.</p>
+<p>The key ingredient is pure carrot oil, a rich source of essential vitamins that work wonders for your skin. It enhances skin elasticity, helping you maintain that youthful glow you’ve always wanted. Make it an essential part of your well-scented bathroom routine, and let the rejuvenating power of carrots and citrus awaken your senses and delight you every single day. Showering has never been this enjoyable!</p>
+<ul>
+<li><span>Moisturizing</span></li>
+<li aria-level="1"><span>Improves skin elasticity</span></li>
+<li aria-level="1"><span>Refreshing citrus scent</span></li>
+<li aria-level="1">
+<span>For all skin types</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Coco-Glucoside</span><span> </span>is a detergent, 100% natural (derived from coconut), environmentally friendly and certified. The detergent is gentle – also suitable for sensitive skin and children.</li>
+<li>
+<span style="text-decoration: underline;">Carrot oil</span> (specifically carrot seed oil) contains a lot of carotene, which gives a complexion-enhancing effect. Carrot oil is always in a carrier oil (i.e., diluted) because it is too intense on its own. It contains a lot of vitamin A. The natural SPF of carrot oil is around 40, but since it is diluted, it ends up around SPF 10.</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shower gel on damp skin with light circular movements, rinse and dry.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate (and) Lauryl Glucoside, Oryza Sativa (Rice) Starch, Cocamidoprpyl Betaine, Glycerin, Betaine, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate (and) Potassium Sorbate, Coco-Glucoside (and) Glyceryl Oleate, Cymbopogon Martini (Palmarosa) oil, Citric Acid, Parfum</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012262302023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012265840967</id>
+    <published>2025-02-25T14:04:54+02:00</published>
+    <updated>2025-02-25T14:04:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-exfoliating-shower-gel-250ml"/>
+    <title>LUUV Natural Exfoliating Shower Gel 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-exfoliating-shower-gel-250ml-332480.png?v=1740725717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural Exfoliating Shower Gel – the ultimate way to rejuvenate your skin and start your day with a refreshing burst of energy. This invigorating shower gel offers a dual-action formula that gently exfoliates and cleanses, leaving your skin irresistibly fresh and radiant.</p>
+<p>Designed with your skin’s well-being in mind, our formula ensures a gentle exfoliation that sweeps away dead skin cells without causing any micro damage. Feel confident knowing that bamboo particles are not only kind to your skin but also eco-friendly, embracing the values of both beauty and sustainability. As the bamboo particles delicately scrub away impurities, they also awaken your skin’s natural renewal process, fostering improved elasticity and texture. Experience the joy of skin that feels irresistibly soft and smooth to the touch, every single day. The light and fresh scent of green tea not only invigorates your senses but also sets the stage for a perfect start to your day.</p>
+<p>This exfoliating shower gel isn’t just a treat for the ladies – it’s versatile design caters to the dynamic lifestyles of both genders, making it an ideal addition to any daily routine. Welcome each day with skin that’s fresh, vibrant, and ready to take on the world.</p>
+<ul>
+<li><span>Gentle, but effective</span></li>
+<li aria-level="1">
+<span>Doesn</span><span>‘</span><span>t dry skin</span>
+</li>
+<li aria-level="1"><span>For daily use</span></li>
+<li aria-level="1"><span>Fresh green tea scent</span></li>
+<li aria-level="1">
+<span>Safe for the environment</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li><span><span style="text-decoration: underline;">Coco-Glucoside</span> is a detergent, 100% natural (derived from coconut), environmentally friendly and certified. The detergent is gentle – also suitable for sensitive skin and children.</span></li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shower gel on damp skin with light circular movements, rinse and dry.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Bambusa Vulgaris powder, Vegetable Glycerin, Citric Acid, Xanthan Gum, Sodium Benzoate, Potassium Sorbate, Parfum</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012265840967</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014045110599</id>
+    <published>2025-02-25T13:44:12+02:00</published>
+    <updated>2025-02-25T13:44:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-sensitive-intimate-wash-140ml"/>
+    <title>LUUV Sensitive Intimate Wash 140ml</title>
+    <s:type>Intimate Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-sensitive-intimate-wash-140ml-859869.png?v=1740560026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Intimate Wash<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sensitive Intimate Wash – the gentlest way to care for your most delicate areas! LUUV understands the importance of maintaining the fragile pH balance, and that’s why we’ve carefully selected herbal detergents that won’t disrupt it. With a perfectly balanced pH level of 3.5-4.5, you can trust that your intimate area will stay harmonious and healthy. Intimate wash is also completely odorless, so you can feel confident and comfortable all day long. Plus, it’s specially formulated for sensitive skin, so you can finally say goodbye to worries about irritation or redness.</p>
+<p>Sensitive Intimate Wash is certified with the leading ECOCERT/COSMOS eco-certificate. It’s time to indulge in the forbidden fruits of paradise – the secret to feeling fresh, confident, and beautifully balanced. Make the switch today, and rediscover the joy of taking care of yourself.</p>
+<ul>
+<li><span>Odourless</span></li>
+<li aria-level="1"><span>For sensitive skin</span></li>
+<li aria-level="1"><span>With dense silky foam – also suitable for shaving</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients: </span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Coco-Glucoside</span><span> </span>is a detergent, 100% natural (derived from coconut), environmentally friendly and certified. The detergent is gentle – also suitable for sensitive skin and children.</li>
+<li><span class="Y2IQFc" lang="en">100% natural<span> </span><span style="text-decoration: underline;">wheat protein</span><span> </span>soothes skin irritations and has an anti-inflammatory effect.</span></li>
+<li><span class="Y2IQFc" lang="en">The <span style="text-decoration: underline;">glycerin</span> we use is 100% natural and does not contain palm oil. The best feature of glycerin is that it takes moisture from the air and carries it into the skin, being able to carry it quite deeply. With a very strong moisturizing effect, and does not create a heavy/oily feeling.</span></li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified | paraben free</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Suitable for intimate parts or for the whole body.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocamidopropyl Betaine, Oryza Sativa (Rice) Starch, Coco-Glucoside, Glycerin, Glyceryl Oleate, Betaine, Cocos Nucifera, Cetyl alcohol, Hydrolyzed Wheat Protein, Citric Acid, Xanthan gum, Sodium Benzoate, Potassium Sorbate</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>intiimpesu</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014045110599</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9962825122119</id>
+    <published>2025-02-01T00:18:03+02:00</published>
+    <updated>2025-02-01T00:18:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/clarification-moisturizing-body-wash-powder-40g"/>
+    <title>Clarification Moisturizing Body Wash Powder 40g</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clarification</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/clarification-moisturizing-body-wash-powder-40g-139163.jpg?v=1739897166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarification<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This brand believes in a future where beauty coexists harmoniously with sustainability.<br><br>100% purity treatments, 0% added water!</span></p>
+<p><span>The Body Wash Powder with organic oats and white clay is very innovative. It foams instantly and generously on contact with water like a traditional shower gel. It is composed exclusively of gentle and natural origin ingredients and suits sensitive skin.</span><br><br><span>It is the natural cleansing treatment for the body that gently moisturizes and cleanses all skin types. </span><br><br><span>The plastic-free packaging made from recycled aluminum is compact and light, easy to transport. And of course n</span><span>o sulfates, no preservatives.</span><br></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Pour the equivalent of a teaspoon of powder into your hand, add some drops of water and rub hands together until it foams, then apply on wet skin. Repeat if necessary. Do not inhale or breathe the dust, avoid contact with eyes.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Sodium Lauroyl Glutamate, Aqua / Water, Kaolin, Avena Sativa Kernel Flour / Avena Sativa (Oat) Kernel Flour*, Sodium Myristoyl Glutamate, Citric Acid, Parfum / Fragrance, Glucose, Sodium Hyaluronate</span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>100% of natural origin ingredients  </span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>10% of the total ingredients come from organic farming</span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>*Ingredients from organic farming</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clarification</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>pulber</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9962825122119</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9962943480135</id>
+    <published>2025-01-31T14:07:07+02:00</published>
+    <updated>2025-01-31T14:07:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/clarification-duo-set-of-cleansing-powders-body-and-hair"/>
+    <title>Clarification Duo Set of Cleansing Powders - Body and Hair</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Clarification</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/clarification-duo-set-of-cleansing-powders-body-and-hair-537546.webp?v=1739897187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarification<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This brand believes in a future where beauty coexists harmoniously with sustainability.<br><br>100% purity treatments, 0% added water!</span></p>
+<p><span>The set includes The Moisturizing Powder Shampoo (40g) and The Body Wash Powder (40g), both offer a unique care experience.</span></p>
+<p><span><strong>Moisturizing Powder Shampoo</strong> with organic rice and corn powder is an innovative washing powder for hair. It foams instantly and generously on contact with water like a classic shampoo. It is composed exclusively of gentle and natural origin ingredients and suits also sensitive scalps.</span></p>
+<p><span>Powder Shampoo 100% natural origin ingredients provide hydration, volume and shine to the hair.</span></p>
+<p><span><strong>The Body Wash Powder</strong> with organic oats and white clay is very innovative. It foams instantly and generously on contact with water like a traditional shower gel. It is composed exclusively of gentle and natural origin ingredients and suits sensitive skin.<br><br>It is the natural cleansing treatment for the body that gently moisturizes and cleanses all skin types. </span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> </span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span><strong>Moisturizing Powder Shampoo: </strong></span>Pour the equivalent of a teaspoon of powder into your hand, apply to already wet hair. Repeat if necessary for longer hair. Do not inhale or breathe the dust, avoid contact with eyes.</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span><strong>The Body Wash Powder: </strong></span>Pour the equivalent of a teaspoon of powder into your hand, add some drops of water and rub hands together until it foams, then apply on wet skin. Repeat if necessary.</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Do not inhale or breathe the dust, avoid contact with eyes. </span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> </span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span><strong>Moisturizing Powder Shampoo: </strong></span></span><span style="mso-bidi-font-family: Arial;"><span>Sodium Myristoyl Glutamate, Disodium Cocoyl Glutamate, Citric acid, Sodium chloride, Oryza Sativa St arch / Oryza Sativa (Rice) Starch*, Zea Mays starch / Zea Mays (Corn) Starch*, Maltodextrin, aqua/water, Kaolin, Sodium cocoate, Glucose, Parfum / Fragrance, Sodium Cocoyl Alaninate, Sodium Hyaluronate. </span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>100% of natural origin ingredients  </span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>11,12% of the total ingredients come from organic farming</span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>*Ingredients from organic farming</span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span><strong>The Body Wash Powder: </strong></span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>Sodium Lauroyl Glutamate, Aqua / Water, Kaolin, Avena Sativa Kernel Flour / Avena Sativa (Oat) Kernel Flour*, Sodium Myristoyl Glutamate, Citric Acid, Parfum / Fragrance, Glucose, Sodium Hyaluronate</span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>100% of natural origin ingredients  </span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>10% of the total ingredients come from organic farming</span></span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;"><span>*Ingredients from organic farming</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clarification</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>pulber</s:tag>
+    <s:tag>valentinipäev</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9962943480135</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945120014663</id>
+    <published>2025-01-22T13:37:24+02:00</published>
+    <updated>2025-01-22T13:37:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-soothing-body-wash-with-lavender-and-sage-essential-oils-250ml"/>
+    <title>NURME Soothing Body Wash with Lavender and Sage Essential Oils 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-soothing-body-wash-with-lavender-and-sage-essential-oils-250ml-409717.webp?v=1739897190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Awaken and nourish your skin daily with this naturally cleansing shower gel. Infused with the fragrant and therapeutic essential oils of Lavender and Clary Sage, you can start your day feeling clean and revitalised.</p>
+<p><strong>How to use: </strong>Apply on skin and rub, then rinse with water.</p>
+<p><strong>Ingredients:</strong> Aqua, Sodium Coco-Sulfate*, Coco-Glucoside*, Hydrolyzed Wheat Protein*, Glyceryl Oleate*, Sodium Benzoate*, Potassium Sorbate*, Citric Acid, Sodium Chloride, Lavandula Angustifolia Flower Oil, Salvia Sclarea Oil, Linalool**, Geraniol**, Limonene**.</p>
+<p><span style="mso-bidi-font-family: Arial;">* Natural cosmetics approved ingredient<br>** Occurs naturally in essential oils<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945120014663</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945557369159</id>
+    <published>2025-01-22T13:27:38+02:00</published>
+    <updated>2025-01-22T13:27:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-wild-woods-moisture-wash-500ml"/>
+    <title>MÁDARA Wild Woods Moisture Wash 500ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-wild-woods-moisture-wash-500ml-660570.jpg?v=1739897158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Infused with aromatic extracts of horsetail and absinthium, this heavenly scented moisture wash pays homage to Northern flora, capturing the freshness of wild woods.</p>
+<p>The dermatologically tested formula has been crafted with natural physio-moisturisers, gently cleansing and hydrating the skin to leave it soft and supple. Formulated without harsh surfactants, synthetic fragrances and artificial colourants, it is suitable for both hands and body.</p>
+<p><strong>How to use:</strong> Massage and lather over damp skin, rinse well. Follow with MÁDARA hand or body cream of choice. </p>
+<p><strong>Ingredients: </strong>Aloe Barbadensis (Aloe) Leaf Juice, Sodium Coco-sulfate, Sodium cocoamphoacetate, Cocamidopropyl Betaine, Coco-glucoside, Citric acid, Aroma, Sodium PCA, Benzyl Alcohol, Aqua, Artemisia Absinthium (Absinthium) Herb Extract, Equisetum Arvense (Horsetail) Extract, Sodium Benzoate, Potassium Sorbate, Limonene, Linalool, Eugenol, Citral</p>
+<p>COSMOS ORGANIC certified</p>
+<p>Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>madara</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945557369159</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945564021063</id>
+    <published>2025-01-22T11:19:19+02:00</published>
+    <updated>2025-01-22T11:19:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-bitter-honey-moisture-wash-500ml"/>
+    <title>MÁDARA Bitter Honey Moisture Wash 500ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-bitter-honey-moisture-wash-500ml-849581.jpg?v=1739897182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lather up and bathe in this heavenly scented body wash that captures the fragrant characteristics of dewy morning freshness, blooming meadowsweet and beautiful Northern summers.</p>
+<p>Thoughtfully crafted with natural physio-moisturisers, the caring formula nourishes as it cleanses, leaving behind soft, supple skin and an enticing scent.</p>
+<p>For use as a daily hand and body wash, it is dermatologically tested and free from harsh surfactants, synthetic fragrances and artificial colourants.</p>
+<p><strong>How to use:</strong> Massage and lather over damp skin, rinse well. Follow with MÁDARA hand or body cream of choice.  </p>
+<p><strong>Ingredients:</strong> Aloe Barbadensis (Aloe) Leaf Juice, Sodium Coco-sulfate, Sodium cocoamphoacetate, Cocamidopropyl Betaine, Citric acid, Coco-glucoside, Aroma, Benzyl Alcohol, Aqua, Sodium PCA, Sodium Benzoate, Spiraea Ulmaria (Meadowsweet) Flower Extract, Galium Verum (Lady's Bedstraw/Madara) Extract, Potassium Sorbate, Sodium Chloride, Linalool, Limonene, Citrus Aurantium Peel Oil, Juniperus Virginiana Oil, Benzyl Salicylate</p>
+<p>COSMOS ORGANIC certified</p>
+<p>Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>madara</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945564021063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945129550151</id>
+    <published>2025-01-20T11:05:06+02:00</published>
+    <updated>2025-01-20T11:05:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-mild-baby-shampoo-body-wash-200ml"/>
+    <title>NURME Mild Baby Shampoo &amp; Body Wash 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-mild-baby-shampoo-body-wash-200ml-327281.webp?v=1739897183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Baby Shampoo &amp; Shower Gel is a gentle cleanser that is particularly suitable for sensitive skin and can be used to wash the baby from their very first bath. The shampoo/shower gel contains natural wheat protein and moisturizes the skin even during dry winter months. Organic and plant-based ingredients work like magic, nourishing the skin and cleansing the child from head to tiny toes.</p>
+<p>Baby skin is soft and delicate. It is more sensitive than adult skin and can easily become dry, painful, and flaky.<span> </span>It is essential to use specially formulated products for infants to protect their delicate skin from damage.<span> </span>Nurme Baby Range products, including the Baby Shampoo &amp; Shower Gel, help care for a baby’s delicate skin.</p>
+<p>Of course, this cleansing product can also be used by all other family members, especially those with sensitive skin!<span> Nurme Baby Shampoo &amp; Shower Gel, with its pure composition, is very gentle on the skin while being effective.</span></p>
+<div>
+<div>
+<strong>How to use: </strong>Apply a small amount of shampoo/shower gel to a washcloth or palm and gently massage the baby’s head and body. Rinse with water afterward. If the product gets into the eyes, rinse thoroughly with water.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> <span>Aqua*, Coco-Glucoside*, Sodium Coco-Sulfate*, Coco-Glucoside (and) Glyceryl Oleate*, Hydrolyzed Wheat Protein*, Sodium Benzoate (and) Potassium Sorbate*, Citric Acid*, Sodium Chloride*. </span>
+</div>
+<div><span>*Natural cosmetics approved ingredient, organic.</span></div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945129550151</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945122537799</id>
+    <published>2025-01-20T10:23:18+02:00</published>
+    <updated>2025-01-20T10:23:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-earthy-spices-warming-body-wash-250ml"/>
+    <title>NURME Earthy Spices Warming Body Wash 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-earthy-spices-warming-body-wash-250ml-209851.webp?v=1739897169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Awaken and nourish your skin daily with this naturally cleansing shower gel. Infused with the fragrant and therapeutic essential oils of Coriander and Black pepper, you can start your day feeling clean and revitalised.</span></p>
+<div>
+<div>
+<strong>How to use: </strong>Apply on skin and rub gently, then rinse with water.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> Aqua, Coco-Glucoside*, Sodium Coco-Sulfate*, Glyceryl Oleate*, Citric Acid, Sodium Chloride, Hydrolyzed Wheat Protein*, Piper Nigrum Fruit Oil, Coriandrum Sativum Oil, Sodium Benzoate*, Potassium Sorbate*, Linalool**, Geraniol**, Limonene**.</div>
+<div>*Natural cosmetics approved ingredient</div>
+<div>** Occurs naturally in essential oils</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945122537799</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9222825869639</id>
+    <published>2024-05-26T10:24:41+03:00</published>
+    <updated>2024-05-26T10:24:41+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/magrada-luxurious-bubble-hand-soap-400ml"/>
+    <title>Magrada Luxurious Bubble Hand Soap 400ml</title>
+    <s:type>Hand Wash</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-luxurious-bubble-hand-soap-400ml-861222.png?v=1739897260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Hand Wash<br>
+        <strong>Price: </strong>
+            25.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>In partnership with Mulligalerii, Magrada has developed a truly luxurious and enchanting product series that combines the opulent aromas of top-quality sparkling wine with gentle botanical extracts to deliver an enjoyable experience. Gypsum flower, aloe, wash acacia, and desert date form a nurturing quartet that provides rich care for your skin. </span></p>
+<p><span>This exclusive hand soap caresses your senses while the silky soap foam cleanses and moisturizes your skin, leaving it soft and radiant. </span></p>
+<p><strong>How to use:</strong> Apply on hands, rinse with water.</p>
+<p><strong>Ingredients: </strong><span data-sheets-root="1" data-sheets-value='{"1":2,"2":"Aqua, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Cocamidopropyl Betaine, Citric Acid, Sodium Chloride, Parfum, Isostearamide MIPA, Aloe Barbadensis (Aloe Vera) Leaf Extract, Sodium Lactate, Sodium PCA, Glyceryl Laurate, Acacia Concinna (Shikakai) Fruit Extract, Balanites Aegyptiaca (Soapberry Tree) Fruit Extract, Gypsophila Paniculata (White Saponaria) Root Extract, Glycine, Fructose, Urea, Niacinamide, Inositol, Lactic Acid, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sorbic Acid\n \nIngredients of natural origin: 95,33%"}' data-sheets-userformat='{"2":13057,"3":{"1":0},"11":4,"12":0,"15":"Calibri","16":12}'>Aqua, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Cocamidopropyl Betaine, Citric Acid, Sodium Chloride, Parfum, Isostearamide MIPA, Aloe Barbadensis (Aloe Vera) Leaf Extract, Sodium Lactate, Sodium PCA, Glyceryl Laurate, Acacia Concinna (Shikakai) Fruit Extract, Balanites Aegyptiaca (Soapberry Tree) Fruit Extract, Gypsophila Paniculata (White Saponaria) Root Extract, Glycine, Fructose, Urea, Niacinamide, Inositol, Lactic Acid, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sorbic Acid</span></p>
+<p>Ingredients of natural origin: 95,33%</p>
+<p>paraben-free <span>|</span> sulphate-free <span>|</span> silicone-free <span>|</span> vegan <span>|</span> EU allergen-free <span>|</span> cruelty-free <span>|</span> with a minimal list of ingredients</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>eurovision</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9222825869639</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9222818398535</id>
+    <published>2024-05-26T10:24:41+03:00</published>
+    <updated>2024-05-26T10:24:41+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/magrada-bubble-shower-gel-400ml"/>
+    <title>Magrada Luxurious Bubble Shower Gel 400ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-luxurious-bubble-shower-gel-400ml-376033.png?v=1739897240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            25.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>In collaboration with The Bubble Gallery, Magrada has created a luxurious and enchanting product line that combines the lavish aromas of the finest quality sparkling wine and delicate botanical extracts to offer you a truly enjoyable experience. </p>
+<p>BUBBLE shower gel takes you on a luxurious relaxation journey, indulging you with the exclusive scent and a rich shower experience.</p>
+<p><strong>How to use:</strong> Apply on skin with light circular movements, rinse with water.</p>
+<p><strong>Ingredients: </strong><span data-sheets-root="1" data-sheets-value='{"1":2,"2":"Aqua, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Cocamidopropyl Betaine, Sodium Chloride, Citric Acid, Parfum, Aloe Barbadensis (Aloe Vera) Leaf Extract, Isostearamide MIPA, Panthenol, Glycerin, Glyceryl Laurate, Juniperus Communis (Juniper) Fruit Extract, Acacia Concinna (Shikakai) Fruit Extract, Balanites Aegyptiaca (Soapberry Tree) Fruit Extract, Gypsophila Paniculata (White Saponaria) Root Extract, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sorbic Acid\n \nIngredients of natural origin: 93,97% "}' data-sheets-userformat='{"2":13057,"3":{"1":0},"11":4,"12":0,"15":"Calibri","16":12}'>Aqua, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Cocamidopropyl Betaine, Sodium Chloride, Citric Acid, Parfum, Aloe Barbadensis (Aloe Vera) Leaf Extract, Isostearamide MIPA, Panthenol, Glycerin, Glyceryl Laurate, Juniperus Communis (Juniper) Fruit Extract, Acacia Concinna (Shikakai) Fruit Extract, Balanites Aegyptiaca (Soapberry Tree) Fruit Extract, Gypsophila Paniculata (White Saponaria) Root Extract, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Sorbic Acid</span></p>
+<p>Ingredients of natural origin: 93,97%</p>
+<p>paraben-free <span>|</span> sulphate-free <span>|</span> silicone-free <span>|</span> vegan <span>|</span> EU allergen-free <span>|</span> cruelty-free <span>|</span> with a minimal list of ingredients</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>eurovision</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9222818398535</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/8975920726343</id>
+    <published>2024-05-21T11:06:21+03:00</published>
+    <updated>2024-05-21T11:06:21+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/oak-shower-gel-imperial-for-men"/>
+    <title>Magrada Oak Shower Gel For Men 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-oak-shower-gel-for-men-250ml-478014.png?v=1739897400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Your healthy, clean, moisturized skin! The sulphate-free shower gel is designed specifically for men and contains aloe, which moistens and calms the skin, and the powerful oak root extract, which pampers and caresses irritated skin.</p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Dandelion extract</span> has anti-inflammatory and anti-irritation effect on the skin.</li>
+<li class="Body">
+<span style="text-decoration: underline;">Aloe extract </span>promotes wound healing, moisturizes, refreshes, is anti-inflammatory, soothes, softens irritation and protects the skin.</li>
+<li>
+<span style="text-decoration: underline;">Oak root extract </span>has natural antimicrobial properties, soothing irritated and swollen skin.</li>
+</ul>
+<p>The fragrance is derived from the blossoms of the evergreen shrub <em>Osmanthus</em>, the aroma is fresh and exquisite. The bush is also known as devilwood, because its smell is nothing less than tempting. Soft, woody, sensual, milky and leathery notes emerge from the fragrance notes.</p>
+<p><strong>How to use: </strong><span>Apply the shower gel on damp skin with light circular movements. Rinse and dry.</span></p>
+<p><strong>Ingredients: </strong>Aqua, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Cocamidopropyl Betaine, Sodium Chloride, Citric Acid, Taraxacum Officinale (Dandelion) Extract, Aloe Barbadensis (Aloe Vera) Leaf Extract, Quercus Robur (Oak) Root Extract, Argan Oil Glycereth-8 Esters, Isostearamide MIPA, Panthenol, Parfum, Glyceryl Laurate, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate</p>
+<p>Ingredients of natural origin: 91,64%.</p>
+<p>The list of ingredients may be changed. Please see the packaging for the updated and most accurate list of ingredients.</p>
+<p><span>paraben-free </span><span>|</span><span> sulphate-free </span><span>|</span><span> silicone-free </span><span>|</span><span> vegan </span><span>|</span><span> alcohol-free | EU allergen-free | cruelty-free </span><span>|</span><span> hand-made </span><span>|</span><span> with a minimal list of ingredients</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/8975920726343</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

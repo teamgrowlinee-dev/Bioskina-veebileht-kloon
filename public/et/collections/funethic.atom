@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/funethic.atom"/>
+  <title>bioskina</title>
+  <updated>2024-02-20T23:12:50+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/9051855487303</id>
+    <published>2024-02-20T23:12:50+02:00</published>
+    <updated>2024-02-20T23:12:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/deodorant-cosmebio-alumiiniumsooladeta-alkoholita-parabeenideta-50ml"/>
+    <title>Deodorant Cosmébio ilma alumiiniumisooladeta, alkoholita ja parabeenideta 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>FUN!ETHIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/deodorant-cosmebio-without-aluminum-salts-without-alcohol-without-parabens-50ml-431679.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FUN!ETHIC<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            6.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sertifitseeritud orgaaniline ja looduslik alkoholivaba&nbsp;"Avoir 20 Ans" rulldeodorant tagab kaitse 24 tunniks. Deodorant on alumiiniumsoolade ja parabeenide vaba. Koostises sisaldub niisutav aloe vera ning see on ideaalne pealekandmiseks peale karvade eemaldamist, et ära hoida punetust.&nbsp;Selle antibakteriaalsed koostisained takistavad ka depilatsioonijärgsete vistrike teket. Rullik võimaldab täpset pealekandmist ja ei määri riideid.</p>
+<p>Sobib kõikidele nahatüüpidele. Selle kreemjas tekstuur ja väga kerge, 100% looduslik apelsiniõiene aroom rõõmustavad teid iga päev.&nbsp;</p>
+<p><b>Kasutamine: </b>Kasuta&nbsp;"Avoir 20 Ans" deodoranti hommikul ja/või õhtul pärast duši all käimist puhtal ja kuival nahal, kandes see õrnalt kaenlaalustele.&nbsp;Kui tunned vajadust, korda pealekandmist päeva jooksul.<br><br><span class="font-600"><b>Koostisosad:</b>&nbsp;</span>Aqua, hordeum vulgare stem water*, caprylic/capric triglycerides, triethyl citrate, cetearyl alcohol, glyceryl stearate, glycerin, stearic acid, prunus persica juice, aloe vera barbadensis powder*, tocopherol, helianthus annuus seed oil, salvia officinalis (sage) oil, sodium caproyl/lauroyl lactyl lactate, sodium lauroyl glutamate, xanthan gum, citric acid, sodium benzoate, potassium sorbate, benzyl alcohol, dehydroacetic acid, fragrance, linalool, limonene, geraniol, citral.<br><br><!--StartFragment--><span data-mce-fragment="1">* Mahepõllumajandusest pärit koostisosa</span><br data-mce-fragment="1"><span data-mce-fragment="1">** Töödeldud koostisosadest, mis pärinevad mahepõllumajandusest</span></p>
+<p><span data-mce-fragment="1">Valmistatud Prantsusmaal.</span></p>
+<!--StartFragment--><ul><li>99.5% looduslikud ja 12,9% mahepõllumajandusest pärinevad koostisosad</li><li>Kõik toorained töödeldud Prantsusmaal</li><li>Deodorant valmistatud Prantsusmaal (Alsace'is)</li><li>Puuduvad vastuolulised koostisosad, 100% hea teie nahale ja keskkonnale</li><li>Palmiõli ja selle derivaatide vaba</li><li>Pakendamine: 100% ringlussevõetud ja taaskasutatavad pudelid, mis on valmistatud Euroopas</li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>funethic</s:tag>
+    <s:tag>keha</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9051855487303</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.90</s:price>
+      <s:sku/>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9051848769863</id>
+    <published>2024-02-20T23:04:24+02:00</published>
+    <updated>2024-02-20T23:04:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/cosmos-orgaaniline-sertifitseeritud-extra-sobralik-dusigeel-varskendav-tooniline-lohnaline-250ml"/>
+    <title>Cosmos Organic sertifitseeritud ekstraõrn dušigeel - Refreshing Tonic Scent 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>FUN!ETHIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/cosmos-organic-certified-extra-gentle-shower-gel-refreshing-tonic-scent-250ml-391460.png?v=1739897343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FUN!ETHIC<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sertifitseeritud orgaaniline ja eriti õrn looduslik dušigeel kosutava ja värskendava sidrunaloisia lõhnaga.&nbsp;Rikkalikult looduslikku glütseriini sisaldav, puhastab ja niisutab see nahka õrnalt.</p>
+<p>Selle eeskujulik koostis austab teie nahka ja loodust: sulfaatide, parabeenide, PEG, fenoksüetanooli ja kokamidopropüül-betaiini vaba toode.&nbsp;Geeli&nbsp;kreemjas tekstuur, õrn vaht ja värske sidrunaloisia lõhn loovad duši all käimisest tõelise lõõgastumishetke.</p>
+<p>Dušigeel sobib kõikidele nahatüüpidele ja seda naudib kogu pere. Alla 3-aastastele lastele ei soovitata dušigeeli kasutada.</p>
+<p><b>Kasutamine: </b>Dušigeeli võib kasutada igapäevaselt näol ja kehal. Määri geel nahale, väldi silmaümbrust. Loputa ja kuivata.&nbsp;&nbsp;</p>
+<p><span class="font-600"><b>Koostisosad:</b>&nbsp;</span>Aqua (water), hordeum stem water*, lauryl glucoside, sodium cocoyl glutamate, glycerin, coco glucoside, citric acid, glyceryl oleate, parfum (fragrance), citral, limonene, sodium benzoate, potassium sorbate.<br><br><!--StartFragment--><span data-mce-fragment="1">* Mahepõllumajandusest pärit koostisosa</span><br data-mce-fragment="1"><span data-mce-fragment="1">** Töödeldud koostisosadest, mis pärinevad mahepõllumajandusest</span><!--EndFragment--><br><br><span data-mce-fragment="1">Valmistatud Prantsusmaal.</span><br></p>
+<!--StartFragment--><ul><li>99.5% looduslikud ja 10,5% mahepõllumajandusest pärinevad koostisosad</li><li>Kõik toorained töödeldud Prantsusmaal</li><li>Dušigeel valmistatud Prantsusmaal (Alsace'is)</li><li>Puuduvad vastuolulised koostisosad, 100% hea teie nahale</li><li>Palmiõli ja selle derivaatide vaba</li><li>Ei reosta saasteainetega vett</li><li>Pakendamine: 100% ringlussevõetud ja taaskasutatavad pudelid, mis on valmistatud Euroopas</li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>funethic</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9051848769863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.50</s:price>
+      <s:sku/>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9051838644551</id>
+    <published>2024-02-20T22:59:50+02:00</published>
+    <updated>2024-02-20T22:59:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/cosmos-orgaaniline-sertifitseeritud-extra-sobralik-dusigeel-diskreetne-saliini-lohnaline-250ml"/>
+    <title>Cosmos Organic sertifitseeritud ekstra õrn dušigeel - Discreet Saline Scent 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>FUN!ETHIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/cosmos-organic-certified-extra-gentle-shower-gel-discreet-saline-scent-250ml-846314.png?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FUN!ETHIC<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>Sertifitseeritud orgaaniline ja eriti õrn looduslik dušigeel diskreetse meresoola lõhnaga. Rikkalikult looduslikku glütseriini sisaldav, puhastab ja niisutab see nahka õrnalt.</p>
+<p>Selle eeskujulik koostis austab teie nahka ja loodust: sulfaatide, parabeenide, PEG, fenoksüetanooli ja kokamidopropüül-betaiini vaba toode. Geeli kreemjas tekstuur, õrn vaht ja värske sidrunaloisia lõhn loovad duši all käimisest tõelise lõõgastumishetke.</p>
+<p>Dušigeel sobib kõikidele nahatüüpidele ja seda naudib kogu pere. Alla 3-aastastele lastele ei soovitata dušigeeli kasutada.</p>
+<p><b>Kasutamine: </b>Dušigeeli võib kasutada igapäevaselt näol ja kehal. Määri geel nahale, väldi silmaümbrust. Loputa ja kuivata.  </p>
+<p><b>Koostisosad:&nbsp;</b>Aqua (water), hordeum stem water*, lauryl glucoside, sodium cocoyl glutamate, glycerin, coco glucoside, citric acid, glyceryl oleate, parfum (fragrance), benzyl salicylate, geraniol, sodium benzoate, potassium sorbate.<br><br><span data-mce-fragment="1">* Mahepõllumajandusest pärit koostisosa</span><br data-mce-fragment="1"><span data-mce-fragment="1">** Töödeldud koostisosadest, mis pärinevad mahepõllumajandusest</span><br><br><span data-mce-fragment="1">Valmistatud Prantsusmaal.</span><br></p>
+<ul><li>99.5% looduslikud ja 10,5% mahepõllumajandusest pärinevad koostisosad</li><li>Kõik toorained töödeldud Prantsusmaal</li><li>Dušigeel valmistatud Prantsusmaal (Alsace'is)</li><li>Puuduvad vastuolulised koostisosad, 100% hea teie nahale</li><li>Palmiõli ja selle derivaatide vaba</li><li>Ei reosta saasteainetega vett</li><li>Pakendamine: 100% ringlussevõetud ja taaskasutatavad pudelid, mis on valmistatud Euroopas</li></ul>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>funethic</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9051838644551</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.50</s:price>
+      <s:sku/>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9051830911303</id>
+    <published>2024-02-20T22:46:52+02:00</published>
+    <updated>2024-02-20T22:46:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/cosmos-orgaaniline-sertifitseeritud-extra-sobralik-dusigeel-mahlakas-maasikas-250ml"/>
+    <title>Cosmos Organic sertifitseeritud ekstraõrn dušigeel - Fruity Wild Strawberry 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>FUN!ETHIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/cosmos-organic-certified-extra-gentle-shower-gel-fruity-wild-strawberry-250ml-376157.png?v=1739897340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FUN!ETHIC<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"></span>Sertifitseeritud orgaaniline ja eriti õrn looduslik dušigeel mahlase ja puuviljase metsmaasika lõhnaga. Rikkalikult looduslikku glütseriini sisaldav, puhastab ja niisutab see nahka õrnalt.</p>
+<p>Selle eeskujulik koostis austab teie nahka ja loodust: sulfaatide, parabeenide, PEG, fenoksüetanooli ja kokamidopropüül-betaiini vaba toode. Geeli kreemjas tekstuur, õrn vaht ja värske sidrunaloisia lõhn loovad duši all käimisest tõelise lõõgastumishetke.</p>
+<p>Dušigeel sobib kõikidele nahatüüpidele ja seda naudib kogu pere. Alla 3-aastastele lastele ei soovitata dušigeeli kasutada.</p>
+<p><b>Kasutamine: </b>Dušigeeli võib kasutada igapäevaselt näol ja kehal. Määri geel nahale, väldi silmaümbrust. Loputa ja kuivata.  </p>
+<p><b>Koostisosad:&nbsp;</b>Aqua (water), hordeum stem water*, lauryl glucoside, sodium cocoyl glutamate, glycerin, coco glucoside, citric acid, glyceryl oleate, parfum (fragrance), sodium benzoate, potassium sorbate.<br><br><span data-mce-fragment="1">* Mahepõllumajandusest pärit koostisosa</span><br data-mce-fragment="1"><span data-mce-fragment="1">** Töödeldud koostisosadest, mis pärinevad mahepõllumajandusest</span><br><br><span data-mce-fragment="1">Valmistatud Prantsusmaal.</span><br></p>
+<ul><li>99.5% looduslikud ja 10,5% mahepõllumajandusest pärinevad koostisosad</li><li>Kõik toorained töödeldud Prantsusmaal</li><li>Dušigeel valmistatud Prantsusmaal (Alsace'is)</li><li>Puuduvad vastuolulised koostisosad, 100% hea teie nahale</li><li>Palmiõli ja selle derivaatide vaba</li><li>Ei reosta saasteainetega vett</li><li>Pakendamine: 100% ringlussevõetud ja taaskasutatavad pudelid, mis on valmistatud Euroopas</li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>funethic</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9051830911303</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+</feed>

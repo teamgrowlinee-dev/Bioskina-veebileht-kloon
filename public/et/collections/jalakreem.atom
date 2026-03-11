@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/jalakreem.atom"/>
+  <title>bioskina</title>
+  <updated>2025-02-28T10:56:42+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/9674249273671</id>
+    <published>2025-02-28T10:56:42+02:00</published>
+    <updated>2025-02-28T10:56:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-repairing-foot-cream-blue-monday-50ml"/>
+    <title>HOIA Sügavhooldav jalakreem Blue Monday 50ml</title>
+    <s:type>Foot Cream</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-repairing-foot-cream-blue-monday-50ml-563684.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Foot Cream<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kodumaise raudrohu ja saialille baasil valmistatud kiiresti imenduv jalakreem on rikkaliku koostisega, kuid ei jäta nahka rasvaseks. Jalakreem sisaldab hooldavat sheavõid, nahka pehmendavat vetikat, õlitaime fütosteroole ja teisi innovaatilisi koostisosasid, mis aitavad efektiivselt leevendada nahalõhesid, ketendust, kuivust ja hoida jalanaha korras ja pehmena. Lisaks kodumaisele raudrohule ja saialillele sisaldab kreem rosmariini ja piparmündi eeterlikke õlisid, mis mõjuvad jalgu värskendavalt ja vereringet ergutavalt.</p>
+<p><b>Kasutamine:</b>&nbsp;Kkanna väike kogus jalgadele ja masseeri imendumiseni. Sobib kasutamiseks ka meestele!</p>
+<p><b>Koostisosad:</b>&nbsp;*Achillea Millefolium Distillate, *Butyrospermum Parkii Butter, Crambe Abyssinica Seed Oil Phytosterol, Sargassum Fluitans/Natans Extract, *Cocos Nucifera Oil, Vegetable Collagen, Saccharide Isomerate, Hydrolyzed Oat Protein, Betaine, Aqua, Sodium Levulinate, *Gycerin, *Clitoria Ternatea Flower Extract, Xanthan Gum, Leuconostoc/Radish Root Ferment Filtrate, *Aloe Barbadensis Leaf Juice Extract, *Calendula Officinalis Flower Extract, Helianthus Annuus Seed oil, Tocopherol, Sodium Citrate, Rosimarinus Officinalis Herb oil, Mentha Piperita Leaf oil, Beta-Clucan, Pectin, Pentylene Glycol, Citric Acid, Sodium Anisate, **Limonene, **Linalool.</p>
+<p>*Mahepõllumajanduslik päritolu. **Eeterlike õlide looduslikud komponendid.</p>
+<p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>jalakreem</s:tag>
+    <s:tag>keha</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9674249273671</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014159405383</id>
+    <published>2025-02-25T13:42:11+02:00</published>
+    <updated>2025-02-25T13:42:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-protecting-honey-foot-cream-70ml"/>
+    <title>LUUV Kaitsev mee jalakreem 70ml</title>
+    <s:type>Foot Cream</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-protecting-honey-foot-cream-70ml-664363.png?v=1740560023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Foot Cream<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mee jalakreem – sinu õnnelike ja tervete jalgade jaoks!</p><p>Ole valmis oma jalgu hellitama tootega, mis pole kasulik mitte ainult sinule, vaid ka planeedile. LUUV mee jalakreem on sertifitseeritud tunnustatud ECOCERT / COSMOS ökosertifikaadiga, mis tagab, et teed valiku, mis on nii nahasõbralik kui ka keskkonnateadlik. Kasuliku loodusliku mesilasvahaga rikastatud kreem loob nahale kaitsekihi, hoides seda niisutatuna ja takistades selle kuivamist. Kreemi on lisatud ka mahlakas mangovõi ja toitev kandelillavaha, mis koostoimes toidavad nahka sügavuti.  Unusta karedad, lõhenenud kannad – lihtsalt pehmed, niisutatud ja rõõmsad jalad! Lisa mee jalakreem oma igapäevasessu rutiini ning sinu jalad tänavad sind igal sammul.</p><ul><li>Toidab ja niisutab</li><li>Mesilasvaha moodustab nahale loodusliku kaitsekihi</li><li>Rikkalik kreem külmal aastaajal</li><li>Kerge mee lõhnaga</li><li>ECOCERT/COSMOS sertifikaadiga</li></ul><p><u>Mis teeb meest nii tõhusa kompomendi kosmeetikatoodetes?</u></p><ul><li><u>Kõrge suhkrusisaldus </u>– mesi sisaldab glükoosi ja fruktoosi. Suhkrutel on palju erinevaid rolle, millest üks tähtsamaid on rakkude toitmine. Kosmeetilisel kasutamisel on sellel noorendav toime mitte ainult nahale, vaid ka juustele.</li><li><u>Mee tihedus ja viskoossus</u> – see loob kaitsebarjääri meie nahale ning on oluline roll niiskuse säilitamiseks nahas. Samuti loob see haavadele kaitsva kihi, mis võimaldab paranemist ilma saastumiseta.</li><li><u>Antibakteriaalsed omadused</u> – enamasti kasutatakse mee omadust meditsiinilistel eesmärkidel. Kuid see võib osutuda väga kasulikuks ka kosmeetikatoodete kasutamisel. Mesi on väga kasulik selliste probleemide lahendamisel nagu erinevad nahalööbed või peanaha infektsioonid.</li></ul><p>looduslik | julmusevaba | jätkusuutlik | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Kanna kreemi puhtale nahale ja hõõru imendumiseni. Kreemi võib kasutada ka jalamaskina, võta suurem kogus kreemi ning ära hõõru seda täiesti sisse, seejärel pane jalga sokid ning lase kreemil mõnda aega või kasvõi terve öö toimida.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Mangifera Indica seed (Mango) Butter, Cocos Nucifera Oil, Glycerin, Olus Oil, Hydrogenated Vegetable Oil, Candelilla Cera, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glyceryl Stearate SE, Cera Alba (Beeswax), Persea Gratissima(Avocado) oil, Triethyl Citrate, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Hippophae Rhamnoides Fruit Oil, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Aroma, Citral, D-limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>jalakreem</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014159405383</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939545588039</id>
+    <published>2025-01-19T10:38:22+02:00</published>
+    <updated>2025-01-19T10:38:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-foot-balm-50ml"/>
+    <title>Vielö Orgaaniline jalapalsam 50ml</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-foot-balm-50ml-911694.jpg?v=1739897171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Facial Mask<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline jalapalsam on spetsiaalselt loodud kuivade jalgade ja lõhenenud kandade niisutamiseks ja pehmendamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), nisuiduõli (kaitsev), hüaluroonhape (niisutav), orgaanilised saialille (taastav), lavendli (rahustav) ja salvei (tugevdav)  ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine:</b> Kanna puhtale ja kuivale nahale ning masseeri hästi sisse. Regulaarne kasutamine aitab kaitsta nahka kuivamise eest.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate /Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Polyglyceryl-4 Caprate*, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (88,9%)<br>*** looduslikust eeterlikust õlist</p><p>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jalakreem</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939545588039</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

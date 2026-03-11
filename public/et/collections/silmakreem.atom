@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/silmakreem.atom"/>
+  <title>bioskina</title>
+  <updated>2025-02-28T09:54:54+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10019676324167</id>
+    <published>2025-02-28T09:54:54+02:00</published>
+    <updated>2025-02-28T09:54:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/upcircle-beauty-eye-cream-with-cucumber-hyaluronic-acid-coffee-15ml"/>
+    <title>UpCircle Silmakreem kurgi, hüaluroonhappe + kohviga, 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>UpCircle Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/upcircle-beauty-eye-cream-with-cucumber-hyaluronic-acid-coffee-15ml-835499.png?v=1740808675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpCircle Beauty<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrn ja dermatoloogiliselt heakskiidetud silmakreem hüaluroonhappe ja kohviga annab sära, värskendab ja uuendab, vähendades tumedaid silmaaluseid ja peente joonte teket.<br><br>Mitme auhinna võitja sobib kõikidele nahatüüpidele. Kasuta nii hommikul kui õhtul. Silmaümbruskreemi tuleks kasutada esimese osana nahahooldusrutiini niisutavas etapis.&nbsp;<br><br>Inspireeriv, taaskasutav, meeliülendav:&nbsp;tumedaid silmaaluseid kirgastav silmakreem on valmistatud ümbertöödeldud kohvipurust saadud kohviõlist ja põletikuvastasest vahtrakooreekstraktist, mis on puidutööstuse kõrvalsaadus.</p><p><b>Kasutamine:</b> Kanna väike kogus toodet silmaümbrusele. Kasuta hommikul ja õhtul.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Butyrospermum Parkii (Shea) Butter, Glycerin, C14-22 Alcohols, Helianthus Annuus (Sunflower) Seed Oil*, Vitis Vinifera (Grape) Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract*, Xanthan Gum, Coffea Arabica (Coffee) Seed Extract, Acer Rubrum (Maple) Extract, Sodium Hyaluronate, Olea Europaea (Olive) Fruit Oil, Calendula Officinalis Extract*, Rosmarinus Officinalis (Rosemary) Leaf Extract*, Anthemis Nobilis (Chamomile) Flower Oil, Tocopherol, Sodium Hydroxide, C12-20 Alkyl Glucoside, Potassium Sorbate, Sorbic Acid, Citric Acid, Sodium Benzoate, Salicylic Acid, Benzyl Alcohol, Limonene**</p><p>*Mahepõllumajanduslikult kasvatatud koostisosad</p><p>**Loetletud eeterlike õlide looduslik koostisosad<br><br>99% LOODUSLIKUD KOOSTISOSAD<br><br>Käsitsi valmistatud | Sotsiaalne hüve | Taaskasutatud materjalid | Nulljäätmed | Julmusevaba | Vegan | Loodusvarad | Mittetoksiline<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:tag>upcircle</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019676324167</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9995972968775</id>
+    <published>2025-02-17T09:35:01+02:00</published>
+    <updated>2025-02-17T09:35:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-age-defence-eye-cream-15ml"/>
+    <title>BERRICHI Silmakreem Eye 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-age-defence-eye-cream-15ml-587219.png?v=1739897155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Võimsate looduslike koostisosade ja teaduspõhise koostisega sära andev silmakreem vananevale nahale.</p><p>Kergelt imenduv siidine silmakreem niisutab sügavuti ja toidab õrna silmaümbruse nahka. Silmakreem leevendab ja ennetab vananemise märke, vähendab tumedaid silmaaluseid ning aitab taastada naha loomuliku elastsuse ja kaitsevõime.</p><p>Silmakreem sisaldab võimsaid antioksüdante furtsellaraani ja astaksantiini, mille vananemisvastast ja sügavniisutavat toimet on kinnitanud paljud teaduslikud uuringud. Furtsellaraani saadakse Eesti vetes kasvanud vetikatest, astaksantiini teistest puhastest ja põhjamaistest meretaimedest.</p><p>Tumedate silmaaluste ja pigmentatsiooniga seotud muresid leevendavad koji-hape ning alfa-arbutiin.</p><ul><li>Niisutab ja toidab silmaümbruse õrna nahka</li><li>Siidine ja pehme tekstuur</li><li>Kergesti imenduv</li><li>Ennetab ning leevendab vananemise märke</li><li>Vähendab tumedaid silmaaluseid ja pigmendilaike</li><li>Koostises sisaldub furtsellaraan, asaksantiin, aloe vera, <i>cacay-</i>õli, aprikoosituumaõli, avokaadoõli, koji-hape ja alfa-arbutiin</li></ul><p>Sobib kõikidele nahatüüpidele vanuses 25+</p><p><b>Kasutamine:</b> Kanna väike kogus kreemi õrnalt tupsutades silmaümbrusele ja kulmuluule. Ära pane kreemi silma limaskesta lähedale. Tulemusi märkad 2-nädalase kasutamisega.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Persea Gratissima oil (Organic Avocado Oil)*, Prunus Armeniaca kernel oil (Organic Apricot kernel oil)*, Cetearyl Olivate/Sorbitan Olivate (Olivem1000), Cetearyl Alcohol, Simmondsia Chinesis seed oil (Organic Jojoba oil)*, Caryodendron Orinocense seed oil (Cacay Oil), Glycerin**, Aloe Barbadensis Leaf Juice/Potassium Sorbate/Sodium Benzoate/Citric acid (Aloe Vera), Dehydroacetic Acid/Benzoic Acid/Benzyl Alcohol/Sorbic Acid (Sharomix705), Koji acid, A-arbutin, Furcellaria Lumbricalis extract (Furcellaran), Haemotococcus pluvialis/Tocopherol (Astaxanthin oil)</p><p>* Mahepõllumajandusest pärit koostisosad<br>﻿** Valmistatud orgaanilistest koostisosadest</p><p>98,9% looduslikku päritolu</p><p>Ei sisalda parabeene, silikoone, mineraalõlisid, sünteetilisi maitse- ja värvaineid. Julmusevaba ja vegan. Sobib tundlikule ja allergilisele nahale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9995972968775</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9941163049287</id>
+    <published>2025-01-19T13:44:23+02:00</published>
+    <updated>2025-01-19T13:44:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-organic-sensitive-eye-cream-serum-15ml"/>
+    <title>HEJ Sensitive silmakreem-seerum 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-sensitive-eye-cream-serum-15ml-872495.png?v=1739897181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            13.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silmaümbruse kreem-seerumi õrn tekstuur sulab teie naha soojuse toimel. Skvalaan vähendab niiskuskadu, võitleb kuivuskortsude vastu ja annab nahale siidise tunde. Kreemis sisalduvad harilik nööpkakar ja safloorõli on turset leevendava ja rahustava toimega.</p><ul><li>Silmaümbruse siidine hooldus</li><li>Harilik nööpkakar vähendab  peeneid joonekesi ja punetust</li><li>Skvalaan säilitab niiskuse silmade ümber</li><li>Eriti sobilik tundlikule nahale</li><li>Vähendatud allergeenide sisaldusega parfüümiõli, 100% vegan ja looduslik</li></ul><p><b>Kasutamine: </b>Jaota üks pumbatäis seerumit sõrmeotstele. Patsuta õrnalt silmade all olevale nahale.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Helianthus Annuus Seed Oil*, Glycerin, Squalane, Coco-Caprylate, Polyglyceryl-3 Dicitrate/ Stearate, Cetearyl Alcohol, Cannabis Sativa Seed Oil*, Carthamus Tinctorius Seed Oil, Oleic Acid, Sodium Levulinate, Hypericum Perforatum Extract*, Avena Sativa Kernel Extract*, Chamomilla Recutita Flower Extract*, Triethyl Citrate, Terminalia Arjuna Bark Extract, Xanthan Gum, Tocopherol, Spilanthes Acmella Flower/Leaf/Stem Extract, Astragalus Membranaceus Root Extract, Lecithin, Uniquinone Ubiquinone, Citric Acid, Sodium Anisate</p><p>*koostisosad sertifitseeritud mahepõllumajandusest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9941163049287</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.10</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9674508927303</id>
+    <published>2024-10-04T15:11:44+03:00</published>
+    <updated>2024-10-04T15:11:44+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-super-firming-eye-serum-instant-effect-10ml"/>
+    <title>HOIA Supertrimmiv silmaseerum Instant Effect 10ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-super-firming-eye-serum-instant-effect-10ml-615777.png?v=1739897243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silmaseerum sisaldab ülitõhusaid innovaatilisi aktiivaineid, taimseid A- ja C- vitamiine, botoksilaadseid peptiide, kofeiini, niatsinamiidi, hüaluroonhapet, kibuvitsaõli, taimset retinooli bakuchioli ning Saaremaal kasvatatud ja destilleeritud rosmariini ja piparmündi hüdrosooli.&nbsp;See rikkalik kokteil jahutab ja rahustab silmaaluseid, muudab need koheselt siledamaks, aitab siluda väikseid kortsukesi, vähendada tumedaid silmaaluseid ning hoida silmade piirkonna särava, niisutatu ja kaunina. Toode on kerge ja kiiresti imenduv.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;kanna väga väike kogus silma piirkonda ja masseeri imendumiseni.</p>
+<p><b>Koostisosad:&nbsp;</b>*Rosimarinus Officinalis Distillate, *Mentha Piperita Distillate, Sargassum Fluitans/Natans Extract, *Rosa Canina Seed oil, Tetrapeptide-21, Nicotanamid, Caffeine, Bakuchiol, Ascorbyl Tetraisopalmitate, Sodium Hyaluronate, Hydrolized Sodium Hyaluronate, Tocopheryl-acetat, Hydroxypropyl Methylcellulose, Pullulan, Porphyridium Cruentum Extract, Butylene Glycol, Glyerin, Haematococcus Pluvialis extract, Sodium Levulinate, Sodium Anisate, Magnolia Officinalis Bark extract, Glyceryl Caprylate, Pentylene Glycol, Citric acid, Mica , CI77891, CI 77491, Lauroyl Lysine.</p>
+<p>*Mahepõllumajanduslik päritolu</p>
+<p></p>
+<p>Valmistatud käsitsi Saaremaal</p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9674508927303</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">38.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9343458181447</id>
+    <published>2024-07-18T11:01:00+03:00</published>
+    <updated>2024-07-18T11:01:00+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-anti-fatigue-eye-rescue-cream-15ml"/>
+    <title>MÁDARA väsimusmärkide vastane silmakreem 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-anti-fatigue-eye-rescue-cream-15ml-826053.jpg?v=1739897249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            32.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unikaalse mitmekihilise tekstuuriga silmakreem pinguldab nahka ja silub väsimuse märke. Koostise põhiosa moodustab Smart Antioxidant complex sambliku, sammalde, sõnajala ja kortslehe ekstraktidest, mis niisutab ja korrigeerib silmaümbruse peeneid jooni ja kortse.</p>
+<p>Looduslik estsiin ergutab vereringet ja tugevdab kapillaare, et vähendada turses ja tumedaid silmaaluseid ning muudab silmaümbruse heledamaks.</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna 4 väikest tilka silmaümbruse nahale ja tupsuta õrnalt sisse. Kasuta hommikuti ja õhtuti.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Simmondsia Chinensis (Jojoba) Seed Oil, Glycerin, Cetearyl Alcohol, Isoamyl Laurate, Arachidyl Alcohol, Behenyl Alcohol, Dipalmitoyl hydroxyproline, Sodium levulinate, Palmitic acid, Stearic Acid, Arachidyl Glucoside, Caffeine, Propanediol, Aroma, Glyceryl Caprylate, Sodium anisate, CI 77891 (Titanium Dioxide), Mica (CI 77019), Xanthan Gum, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Alchemilla Vulgaris (Lady's Mantle) Extract, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Camomile) Flower Extract, Coco-glucoside, Sodium PCA, Xylitylglucoside, Anhydroxylitol, Ascorbyl Palmitate, Hydrolyzed Hyaluronic Acid, Polypodium Vulgare (Fern) Rhizome Extract, Sodium Hyaluronate, Sodium phytate, Tocopherol, Xylitol, Potassium Hydroxide, Cetraria Islandica (Lichen) Thallus Extract, Citric acid, Sphagnum Magellanicum (Moss) Extract, Vanillin, Escin, Benzyl Salicylate, Limonene, Citral, Linalool, Eugenol</p>
+<p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9343458181447</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9042533810503</id>
+    <published>2024-02-16T15:38:29+02:00</published>
+    <updated>2024-02-16T15:38:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-silmakreem-15ml"/>
+    <title>Vielö Orgaaniline silmakreem 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-eye-cream-15ml-750536.jpg?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<span data-mce-fragment="1">Toitev orgaaniline silmakreem, mis pakub pikaajalist niisutust ja hooldab tõhusalt õrna silmaümbruse nahka.<br data-mce-fragment="1"><br data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), orgaaniline kibuvitsaseemneõli (rahustav), hüaluroonhape (niisutav), orgaaniline päevalilleõli (hooldav) ja orgaanilised kummeli (ergutav), silmarohu (tugevdav) ja kassinaerise (kaitsev) ekstraktid.&nbsp;<br data-mce-fragment="1"><br data-mce-fragment="1">Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br data-mce-fragment="1"><br data-mce-fragment="1">Kasutamine: </b>Kanna silmapiirkonnale ja masseeri õrnalt kuni imendumiseni. Kasuta hommikuti ja õhtuti.</span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b><br></b></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad: </b>Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Polyglyceryl-3 Dicitrate/ Stearate*, Glycerin**, Helianthus Annuus Seed Oil**, Cetyl Alcohol*, Aqua*, Prunus Armeniaca Kernel Oil**, Triticum Vulgare (Wheat) Germ Oil**, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Hyaluronate*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Potassium Sorbate, Citric Acid*, Polyglyceryl-4 Caprate*, Matricaria Chamomilla Flower Extract**, Malva Sylvestris Leaf Extract**, Euphrasia Officinalis Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Lavandula Angustifolia Flower Oil**, Limonene**/***, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Citral**/***.<p>* looduslikust päritolust (99,7%)<br>** sertifitseeritud mahepõllumajanduslik (86,4%)<br>*** looduslikest eeterlikest õlidest.</p>
+</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>Valmistatud käsitsi Austrias.<br><br><!--StartFragment-->Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9042533810503</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">47.00</s:price>
+      <s:sku/>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

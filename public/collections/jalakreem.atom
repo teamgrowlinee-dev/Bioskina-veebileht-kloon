@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/jalakreem.atom"/>
+  <title>bioskina</title>
+  <updated>2025-02-28T10:56:42+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/9674249273671</id>
+    <published>2025-02-28T10:56:42+02:00</published>
+    <updated>2025-02-28T10:56:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-repairing-foot-cream-blue-monday-50ml"/>
+    <title>HOIA Repairing Foot Cream Blue Monday 50ml</title>
+    <s:type>Foot Cream</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-repairing-foot-cream-blue-monday-50ml-563684.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Foot Cream<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Made from local yarrow and marigold, is quickly absorbed and rich in composition but does not leave the skin greasy. The foot cream contains nourishing shea butter, skin-softening seaweed, plant-derived phytosterols, and other innovative ingredients that effectively help relieve cracks, flakiness, dryness, and keep the skin of the feet in good condition and soft.</span><br><span>In addition to local yarrow and marigold, the cream contains essential oils of rosemary and peppermint, which have a refreshing and circulation-stimulating effect on the feet.</span></p>
+<p><strong>How to use:</strong> <span>Apply a small amount to the feet and massage until absorbed. Suitable for use by men too!</span></p>
+<p><strong>Ingredients:</strong> <span>*Achillea Millefolium Distillate, *Butyrospermum Parkii Butter, Crambe Abyssinica Seed Oil Phytosterol, Sargassum Fluitans/Natans Extract, *Cocos Nucifera Oil, Vegetable Collagen, Saccharide Isomerate, Hydrolyzed Oat Protein, Betaine, Aqua, Sodium Levulinate, *Gycerin, *Clitoria Ternatea Flower Extract, Xanthan Gum, Leuconostoc/Radish Root Ferment Filtrate, *Aloe Barbadensis Leaf Juice Extract, *Calendula Officinalis Flower Extract, Helianthus Annuus Seed oil, Tocopherol, Sodium Citrate, Rosimarinus Officinalis Herb oil, Mentha Piperita Leaf oil, Beta-Clucan, Pectin, Pentylene Glycol, Citric Acid, Sodium Anisate, **Limonene, **Linalool. </span></p>
+<p><span>*Organic. **Natural component of essential oil.</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>jalakreem</s:tag>
+    <s:tag>keha</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674249273671</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014159405383</id>
+    <published>2025-02-25T13:42:11+02:00</published>
+    <updated>2025-02-25T13:42:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-protecting-honey-foot-cream-70ml"/>
+    <title>LUUV Protecting Honey Foot Cream 70ml</title>
+    <s:type>Foot Cream</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-protecting-honey-foot-cream-70ml-664363.png?v=1740560023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Foot Cream<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Honey Foot Cream – your ticket to happy and healthy feet!</p>
+<p>Get ready to pamper your feet with a product that’s not just good for you but also good for the planet. LUUV Honey Foot Cream is certified with the prestigious ECOCERT / COSMOS eco-certificate, ensuring you’re making a choice that’s both skin-friendly and environmentally conscious. Enriched with the natural goodness of beeswax, it creates a protective shield around your skin, keeping it hydrated and preventing it from drying out. We’ve also packed the cream with luscious mango butter and nourishing candelilla wax. Together, they work their magic to nourish your skin deeply. No more rough, cracked heels – just soft, supple, and happy feet! Add it to your daily routine, and let your feet dance through life – because you deserve nothing but the best! Your feet will thank you with every step.</p>
+<ul>
+<li><span>Nourishes and moisturizes</span></li>
+<li aria-level="1"><span>Forms natural protective shield</span></li>
+<li aria-level="1"><span>Rich cream for the cold season</span></li>
+<li aria-level="1"><span>Mild honey scent</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">What makes honey such an effective ingredient in cosmetics?</span></p>
+<ul>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">High sugar content</span> – ​​honey contains glucose and fructose. Sugars have many different roles, one of the most important of which is to nourish cells. When used cosmetically, it has a rejuvenating effect not only on the skin, but also on the hair.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">The density and viscosity of honey</span> – it creates a protective barrier for our skin and plays an important role in maintaining moisture in the skin. It also creates a protective layer on wounds that allows healing without contamination.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU">
+<span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">Antibacterial properties</span> – mostly the property of honey is used for medicinal purposes. However, it can also be very useful when using cosmetics. Honey is very useful in solving problems like various skin rashes or scalp infections.</span><br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | certified  </span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the cream to clean skin and rub until absorbed. The cream can also be used as a foot mask, take a larger amount of cream and do not rub it in completely, then put on socks and let the cream work for a while or even all night.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Mangifera Indica seed (Mango) Butter, Cocos Nucifera Oil, Glycerin, Olus Oil, Hydrogenated Vegetable Oil, Candelilla Cera, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glyceryl Stearate SE, Cera Alba (Beeswax), Persea Gratissima(Avocado) oil, Triethyl Citrate, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Hippophae Rhamnoides Fruit Oil, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Aroma, Citral, D-limonene, Linalool</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>jalakreem</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014159405383</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9939545588039</id>
+    <published>2025-01-19T10:38:22+02:00</published>
+    <updated>2025-01-19T10:38:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/vielo-organic-foot-balm-50ml"/>
+    <title>Vielö Organic Foot  Balm 50ml</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-foot-balm-50ml-911694.jpg?v=1739897171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Facial Mask<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nourishing organic foot balm, specially designed to moisturise and soften dry feet and cracked heels.</span><br><br><span>Created with organic whey (nourishing), wheat germ oil (protecting), hyaluronic acid (hydrating), organic extracts of calendula (regenerating), lavender (soothing) and sage (strengthening).</span><br><br><span>Suitable for all skin types.</span></p>
+<p class="content-translations text-15 leading-loose text-black"><span><strong>How to use:</strong> Apply to clean and dry skin and massage in well. Regular use helps to protect the skin from drying out.</span></p>
+<p class="content-translations text-15 leading-loose text-black"><span><strong>Ingredients: </strong></span>Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate /Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Polyglyceryl-4 Caprate*, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p>
+<p>* from natural origin (99,8%)<br>** certified organic (88,9%)<br>*** from natural essential oil</p>
+<p class="content-translations text-15 leading-loose text-black">Handmade in Austria</p>
+<p class="content-translations text-15 leading-loose text-black">Inspired by circular economy, Vielö refines a high-quality by-product of cheese production, liquid organic whey, and uses it to create certified organic and sustainable skin and body care products.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jalakreem</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9939545588039</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

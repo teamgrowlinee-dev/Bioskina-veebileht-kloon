@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/luuv.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-26T13:59:30+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10303963201863</id>
+    <published>2025-08-26T13:59:30+03:00</published>
+    <updated>2025-08-26T13:59:30+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-fresh-breeze-50ml"/>
+    <title>LUUV Looduslik deodorant Fresh Breeze 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-fresh-breeze-50ml-6627868.png?v=1756222791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Fresh Breeze looduslike desodoreerivate aktiivainetega deodorant hoiab ära higilõhna tekke ning hoiab sind terve päeva värske ja kuivana!<br><br>Deodorant võimaldab nahal vabalt hingata, ei sega naha loomulikku funktsioneerimist ega ummista poore. Deodorandis sisalduv riisitärklis imab higi endasse ning antibakteriaalne salveiekstrakt võitleb higilõhna põhjustavate bakteritega. Niisutav ja rahustav aaloe hooldab õrna kaenlaalust nahka. Deodorant kuivab kiiresti ega jäta su lemmikriietele plekke. Rohelise tee ja sidruni eeterliku õli lõhnasegu värskendab ja ergutab aga nii keha kui meelt.<br><br>Fresh Breeze deodorant ei sisalda alumiiniumi, alkoholi ega soodat ning on 100% vegan!</p>
+<ul><li>24h kaitse</li><li>Värske “roheline” lõhn</li><li>Ei ärrita nahka</li><li>Ei ummista poore</li><li>Niisutav ja rahustav</li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan | parabeenivaba</p>
+<p><b>Kasutamine: </b>Kanna puhastele kaenlaalustele. Kasuta iga päev.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Dunaliella Salina Extract, Helianthus Annuus Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Nobilis (Mandarin) Peel Oil, Citrus Aurantium (Orange) Peel Oil, Xanthan Gum, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Mica, Titanium Dioxide (CI 77891), Raphanus Sativus (Radish) Root Extract, Citric Acid, Maltodextrin, Parfum, Citral, Limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303963201863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303944720711</id>
+    <published>2025-08-26T13:59:30+03:00</published>
+    <updated>2025-08-26T13:59:30+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-lemongrass-green-50ml"/>
+    <title>LUUV Looduslik deodorant Lemongrass Green 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-lemongrass-green-50ml-1178078.png?v=1756222794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Lemongrass Green looduslike desodoreerivate aktiivainetega deodorant hoiab ära higilõhna tekke ning hoiab sind terve päeva värske ja kuivana!<br><br>Deodorant laseb nahal loomulikult funktsioneerida ega ummista poore. Deodorandis sisalduv riisitärklis imab higi endasse, salveiekstrakt võitleb higilõhna põhjustavate bakteritega ning aaloe niisutab ja rahustab õrna kaenlaaluste nahka. Deodorant kuivab kiiresti ega jäta riietele plekke. Värske eeterlike õlide lõhnasegu sobib nii meestele kui naistele.<br><br>Deodorant on sertifitseeritud üle maailma tunnustatud ECOCERT/COSMOS ökosertifikaadiga, seega võid kindel olla, et kasutad toodet, mis pole mitte hea ainult sulle, vaid ka meie planeedile. Lisaks on see alumiiniumi-, alkoholi- ja soodavaba ning 100% vegan!</p><ul><li>24h kaitse</li><li>Värske lõhn, mis sobib nii meestele kui naistele</li><li>Ei ärrita nahka</li><li>Ei ummista poore</li><li>Niisutav ja rahustav</li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p><b>Kasutamine: </b>Kanna puhastele kaenlaalustele. Kasuta iga päev.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate, Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate, Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Citrus Limon Peel (Lemon) Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Citrus Aurantium Bergamia Fruit (Bergamot) Oil, Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Limonene, Citral, Linalool, Geraniol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303944720711</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303907070279</id>
+    <published>2025-08-26T13:59:29+03:00</published>
+    <updated>2025-08-26T13:59:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-soothing-comfort-50ml"/>
+    <title>LUUV Looduslik deodorant Soothing Comfort 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-soothing-comfort-50ml-7238915.png?v=1756222794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Soothing Comfort looduslike desodoreerivate aktiivainetega deodorant hoiab ära higilõhna tekke ja imab endasse liigse higi. 24 tundi tõestatud kaitset, et saaksid terve päeva end värske ja energlisena tunda!<br><br>Deodorant ei häiri naha loomulikku funktsioneerimist ega ummista poore. Deodorandis sisalduv riisitärklis imab higi endasse ning salveiekstrakt on antibakteriaalsete omadustega. Lisaks sisaldab see niisutavat aaloed, mis hooldab ja rahustab kaenlaaluste nahka –  ideaalne valik tundlikule nahale! Deodorant kuivab kiiresti ega jäta riietele plekke. Mahe ja lummav lillearoom värskendab nii keha kui meelt.<br><br>Soothing Comfort deodorant ei sisalda alumiiniumi, alkoholi ega soodat ning on 100% vegan!</p><ul><li>24h kaitse</li><li>Meeldiv mahe lillelõhn</li><li>Ei ärrita nahka</li><li>Ei ummista</li><li>Niisutav ja rahustav<br></li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p><b>Kasutamine: </b>Kanna puhastele kaenlaalustele. Kasuta iga päev.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate, Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate,Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Cymbopogon Martini (Palmarosa) oil, Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Parfum, Geraniol, Linalool, Limonene, Citral</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303907070279</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303884919111</id>
+    <published>2025-08-26T13:59:29+03:00</published>
+    <updated>2025-08-26T13:59:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-citrus-bliss-50ml"/>
+    <title>LUUV Looduslik deodorant Citrus Bliss 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-citrus-bliss-50ml-1045610.png?v=1756222797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deodorant Citrus Bliss on looduslike desodoreerivate aktiivainetega deodorant, mis vastutab selle eest, et tunneksid end terve päeva värske, rõõmsa ja energilisena. 24-tunnine tõestatud kaitse ebameeldiva lõhna vastu, milles võid kindel olla!<br><br>Deodorant võimaldab nahal vabalt hingata, ei sega naha loomulikku toimimist ega ummista poore. LUUVi salarelvaks on higi imav riisitärklis ja antibakteriaalsete omadustega salveiekstrakt. Lisaks sisaldab deodorant niisutavat ja rahustavat aaloed, mis hooldab õrnalt kaenlaaluste nahka. Tsitruseliste eeterlike õlide harmooniline segu loob aga imelise lõhnabuketi.<br><br>Deodorant Citrus Bliss kuivab kiiresti ega jäta riietele plekke. Ja kõige toredam on see, et deodorant ei sisalda alumiiniumi, alkoholi ega soodat ning on 100% vegan!</p>
+<ul><li>24h kaitse</li><li>Tsitruseline lõhn</li><li>Ei ärrita nahka</li><li> Ei ummista poore</li><li>Niisutav ja rahustav</li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan | parabeenivaba</p>
+<p><b>Kasutamine:</b> Kanna puhastele kaenlaalustele. Kasuta iga päev.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate,Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate, Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Citrus Aurantium Dulcis Oil (Orange oil), Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Parfum, Limonene, Linalool, Citral, Benzyl Salicylate, Hydroxycitronellal, Hexyl Cinnamal, Geraniol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303884919111</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303870730567</id>
+    <published>2025-08-26T12:28:58+03:00</published>
+    <updated>2025-08-26T12:28:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-conditioner-for-kids-200ml"/>
+    <title>LUUV Looduslik laste juuksepalsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-conditioner-for-kids-200ml-2844222.jpg?v=1756222791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV looduslik laste juuksepalsam niisutab, toidab ja kaitseb su pisikese säravaid kiharaid. LUUV laste juuksepalsam on&nbsp;sertifitseeritud üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga.</p><p>On aeg jätta hüvasti kangekaelsete pusadega ja tervitada probleemivaba stiili! Palsam&nbsp;tugevdab juukseid juurtest otsteni, muutes need kergesti kammitavaks ja imeliselt kergeks. Rikastatud naturaalsete õlide ja betaiiniga, niisutab palsam juukseid sügavuti ning parandab juuste üldist tervist ja väljanägemist.&nbsp;Ning otse loomulikult ei saa me mööda vaadata sellest mõnusalt magusast vaniljearoomist, mis on looduslikku päritolu, ei sisalda allergeene ning mis kohe kindlasti võidab iga lapse(meelse)südame. </p><ul><li>Looduslik ja allergeenivaba</li><li>Magus vaniljearoom</li><li>Ei ärrita nahka ega silmi</li><li>ECOCERT/COSMOS sertifikaadiga</li><li>98,72% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p><b>Kasutamine:</b>&nbsp;Kasuta palsamit pärast šampooniga pesu ja kanna juukseotstele. Lase mõjuda ja loputa! Palsamit võid kasutada pärast iga pesukorda.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Cetyl Alcohol, Betaine, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303870730567</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012201189703</id>
+    <published>2025-03-01T13:40:32+02:00</published>
+    <updated>2025-03-01T13:40:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-volumizing-shampoo-250ml"/>
+    <title>LUUV Looduslik kohevust andev astelpaju šampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-volumizing-seabuckthorn-shampoo-250ml-549035.png?v=1740891413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astelpajuõliga rikastatud šampoon on looduslik ja õrn ning annab juustele kohevuse ja sära. Astelpajuõli tugevdab juukseid, pakkudes juustele ja peanahale vajalikke toitaineid ning ennetades juukseotste lõhenemist. Nisuproteiin tugevdab juukseid, stimuleerib juuste kasvu ning suurendab juuste kohevust ja elastsust. Eeterlikud õlid aitavad kaasa peanaha rasuerituse normaalsele talitlusele ja toovad värskustunde.</p>
+<ul><li>sobib kõikidele juuksetüüpidele, sealhulgas ka rasustele juustele</li><li>annab juustele loomulikku volüümi</li><li>puhastava toimega</li><li>lisab juustele kohevust ja sära</li><li>niisutab ja tugevdab juukseid</li><li>tsitruse lõhnaga</li><li>astelpajuõli toidab juukseid</li><li>sisaldab ainult looduslikke puhastusaineid</li><li>õrn peanahale</li><li>98,58% looduslikud koostisosad</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan</p>
+<p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Kanna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Vegetable Oil, Panthenol, Cetyl Alcohol, PCA Glyceryl Oleate, Ricinus Communis Seed (Castor) Oil, Glycerin, Hippophae Rhamnoides (Sea Buckthorn) oil, Hydrolyzed Wheat Protein, Glyceryl Stearate, Citric Acid, Tocopherol (E-vitamin), Sodium Benzoate, Potassium Sorbate, Parfum, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012201189703</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012253454663</id>
+    <published>2025-03-01T13:40:25+02:00</published>
+    <updated>2025-03-01T13:40:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-softening-honey-shampoo-250ml"/>
+    <title>LUUV Looduslik pehmendav meešampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-softening-honey-shampoo-250ml-212888.png?v=1740891413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik meešampoon muudab juuksed pehmeks ja kergesti kammitavaks, toites juukseid juurtest otsteni. Orgaaniline meeekstrakt muudab juuksed siidiseks ja kaitseb keskkonnamõjude eest. Orgaaniline odra ekstrakt stimuleerib juuste kasvu ja annab sära. Nisuproteiin tugevdab juukseid ja suurendab nende elastsust. Sobib ka värvitud juustele.</p><ul><li>sobib kõikidele juuksetüüpidele, ka värvitud juustele</li><li>tugevdab juukseid juurtest otsteni</li><li>pehmendava ja kaitsva toimega</li><li>annab juustele pehmuse</li><li>parandab juukse struktuuri</li><li>mesiselt magusa lõhnaga</li><li>õrn peanahale</li><li>valmistatud õrnade taimsete pesuainetega</li><li>loodusliku taruvaigu ekstraktiga</li><li>99,22% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine: </b>Kanna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Betaine, Citric Acid, Hydrolyzed Wheat Protein, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Panthenol, Hordeum Vulgare (Barlay) Extract, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Glycerin, Sodium Benzoate, Potassium Sorbate, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012253454663</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012259385671</id>
+    <published>2025-03-01T13:40:19+02:00</published>
+    <updated>2025-03-01T13:40:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-caring-shampoo-250ml"/>
+    <title>LUUV Looduslik hooldav šampoon ploomiõliga 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-caring-shampoo-with-plum-oil-250ml-277927.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV looduslik ploomiõliga šampoon sobib igapäevaseks kasutamiseks kõikidele juuksetüüpidele. Külmpressitud orgaaniline ploomiõli niisutab nii peanahka kui juukseid ning kaitseb juukseid kuumtöötlemise kahjulike mõjude eest. Looduslik betaiin ja aaloe hoiavad juukseid niisutatuna. Looduslik õrn šampoon muudab juuksed hästi kammitavaks, siidiseks ja elastseks. Sobib nii värvitud kui loomulikele juustele.</p><ul><li>sobib kõikidele juuksetüüpidele, sealhulgas värvitud juustele ja lokkis juustele</li><li>hooldava ja niisutava toimega</li><li>niisutab ja kaitseb juukseid</li><li>kaitseb juukseid kuumtöötluse eest</li><li>õrnade, taimsete pesuainetega</li><li>õrn peanahale</li><li>sobib igapäevaseks kasutamiseks</li><li>siidise viimistluse toob orgaaniline ploomiõli</li><li>99,18% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine:</b>&nbsp;Kanna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate (and) Lauryl Glucoside, Oryza Sativa (Rice) Starch, Cocamidoprpyl Betaine, Glycerin, Betaine, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate (and) Potassium Sorbate, Coco-Glucoside (and) Glyceryl Oleate, Cymbopogon Martini (Palmarosa) oil, Citric Acid, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012259385671</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012314435911</id>
+    <published>2025-03-01T13:40:08+02:00</published>
+    <updated>2025-03-01T13:40:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-shower-foam-150ml"/>
+    <title>LUUV Looduslik laste dušivaht 200ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shower-foam-150ml-609563.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>See on LUUV laste dušivaht – ülim vannikaaslane, mis toob rõõmu, mängulisust ja keskkonnateadlikkust lapse igapäevarutiini! Juhtiva ECOCERT / COSMOS ökosertifikaadiga sertifitseeritud mõnus vaht muudab duši all käimise seikluseks, mis on täis naeru ja lõbusust.<br><br>Sinu lapse õrn nahk väärib ainult parimat, mistõttu on see dušivaht valmistatud hoolikalt valitud pesuainetest, mis on õrnad ega ärrita  lapse väärtuslikku nahka. Magus ja mahlane pirni aroom on täielikult saadud looduslikest allikatest, tagades kütkestava lõhna ilma allergeenideta. Mis puutub särtsakasse roosakaslillasse värvi, siis on kasutatud üllatavat salakoostist – kartuliekstrakti!  Justkui värvilise maagia puhang igas pumbatäies!</p><ul><li>Looduslik ja allergeenivaba</li><li>Mahlane pirniaroom</li><li>Ei ärrita ega kuivata nahka</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine: </b>Kanna dušigeel ringjate liigutustega niiskele nahale, loputa ja kuivata.&nbsp;</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cocamidopropyl Betaine, Glycerin, Coco-Glucoside, Ipomoea Batatas (Potato) Root Extract, Cetyl Alcohol, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma, Acacia Senegal Gum, Maltodextrin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012314435911</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013911187783</id>
+    <published>2025-03-01T13:40:01+02:00</published>
+    <updated>2025-03-01T13:40:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-shampoo-250ml"/>
+    <title>LUUV Looduslik lastešampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shampoo-250ml-163262.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> LUUV looduslik lastešampoon – kus mäng kohtub läikivate juustega! See looduslik pisaravaba koostisega šampoon viib laste juuksehoolduse täiesti uuele tasemele! Spetsiaalselt pere väikestele mõeldud šampoon muudab juuksed tugevaks, kergesti kammitavaks ja kaunilt läikivaks.&nbsp; Üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga saad aga kindel olla, et šampoon pole mitte ainult õrn pere pisematele, vaid on ohutu ka meie keskkonnale.</p><p>Hoolikalt valitud taimsed pesuained hooldavad ja rahustavad lapse õrna peanahka ega ärrita silmi. Lisaks on šampoon rikastatud niisutava aaloe ja hooldava taimse betaiiniga – need mitte ainult ei tee juuksed kergesti kammitavaks ega alista isegi kõige tõrksamad pusad, vaid aitavad ka laste juukseid juurtest otsteni tugevdada. Šampoonil on mõnusalt mahlane pirniaroom, mis kohe kindlasti kogu pere südamed võidab. Ning otse loomulikult on see lõhn looduslikku päritolu ega sisalda allergeene.</p><ul><li>Looduslik ja allergeenivaba</li><li>Pisaravaba koostis</li><li>Mahlane pirniaroom</li><li>Ei ärrita nahka</li><li aria-level="1" style="box-sizing: inherit; font-weight: 400;"><span style="box-sizing: inherit; font-weight: 400;">ECOCERT/COSMOS sertifikaadiga</span></li><li style="box-sizing: inherit; font-weight: 400;" aria-level="1">98,4% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;anna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Oryza Sativa (Rice) Starch, Aloe Barbadensis Leaf Juice, Betaine, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Glyceryl Oleate, Hydrolyzed Wheat Protein, Sodium Benzoate, Potassium Sorbate, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013911187783</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013922165063</id>
+    <published>2025-03-01T13:39:52+02:00</published>
+    <updated>2025-03-01T13:39:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-bubble-bath-200ml"/>
+    <title>LUUV Looduslik laste vannivaht 200ml</title>
+    <s:type>Bath Foam</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-bubble-bath-200ml-677435.png?v=1740891419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Bath Foam<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Muuda vanniskäik magusaks, mänguliseks ja vahvaks! LUUV laste vannivaht pole mitte ainult sertifitseeritud üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga, vaid muudab ka iga vanniskäigu üheks toredaks vahuseks seikluseks. Rikkalik ja sametiselt pehme vaht, mis pärineb hoolikalt valitud taimsetest pesuainetest, hellitab su pisikese õrna nahka ning ei põhjusta ärritust ega kuivust. Vannivahu mõnusalt mahlane pirniaroom, mis on üdini looduslik ja allergeenivaba, loob aga veelgi imelisema vannielamuse.</p><ul><li>Looduslik ja allergeenivaba<br></li><li>Mahlane pirniaroom</li><li>Ei äärita ega kuivata nahka</li><li aria-level="1" style="box-sizing: inherit; font-weight: 400;"><span style="box-sizing: inherit; font-weight: 400;">ECOCERT/COSMOS sertifikaadiga</span></li><li style="box-sizing: inherit; font-weight: 400;" aria-level="1">98,72% looduslikku päritolu</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Lisa vannivaht soojale jooksvale vanniveele ning vahupidu võib alata!</p><p><b>Koostisosad:</b>&nbsp;Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Aroma, Glyceryl Oleate, Sodium Benzoate, Potassium Sorbate, Citric Acid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>vann</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013922165063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013928227143</id>
+    <published>2025-03-01T13:39:40+02:00</published>
+    <updated>2025-03-01T13:39:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-detangling-spray-100ml"/>
+    <title>LUUV Looduslik laste pusapalsam 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-detangling-spray-100ml-412749.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laste pusapalsam, millel on ülemaailmselt tunnustatud ECOCERT/COSMOS sertifikaat, muudab sinu lapse juuksehooldusrutiini. On aeg jätta hüvasti kangekaelsete pusadega ja tervitada probleemivaba stiili!<br></p><p>Pusasprei on spetsiaalselt laste juustele välja töötatud ning loodud alistama kõik pusad, sõlmed ja sasipuntrad. Palsam jätab juuksed kergesti kammitavaks ja siidpehmeks ning selle mahlane pirniaroom on looduslik, allergeenivaba ja laste vaieldamatu lemmik. Lisaks võid olla rahulik, teades, et lõhn on looduslikult saadud ega sisalda allergeene. Sinu lapse juuksed on heades kätes. </p><ul><li>Looduslik ja allergeenivaba</li><li>Mahlane pirniaroom</li><li>Ei ärrita nahka</li><li>ECOCERT/COSMOS sertifikaadiga</li><li>99,76% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Enne kasutamist loksuta pudelit. Pihusta palsam juustele, lase mõni hetk toimida ning kammi juuksed läbi. Võib kasutada nii märgadel juustel peale pesu kui ka kuivadel juustel igapäevaselt.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Propanediol, Betaine, Coconut Alkanes, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013928227143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013974069575</id>
+    <published>2025-03-01T13:39:26+02:00</published>
+    <updated>2025-03-01T13:39:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-caring-conditioner-with-plum-oil-200ml"/>
+    <title>LUUV Looduslik hooldav palsam ploomiõliga 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-caring-conditioner-with-plum-oil-200ml-901624.png?v=1740891410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hooldatud juuksed iga päev! Looduslik ploomiõliga rikastatud palsam sobib suurepäraselt igapäevaseks kasutamiseks kõikidele juuksetüüpidele. Külmpressitud orgaaniline ploomiõli niisutab juukseid, taastab juukseotsi ja kaitseb kuumtöötluse eest. Looduslike õlide, proteiinide ja aktiivainete segu annab kõik vajaliku, et juuksed oleksid tugevad ja läikivad. Sobib ka värvitud juustele.</p><ul><li>sobib kõikidele juuksetüüpidele, ka värvitud juustele</li><li>hooldav ja pehmendav toime</li><li>niisutab ja kaitseb juukseid</li><li>kaitseb juukseid kuumtöötluse eest</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | parabeenivaba<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine:&nbsp;</b>Kanna palsam juustele pärast šampooniga pesemist, alustades juukseotstest. Lase mõjuda 2–3 minutit, seejärel loputa rohke veega.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Distearoylethyl Dimonium Chloride, Cetearyl Alcohol, Glycerin, Cetyl alcohol, Aloe Barbadensis Leaf Juice, Betaine, PCA Glyceryl Oleate, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Potassium Sorbate, Citric Acid, Cymbopogon Martini (Palmarosa) oil, Parfum, Geraniol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013974069575</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013938385223</id>
+    <published>2025-03-01T13:39:12+02:00</published>
+    <updated>2025-03-01T13:39:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-volumizing-seabuckthorn-conditioner-200ml"/>
+    <title>LUUV Looduslik kohevust andev astelpaju palsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-volumizing-seabuckthorn-conditioner-200ml-722591.png?v=1740891411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik astelpaju palsam sobib normaalsetele ja rasustele juustele, annab juustele pehmuse, volüümi ja sära. Astelpaju- ja riitsinusõli tugevdavad juukseid, aitavad vältida juuste lõhenemist ja stimuleerivad juuste kasvu. Nisuproteiin muudab juuksed tugevamaks ning suurendab kohevust ja elastsust. Provitamiin B5 muudab juuksed kergesti kammitavaks ja kaitseb kuumtöötlemise eest.</p>
+<ul><li>sobib kõikidele juuksetüüpidele, sealhulgas rasustele juustele</li><li>annab juustele kohevuse ja sära</li><li>niisutab ja tugevdab juukseid</li><li>tsitruse lõhnaga</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine: </b>Kanna palsam juustele pärast šampooniga pesemist, alustades juukseotstest. Lase mõjuda 2–3 minutit, seejärel loputa rohke veega.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Coco-Glucoside, Betaine, Citric Acid, Xanthan Gum, Hippophae Rhamnoides (Sea Buckthorn) oil, Hydrolyzed Wheat Protein, PCA Glyceryl Oleate, Citrus Reticulata (Mandarin oil), Citrus Aurantium Dulcis (Orange) Oil, Sodium Benzoate, Potassium Sorbate, Parfum, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013938385223</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013980164423</id>
+    <published>2025-03-01T13:39:04+02:00</published>
+    <updated>2025-03-01T13:39:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-softening-protecting-honey-conditioner-200ml"/>
+    <title>LUUV Looduslik pehmendav meepalsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-softening-protecting-honey-conditioner-200ml-904989.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik meepalsam muudab juuksed pehmeks ja kergesti kammitavaks ning aitab taastada kahjustunud juukseotsi. Orgaaniline meeekstrakt muudab juuksed siidiseks ja kaitseb keskkonnamõjude eest. Orgaaniline odra ekstrakt stimuleerib juuste kasvu ja annab sära. Nisuproteiin tugevdab juukseid ja suurendab nende elastsust. Sobib ka värvitud juustele.</p>
+<ul><li>sobib kõikidele juuksetüüpidele, ka värvitud juustele</li><li>pehmendava ja kaitsva toimega</li><li>annab juustele pehmuse</li><li>parandab juukse struktuuri ja tugevdab juukseid</li><li>mesiselt magusa lõhnaga</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine:</b>&nbsp;Kanna palsam juustele pärast šampooniga pesemist, alustades juukseotstest. Lase mõjuda 2–3 minutit, seejärel loputa rohke veega.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Distearoylethyl Dimonium Chloride, Cetearyl Alcohol, Glycerin, Cocos Nucifera, Cetyl alcohol, Aloe Barbadensis Leaf juice, Betaine, Ricinus Communis Seed (Castor) Oil, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Hydrolyzed Wheat Protein, Hordeum Vulgare (Barlay sprouts) Extract, Hippophae Rhamnoides (Sea Buckthorn) oil, PCA Glyceryl Oleate, Panthenol, Guar Hydroxypropyltrimonium Chloride, Coco-Glucoside, Glyceryl Oleate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013980164423</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012262302023</id>
+    <published>2025-02-25T14:40:49+02:00</published>
+    <updated>2025-02-25T14:40:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-energizing-shower-gel-250ml"/>
+    <title>LUUV Looduslik ergutav dušigeel 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-energizing-carrot-shower-gel-250ml-522072.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kujuta ette, et astud duši alla ja sind tervitab tsitruselõhnaline värskendav puhang, mis äratab sinu meeled ja toob igal hommikul naeratuse näole. Just seda ergutav dušigeel pakubki oma meeldiva tsitruselise lõhnaga, millest saab kindlasti sinu uus lemmik. Kuid see on midagi enamat kui lihtsalt rõõmustav lõhn. Dušigeel on loodud eemaldama tõhusalt mustuse ja rasu, jättes naha puhtaks ja elujõuliseks. Samuti niisutab see sügavuti nahka, tagades, et duši alt väljudes tunned end pehme ja siledana.<br><br>Peamine koostisosa on puhas porgandiõli, mis on rikas oluliste vitamiinide allikas, mis teeb sinu nahaga imesid. Porgandiõli suurendab naha elastsust, aidates säilitada nooruslikku sära. Sobib kõikidele nahatüüpidele ning muudab igapäevase pesurutiini värskendavaks ja nauditavaks kogemuseks nii kehale kui ka vaimule. </p><ul><li>Niisutav</li><li>Parandab naha elastsust</li><li>Ergutav tsitruselõhn</li><li>Sobib kõikidele nahatüüpidele</li></ul><p><u>Põhilised koostisosad:</u></p><ul><li><u>Coco-Glucoside</u> on pesuaine, 100% taimne (saadud kookosest), keskkonnasõbralik ja sertifitseeritud. Pesuaine on õrn- sobib ka tundlikule nahale ja lastele. </li><li><u>Porgandiõli </u>(täpsemalt porgandi seemneõli) sisaldab palju karoteeni, mis annab jumet parandava efekti. Porgandiõli on alati mingis kandjaõlis (st lahjendatuna) kuna iseseisvalt on ta liiga intensiivne. Sisaldab rohkelt A-vitamiini. Porgandiõli looduslik SPF on u 40, aga kuna ta on lahjendatud, siis jääb u SPF 10.</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Kanna niiskele nahale, masseeri õrnalt ringjate liigutustega ning loputa hoolikalt.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate (and) Lauryl Glucoside, Oryza Sativa (Rice) Starch, Cocamidoprpyl Betaine, Glycerin, Betaine, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate (and) Potassium Sorbate, Coco-Glucoside (and) Glyceryl Oleate, Cymbopogon Martini (Palmarosa) oil, Citric Acid, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012262302023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012265840967</id>
+    <published>2025-02-25T14:04:54+02:00</published>
+    <updated>2025-02-25T14:04:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-exfoliating-shower-gel-250ml"/>
+    <title>LUUV Looduslik kooriv dušigeel 200ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-exfoliating-shower-gel-250ml-332480.png?v=1740725717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik kooriv dušigeel on ülim viis naha noorendamiseks ja päeva alustamiseks värskendava energiapuhanguga. Kosutav dušigeel on kaks-ühes toode, mis koorib ja puhastab õrnalt, jättes naha vastupandamatult värskeks ja säravaks.<br><br>Koostis on loodud naha heaolu silmas pidades, tagab õrna koorimise, mis eemaldab surnud naharakud mikrokahjustusi tekitamata. Tunne end kindlalt, teades, et bambuseosakesed ei ole mitte ainult nahale meeldivad, vaid ka keskkonnasõbralikud, kandes nii ilu kui ka jätkusuutlikkuse väärtusi. Kuna bambuseosakesed eemaldavad delikaatselt mustuse, äratavad nad ka naha loomuliku uuenemisprotsessi, soodustades paremat elastsust ja tekstuuri. Koge rõõmu vastupandamatult pehmest ja siledast nahast  iga päev. Rohelise tee kerge ja värske lõhn mitte ainult ei kosuta sinu meeli, vaid loob ka sinu päevale ideaalse alguse.</p>
+<p>Kooriv dušigeel ei ole ainult naiste maiuspala – selle mitmekülgne disain sobib mõlema soo dünaamilise elustiiliga, olles ideaalne lisand igaühe nahahooldusrituaalis. </p>
+<ul><li>Õrn, kuid tõhus toime</li><li>Ei kuivata nahka</li><li>Igapäevaseks kasutamiseks</li><li>Värske rohelise tee lõhn</li><li>Keskkonnale ohutu</li></ul>
+<p><u>Põhilised koostisosad:</u>&nbsp;</p>
+<ul><li><u>Coco-Glucoside</u> on pesuaine, 100% taimne (saadud kookosest), keskkonnasõbralik ja sertifitseeritud. Pesuaine on õrn- sobib ka tundlikule nahale ja lastele. </li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan</p>
+<p>Toode on valmistatud Eestis</p>
+<p><b>Kasutamine:&nbsp;</b>Kanna niiskele nahale, masseeri õrnalt ringjate liigutustega ning loputa hoolikalt.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Bambusa Vulgaris powder, Vegetable Glycerin, Citric Acid, Xanthan Gum, Sodium Benzoate, Potassium Sorbate, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012265840967</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012280652103</id>
+    <published>2025-02-25T14:04:45+02:00</published>
+    <updated>2025-02-25T14:04:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deep-moisture-soft-plum-body-cream-200ml"/>
+    <title>LUUV Looduslik sügavniisutav ploomi kehakreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deep-moisture-soft-plum-body-cream-200ml-412185.png?v=1740560030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ütle tere LUUV veetlevale looduslikule sügavniisutavale ploomiõliga kehakreemile! See ploomi- ja kookosõliga rikastatud kreem toob naha niiskustasesse tasakaalu ja harmoonia ja aitab eemale peletada kõik kahjulikud tegurid, mis tahavad õrnale nahale liiga teha.&nbsp;Kreemi staarkomponent – külmpressitud ploomituumaõli – sisaldab rohkelt A-, C- ja E-vitamiini, mis toidavad nahka sügavuti.&nbsp; Lisaks on ploomituumaõli rikas omega-rasvhapete poolest, mis taastavad ja niisutavad nahka ning jätavad selle erakordselt elastseks ja pehmeks. Ning loomulikult ei tohi unustada võimast antioksüdanti – jõhvikaekstrakti! Jõhvikaekstrakt aitab võidelda vananemise märkidega ning annab su nahale nooruslikult särava väljanägemise. <br></p><p>Ploomi kreem on kerge vahuse tekstuuriga, imendub kiiresti, ei jäta nahka kleepuvaks ning ei ummista poore.  Lisaks sobib see imeliselt ka tundlikule nahale, pakkudes õrna hooldust. Lase ploomide lummaval aroomil end võluda ning tunne  rõõmu siledast, toidetud ja säravast nahast!</p><ul><li>Kerge vahune tekstuur</li><li>Sügavalt niisutava toimega</li><li>Kiiresti imenduv</li><li>Sobib tundlikule nahale</li><li>Mahe ploomi lõhn</li></ul><p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:&nbsp;</b>Sobib igapäevaseks kasutamiseks. Kanna kreemi puhtale nahale ja hõõru ringjate liigutustega kuni imendumiseni.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cocos nucifera oil, Mangifera indica seed (Mango) butter, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydrolyzed wheat protein, Prunus domestica (Plum) seed oil, Cetyl alcohol, Vaccinium Macrocarpon fruit (Cranberry) extract, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Xanthan gum, Parfum, Mica, Titanium dioxide, CI 77491</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012280652103</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012274393415</id>
+    <published>2025-02-25T14:04:32+02:00</published>
+    <updated>2025-02-25T14:04:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-nourishing-and-protecting-honey-cream-200ml"/>
+    <title>LUUV Looduslik toitev ja kaitsev mee kehakreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-nourishing-and-protecting-honey-cream-200ml-311638.png?v=1740560031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV toitev ja kaitsev mee kehakreem muudab nahahooldusrutiini eriti magusaks ja toitvaks kogemuseks. See siidpehme kreem mitte ainult ei hellita nahka, vaid loob nahale ka loomuliku ja tugeva kaitsekilbi – kreemis sisalduv mesilasvaha kaitseb nahka karmi vee ja kahjulike ilmastikutingimuste eest ning toitev sheavõi niisutab nahka sügavuti. Kreemi magus meearoom aga paitab õrnalt nii keha kui meeli.<br><br>Kreem on spetsiaalselt loodud kuiva, väga kuiva ja küpse naha hoolduseks, olles ideaalne kaaslane neile, kelle nahk vajab ekstra niisutust ja hella hoolt. Regulaarsel kasutamisel muutub nahk siledamaks, vastupidavamaks ning vastupandamatult pehmeks. Lisaks on kreem sertifitseeritud üle maailma tunnustatud ECOCERT/COSMOS ökosertifikaadiga, seega võid kindel olla, et kasutad toodet, mis pole mitte hea ainult Sulle, vaid ka meie armsale planeedile.</p><ul><li>Siidiselt vahune tekstuur</li><li>Sügavalt niisutav</li><li>Kuivale ja küpsele nahale</li><li>Mesimagus lõhn</li></ul><p>looduslik | julmusevaba | jätkusuutlik | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Sobib igapäevaseks kasutamiseks. Kanna kreemi puhtale nahale ja hõõru ringjate liigutustega kuni imendumiseni.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cocos Nucifera Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate SE, Cera Alba (Beeswax), Glycerin, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Hippophae Rhamnoides Fruit Oil, Glyceryl Caprylate, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Tocopherol, Triethyl Citrate, Benzoic Acid, Aroma, Citral, D-limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012274393415</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012297560391</id>
+    <published>2025-02-25T14:04:21+02:00</published>
+    <updated>2025-02-25T14:04:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deep-moisture-soft-plum-body-cream-200ml-copy"/>
+    <title>LUUV Vitamiinirikas astelpaju-mango kehakreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-energizing-vitamin-body-cream-200ml-663135.png?v=1740560032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astelpaju kasulikkusega rikastatud kehakreem pehmendab ja taaselustab nahka imeliselt. Sobib kõikidele nahatüüpidele, see toob tõelise muutuse sinu nahahooldusrutiini. Naudi mangovõi luksuslikku puudutust,  see toidab ja niisutab sügavuti, muutes  naha vastupandamatult siidiseks ja siledaks.<br><br>Astelpajuõli on tõeline vitamiinipomm, mis on A- ja C-vitamiinist tulvil. Need võimsad antioksüdandid ergutavad naha uuenemisprotsessi ning aitavad taastada selle nooruslikku väljanägemist.&nbsp;Porgandiõlis sisalduv A-vitamiin ja karoteen taastavad naha elujõu ja sära ning annavad nahale loomuliku ja vastupandamatu jume. Samal ajal taastab porgandiõli elujõu ja sära, andes teie jumele loomuliku sära, mis on lihtsalt hingemattev.&nbsp;Kehakreem aitab tasakaalustada nii kuiva kui rasust nahka ummistamata sealjuures poore. Kuid tõeline ime juhtub siis, kui vaatad peeglisse - ilus, särav jume, mis kiirgab elujõudu ja tervist.&nbsp;</p><ul><li>Kerge vahune tekstuur</li><li>Pehmendab ja toidab</li><li>Kõikidele nahatüüpidele</li><li>Mõnus tsitruse aroom</li></ul><p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:&nbsp;</b>Sobib igapäevaseks kasutamiseks. Kanna kreemi puhtale nahale ja hõõru ringjate liigutustega kuni imendumiseni.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Cocos Nucifera, Mangifera Indica seed (Mango) butter, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydrolyzed Wheat Protein, Cetyl Alcohol, Dunaliella Salina (Carrot) Extract, Helianthus Annuus Seed Oil, Hippophae Rhamnoides (Sea buckthorn) oil, Citrus Nobilis (Mandarin oil), Citrus Aurantium (Orange oil), Triethylcitrate, Glyceryl Caprylate, Xanthan Gum, Benzoic Acid, Parfum, Limonene, Citral, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012297560391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013986750791</id>
+    <published>2025-02-25T13:45:53+02:00</published>
+    <updated>2025-02-25T13:45:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-seabuckthorn-body-scrub-200ml"/>
+    <title>LUUV Looduslik astelpaju kehakoorija 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-seabuckthorn-body-scrub-200ml-989413.png?v=1740560026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik astelpaju kehakoorija– ülim nahahooldustoode särava, sametiselt pehme naha jaoks. Kehakoorija on asjatundlikult valmistatud, et pakkuda sinu nahale hooldust, mida see tõeliselt väärib. Astelpaju headusega ja koorivate osakestega rikastatudkoorija pakub nahahooldusele mitmemõõtmelist lähenemist. See eemaldab õrnalt surnud naharakud, paljastades värske ja särava jume. Seda kõike ilma õrna nahka kahjustamata.<br><br>Tõeline ilu peitub niisutavates taimeõlides. Kui masseerid koorijat oma nahale, toimivad need õlid harmoonias, et niisutada teie keha, muutes selle vastupandamatult pehmeks ja siidiseks. Apelsini ja mandariini eeterlike õlide särtsakas essents mitte ainult ei stimuleeri nahka, vaid turgutab ka sinu meelt, muutes duširutiini nauditavaks kogemuseks, mis annab energiat kogu päevaks. ECOCERT / COSMOS ökosertifikaat garanteerib, et kehakoorija on valmistatud loodust ülimalt austades, tagades, et sinu ilurežiim on nii jätkusuutlik kui ka tõhus.<br></p>
+<ul><li>Õrn, kuid tõhus koorija</li><li>Ei kuivata nahka</li><li>Ergutav tsitruse lõhn</li><li>Keskkonnale ohutu</li><li>ECOCERT/COSMOS sertifitseeritud</li></ul>
+<p>Põhilised koostisosad:</p>
+<ul><li><u>Astelpajuõli</u> on looduslik superniisutaja. Sisaldab suurt kontsentratsiooni rasvhappeid, sealhulgas oomega-3, oomega-6, oomega-7 ja oomega-9, mis aitavad säilitada naha niiskustaset ja ennetada niiskuse kadu. Õli kõrge C-vitamiini sisaldus muudab naha säravaks ja kirkaks, aitab ühtlustada jumet. Õlis sisalduvad antioksüdandid nagu C-vitamiin, E-vitamiin ja beetakaroteen kaitsevad nahka vabade radikaalide kahjustuste eest ja soodustavad nooruslikku välimust.</li><li><u>Porgandiõli </u>(täpsemalt porgandi seemneõli)- sisaldab palju karoteeni, mis annab jumet parandava efekti. Porgandiõli on alati mingis kandjaõlis (st lahjendatuna), kuna iseseisvalt on ta liiga intensiivne. Sisaldab rohkelt A-vitamiini.&nbsp;Porgandiõli looduslik SPF on u 40, aga kuna ta on lahjendatud, siis jääb u SPF 10.</li><li>Koorivad osakesed <u>riisist </u>– ei mingit plastikut! Osakesed ei ole nurgelised ega teravad, st ei vigasta nahka. Samas on piisavalt tugev, et anda hea koorimisefekti. Toode on loodussõbralik – läheb kanalisatsioonist alla ja tagasi loodusesse.</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p>
+<p><b>Kasutamine:</b>&nbsp;Soovitav on kehakoorijat kasutada üks kord nädalas. Sobib suurepäraselt naha ettevalmistamiseks enne isepruunistavate toodete pealekandmist, tagades ühtlase ja pikaajalise päevituse. Kanna niiskele nahale, masseeri õrnalt ringjate liigutustega ning loputa hoolikalt.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Oryza Sativa (Rice) Powder, Glycerin, Dunaliella Salina Extract, Helianthus Annus Seed Oil, Coco-Glucoside, Glyceryl Oleate, Xanthan gum, Hippophae Rhamnoides (Sea Buckthorn) oil, Citrus Aurantium Dulcis (Orange) Oil, Citrus Nobilis Peel (Mandarin) Oil, Citric Acid, Sodium benzoate, Potassium Sorbate, Aroma, Citral, Linalool, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013986750791</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014032789831</id>
+    <published>2025-02-25T13:44:35+02:00</published>
+    <updated>2025-02-25T13:44:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-magnesium-cream-200ml"/>
+    <title>LUUV Looduslik magneesiumikreem 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-magnesium-cream-200ml-418252.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tujutõstev ja noorendav LUUV magneesiumkreem on värava heaolu ja lõõgastuse maailma. Prestiižse ECOCERT/COSMOS ökosertifikaadiga sertifitseeritud magneesiumkreem on sinu heaolu jaoks usaldusväärne ja jätkusuutlik valik. Igapäevasel kasutamisel saab sellest sinu partner magneesiumipuuduse ennetamisel ja vähendamisel, pakkudes samal ajal leevendust lihasvaludele ja pingetele. Toode sisaldab magneesiumkloriidi, mis&nbsp; on kõige paremini omastatav läbi naha ning ühtlasi on&nbsp;ka kiireim viis magneesiumipuuduse vähendamiseks. <br></p><p>Kreemile on lisatud ka rikkalikult kookosõli, mis sarnaneb naha enda lipiididega ning tagab selle, et isegi kuiva naha puhul imendub magneesium tõhusalt. Kookosõli toidab nahka sügavuti ning muudab selle siidiselt pehmeks.<br>Magneesiumkloriid sobib isegi tundlikule nahale, tagades õrna ja rahustava kogemuse kõigile.</p><ul><li>Igapäevaseks kasutamiseks</li><li>Ennetab/vähendab magneesiumipuudust</li><li>Leevendab lihasvalusid ja -pingeid</li><li>Niisutav ja toitev</li><li>Kogu perele</li><li>Sobib rasedatele</li><li>ECOCERT/COSMOS sertifitseeritud</li><li>Beauty Shortlist Awards 2024- wellbeing kategooria kuldmedal</li></ul><p><u>Põhilised koostisosad:</u></p><ul><li><u>Magneesium</u> aitab lihastel lõdvestuda, lihastõmblused tekivadki magneesiumipuudusest. Spordijärgselt on nahakaudne magneesium parim, kuna see on lokaalne (kannad sellele piirkonnale, mis lihaseid pingutasid). Nahakaudse magneesiumi tarbimisel ei ole kõrvalmõjusid ja efekt on kohene. </li><li><u>Kookosõli/kookosrasv</u> on tahketest rasvadest kõige kergem. Hea imenduvusega ja sulandub hästi nahale, toidab kuid ei ole raske. On väga sarnane meie enda naha lipiididega, seetõttu omandab inimese nahk seda hästi. </li><li><u>Sidruni eeterliku õli</u> kasutatakse toote lõhnastamiseks, kuid tal on ka tugevad detox omadused. Mõnusa tsitruselise lõhnaga, aga piisavalt mahe. Sobib hästi tselluliidivastastesse toodetesse ning naha turgutamiseks. Tugevdab immuunsüsteemi.</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Magneesiumkreem sobib kasutamiseks kogu perele ja on ohutu kasutada ka rasedatele. See aitab imeliselt leevendada lihaspingeid pärast treeningut ning ennetab ja vähendab magneesiumipuudust organismis. Lastel aitab see leevendada kasvuvalust tingitud vaevusi. Kreem sisaldab magneesiumkloriidi, mis imendub kõige paremini läbi naha ja on ühtlasi ka kiireim viis magneesiumipuudust vähendada.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Magnesium Chloride , Cocos Nucifera Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glyceryl stearate SE, Citrus Limon Peel (Lemon) Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Mentha Piperita (Peppermint) Oil, Triethyl Citrate, Glyceryl Caprylate, Xanthan gum, Benzoic Acid, Citral, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>magnesium</s:tag>
+    <s:tag>sport</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014032789831</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014045110599</id>
+    <published>2025-02-25T13:44:12+02:00</published>
+    <updated>2025-02-25T13:44:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-sensitive-intimate-wash-140ml"/>
+    <title>LUUV Intiimpesugeel 140ml</title>
+    <s:type>Intimate Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-sensitive-intimate-wash-140ml-859869.png?v=1740560026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Intimate Wash<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intiimpesugeel – kõige õrnem viis oma kõige delikaatsema piirkonna hooldamiseks! LUUV mõistab hapra pH-tasakaalu säilitamise tähtsust ja seetõttu on tootesse lisatud hoolikalt valinud taimsed pesuained, mis seda ei häiri. Täiuslikult tasakaalustatud pH tasemega 3,5-4,5 võid kindel olla, et sinu intiimpiirkond püsib harmoonilise ja tervena. Intiimpesugeel on ka täiesti lõhnatu, nii et tunned end terve päeva enesekindlalt ja mugavalt. Lisaks on see spetsiaalselt loodud tundlikule nahale, et saad viimaks lõpetada muretsemise ärrituse või punetuse pärast.&nbsp;<br><br>Intiimpesugeel on sertifitseeritud juhtiva ECOCERT/COSMOS ökosertifikaadiga. On aeg nautida paradiisi keelatud vilju ja tunda end värske, enesekindla ja kaunilt tasakaalustatuna. Tee vahetus juba täna ja taasavasta enda eest hoolitsemise rõõm.</p><ul><li>Lõhnatu</li><li>Tundlikule nahale</li><li>Tihke siidise vahuga- sobib ka raseerimiseks</li><li style="box-sizing: inherit;">Ecocert/Cosmos sertifitseeritud</li></ul><p><u>Põhilised koostisosad:&nbsp;</u></p><ul><li><u>Coco-Glucoside</u> on pesuaine, 100% taimne (saadud kookosest), keskkonnasõbralik ja sertifitseeritud. Pesuaine on õrn- sobib ka tundlikule nahale ja lastele. </li><li>100% naturaalne <u>nisuproteiin</u> rahustab nahaärritusi ja omab põletikuvastast toimet. Ühtlustab nahapinda, annab nn portselanefekti, ei ummista poore.</li><li><u>Glütseriin</u>, mida kasutame, on 100% taimne ning ei sisalda palmiõli. Glütseriini parim omadus on, et ta võtab õhust niiskust ja kannab selle naha sisse, sealjuures on võimeline üsna sügavale kandma. Väga tugeva niisutava toimega, ning ei tekita rasket/õlist tunnet.</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Sobib intiimpiirkonnale või kogu kehale.<br></p><p><b>Koostisosad:&nbsp;</b>Aqua, Cocamidopropyl Betaine, Oryza Sativa (Rice) Starch, Coco-Glucoside, Glycerin, Glyceryl Oleate, Betaine, Cocos Nucifera, Cetyl alcohol, Hydrolyzed Wheat Protein, Citric Acid, Xanthan gum, Sodium Benzoate, Potassium Sorbate</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>intiimpesu</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014045110599</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014098522439</id>
+    <published>2025-02-25T13:43:34+02:00</published>
+    <updated>2025-02-25T13:43:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-nourishing-honey-hand-cream-70ml"/>
+    <title>LUUV Kaitsev mee kätekreem 70ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-nourishing-honey-hand-cream-70ml-929616.png?v=1740560027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kaitsev mee kätekreem on sinu pilet sametiselt siledatele kätele, mis tunduvad magusad nagu mesi! Miks leppida harilikuga, kui saad hellitada oma käsi sertifitseeritud ECOCERT/COSMOS ökosertifikaadiga tootega? Mee sisaldusega kätekreem on siin, et päästa sinu õrn nahk ja haarata see looduse armastavasse embusse. Kreem moodustab loomuliku kaitsekihi, mis kaitseb õrna nahka loodusjõudude eest ja jätab sind enesekindlaks iga ilmaga – olgu siis võitluses kareda vee või karmide tuultega. Kreemi saladus on selles sisalduv mesilasvaha! Looduslik imekoostisosa mitte ainult ei kaitse sinu käsi, vaid toob neile ka mee magusa lõhna. Kätekreem on rikastatud ka luksusliku mangovõiga, mis ennetab naha kuivamist.</p><p> Järjepideva kasutamisega märkad meeldivat muutust oma kätel - nahk muutub vastupandamatult pehmeks ja taastab oma elastsuse, käed näevad nooruslikumad välja.&nbsp;</p><ul><li>Toidab ja niisutab&nbsp;</li><li>Mesilasvaha jätab nahale loodusliku kaitsekihi</li><li>Rikkalik kreem külmaks hooajaks</li><li>Mesiselt magus lõhn</li><li>ECOCERT COSMOS sertifitseeritud</li></ul><p><u>Mis teeb meest nii tõhusa kompomendi kosmeetikatoodetes?</u></p><ul><li><u>Kõrge suhkrusisaldus </u>– mesi sisaldab glükoosi ja fruktoosi. Suhkrutel on palju erinevaid rolle, millest üks tähtsamaid on rakkude toitmine. Kosmeetilisel kasutamisel on sellel noorendav toime mitte ainult nahale, vaid ka juustele.</li><li><u>Mee tihedus ja viskoossus</u> – see loob kaitsebarjääri meie nahale ning on oluline roll niiskuse säilitamiseks nahas. Samuti loob see haavadele kaitsva kihi, mis võimaldab paranemist ilma saastumiseta.</li><li><u>Antibakteriaalsed omadused </u>– enamasti kasutatakse mee omadust meditsiinilistel eesmärkidel. Kuid see võib osutuda väga kasulikuks ka kosmeetikatoodete kasutamisel. Mesi on väga kasulik selliste probleemide lahendamisel nagu erinevad nahalööbed või peanaha infektsioonid.</li></ul><p>looduslik | julmusevaba | jätkusuutlik | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine: </b>Kanna vajadusel kätele</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cocos Nucifera Oil, Mangifera Indica seed (Mango) butter, Persea Gratissima (Avocado) oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glycerin, Cetyl Alcohol, Triethyl Citrate, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Cera Alba (Beeswax), Hippophae Rhamnoides Fruit Oil, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Aroma, Citral, D-limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014098522439</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014156161351</id>
+    <published>2025-02-25T13:43:01+02:00</published>
+    <updated>2025-02-25T13:43:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-moisturizing-hand-cream-70ml"/>
+    <title>LUUV Niisutav kätekreem 70ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-moisturizing-hand-cream-70ml-635051.png?v=1740560024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Niisutav kätekreem – sinu igapäevane annus käte ja küünte turgutust! Hoolikalt valmistatud ja maineka ECOCERT/COSMOS ökosertifikaadiga kätekreem on teie keskkonnateadlik valik tervete ja õnnelike käte jaoks. Selle kerge, kuid sügavalt toitev koostis on loodud nii, et teie käed tunneksid end kõige paremini. Kookosõli headusega rikastatud see pehmendab ja toidab teie õrna kätenahka, samas kui avokaadoõli annab intensiivse niisutuse, tagades, et teie käed jäävad elastseks ja niisutatuks kogu päeva vältel.<br><br>See kätekreem ei jäta sind ootama! See imendub koheselt, jättes käed vastupandamatult pehmeks ja siidiseks, ilma rasvase jäägita. Selle mahe ja värske aroom on täiuslik segu looduslikest lõhnadest, mis tõstavad teie tuju. Lubage oma käsi luksusega, mida nad väärivad, ja tehke niisutavast kätekreemist oma igapäevane kaaslane.<br></p>
+<ul><li>Niisutab</li><li>Imendub kiiresti</li><li>Kerge kreem igapäevaseks kasutamiseks</li><li>Maheda lõhnaga</li><li>ECOCERT/COSMOS sertifitseeritud</li></ul>
+<p><u>Põhilised koostisosad:&nbsp;</u></p>
+<ul><li><u>Kookosõli </u>on tahketest rasvadest kõige kergem. Hea imenduvusega õli, mis toidab nahka, kuid ei ole raske, sulandub hästi naha sisse. On väga sarnane meie enda naha lipiididega, seetõttu meie nahk omandab seda hästi. </li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | sertifitseeritud | parabeenivaba | vegan</p>
+<p>Toode on valmistatud Eestis</p>
+<p><b>Kasutamine:</b> Kanna vajadusele kätele</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Cocos nucifera oil, Olus Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glycerin, Persea Gratissima oil, Triethyl Citrate, Betaine, Glyceryl Stearate SE, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Cetyl Alcohol, Cymbopogon Flexuosus Leaf (Lemongrass) Oil, Xanthan Gum, Aroma, Citral, Linalool, Geraniol, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014156161351</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

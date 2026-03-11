@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/naotoonik.atom"/>
+  <title>bioskina</title>
+  <updated>2026-02-18T15:06:01+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/10656478789959</id>
+    <published>2026-02-18T15:06:01+02:00</published>
+    <updated>2026-02-18T15:06:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-balancing-toner-200ml"/>
+    <title>MÁDARA Balancing Toner 200ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-balancing-toner-200ml-7756224.jpg?v=1771463662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Return skin back to its healthy state with this refreshing and regulating toner. The pH balancing formula with conditioning extracts of raspberries and cucumber, floral waters and skin-identical natural moisturisers minimises pores and deeply tones and conditions the skin, leaving it clean, fresh and vibrant.</p>
+<div>Helps to renew skin’s protective layer and regulate its natural pH balance.</div>
+<div>Packaged in a 100% post-consumer recycled bottle.</div>
+<div><br></div>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply in the morning and night to clean skin with a cotton pad or splash on with hands. Follow with moisturiser.</span></p>
+<p><strong>Ingredients:</strong> AQUA; GLYCERIN**; ROSA DAMASCENA (ROSE) FLOWER WATER*; CUCUMIS SATIVUS (CUCUMBER) FRUIT EXTRACT*; RUBUS IDAEUS (RASPBERRY) FRUIT EXTRACT*; SODIUM PCA; BETAINE; PROPANEDIOL; HAMAMELIS VIRGINIANA (WITCH HAZEL) LEAF WATER*; SODIUM LEVULINATE; PHENETHYL ALCOHOL; SODIUM BENZOATE; CHAMOMILLA RECUTITA (CAMOMILE) FLOWER EXTRACT*; PLANTAGO MAJOR (PLANTAIN) LEAF EXTRACT*; CITRIC ACID; BENZYL ALCOHOL; RHAMNOSE; XYLITYLGLUCOSIDE; POTASSIUM SORBATE; ANHYDROXYLITOL; GLUCOSE; GLUCURONIC ACID; XYLITOL</p>
+<p>*Ingredients from Organic Farming **Made using organic ingredients<br><br>99% Natural origin of total<br>10% Organic of total<br></p>
+<p>* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10656478789959</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10656474628423</id>
+    <published>2026-02-18T15:06:01+02:00</published>
+    <updated>2026-02-18T15:06:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-comforting-toner-200ml"/>
+    <title>MÁDARA Comforting Toner 200ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-comforting-toner-200ml-2548656.jpg?v=1771463664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This hydrating and comforting essence instantly soothes and calms sensitive, dry and tight skin. The pH balancing formula with soothing floral waters of cornflower and rose, chamomile extract and skin-identical natural moisturising ingredients leaves the complexion looking smooth and feeling soft, fresh and quenched. Prevents skin irritation. </p>
+<div>Packaged in a 100% post-consumer recycled bottle.<br>
+</div>
+<div><br></div>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply in the morning and night to clean skin with a cotton pad or splash on with hands. Follow with moisturiser.</span></p>
+<p><strong>Ingredients:</strong> AQUA; GLYCERIN; CENTAUREA CYANUS (CORNFLOWER) FLOWER EXTRACT*; MELISSA OFFICINALIS (LEMON BALM) WATER*; BETAINE; SODIUM PCA; SODIUM LEVULINATE; HYDROLYZED GLYCOSAMINOGLYCANS; PROPANEDIOL; SODIUM BENZOATE; CHAMOMILLA RECUTITA (CAMOMILE) FLOWER EXTRACT*; LACTIC ACID; SODIUM HYALURONATE; BENZYL ALCOHOL; POTASSIUM SORBATE; RHAMNOSE; GLUCOSE; GLUCURONIC ACID</p>
+<p>*Ingredients from Organic Farming<br><br>99% Natural origin of total<br>6% Organic of total </p>
+<p>* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10656474628423</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10656423772487</id>
+    <published>2026-02-18T15:06:01+02:00</published>
+    <updated>2026-02-18T15:06:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-clarifying-toner-200ml"/>
+    <title>MÁDARA Clarifying Toner 200ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-clarifying-toner-200ml-8014361.jpg?v=1771463662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deeply exfoliate clogged and oily skin with this clarifying toner. Formulated with oil-controlling extracts of oak bark and sweet flag (root), floral water and natural moisturisers it purifies the skin, reduces shine, minimises pores, prevents blemishes and regulates the skin’s natural pH balance. Leaves the skin looking fresh, clean and matte. </p>
+<div>Packaged in a 100% post-consumer recycled bottle.</div>
+<div><br></div>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply in the morning and night to clean skin with a cotton pad or splash on with hands. Follow with moisturiser.</span></p>
+<p><strong>Ingredients:</strong> AQUA; ALCOHOL; ROSA DAMASCENA (ROSE) FLOWER WATER*; GLYCERIN**; ACORUS CALAMUS (SWEET FLAG) ROOT EXTRACT*; CUCUMIS SATIVUS (CUCUMBER) FRUIT EXTRACT*; BETAINE; QUERCUS ROBUR (OAK) BARK EXTRACT*; SALVIA OFFICINALIS (SALVIA) LEAF EXTRACT*; SALICYLIC ACID; BENZYL ALCOHOL; SODIUM BENZOATE; POTASSIUM SORBATE</p>
+<p>*Ingredients from Organic Farming<br>**Made using organic ingredients<br><br>99% Natural origin of total<br>35% Organic of total</p>
+<p>* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10656423772487</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10656411386183</id>
+    <published>2026-02-18T15:06:00+02:00</published>
+    <updated>2026-02-18T15:06:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-glycolic-glow-toner-150ml"/>
+    <title>MÁDARA Glycolic Glow Toner 150ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-glycolic-glow-toner-150ml-6984978.jpg?v=1771463673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>Experience visible skin renewal with this glycolic acid toner — a gentle liquid formula that exfoliates, smooths and brightens the look of skin. Powered by 5% Glycolic Acid and Juniper Stem Cells, it removes dead surface cells and targets areas of pigmentation, revealing a more luminous complexion and an even-looking skin tone. Infused with advanced, clinically studied exosomes, it enhances the delivery of apple extract where your skin needs it most to let you achieve refined appearance and a healthy-looking glow.</span></p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply to cleansed skin every morning and/or evening. Pat onto face with hands or use a cotton pad.</span><br></p>
+<p><span style="font-size: 0.875rem;">Perform a patch test on a small area before use. This formula contains AHAs, which can increase your skin’s sensitivity to the sun and the risk of sunburn. Always apply sunscreen, wear protective clothing and limit sun exposure while using this toner.</span></p>
+<p><strong>Ingredients:</strong> <span>AQUA; GLYCOLIC ACID; GLYCERIN; POTASSIUM HYDROXIDE; SODIUM PCA; SODIUM LEVULINATE; PHENETHYL ALCOHOL; PYRUS MALUS (APPLE) FRUIT EXTRACT; SODIUM BENZOATE; PHOSPHOLIPIDS; LACTOBACILLUS FERMENT; HYDROLYZED HYALURONIC ACID; SODIUM HYALURONATE; JUNIPERUS COMMUNIS (JUNIPER) CALLUS EXTRACT</span></p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10656411386183</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303841403207</id>
+    <published>2025-08-26T14:27:42+03:00</published>
+    <updated>2025-08-26T14:27:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-mist-face-spray-100ml"/>
+    <title>BERRICHI Mist face spray 100ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-mist-face-spray-100ml-3547408.png?v=1756222801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            21.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This face spray is a luxurious daily skincare product that provides hydration to the skin, gives an instant feeling of freshness, and helps protect the skin from external stressors. The lightweight absorbent formula is suitable for daily use – for refreshing the skin in the morning, as well as for rehydrating throughout the day or for spraying over makeup. A delicately floral yet juicy fruity aroma – subtle elegance in every pump.<span style="text-decoration: underline;"></span></p>
+<ul>
+<li>Provides instant hydration and freshness</li>
+<li>Helps even out skin tone and reduces melanin production</li>
+<li>Smooths and tightens the skin, giving a more radiant appearance</li>
+<li>Strengthens the skin’s natural protective barrier</li>
+<li>Helps restore the skin’s natural pH balance</li>
+</ul>
+<p>Main ingredients:</p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Furcellaran</span> – A powerful antioxidant that helps maintain skin moisture balance, strengthens the skin’s protective barrier, slows down the visible effects of aging, and reduces inflammation and dryness. Sourced from Estonian waters.</li>
+<li>
+<span style="text-decoration: underline;">Mineral-rich Seawater</span> – Packed with natural minerals and microelements, it revitalizes the skin and supports its natural balance. It strengthens the skin’s defense against pollution and environmental stressors, while offering anti-inflammatory benefits.</li>
+<li>
+<span style="text-decoration: underline;">Chicory Root Extract</span> – A natural skin-tightening ingredient that provides an immediate smoothing effect. It stimulates collagen production and supports skin cell regeneration.</li>
+<li>
+<span style="text-decoration: underline;">Spreading Spiderwort</span> – Helps even out skin tone, reduces melanin production, and maintains the skin’s natural glow. It helps protect the skin from environmental damage</li>
+<li>
+<span style="text-decoration: underline;">Golden Samphire</span> – A deeply hydrating agent that soothes and protects sensitive skin while reinforcing the skin’s natural barrier.</li>
+<li>
+<span style="text-decoration: underline;">Aloe Vera</span> – A soothing and hydrating ingredient with natural antibacterial and anti-inflammatory properties.</li>
+</ul>
+<p>Suitable for all skin types, including sensitive skin.</p>
+<p><strong>How to use: </strong>Shake before use. Hold the bottle 20–30 cm from your face and spray 2–3 times. Use in the morning, during the day, or as a makeup setting spray.</p>
+<p><strong>Ingredients:</strong> Aqua, Cichorium Intybus Root Oligosaccharides, Passiflora Edulis Fruit Water, Sea Salt, Orchis Morio Flower Water, Glycerin, Aloe Barbadensis Leaf Juice, Propanediol, Sodium Benzoate, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Furcellaria Lumbricalis Extract, Citric Acid, Caesalpinia Spinosa Gum, Gluconolactone, Sodium Levulinate, Boerhavia Diffusa Root Extract, Helichrysum Stoechas Callus Culture Lysate, Potassium Sorbate, Calcium Gluconate</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303841403207</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">21.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10004483113287</id>
+    <published>2025-02-18T20:37:44+02:00</published>
+    <updated>2025-02-18T20:37:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-natural-renewal-toner-100ml"/>
+    <title>BERRICHI Natural Renewal Toner 100ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-natural-renewal-toner-100ml-370058.png?v=1739979951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            25.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Berrichi Facial Toner – an innovative solution for cleansing and renewing the skin. This effective toner removes dirt, excess oil and dead skin cells while gently exfoliating the skin as it helps to remove dead skin cells. Regular use helps to reduce pigmentation, smooth skin texture and restore skin’s natural radiance and elasticity.</p>
+<ul>
+<li>Effectively removes dirt, excess oil and dead skin cells</li>
+<li>Reduces pigmentation</li>
+<li>Provides even skin tone and a radiant complexion</li>
+<li>Smoothes the surface of the skin and reduces the appearance of roughness</li>
+<li>Accelerates cell renewal, helping to achieve a fresh and radiant complexion<br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Main ingredients:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Furcellaran</span><strong> </strong>– antioxidant, helps to maintain skin moisture balance and strengthen the skin’s protective barrier, slows down the skin’s ageing process, reduces inflammation and dryness. Furtsellaran is obtained from algae grown in Estonian waters.</li>
+<li>
+<span style="text-decoration: underline;">Fruit acids – AHA Phytocomplexon</span><span> </span>a blend of effective AHA acids that exfoliate, moisturise, smooth and balance the skin. It is the ideal natural ingredient for exfoliating and cleansing even the most sensitive skin.</li>
+</ul>
+<ul></ul>
+<p><span>Suitable for all skin types.</span></p>
+<p><strong>How to use: </strong>Apply the toner to a cotton pad and cleanse face, neck and cleavage. Or apply directly to the skin with your palms. Avoid the eye area. The product may cause a slight tingling sensation on the skin the first few times it is used. Before going out in the sun, it is recommended to apply a cream with a sun protection factor on the skin.</p>
+<p><strong>Ingredients:</strong> <span>Aqua, Propanediol, Citric Acid, Lactic Acid, Tartaric Acid, Glucose, Acer Saccharum Extract, Citrus Limon Peel Oil, Glycerin, Mentha Piperita Leaf Extract, Sodium Benzoate, Microcitrus Australasica Fruit Extract, Heptyl Glucoside, Sodium hydroxide, Capryloyl/Caproyl/Anhydro, Methyl Glucamide/Heptyl Glucoside, Potassium Sorbate, Furcellaria Lumbricalis Extract. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10004483113287</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945110184263</id>
+    <published>2025-01-20T13:17:52+02:00</published>
+    <updated>2025-01-20T13:17:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-neroli-delicate-cleansing-micellar-water-200ml"/>
+    <title>NURME Neroli Delicate Cleansing Micellar Water 200ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-neroli-delicate-cleansing-micellar-water-200ml-991849.jpg?v=1739897173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gentle micellar water, enriched with hyaluronic acid and pro-vitamin B5, thoroughly removes makeup while soothing the skin. A blend of neroli and passion fruit extracts leaves a smooth, even complexion, suitable for all skin types.</p>
+<p>Neroli oil, derived from bitter orange blossoms, has powerful antimicrobial and antibacterial properties, ideal for acne-prone skin and clogged pores. It helps regulate sebum production and balance oily skin. Rich in antioxidants and vitamin E, neroli oil has anti-aging and anti-acne benefits, combating free radicals and reducing inflammation and redness.</p>
+<p><strong style="font-size: 0.875rem;">How to use: </strong><span style="font-size: 0.875rem;">Soak a cotton pad or cloth and gently wipe over eyes and face.</span></p>
+<div>
+<div>
+<strong>Ingredients:</strong> Aqua, Citrus Aurantium Dulcis Flower Water*, Glycerin**, Citrus Aurantium Amara Flower Water*, Panthenol*, Sodium Benzoate**, Cocamidopropyl Betaine**, Potassium Sorbate**, Lactic Acid**, Benzyl Alcohol**, Sodium Hyaluronate**, Passiflora Incarnata Extract*.</div>
+<div><br></div>
+<div>
+<p>* Natural origin</p>
+<p>** Natural cosmetics approved ingredient</p>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945110184263</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9941166555463</id>
+    <published>2025-01-19T13:27:12+02:00</published>
+    <updated>2025-01-19T13:27:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-organic-sensitive-pha-toner-100ml"/>
+    <title>HEJ Organic Sensitive PHA Toner 100ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-sensitive-pha-toner-100ml-302863.png?v=1739897156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gently removes impurities and dirt from your skin and at the same time provides it with valuable ingredients without unbalancing it. Toner's PHAs gently cleanse, while oat and chamomile extract hydrate and soothe your skin.</span></p>
+<ul>
+<li><span>Gentle exfoliation with PHAs</span></li>
+<li><span>Intensive hydration with oat extract and chamomile floral water</span></li>
+<li><span>Soothing effect for sensitive skin</span></li>
+<li><span>Microfine spray mist for particularly pleasant use</span></li>
+<li><span>Allergen-reduced perfume oil, 100% vegan and natural</span></li>
+</ul>
+<p><span><strong>How to use:</strong> After cleansing, spray on the face, neck and décolleté from a distance of approx. 20cm and let it take effect. Keep your eyes and mouth closed. Prepares your skin optimally for the further care steps.</span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Gluconolactone, Sorbitol, Sodium Citrate, Citric Acid, Betaine, Chamomilla Recutita Flower Water*, Avena Sativa Kernel Extract, Glycerin, Polyglyceryl-10 Oleate, Potassium Sorbate, Polyglyceryl-10 Sterate, Sodium Benzoate, Dehydroacetic Acid, Benzyl Alcohol, Parfum** </span></p>
+<p><span>*ingredients from certified organic agriculture<br></span><span>**natural essential oils</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9941166555463</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9228047384903</id>
+    <published>2024-05-28T20:54:36+03:00</published>
+    <updated>2024-05-28T20:54:36+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-nourishing-face-tonic-cactus-150ml"/>
+    <title>HEJ Organic Nourishing Face Tonic Cactus 150ml</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-nourishing-face-tonic-cactus-150ml-237275.png?v=1739897255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            9.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Face Tonic revitalizes and refreshes while removing the last impurities. Grapefruit extracts and prickly pear flower water provide elasticity and a silky shine. What remains is clear, well-groomed skin.</span><br><span>The Face Tonic is also suitable as a gentle alternative to aftershave.</span></p>
+<ul>
+<li><span>Radiance for your skin with a balancing effect</span></li>
+<li><span>Intensive cleansing and preparation of the skin for your care</span></li>
+<li><span>With vitamins from prickly pear seed oil for an antioxidant effect</span></li>
+<li><span>Skin Type: Any skin type</span></li>
+<li><span>100% vegan and natural</span></li>
+</ul>
+<p><span><strong>How to use: </strong>Apply to face every morning and evening after cleansing</span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Opuntia Ficus-Indica Flower Extract*, Glycerin, Caprylyl/Capryl Glucoside, Sodium Cocoyl Glutamate, Citrus Paradisi Fruit Extract*, Polyglyceryl-5 Oleate, Argania Spinosa Kernel Oil*, Opuntia Ficus-Indica Seed Oil*, Glyceryl Caprylate, Parfum**, Citric Acid, p-Anisic Acid, Levulinic Acid, Limonene**, Linalool**, Citral**, Citronellol** *ingredients from certified organic agriculture, **natural essential oils</span></p>
+<p><span>Organic | Cruelty Free | Vegan | Natural Resources</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9228047384903</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9041917968711</id>
+    <published>2024-02-16T11:59:12+02:00</published>
+    <updated>2024-02-16T11:59:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/organic-toner-100ml"/>
+    <title>Vielö Organic Toner 100ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-toner-100ml-558653.jpg?v=1739897335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nourishing <span data-mce-fragment="1">organic toner to gently soothe, refresh and cleanse the skin.</span></p>
+<p>Created with o<span data-mce-fragment="1">rganic whey (nourishing), organic witch hazel water (nurturing), hyaluronic acid (hydrating) and organic extracts of calendula (regenerating), mallow (protecting) and chamomile (antiseptic).</span></p>
+<p><span data-mce-fragment="1">Suitable for all skin types, also for dry and sensitive skin. </span></p>
+<p><span data-mce-fragment="1"><strong>How to use:</strong> Shake well before use. Splash into hands and massage gently into face and neck or spray directly onto face. Use it in the morning and evening and whenever your skin needs refreshing hydration. Use before applying a moisturizer. </span></p>
+<p><span data-mce-fragment="1"><strong>Ingredients:</strong> Lactis Serum Proteinum **, Helianthus Annuus Seed Oil **, Triticum Vulgare Germ Oil **, Polyglyceryl-3 Dicitrate / Stearate *, Cetyl Alcohol *, Glycerin **, Betaine *, Aqua *, Citric Acid *, Xanthan Gum *, Tocopherol *, Lavandula Angustifolia Flower Oil **, Sodium Hyaluronate *, Potassium Sorbate, Salvia Officinalis Oil **, Citronellol ** / ***, Pelargonium Graveolens Flower Oil **, Geraniol ** / ***, Polyglyceryl-4 Caprate *, Arnica Montana Flower Extract **, Lavandula Angustifolia Flower Extract **, Rosmarinus Officinalis Leaf Extract **, Limonene ** / ***, Calendula Officinalis Flower Extract **, Salvia Officinalis Leaf Extract **, Sodium Lactate *, Citral ** / ***.</span></p>
+<p><span data-mce-fragment="1">* from natural origin (99,7%)</span><br data-mce-fragment="1"><span data-mce-fragment="1">** certified organic (87,1%)</span><br data-mce-fragment="1"><span data-mce-fragment="1">*** from natural essential oils</span></p>
+<p>Handmade in Austria</p>
+<p>Inspired by circular economy, Vielö refines a high-quality by-product of cheese production, liquid organic whey, and uses it to create certified organic and sustainable skin and body care products. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9041917968711</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku/>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

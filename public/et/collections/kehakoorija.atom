@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/kehakoorija.atom"/>
+  <title>bioskina</title>
+  <updated>2026-02-17T11:27:17+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/8977197531463</id>
+    <published>2026-02-17T11:27:17+02:00</published>
+    <updated>2026-02-17T11:27:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/body-scrub-coffee-peppermint"/>
+    <title>HOIA Kehakoorija Kohvimünt 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-coffee-peppermint-200ml-813070.jpg?v=1739897403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Ergutav kohvikoorija puhastab, toniseerib ja masseerib nahka, eemaldab surnud naharakud, parandab vereringet ja leevendab efektiivselt nahakuivust. Sisaldab külluslikult sheavõid ja kookosrasva, mis jätavad naha pehmeks ja siidiseks. Jahvatatud kohvioad sisaldavad rikkalikult kofeiini, mis veega kokkupuudel aktiveerub ning aitab võidelda tselluliidi vastu, väljutada vett ja jääkaineid. Piparmündi eeterlik õli värskendab, ergutab ja tõstab tuju</p>
+<p><b>Kasutamine:</b> Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Kreemitada pole vaja. Säilita temperatuuril alla +25 °C.</p>
+<p><b>Koostisosad:&nbsp;</b>*Sucrose (sugar), Coee Arabica Beans, *Butyrospermun Parkii (shea) Butter, *Cocos Nucifera (coconut) Oil, *Mentha Piperita (peppermint) Leaf Oil, Tocopherol (E-vitamin),**Limonene. *From organic farming. **Natural component of essential oil.</p>
+<p>Valmistatud käsitsi Saaremaal</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8977197531463</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10521425969479</id>
+    <published>2025-12-06T08:29:41+02:00</published>
+    <updated>2025-12-06T08:29:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-sea-mineral-scrub-250g"/>
+    <title>NURME Meremineraalidega kehakoorija 250g</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-sea-mineral-scrub-250g-1052276.webp?v=1765078814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sügavpuhastav meremineraalidega koorija täidab terve vannitoa hõrgu ja värskendava piparmündi lõhnaga. Meremineraalid on tuntud oma vereringet parandavate ja jääkaineid väljutavate omaduste poolest. Koorija eemaldab nahalt surnud naharakud, jättes naha nooruslikult värskeks. Meresoola ja värskendava piparmündi kooslus aitab vähendada tselluliiti.</p><p><b>Kasutamine:&nbsp;</b>Kanna väike kogus koorijat ringjate liigutustega märjale nahale. Oota mõned minutid enne loputamist. Et koorijas sisalduvad õlid saaksid maksimaalselt toimida, ei ole soovitatav kooritud piirkondi enam seebiga pesta.</p><p><b>Koostisosad:&nbsp;</b>Kanna väike kogus koorijat ringjate liigutustega märjale nahale. Oota mõned minutid enne loputamist. Et koorijas sisalduvad õlid saaksid maksimaalselt toimida, ei ole soovitatav kooritud piirkondi enam seebiga pesta.</p><p>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10521425969479</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10521413517639</id>
+    <published>2025-12-06T08:29:41+02:00</published>
+    <updated>2025-12-06T08:29:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-grapefruit-sugar-scrub-250g"/>
+    <title>NURME Gweibi kehakoorija 250g</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-grapefruit-sugar-scrub-250g-9359903.webp?v=1765078814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Värskendav kehakoorija greibi, suhkru ja roosa saviga annab Su nahale väga vajaliku vitamiini laengu.</p><p>Roosa savi sisaldab rohkelt mineraale ja rauda, mis parandavad naha elastsust, samal ajal kui C-vitamiinist rikas greip pinguldab ja jätab naha siledaks ja vastupandamatult hästi lõhnavaks. Regulaarsel kasutamisel aitab vähendada tselluliidiefekti. Sobib kuivale ja tundlikule nahale.</p><p><b>Kasutamine:&nbsp;</b>Kanna väike kogus koorijat ringjate liigutustega märjale nahale, masseeri õrnalt ja seejärel loputa. Et koorijas sisalduvad õlid saaksid maksimaalselt toimida, ei ole soovitatav kooritud piirkondi enam seebiga pesta.</p><p><b>Koostisosad:</b>&nbsp;Kanna väike kogus koorijat ringjate liigutustega märjale nahale, masseeri õrnalt ja seejärel loputa. Et koorijas sisalduvad õlid saaksid maksimaalselt toimida, ei ole soovitatav kooritud piirkondi enam seebiga pesta.</p><p>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10521413517639</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10521380782407</id>
+    <published>2025-12-06T08:29:40+02:00</published>
+    <updated>2025-12-06T08:29:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-sea-buckthorn-and-orange-sugar-scrub-250g"/>
+    <title>NURME Astelpaju vitamiini hooldav kehakoorija 250g</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-sea-buckthorn-and-orange-sugar-scrub-250g-2757463.webp?v=1765078816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Värskendav kehakoorija magusa apelsini, suhkru ja astepajuõliga annab Sinu nahale väga vajaliku vitamiini laengu.&nbsp;Astepajuõli on vitamiinirikas, aitab kaasa naharakkude uuenemisele, tugevdab seda ning kaitseb nahka. Samal ajal mõjub magusa apelsini eeterlik õli tujutõstvalt ja annab energiat, jättes naha vastupandamatult hästi lõhnavaks. Sobib kasutamiseks kõikidele nahatüüpidele.</p><p><b>Kasutamine:&nbsp;</b>Kanna väike kogus koorijat ringjate liigutustega märjale nahale, masseeri õrnalt ja seejärel loputa. Et koorijas sisalduvad õlid saaksid maksimaalselt toimida, ei ole soovitatav kooritud piirkondi enam seebiga pesta.</p><p><b>Koostisosad:</b>&nbsp;Sucrose (Sugar), Olea Europaea (Olive) Fruit Oil, Sodium Cocoamphoacetate,&nbsp;&nbsp;Ricinus Communis (Castor) Seed Oil, Hippophae Rhamnoides (Sea Buckthorn) Oil, Citrus Aurantium Dulcis (Sweet Orange) Peel Oil, Sodium Benzoate (and) Potassium Sorbate, Tocopherol (Vitamin E), Limonene*</p><p>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10521380782407</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10010723647815</id>
+    <published>2025-02-28T10:56:09+02:00</published>
+    <updated>2025-02-28T10:56:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-body-scrub-unicorn-dust-200ml"/>
+    <title>HOIA Kehakoorija Unicorn Dust 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-unicorn-dust-200ml-403541.jpg?v=1740808676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unicorn Dust kehakoorija on niisutav koorija, mis jätab naha siidiselt pehmeks ja luksuslikult sädelevaks. Koorijas sisaldub rikkalikult orgaanilist rafineerimata sheavõid ja kookosõli, mis niisutavad, toidavad ja pehmendavad nahka. Koorija sisaldab suhkruterasid, mis pakuvad nahale mõnusat ja ergutavat massaaži.<br><br>Unicorn Dust on rikastatud värskendavate eeterlike õlidega, mis kingivad sulle duši all käies meeldiva ja tujutõstva aroomiteraapilise spaa kogemuse. Koorijas sisalduvad sädelevad osakesed on mineraalset päritolu ega kahjusta keskkonda.<b><br><br>Kasutamine:</b>&nbsp;Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Naudi oma sära. Kreemitada pole vaja. </p><p> Toodet ei ole soovitav kasutada vahetult enne päevitamist või solaariumit.</p><p><b>Koostisosad:</b>&nbsp;*Sucrose, *Butyrospermum Parkii Butter, *Cocos Nucifera Oil, Tocopherol, Helianthus Annuus Seed oil, *Lavandula Angustifolia Flower oil, *Mentha Piperita Leaf oil, *Citrus Aurantifolia Peel oil, **Fluorphlogopite, **Titanium Dioxide, **Tin Oxide, ***Limonene, ***Linalool, ***Citral, ***Geraniol. *From organic farming. **Mineral component of Mica. ***Natural components of essential oils</p><p>Valmistatud käsitsi&nbsp;Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10010723647815</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10010733707591</id>
+    <published>2025-02-28T10:55:04+02:00</published>
+    <updated>2025-02-28T10:55:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-body-scrub-strawberry-margarita-200ml"/>
+    <title>HOIA Kehakoorija Maasika Margarita 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-strawberry-margarita-200ml-410886.jpg?v=1740808676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maasika Margarita on maasika ja sidruni lõhnaga ahvatlev kehakoorija, mis muudab sinu duši all käimise aroomiteraapiliseks koorivaks  spaa rituaaliks. Toode aitab stimuleerida vereringet, jahutab nahka, aitab eemaldada surnud naharakud ning jätab naha mõnusalt pehmeks ja siidiseks.<br><br>Kehakoorija sisaldab orgaanilist rafineerimata sheavõid ja kookosõli, mis leevendavad tõhusalt naha kuivust ja toidavad nahka vitamiinidega.</p><p><b>Kasutamine:&nbsp;</b>Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja naudi aroomiteraapiat ning seejärel loputa. Kreemitada pole vaja. </p><p>Toodet ei ole soovitav kasutada vahetult enne päevitamist või solaariumit.</p><p><b>Koostisosad:</b>&nbsp;*Sucrose, *Cocos Nucifera Oil, *Butyrospermum Parkii Butter, *Citrus Limon Peel Oil, Natural Parfum, Helianthus Annuus Seed oil, Tocopherol, **Limonene, **Linalool. * From Organic Farming. ** Natural component of essential oil.</p><p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10010733707591</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10010736918855</id>
+    <published>2025-02-28T10:54:27+02:00</published>
+    <updated>2025-02-28T10:54:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-body-scrub-virgin-mojito-200ml"/>
+    <title>HOIA Kehakoorija Virgin Mojito 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-virgin-mojito-200ml-768258.jpg?v=1740808668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tsitruselise värske Mojito-lõhnaline kehakoorija muudab duši- ja saunaelamuse aroomiteraapiliseks koorivaks spaarituaaliks. Koorija aitab stimuleerida vereringet, jahutab nahka, aitab vabaneda surnud naharakkudest ning jätab naha mõnusalt pehmeks ja siidiseks.<br><br>Orgaanilist rafineerimata Nilotica sheavõid ja kookosõli sisaldav koorija leevendab tõhusalt naha kuivust ja toidab nahka vitamiinidega. Värske lõhna annavad koorijale laimi ja piparmündi eeterlikud õlid.<b><br><br>Kasutamine:&nbsp;</b>Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Kreemitada pole vaja. </p><p> Toodet ei ole soovitav kasutada vahetult enne päevitamist või solaariumit.</p><p><b>Koostisosad:</b>&nbsp;*Sucrose, *Cocos Nucifera Oil, *Butyrospermum Parkii Butter, *Citrus Aurantifolia Peel Oil, *Mentha Piperita Leaf Oil, *Citral, **Limonene, **Linalool. * From Organic Farming. ** Natural component of essential oil</p><p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10010736918855</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10010740293959</id>
+    <published>2025-02-28T10:53:45+02:00</published>
+    <updated>2025-02-28T10:53:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-body-scrub-saltshaker-200ml"/>
+    <title>HOIA Kehakoorija Saltshaker 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-saltshaker-200ml-566902.png?v=1740808670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kehakoorija Saltshaker  on värskelt lõhnav himaalaja soola ja magneesiumiga kehakoorija, mis pakub nahale kosutavat ja aroomiteraapilist spaa kogemust. Pärast kasutamist on nahk toidetud ja siidiselt pehme.<br><br>Kehakoorija sisaldab orgaanilist rafineerimata sheavõid, kookosõli ja aaloe ekstrakti, mis parandavad naha verevarustust, leevendavad kuivust ja muudavad naha siidiselt siledaks. Magneesiumi ja hoolikalt valitud eeterlike õlide segu aitab kehal lõõgastuda ja meeltel rahuneda.</p><p><b>Kasutamine:&nbsp;</b>Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Kreemitada pole vaja. </p><p>Toodet ei ole soovitav kasutada vahetult enne päevitamist või solaariumit.</p><p><b>Koostisosad:</b>&nbsp;Sodium Chloride (Himaalaja sool), Magnesium Sulfate, *Butyrospermum Parkii Butter, Cocos Nucifera Oil, *Lavandula Angustifolia Flower oil, *Hyssop Ocinalis Decumbens Leaf oil, *Citrus Bergamia Peel oil, Aloe Vera extract. **Limonene, *Linalool. *Organic. **Natural component of essential oils</p><p>Valmistatud käsitsi&nbsp;Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10010740293959</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10010743243079</id>
+    <published>2025-02-28T10:53:08+02:00</published>
+    <updated>2025-02-28T10:53:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-body-scrub-sassy-citrus-200ml"/>
+    <title>HOIA Kehakoorija Segane Tsitrus 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-sassy-citrus-200ml-880150.jpg?v=1740808667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mõnusalt lõhnav Segane Tsitrus kehakoorija puhastab, toniseerib ja masseerib õrnalt nahka, eemaldab  surnud naharakud ning leevendab kuivust ja ketendamist. Orgaanilise rafineerimata sheavõi ja kookosõliga rikastatud koorija toidab sügavuti, jättes naha pehmeks, siledaks ja niisutatuks.<br><br>Tsitrusviljade eeterlike õlide kosutav segu tõstab&nbsp;tuju, aitab võidelda väsimusega ja turgutab meeli.</p><p><b>Kasutamine:</b>&nbsp;Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Kreemitada pole vaja. </p><p> Toodet ei ole soovitav kasutada vahetult enne päevitamist või solaariumit.</p><p>Hoia temperatuuril alla +25°C.</p><p><!--EndFragment--><b>Koostisosad:</b>&nbsp;Sucrose, *Butyrospermum Parkii Butter, *Cocos Nucifera Oil, Citrus Grandis Peel Oil, Citrus Aurantifolia Oil, Citrus Aurantium Bergamia Fruit Oil, **Limonene, **Linalool, **Citral. * From Organic Farming. ** Natural components of essential oils.<br></p><p>Valmistatud käsitsi&nbsp;Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10010743243079</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013986750791</id>
+    <published>2025-02-25T13:45:53+02:00</published>
+    <updated>2025-02-25T13:45:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-seabuckthorn-body-scrub-200ml"/>
+    <title>LUUV Looduslik astelpaju kehakoorija 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-seabuckthorn-body-scrub-200ml-989413.png?v=1740560026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik astelpaju kehakoorija– ülim nahahooldustoode särava, sametiselt pehme naha jaoks. Kehakoorija on asjatundlikult valmistatud, et pakkuda sinu nahale hooldust, mida see tõeliselt väärib. Astelpaju headusega ja koorivate osakestega rikastatudkoorija pakub nahahooldusele mitmemõõtmelist lähenemist. See eemaldab õrnalt surnud naharakud, paljastades värske ja särava jume. Seda kõike ilma õrna nahka kahjustamata.<br><br>Tõeline ilu peitub niisutavates taimeõlides. Kui masseerid koorijat oma nahale, toimivad need õlid harmoonias, et niisutada teie keha, muutes selle vastupandamatult pehmeks ja siidiseks. Apelsini ja mandariini eeterlike õlide särtsakas essents mitte ainult ei stimuleeri nahka, vaid turgutab ka sinu meelt, muutes duširutiini nauditavaks kogemuseks, mis annab energiat kogu päevaks. ECOCERT / COSMOS ökosertifikaat garanteerib, et kehakoorija on valmistatud loodust ülimalt austades, tagades, et sinu ilurežiim on nii jätkusuutlik kui ka tõhus.<br></p>
+<ul><li>Õrn, kuid tõhus koorija</li><li>Ei kuivata nahka</li><li>Ergutav tsitruse lõhn</li><li>Keskkonnale ohutu</li><li>ECOCERT/COSMOS sertifitseeritud</li></ul>
+<p>Põhilised koostisosad:</p>
+<ul><li><u>Astelpajuõli</u> on looduslik superniisutaja. Sisaldab suurt kontsentratsiooni rasvhappeid, sealhulgas oomega-3, oomega-6, oomega-7 ja oomega-9, mis aitavad säilitada naha niiskustaset ja ennetada niiskuse kadu. Õli kõrge C-vitamiini sisaldus muudab naha säravaks ja kirkaks, aitab ühtlustada jumet. Õlis sisalduvad antioksüdandid nagu C-vitamiin, E-vitamiin ja beetakaroteen kaitsevad nahka vabade radikaalide kahjustuste eest ja soodustavad nooruslikku välimust.</li><li><u>Porgandiõli </u>(täpsemalt porgandi seemneõli)- sisaldab palju karoteeni, mis annab jumet parandava efekti. Porgandiõli on alati mingis kandjaõlis (st lahjendatuna), kuna iseseisvalt on ta liiga intensiivne. Sisaldab rohkelt A-vitamiini.&nbsp;Porgandiõli looduslik SPF on u 40, aga kuna ta on lahjendatud, siis jääb u SPF 10.</li><li>Koorivad osakesed <u>riisist </u>– ei mingit plastikut! Osakesed ei ole nurgelised ega teravad, st ei vigasta nahka. Samas on piisavalt tugev, et anda hea koorimisefekti. Toode on loodussõbralik – läheb kanalisatsioonist alla ja tagasi loodusesse.</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p>
+<p><b>Kasutamine:</b>&nbsp;Soovitav on kehakoorijat kasutada üks kord nädalas. Sobib suurepäraselt naha ettevalmistamiseks enne isepruunistavate toodete pealekandmist, tagades ühtlase ja pikaajalise päevituse. Kanna niiskele nahale, masseeri õrnalt ringjate liigutustega ning loputa hoolikalt.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Oryza Sativa (Rice) Powder, Glycerin, Dunaliella Salina Extract, Helianthus Annus Seed Oil, Coco-Glucoside, Glyceryl Oleate, Xanthan gum, Hippophae Rhamnoides (Sea Buckthorn) oil, Citrus Aurantium Dulcis (Orange) Oil, Citrus Nobilis Peel (Mandarin) Oil, Citric Acid, Sodium benzoate, Potassium Sorbate, Aroma, Citral, Linalool, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013986750791</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939528384839</id>
+    <published>2025-01-19T10:14:45+02:00</published>
+    <updated>2025-01-19T10:14:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-body-scrub-50ml"/>
+    <title>Vielö Orgaaniline kehakoorija 50ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-body-scrub-50ml-231547.webp?v=1739897173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kehakoorija on spetsiaalselt loodud naha õrnaks puhastamiseks ja koorimiseks, surnud naharakkude eemaldamiseks ja keha taaselustamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), peeneks jahvatatud aprikoosituumad (kooriv), nisuiduõli (niisutav), orgaanilised kaselehe (puhastav), lavendli (rahustav) ja rosmariini (stimuleeriv) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna niiskele nahale ning masseeri ringjate liigutustega õrnalt sisse. Loputa hoolikalt maha. Veega kokkupuutel ja õrnalt sisse masseerides muutub koorija toitvaks kreemiks, mida saab kergesti maha pesta.</p><p><b>Koostisosad:&nbsp;</b>Lactis Serum Proteinum**, Glycerin**, Aqua*, Decyl Glucoside*, Prunus Armeniaca Seed Powder**, Triticum Vulgare Germ Oil**, Citric Acid*, Betaine*, Xanthan Gum*, Disodium Cocoyl Glutamate*, Sodium Cocoyl Glutamate*, Lavandula Angustifolia Flower Oil**, Potassium Sorbate, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Lavandula Angustifolia Flower Extract**, Betula Alba Leaf Extract**, Glycine Soja Seed Extract*, Rosmarinus Officinalis Leaf Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (74,9%)<br>*** looduslikust eeterlikust õlist</p><p>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939528384839</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975928951111</id>
+    <published>2024-05-21T11:34:54+03:00</published>
+    <updated>2024-05-21T11:34:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/lavender-body-scrub-with-grapefruit-essential-oil-250-ml"/>
+    <title>Magrada Lavendli kehakoorija greibi essentsõliga 250ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-lavender-body-scrub-with-grapefruit-essential-oil-250ml-906916.jpg?v=1739897402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<!--StartFragment--><img loading="lazy" class="alignnone wp-image-11691" src="https://www.magrada.eu/wp-content/uploads/2020/11/auhinnad-300x300.png" alt="anne stiil ilulemmik 2017" width="100" height="100" style="box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: auto; max-width: 100%; border: none; display: inline-block; vertical-align: middle; border-radius: 0px; box-shadow: none; color: rgb(0, 0, 0); font-family: Mryiadpro-regular, -apple-system, BlinkMacSystemFont, Arial, Helvetica, &quot;Helvetica Neue&quot;, Verdana, sans-serif; font-size: 18.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.2px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(241, 240, 237); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><!--EndFragment-->
+<p>Igaõhtune ilurituaal mõjub kui lõõgastav nauding sinu isiklikus koduspaas. Orgaaniline lavendli-greibi-koorija pakub puhkust meeltele ning värskust ihule. Meresoolakristallid stimuleerivad vereringet ning aitavad regulaarsel kasutamisel võidelda tselluliidiga. See on tõeline puhastusrituaal, mis tagab sügava heaolutunde.</p>
+<ul><li><u>Orgaaniline värvohakaõli</u> külmpressituna taastab ja säilitab naha niiskustaset.</li><li><u>Orgaanilise aprikoosikiviõli</u> kerge tekstuur toidab nahka A-, B-, C- ja E-vitamiinide ning mineraalidega.</li><li><u>Orgaaniline jojoobiõli</u> sisaldab A- ja E-vitamiini ning sel on ka imelised nahka pinguldavad omadused.</li></ul>
+<p>Aroomiteraapial on positiivne mõju heaolule ja meeltele. Greibiõli on rahustav, lõõgastav, meeleolu tõstev, ärevustunnet leevendav ja uinumist soodustav.</p>
+<ul><li>Hiiumaa lavendlitalu – kõige põhjapoolseima lavendlitalu lavendlipõllud kingivad vaid parimat <u>orgaanilist lavendli essentsõli</u>.</li><li>Päikselist sünergiat lisab külmpressitud <u>orgaaniline valge greibi essentsõli</u>.</li><li><u>Orgaanilisel kadaka essentsõlil</u> on pingeid maandav ja rahuvstav toime.</li></ul>
+<p><b>Kasutamine:&nbsp;</b>Hõõru kehakoorija õrnade ringjate liigutustega niiskele nahale, loputa veega, seejärel kuivata. Koorijat soovitame kasutada üks kuni kaks korda nädalas.</p>
+<p><b>Koostisosad:</b> Sodium Chloride, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Tocopherol (Vitamin E), Citrus Paradisi (Grapefruit) Peel Oil*, Lavandula Angustifolia (Lavender) Oil*, Juniperus Communis (Juniper) Fruit Oil, Linalool, Limonene</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 100%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | alkoholivaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975928951111</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975921480007</id>
+    <published>2024-05-21T11:21:45+03:00</published>
+    <updated>2024-05-21T11:21:45+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/peony-body-scrub-with-organic-fruit-oils-250-ml"/>
+    <title>Magrada Pojengi kehakoorija orgaaniliste puuviljaõlidega 250ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-peony-body-scrub-with-organic-fruit-oils-250ml-2310111.png?v=1763665704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p style="max-width: 102px;"><img src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/image_af453899-cb92-4127-b274-881601a9b898.png?v=1716438961" data-image="be43ar0kriq1" width="102" height="102" style="width: 102px; max-width: 102px; height: 102px;"></p>
+<p>Tõhus meresoola ja puuviljaõlide kooslus lummab vahemereliku elegantsiga. Mineraalirikas peenjahvatatud meresool koorib õrnalt surnud naharakud. Aprikoosi-, värvohaka- ja jojoobiõli aga toidavad ja pehmendavad nahka.</p>
+<p>Keha koorimine aitab ergutada naha uuenemisprotsessi ning parandada nahaalust vereringet. See on luksuslik iluhoolitsus, mis toniseerib ja niisutab, muutes naha kaunilt kiirgavaks.</p>
+<ul><li><u>Orgaaniline värvohakaõli</u> külmpressituna taastab ja säilitab naha niiskustaset.</li><li><u>Orgaanilise aprikoosikiviõli</u> kerge tekstuur toidab nahka A-, B-, C- ja E-vitamiinide ning mineraalidega.</li><li><u>Orgaaniline jojoobiõli</u> sisaldab A- ja E-vitamiini ning sel on ka imelised nahka pinguldavad omadused.</li><li><u>Musta leedripuumarjade orgaaniline ekstrakt</u> rahustab ärritanud nahka, marjade aroom aga lisab puuviljaõlile meelitavaid lõhnanoote.</li></ul>
+<p>Kehakoorija sisaldab väikseima jahvatusega meresoola, kus on säilinud bioloogiliselt aktiivsed mineraalid. Meresool aitab lihastel lõõgastuda ning stimuleerida naharakkude loomulikku uuenemisprotsessi.</p>
+<ul><li><u>Pojengi aroom</u> on saadud lille naturaalsetest kroonlehtedest ning püütud pudelisse Prantsusmaal. Lummav lilleõli valmib eritellimustööna.</li></ul>
+<p><b>Kasutamine:</b>&nbsp;Hõõru kehakoorija õrnade ringjate liigutustega niiskele nahale ja loputa veega. Soovitame kasutada koorijat üks kuni kaks korda nädalas.</p>
+<p><b>Koostisosad:</b>&nbsp;Sodium Chloride, Glycerin, Carthamus Tinctorius (Safflower) Seed Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Tocopherol (Vitamin E), Parfum (Natural), Magnesium Aluminum Silicate, Kaolin, Montmorillonite, Mica</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 100%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | alkoholivaba&nbsp;| EL allergeenidevaba&nbsp;| julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975921480007</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9213816635719</id>
+    <published>2024-05-18T22:42:17+03:00</published>
+    <updated>2024-05-18T22:42:17+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-body-scrub-beach-bum-200ml"/>
+    <title>HOIA Tselluliidi kehakoorija Beach Bum 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-anti-cellulite-body-scrub-beach-bum-200ml-650540.jpg?v=1739897246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kehakoorija Beach Bum on välja töötatud tselluliidiga võitlemiseks, kuid sobib ka igapäevaseks naha kosutuseks. Koorija sisaldab rikkalikult kofeiini ja väekaid eeterlikke õlisid,  mis koos koorimisel tekkiva mikromassaažiga aitavad väljutada vett ning jääkaineid, toniseerida nahka, parandada vereringet, võidelda tselluliidiga ja muuta nahka pringimaks. Beach Bum koorija sisaldab rafineerimata orgaanilist sheavõid ja kookosrasva, mis aitavad nahka toita ja niisutada, jättes selle pehmeks ja siidiseks.</p>
+<p><b>Kasutamine:</b>&nbsp;Masseeri koorijat ringjate liigutustega 5 minuti jooksul probleemsetel kohtadel, lase mõni minut toimida ja loputa. Kreemitada ei ole vaja. Parima tulemuse saavutamiseks kasuta igapäevaselt.</p>
+<p><b>Koostisosad:</b>&nbsp;*Sucrose, *Butyrospermum Parkii butter, *Cocos Nucifera oil, Coee Arabica Bean powder, Sodium Chloride (Himalayan salt), Citrus Paradisi Peel oil, *Rosimarinus Ocinalis Leaf oil, *Cymbopogon Flexuosus Leaf oil, *Juniperus Virginiana oil, Piper Nigrum Fruit oil, Tocopherol, **Linalool, **Geraniol. *From organic farming. **Natural components of essential oils.</p>
+<p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9213816635719</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9213815521607</id>
+    <published>2024-05-18T22:42:16+03:00</published>
+    <updated>2024-05-18T22:42:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-shimmer-scrub-200ml"/>
+    <title>HOIA Särakoorija Überblingen 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-shimmer-body-scrub-uberblingen-200ml-977319.png?v=1739897255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Särakoorija Überblingen on troopilise mandariini ja lille (ylang-ylang) lõhnaline supersädelev kehakoorija, mis jätab naha siidpehmeks ja kaunilt sätendavaks. Kehakoorija sisaldab rikkalikult orgaanilist rafineerimata sheavõid ja kookosrasva, mis niisutavad, toidavad ja hooldavad nahka; suhkru ja himaalaja soola osakesi, mis aitavad koorida surnuid naharakke ja pakuvad toodet kehale hõõrudes vereringet parandavat mikromassaaži. Peale koorimist ei ole vaja nahka enam kreemitada, see on pehme ja siidiselt sile. Kehakoorijas sisalduvad sädelevad osakesed mineraalsed Mica komponendid, mis ei reosta keskkonda.</p>
+<p><b>Kasutamine:</b> Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Kreemitada pole vaja. Säilita temperatuuril alla +25 °C.</p>
+<p><b>Koostisosad:&nbsp;</b>Sucrose, Sodium Chloride (Himalayan salt), *Butyrospermum Parkii (shea) Butter, *Cocos Nucifera (coconut) Oil, Citrus Nobilis (mandarin) Peel oil, Cananga Odorata (ylang -ylang) Flower Oil, Elettaria Cardamomum (cardemon) Seed Oil, Mica, **Tin Oxide (CI 77861), **Titanium Oxide (CI 77891), **CI 77491 (Iron Oxide), **Synthetic Fluorphlogopite, ***Linalool, ***Limonene. * From organic farming. ** Plastic-free mineral component of Mica. ***Natural component of essential oil.</p>
+<p>Valmistatud käsitsi Saaremaal</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>eurovision</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9213815521607</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8977210507591</id>
+    <published>2024-05-18T22:42:16+03:00</published>
+    <updated>2024-05-18T22:42:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/body-scrub-lemongrass"/>
+    <title>HOIA Kehakoorija Sidrunhein 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-lemongrass-200ml-783431.jpg?v=1739897402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Särtsakalt lõhnav sidrunheina kehakoorija puhastab, toniseerib ning masseerib nahka, eemaldab surnud naharakud ja parandab vereringet, leevendab nahakuivust ja niisutab nahka. Sisaldab rikkalikult sheavõid ja kookosrasva, mis jätavad naha pehmeks ja siidiseks.</p>
+<p><b>Kasutamine:</b> Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Kreemitada pole vaja. Säilita temperatuuril alla +25 °C.</p>
+<p><b>Koostisosad:&nbsp;</b>*Sucrose, *Butyrospermum Parkii Butter (sheavõi), *Cocos Nucifera Oil (kookosrasv), Cymbopogon Flexuosus Herb Oil (sidrunheina eeterlik õli), ­**Citral, *Gerniol, **Linalool, **Cintronellol, **Limonene. * From Organic Farming. ** Natural components of essential oils.</p>
+<p>Valmistatud käsitsi Saaremaal</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8977210507591</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8977197334855</id>
+    <published>2024-05-18T22:42:15+03:00</published>
+    <updated>2024-05-18T22:42:15+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/body-scrub-bali-spa"/>
+    <title>HOIA Kehakoorija Bali Spa 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-body-scrub-bali-spa-200ml-191051.jpg?v=1739897408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Bali Spa kehakoorija on inspireeritud Bali saare lõhnadest, mis oma sensuaalse aroomiga rikastavad armuelu ning aitavad rahustada sinu meeli. Bali Spa kehakoorija on loodud selleks, et saaksid spa-kogemuse iseenda kodus. Spa-kogemus väljendub kehakoorija kasutamisel vallanduvast sensuaalsest aroomiteraapiast, koorimisel tekkivast nauditavast suhkrumassaažist ja siidpehmest nahast. See kooslus tekitabki tunde, nagu oleksid väljunud just oma lemmik spaast. Kehakoorija eemaldab tõhusalt surnud naharakud, parandab vereringet. Kehakoorijas sisalduv rafineerimata sheavõi ja kookosõli aitavad efektiivselt toita ja niisutada kuiva ja ketendava nahka. Peale koorija kasutamist ei pea kreemi kasutama, nahk on siidpehme, sile, toidetud ja niisutatud.</p>
+<p><b>Kasutamine:</b> Masseeri koorija ringjate liigutustega nahale, alusta jalalabast ning liigu edasi kuni kaelani välja. Lase mõni minut toimida ja loputa. Kreemitada pole vaja. Hoia temperatuuril alla +25°C.&nbsp;Toodet ei ole soovitav kasutada vahetult enne päevitamist või solaariumit.</p>
+<p><b>Koostisosad:</b>Sucrose, *Butyrospermum Parkii Butter, *Cocos Nucifera Oil, Plumeria Alba Flower Oil, Citrus Aurantifolia Peel Oil, Helianthus Annuus Seed Oil, Tocopherol, **Citral, **Citronellol, **Eugenol, **Coumarin, **Geraniol, **Linalool, **Limonene, **Hydroxycitronellal, **Benzyl Alcohol, **Benzyl Salicylate. * From Organic Farming. ** Natural components of essential oils.</p>
+<p>Valmistatud käsitsi Saaremaal</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8977197334855</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

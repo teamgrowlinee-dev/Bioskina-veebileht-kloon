@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/deodorant.atom"/>
+  <title>bioskina</title>
+  <updated>2025-11-05T12:53:28+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10381794476359</id>
+    <published>2025-11-05T12:53:28+02:00</published>
+    <updated>2025-11-05T12:53:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-natural-deodorant-lemon-and-eucolyptus-80g"/>
+    <title>NURME Looduslik deodorant sidruni ja eukalüptiga 80g</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-natural-deodorant-lemon-and-eucolyptus-80g-5650515.webp?v=1762389110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deodorantides sisalduvatel eeterlikel õlidel on hingilõhna neutraliseerivad omadused ning selles sisalduv söögisooda ei lase haisubakteritel levida. Nurme deodrandid ei sisalda savi, mis teeks deodorandi muredaks, seega ei pea Sa muretsema ebameeldivate pudenevate tükikeste pärast. Samuti ei jäta deodorant kaenlaaluseid rasvaseks, vaid tunne on kuiv ja turvaline.</p><ul><li>ei sisalda alumiiniumi</li><li>ei sisalda sünteetilisi värvi- ega lõhnaaineid</li><li>parabeenivaba</li><li>kartongist loodustsäästev pakend – “zero waste” kosmeetika</li><li>tagab keha loomuliku funktsioneerimise<br></li></ul><p>100% LOODUSLIK ja 100% JULMUSEVABA</p><p><b>Kasutamine:</b> Eemalda kork ja suru sõrmedega tuubi põhjast paar millimeetrit pulka ülessepoole. Kui pulk ei taha kuidagi tuubis liikuda, hoia seda peos ja soojenda veidi ning mudi pulga ümbert sõrmedega. Nii soojeneb see külgedelt lahti ja hakkab libisema. Kui pulk kipub tagasi tuubi vajuma, hoia alt sõrmed vastas.</p><p>Kanna deodorant alati puhtale, pestud ja kuivale nahale. Aseta pulk mõneks sekundiks soojale nahale, et see jõuaks pehmeneda ja kanna siis paari liigutusega kaenlaalusele. Ära unusta, et vähem on rohkem – paksem kiht ei tähenda pikemat kaitset.</p><p>Lase paar minutit enne riietumist deodorandil kuivada ja imenduda. Seejärel oled valmis jätkama oma toimetusi.<br></p><p>Koostisosad:&nbsp;Zea Mays (Corn) Starch, Cocos Nucifera (Coconut) Oil, Cera Alba (Beeswax), Butyrospermum Parkii (Shea) Butter, Sodium Bicarbonate, Simmondsia Chinensis (Jojoba) Seed Oil, Citrus Limon (Lemon) Peel Oil, Eucalyptus Globulus (Eucalyptus) Leaf Oil, Tocopherol (Vitamin-E), Helianthus Annuus (Sunflower) Seed Oil, Citral *, Linalool*, Limonene*</p><p>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10381794476359</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10381788021063</id>
+    <published>2025-11-05T12:53:00+02:00</published>
+    <updated>2025-11-05T12:53:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-mild-baby-shampoo-body-wash-200ml-copy"/>
+    <title>NURME Looduslik deodorant lavendli ja salveiga 80g</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-natural-deodorant-lavender-and-sage-80g-6030346.webp?v=1762389108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deodorantides sisalduvatel eeterlikel õlidel on hingilõhna neutraliseerivad omadused ning selles sisalduv söögisooda ei lase haisubakteritel levida. Nurme deodrandid ei sisalda savi, mis teeks deodorandi muredaks, seega ei pea Sa muretsema ebameeldivate pudenevate tükikeste pärast. Samuti ei jäta deodorant kaenlaaluseid rasvaseks, vaid tunne on kuiv ja turvaline.</p><p>Lavendri eeterlik õli on tuntud oma antiseptiliste ja põletikuvastaste omaduste poolest ning paneb sinu kaenlaalused meeldivalt lõhnama. Salvei eeterlikul õlil on higistamisvastased omadused.</p><ul><li>ei sisalda alumiiniumi</li><li>ei sisalda sünteetilisi värvi- ega lõhnaaineid</li><li>parabeenivaba</li><li>kartongist loodustsäästev pakend – “zero waste” kosmeetika</li><li>tagab keha loomuliku funktsioneerimise<br></li></ul><p>100% LOODUSLIK ja 100% JULMUSEVABA</p><p><b>Kasutamine: </b>Eemalda kork ja suru sõrmedega tuubi põhjast paar millimeetrit pulka ülessepoole. Kui pulk ei taha kuidagi tuubis liikuda, hoia seda peos ja soojenda veidi ning mudi pulga ümbert sõrmedega. Nii soojeneb see külgedelt lahti ja hakkab libisema. Kui pulk kipub tagasi tuubi vajuma, hoia alt sõrmed vastas.</p><p>Kanna deodorant alati puhtale, pestud ja kuivale nahale. Aseta pulk mõneks sekundiks soojale nahale, et see jõuaks pehmeneda ja kanna siis paari liigutusega kaenlaalusele. Ära unusta, et vähem on rohkem – paksem kiht ei tähenda pikemat kaitset.</p><p>Lase paar minutit enne riietumist deodorandil kuivada ja imenduda. Seejärel oled valmis jätkama oma toimetusi.<br></p><p><b>Koostisosad:</b>&nbsp;Zea Mays (Corn) Starch, Cocos Nucifera (Coconut) Oil, Cera Alba (Beewax), Butyrospermum Parkii (Shea) Butter, Sodium Bicarbonate, Simmondsia Chinensis (Jojoba) Seed Oil, Lavandula Angustifolia  (Lavender) Oil, Salvia Sclarea (Clary Sage) Oil, Tocopherol (Vitamin-E), Helianthus Annuus (Sunflower) Seed Oil, Citral*, Geraniol*,  Linalool*, Limonene*</p><p>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10381788021063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10381806502215</id>
+    <published>2025-11-05T12:46:31+02:00</published>
+    <updated>2025-11-05T12:46:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-natural-deodorant-spearmint-and-rosemary-80g"/>
+    <title>NURME Looduslik deodorant rohemündi ja rosmariiniga 80g</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-natural-deodorant-spearmint-and-rosemary-80g-9673786.webp?v=1762389110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deodorantides sisalduvatel eeterlikel õlidel on hingilõhna neutraliseerivad omadused ning selles sisalduv söögisooda ei lase haisubakteritel levida. Nurme deodrandid ei sisalda savi, mis teeks deodorandi muredaks, seega ei pea Sa muretsema ebameeldivate pudenevate tükikeste pärast. Samuti ei jäta deodorant kaenlaaluseid rasvaseks, vaid tunne on kuiv ja turvaline.</p>
+<ul><li>ei sisalda alumiiniumi</li><li>ei sisalda sünteetilisi värvi- ega lõhnaaineid</li><li>parabeenivaba</li><li>kartongist loodustsäästev pakend – “zero waste” kosmeetika</li><li>tagab keha loomuliku funktsioneerimise</li></ul>
+<p>100% LOODUSLIK ja 100% JULMUSEVABA</p>
+<p><b>Kasutamine:</b> Eemalda kork ja suru sõrmedega tuubi põhjast paar millimeetrit pulka ülessepoole. Kui pulk ei taha kuidagi tuubis liikuda, hoia seda peos ja soojenda veidi ning mudi pulga ümbert sõrmedega. Nii soojeneb see külgedelt lahti ja hakkab libisema. Kui pulk kipub tagasi tuubi vajuma, hoia alt sõrmed vastas.</p>
+<p>Kanna deodorant alati puhtale, pestud ja kuivale nahale. Aseta pulk mõneks sekundiks soojale nahale, et see jõuaks pehmeneda ja kanna siis paari liigutusega kaenlaalusele. Ära unusta, et vähem on rohkem – paksem kiht ei tähenda pikemat kaitset.</p>
+<p>Lase paar minutit enne riietumist deodorandil kuivada ja imenduda. Seejärel oled valmis jätkama oma toimetusi.<br></p>
+<p><b>Koostisosad:</b>&nbsp;Zea Mays (Corn) Starch, Cocos Nucifera (Coconut) Oil, Cera Alba (Beeswax), Butyrospermum Parkii (Shea) Butter, Sodium Bicarbonate, Simmondsia Chinensis (Jojoba) Seed Oil, Mentha viridis (Spearmint) Leaf Oil, Tocopherol (Vitamin-E), Helianthus Annuus (Sunflower) Seed Oil, Linalool*, Limonene*</p>
+<p>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10381806502215</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10381814300999</id>
+    <published>2025-11-05T12:46:18+02:00</published>
+    <updated>2025-11-05T12:46:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-natural-deodorant-lime-patchouli-80g"/>
+    <title>NURME Looduslik deodorant laimi ja patšuliga 80g</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-natural-deodorant-lime-patchouli-80g-6897932.webp?v=1762389109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deodorantides sisalduvatel eeterlikel õlidel on hingilõhna neutraliseerivad omadused ning selles sisalduv söögisooda ei lase haisubakteritel levida. Nurme deodrandid ei sisalda savi, mis teeks deodorandi muredaks, seega ei pea Sa muretsema ebameeldivate pudenevate tükikeste pärast. Samuti ei jäta deodorant kaenlaaluseid rasvaseks, vaid tunne on kuiv ja turvaline.</p>
+<ul><li>ei sisalda alumiiniumi</li><li>ei sisalda sünteetilisi värvi- ega lõhnaaineid</li><li>parabeenivaba</li><li>kartongist loodustsäästev pakend – “zero waste” kosmeetika</li><li>tagab keha loomuliku funktsioneerimise</li></ul>
+<p>100% LOODUSLIK ja 100% JULMUSEVABA</p>
+<p><b>Kasutamine: </b>Eemalda kork ja suru sõrmedega tuubi põhjast paar millimeetrit pulka ülessepoole. Kui pulk ei taha kuidagi tuubis liikuda, hoia seda peos ja soojenda veidi ning mudi pulga ümbert sõrmedega. Nii soojeneb see külgedelt lahti ja hakkab libisema. Kui pulk kipub tagasi tuubi vajuma, hoia alt sõrmed vastas.</p>
+<p>Kanna deodorant alati puhtale, pestud ja kuivale nahale. Aseta pulk mõneks sekundiks soojale nahale, et see jõuaks pehmeneda ja kanna siis paari liigutusega kaenlaalusele. Ära unusta, et vähem on rohkem – paksem kiht ei tähenda pikemat kaitset.</p>
+<p>Lase paar minutit enne riietumist deodorandil kuivada ja imenduda. Seejärel oled valmis jätkama oma toimetusi.<br></p>
+<p><b>Koostisosad:</b>&nbsp;Zea Mays (Corn) Starch, Cocos Nucifera (Coconut) Oil, Cera Alba (Beeswax), Butyrospermum Parkii (Shea) Butter, Sodium Bicarbonate, Simmondsia Chinensis (Jojoba) Seed Oil, Citrus Aurantifolia Oil, Pogostemon Cablin (Patchouli) Oil, Tocopherol (Vitamin-E), Helianthus Annuus (Sunflower) Seed Oil, Citral*, Geraniol*,  Linalool*, Limonene*</p>
+<p>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10381814300999</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10381799883079</id>
+    <published>2025-11-05T12:45:05+02:00</published>
+    <updated>2025-11-05T12:45:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-natural-deodorant-ylang-ylang-and-bergamot-80g"/>
+    <title>NURME Looduslik deodorant ylang-ylangi ja bergamotiga 80g</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-natural-deodorant-ylang-ylang-and-bergamot-80g-4201949.webp?v=1762389109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deodorantides sisalduvatel eeterlikel õlidel on hingilõhna neutraliseerivad omadused ning selles sisalduv söögisooda ei lase haisubakteritel levida.&nbsp;Nurme deodrandid ei sisalda savi, mis teeks deodorandi muredaks, seega ei pea Sa muretsema ebameeldivate pudenevate tükikeste pärast. Samuti ei jäta deodorant kaenlaaluseid rasvaseks, vaid tunne on kuiv ja turvaline.</p>
+<p>Ylang-ylang ja bergamot annavad deodorandile pigem magusama lõhna.</p>
+<ul><li>ei sisalda alumiiniumi</li><li>ei sisalda sünteetilisi värvi- ega lõhnaaineid</li><li>parabeenivaba</li><li>kartongist loodustsäästev pakend – “zero waste” kosmeetika</li><li>tagab keha loomuliku funktsioneerimise</li></ul>
+<p>100% LOODUSLIK ja 100% JULMUSEVABA</p>
+<p><b>Kasutamine:&nbsp;</b>Eemalda kork ja suru sõrmedega tuubi põhjast paar millimeetrit pulka ülessepoole. Kui pulk ei taha kuidagi tuubis liikuda, hoia seda peos ja soojenda veidi ning mudi pulga ümbert sõrmedega. Nii soojeneb see külgedelt lahti ja hakkab libisema. Kui pulk kipub tagasi tuubi vajuma, hoia alt sõrmed vastas.</p>
+<p>Kanna deodorant alati puhtale, pestud ja kuivale nahale. Aseta pulk mõneks sekundiks soojale nahale, et see jõuaks pehmeneda ja kanna siis paari liigutusega kaenlaalusele. Ära unusta, et vähem on rohkem – paksem kiht ei tähenda pikemat kaitset.</p>
+<p>Lase paar minutit enne riietumist deodorandil kuivada ja imenduda. Seejärel oled valmis jätkama oma toimetusi</p>
+<p><b>Koostisosad:</b>&nbsp;Zea Mays (Corn) Starch, Cocos Nucifera (Coconut) Oil, Cera Alba (Beeswax), Butyrospermum Parkii (Shea) Butter, Sodium Bicarbonate, Simmondsia Chinensis (Jojoba) Seed Oil, Cananga Odorata (Ylang Ylang) Flower Oil, Citrus Aurantium Bergamia (Bergamot) Leaf Oil, Tocopherol (Vitamin-E), Helianthus Annuus (Sunflower) Seed Oil, Benzyl Alcohol*, Eugenol*, Isoeugenol*, Benzyl Salicylate*, Geraniol* Farnesol*, Linalool*, Benzyl Benzoate * Limonene*<br><br>*Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10381799883079</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10334006772039</id>
+    <published>2025-08-31T16:29:16+03:00</published>
+    <updated>2025-08-31T16:29:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-deodorant-with-saaremaa-herbs-50ml"/>
+    <title>HOIA Looduslik kreemdeodorant Saaremaiste ürtidega 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-deodorant-with-saaremaa-herbs-50ml-2089297.jpg?v=1756718913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uuenenud koostisega kreemjas Saaremaa ürtidega deodorant sisaldab savi ja marantajuure pulbrit, mis seovad niiskust ning looduslikke aktiivaineid, mis takistavad efektiivselt ebameeldiva higilõhna tekkimise.</p><p>Deodorandis sisalduv:</p><ul><li>Kookosrasv on antibakteriaalsete omadustega</li><li>Kakaovõi ning mesilasvaha hooldavad, kaitsevad ja niisutavad nahka</li><li>Eeterlikud õlid aitavad takistada bakterite levikut ning hoida sind värskena</li></ul><p>HOIA kreemdeodorant on&nbsp;100% looduslik. See ei sisalda alumiiniumi ega sünteetilisi värvi- ja lõhnaaineid ning on parabeenivaba.  HOIA tutikas kreemdeodorant laseb sul tunda end värskelt terve päeva.</p><p><b>Kasutamine:</b>&nbsp;Kanna väike kogus kreemdeodoranti näpuotsaga kaenla alla ja masseeri õrnalt naha sisse. Hoia deodoranti kaitstuna otsese päikesevalguse eest ja temperatuuril alla +25 kraadi.</p><p><b>Koostisosad:&nbsp;</b>Maranta Arundinacea Root powder, *Cocos Nucifera oil, *Theobroma Cacao seed butter, Kaolin, *Cera Alba, Sodium Bicarbonate, Triethyl Citrate, Zinc Ricinoleate, Tocopherol, *Salvia Officinalis extract, *Hyssopus Ocinalis Decumbens extract, *Lavendula Angustifolia Leaf oil, **Linalool, **Limonene.</p><p>* Orgaanilist päritolu</p><p>**Eeterliku õli looduslik komponent</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10334006772039</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10334003593543</id>
+    <published>2025-08-31T16:29:16+03:00</published>
+    <updated>2025-08-31T16:29:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-deodorant-no-worries"/>
+    <title>HOIA Looduslik deodorant No Worries 40ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-deodorant-no-worries-40ml-3892390.png?v=1756718908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uuendatud koostisega HOIA looduslik deodorant No Worries lõhnab mahedalt ja värskelt, libisel nahal hästi, ei tekita paksu kihti&nbsp;ja aitab tänu uutele innovaatilistele koostisosadele tõhusalt pärssida nii higistamist kui higilõhna tekkimist.</p><p>Deodorant on 100% looduslik.&nbsp;See ei sisalda alumiiniumi ega sünteetilisi värvi- ja lõhnaaineid ning on parabeenivaba.  No Worries deodorant laseb sul tunda end värskelt terve päeva.</p><p><b>Kasutamine:</b> lükka sõrmega deodorandi alt vaikselt toodet mõned millimeetrid üles poole ja määri sobiv kogus kaenla alla. Vajadusel kasuta mitu korda päevas. Hoia toodet temperatuuril alla 25°C.</p><p><b>Koostisosad:</b>&nbsp;*Caprylic/Capric Triglyceride, *Cocos Nucifera oil, Cetearyl Alcohol, Kaolin, *Maranta Arundinacea Root Extract, Triethyl Citrate, Zinc Ricinolate, Calamine/ Triethoxyocaprylylsilane, *Abies Sibirica Needle oil, Cedrus Atlantica Bark oil, *Lavandula Angustifolia Herb oil, *Rosimarinus Officinalis Leaf oil, *Mentha Piperita Leaf oil, Citrus Limon Peel oil, Natural Aroma, **Limonene,**Linalool.</p><p>*Orgaanilist päritolu</p><p>**Eeterlike õlide looduslikud komponendid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10334003593543</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303963201863</id>
+    <published>2025-08-26T13:59:30+03:00</published>
+    <updated>2025-08-26T13:59:30+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-fresh-breeze-50ml"/>
+    <title>LUUV Looduslik deodorant Fresh Breeze 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-fresh-breeze-50ml-6627868.png?v=1756222791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Fresh Breeze looduslike desodoreerivate aktiivainetega deodorant hoiab ära higilõhna tekke ning hoiab sind terve päeva värske ja kuivana!<br><br>Deodorant võimaldab nahal vabalt hingata, ei sega naha loomulikku funktsioneerimist ega ummista poore. Deodorandis sisalduv riisitärklis imab higi endasse ning antibakteriaalne salveiekstrakt võitleb higilõhna põhjustavate bakteritega. Niisutav ja rahustav aaloe hooldab õrna kaenlaalust nahka. Deodorant kuivab kiiresti ega jäta su lemmikriietele plekke. Rohelise tee ja sidruni eeterliku õli lõhnasegu värskendab ja ergutab aga nii keha kui meelt.<br><br>Fresh Breeze deodorant ei sisalda alumiiniumi, alkoholi ega soodat ning on 100% vegan!</p>
+<ul><li>24h kaitse</li><li>Värske “roheline” lõhn</li><li>Ei ärrita nahka</li><li>Ei ummista poore</li><li>Niisutav ja rahustav</li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan | parabeenivaba</p>
+<p><b>Kasutamine: </b>Kanna puhastele kaenlaalustele. Kasuta iga päev.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Dunaliella Salina Extract, Helianthus Annuus Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Nobilis (Mandarin) Peel Oil, Citrus Aurantium (Orange) Peel Oil, Xanthan Gum, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Mica, Titanium Dioxide (CI 77891), Raphanus Sativus (Radish) Root Extract, Citric Acid, Maltodextrin, Parfum, Citral, Limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303963201863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303944720711</id>
+    <published>2025-08-26T13:59:30+03:00</published>
+    <updated>2025-08-26T13:59:30+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-lemongrass-green-50ml"/>
+    <title>LUUV Looduslik deodorant Lemongrass Green 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-lemongrass-green-50ml-1178078.png?v=1756222794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Lemongrass Green looduslike desodoreerivate aktiivainetega deodorant hoiab ära higilõhna tekke ning hoiab sind terve päeva värske ja kuivana!<br><br>Deodorant laseb nahal loomulikult funktsioneerida ega ummista poore. Deodorandis sisalduv riisitärklis imab higi endasse, salveiekstrakt võitleb higilõhna põhjustavate bakteritega ning aaloe niisutab ja rahustab õrna kaenlaaluste nahka. Deodorant kuivab kiiresti ega jäta riietele plekke. Värske eeterlike õlide lõhnasegu sobib nii meestele kui naistele.<br><br>Deodorant on sertifitseeritud üle maailma tunnustatud ECOCERT/COSMOS ökosertifikaadiga, seega võid kindel olla, et kasutad toodet, mis pole mitte hea ainult sulle, vaid ka meie planeedile. Lisaks on see alumiiniumi-, alkoholi- ja soodavaba ning 100% vegan!</p><ul><li>24h kaitse</li><li>Värske lõhn, mis sobib nii meestele kui naistele</li><li>Ei ärrita nahka</li><li>Ei ummista poore</li><li>Niisutav ja rahustav</li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p><b>Kasutamine: </b>Kanna puhastele kaenlaalustele. Kasuta iga päev.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate, Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate, Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Citrus Limon Peel (Lemon) Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Citrus Aurantium Bergamia Fruit (Bergamot) Oil, Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Limonene, Citral, Linalool, Geraniol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303944720711</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303907070279</id>
+    <published>2025-08-26T13:59:29+03:00</published>
+    <updated>2025-08-26T13:59:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-soothing-comfort-50ml"/>
+    <title>LUUV Looduslik deodorant Soothing Comfort 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-soothing-comfort-50ml-7238915.png?v=1756222794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Soothing Comfort looduslike desodoreerivate aktiivainetega deodorant hoiab ära higilõhna tekke ja imab endasse liigse higi. 24 tundi tõestatud kaitset, et saaksid terve päeva end värske ja energlisena tunda!<br><br>Deodorant ei häiri naha loomulikku funktsioneerimist ega ummista poore. Deodorandis sisalduv riisitärklis imab higi endasse ning salveiekstrakt on antibakteriaalsete omadustega. Lisaks sisaldab see niisutavat aaloed, mis hooldab ja rahustab kaenlaaluste nahka –  ideaalne valik tundlikule nahale! Deodorant kuivab kiiresti ega jäta riietele plekke. Mahe ja lummav lillearoom värskendab nii keha kui meelt.<br><br>Soothing Comfort deodorant ei sisalda alumiiniumi, alkoholi ega soodat ning on 100% vegan!</p><ul><li>24h kaitse</li><li>Meeldiv mahe lillelõhn</li><li>Ei ärrita nahka</li><li>Ei ummista</li><li>Niisutav ja rahustav<br></li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud | parabeenivaba</p><p><b>Kasutamine: </b>Kanna puhastele kaenlaalustele. Kasuta iga päev.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate, Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate,Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Cymbopogon Martini (Palmarosa) oil, Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Parfum, Geraniol, Linalool, Limonene, Citral</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303907070279</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303884919111</id>
+    <published>2025-08-26T13:59:29+03:00</published>
+    <updated>2025-08-26T13:59:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-deodorant-citrus-bliss-50ml"/>
+    <title>LUUV Looduslik deodorant Citrus Bliss 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-citrus-bliss-50ml-1045610.png?v=1756222797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deodorant Citrus Bliss on looduslike desodoreerivate aktiivainetega deodorant, mis vastutab selle eest, et tunneksid end terve päeva värske, rõõmsa ja energilisena. 24-tunnine tõestatud kaitse ebameeldiva lõhna vastu, milles võid kindel olla!<br><br>Deodorant võimaldab nahal vabalt hingata, ei sega naha loomulikku toimimist ega ummista poore. LUUVi salarelvaks on higi imav riisitärklis ja antibakteriaalsete omadustega salveiekstrakt. Lisaks sisaldab deodorant niisutavat ja rahustavat aaloed, mis hooldab õrnalt kaenlaaluste nahka. Tsitruseliste eeterlike õlide harmooniline segu loob aga imelise lõhnabuketi.<br><br>Deodorant Citrus Bliss kuivab kiiresti ega jäta riietele plekke. Ja kõige toredam on see, et deodorant ei sisalda alumiiniumi, alkoholi ega soodat ning on 100% vegan!</p>
+<ul><li>24h kaitse</li><li>Tsitruseline lõhn</li><li>Ei ärrita nahka</li><li> Ei ummista poore</li><li>Niisutav ja rahustav</li><li>Ei häiri naha loomulike funktsioone</li><li>Ei sisalda soodat, alkoholi ega alumiiniumi</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan | parabeenivaba</p>
+<p><b>Kasutamine:</b> Kanna puhastele kaenlaalustele. Kasuta iga päev.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate,Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate, Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Citrus Aurantium Dulcis Oil (Orange oil), Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Parfum, Limonene, Linalool, Citral, Benzyl Salicylate, Hydroxycitronellal, Hexyl Cinnamal, Geraniol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303884919111</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9962981753159</id>
+    <published>2025-01-31T09:19:49+02:00</published>
+    <updated>2025-01-31T09:19:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/blokzeep-deodorant-cream-neutral-50ml"/>
+    <title>Blokzeep Neutraalne deodorantkreem 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Blokzeep</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/blokzeep-deodorant-cream-neutral-50ml-486136.jpg?v=1739897190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blokzeep<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tänu looduslikele koostisosadele sobib neutraalne deodorantkreem kõigile. Deodorant on valmistatud ilma parfüümi või eeterlike õlideta. Loodusliku deodorandi aktiivsed koostisosad on maisitärklis ja söögisooda, mis imavad niiskust loomulikult ja on seetõttu ideaalsed higistamise vastu. Lisaks hooldavad ja tugevdavad need sinu nahka looduslikul teel. </p><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 15">
+<meta name="Originator" content="Microsoft Word 15">
+<link rel="File-List" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel="themeData" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx">
+<link rel="colorSchemeMapping" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ET</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Aptos;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]-->
+<p>Neutraalne kreemdeodorant on jätkusuutlik kolmel põhjusel:</p><ul><li>Deodorant on pakendatud alumiiniumpurki, mille taaskasutusmäär on kõikidest võimalikest pakenditest kõrgeim (95%)</li><li>Pakendite kleebised on valmistatud põllumajandusjäätmetest</li><li>Deodorant sisaldab 100% looduslikke koostisosi, mis on kasulikud nii sulle kui meie planeedile</li><li>Deodorant on käsitsi valmistatud ja täienisti vegan</li><li>Deodorant on valmistatud plasti- ja palmiõlivabalt</li></ul><p>Iga kreemdeodorant on parfüümi- ja alumiiniumivaba, sisaldab ainult looduslikke koostisosi, näiteks söögisoodat. Söögisoodat kasutatakse deodorantides, sest see ei häiri sinu nahafloorat ja nii väldid pooride ummistumist. Purk looduslikku deodorandikreemi kestab umbes kolm kuud ja sobib ideaalselt nii kodus kasutamiseks kui kaasa võtmiseks. Tänu käepärasele pakendile on deodorantkreem lubatud ka lennukisse ja festivalidele.</p><p><b>Kasutamine: </b>Kanna vajadusel kaenlaalustele. </p><p><b>Koostisosad:</b>&nbsp;Zea Mays Starch, Butyrospermum Parkii Butter, Sodium Bicarbonate, Cocos Nucifera Oil, CI 77947</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blokzeep</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9962981753159</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9962993254727</id>
+    <published>2025-01-31T09:19:22+02:00</published>
+    <updated>2025-01-31T09:19:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/blokzeep-deodorant-cream-tea-tree-50ml"/>
+    <title>Blokzeep Teepuu kreemdeodorant 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Blokzeep</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/blokzeep-deodorant-cream-tea-tree-50ml-537151.jpg?v=1739897177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blokzeep<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Teepuu looduslik kreemdeodorant on mitmekülgsete omadustega imevahend. Teepuu takistab rasvhapete muutumist ebameeldivateks lõhnadeks, mistõttu sobib see väga hästi loodusliku deodorandi koostisosaks. Lisaks on teepuul desinfitseeriv toime, toimides mitmete nahahaiguste vastu ja hooldades nahka. Lisaks teepuule on loodusliku deodorandi aktiivseteks koostisosadeks maisitärklis ja söögisooda, mis imavad niiskust loomulikult ja on seetõttu ideaalsed higistamise vastu.<br></p><p>Teepuu kreemdeodorant on jätkusuutlik kolmel põhjusel:</p><ul><li>Deodorant on pakendatud alumiiniumpurki, mille taaskasutusmäär on kõikidest võimalikest pakenditest kõrgeim (95%)</li><li>Pakendite kleebised on valmistatud põllumajandusjäätmetest</li><li>Deodorantkreem sisaldab 100% looduslikke koostisosi, mis on kasulikud nii sulle kui meie planeedile</li></ul><p>Kreemdeodorant on käsitsi valmistatud ja täienisti vegan, see on valmistatud plasti- ja palmiõlivabalt.</p><p>Iga kreemdeodorant on parfüümi- ja alumiiniumivaba, sisaldab ainult looduslikke koostisosi, näiteks söögisoodat. Söögisoodat kasutatakse deodorantides, sest see ei häiri sinu nahafloorat ja nii väldid pooride ummistumist. Purk looduslikku deodorandikreemi kestab umbes kolm kuud ja sobib ideaalselt nii kodus kasutamiseks kui kaasa võtmiseks. Tänu käepärasele pakendile on deodorantkreem lubatud ka lennukisse ja festivalidele.</p><p><b>Kasutamine:</b> Kanna vajadusel kaenlaalustele. </p><p><b>Koostisosad:</b>&nbsp;Zea Mays Starch, Butyrospermum Parkii Butter, Sodium Bicarbonate, Cocos Nucifera Oil, CI 77947, Melaleuca Alternifo lia Leaf Oil , Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blokzeep</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9962993254727</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9962999841095</id>
+    <published>2025-01-31T09:18:51+02:00</published>
+    <updated>2025-01-31T09:18:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/blokzeep-deodorant-cream-grapefruit-50ml"/>
+    <title>Blokzeep Greibi kreemdeodorant 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Blokzeep</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/blokzeep-deodorant-cream-grapefruit-50ml-550789.jpg?v=1739897182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blokzeep<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Greibil on lisaks värskendavale lõhnale ka antibakteriaalne ja antiseptiline toime ning sobib seetõttu väga hästi higi reguleerimiseks. Greibiõli on tuntud ka oma nahka pinguldavate ja detoksifitseerivate omaduste poolest. Imeline lõhn ja selle kasulikud omadused muudavad greibi loodusliku kreemdeodorandi jaoks väga sobivaks koostisosaks. Lisaks greibile sisaldub  deodorandis aktiivsete koostisosadena ka maisitärklis ja söögisooda, mis imavad niiskust loomulikult ja on seetõttu ideaalsed higistamise vastu.&nbsp;</p>
+<p>Greibi kreemdeodorant on jätkusuutlik kolmel põhjusel:</p>
+<ul><li>Deodorant on pakendatud alumiiniumpurki, mille taaskasutusmäär on kõikidest võimalikest pakenditest kõrgeim (95%)</li><li>Pakendite kleebised on valmistatud põllumajandusjäätmetest</li><li>Deodorantkreem sisaldab 100% looduslikke koostisosi, mis on kasulikud nii sulle kui meie planeedile.</li></ul>
+<p>Kreemdeodorant on käsitsi valmistatud ja täienisti vegan, see on valmistatud plasti- ja palmiõlivabalt.<br><br>Iga kreemdeodorant on parfüümi- ja alumiiniumivaba, sisaldab ainult looduslikke koostisosi, näiteks söögisoodat. Söögisoodat kasutatakse deodorantides, sest see ei häiri sinu nahafloorat ja nii väldid pooride ummistumist. Purk looduslikku deodorandikreemi kestab umbes kolm kuud ja sobib ideaalselt nii kodus kasutamiseks kui kaasa võtmiseks. Tänu käepärasele pakendile on deodorantkreem lubatud ka lennukisse ja festivalidele.</p>
+<p><b>Kasutamine:</b> Kanna vajadusel kaenlaalustele.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Zea Mays Starch, Butyrospermum Parkii Butter, Sodium Bicarbonate, Cocos Nucifera Oil, CI 77947, Citrus Paradisi Peel Oil, Limonene, Linalool, Citral<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blokzeep</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9962999841095</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945375605063</id>
+    <published>2025-01-22T13:18:21+02:00</published>
+    <updated>2025-01-22T13:18:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-herbal-deodorant-50ml"/>
+    <title>MÁDARA Herbal deodorant 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-herbal-deodorant-50ml-496779.jpg?v=1739897151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Põhjamaise salvei ja looduslike mineraalidega kiiresti kuivav deodorant vähendab ebameeldivaid lõhnu ja tagab värskuse kogu päevaks. Kiiresti imenduv koostis ei jäta riietele plekke. </p><p><b>Kasutamine: </b>Kanna puhastele kaenlaalustele. Kasuta iga päev.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Glycerin, Potassium Alum, Rosa Damascena (Rose) Flower Water, Alcohol, Chondrus Crispus (Irish moss) powder, Aroma, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Camomile) Flower Extract, Mentha Piperita (Peppermint) Leaf Extract, Salvia Officinalis (Salvia) Leaf Extract, Benzyl Alcohol, Sodium Benzoate, Potassium Sorbate, Limonene, Linalool, Geraniol, Citronellol, Citral</p><p>COSMOS NATURAL sertifikaadiga<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>madara</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945375605063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9051855487303</id>
+    <published>2024-02-20T23:12:50+02:00</published>
+    <updated>2024-02-20T23:12:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/deodorant-cosmebio-alumiiniumsooladeta-alkoholita-parabeenideta-50ml"/>
+    <title>Deodorant Cosmébio ilma alumiiniumisooladeta, alkoholita ja parabeenideta 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>FUN!ETHIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/deodorant-cosmebio-without-aluminum-salts-without-alcohol-without-parabens-50ml-431679.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FUN!ETHIC<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            6.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sertifitseeritud orgaaniline ja looduslik alkoholivaba&nbsp;"Avoir 20 Ans" rulldeodorant tagab kaitse 24 tunniks. Deodorant on alumiiniumsoolade ja parabeenide vaba. Koostises sisaldub niisutav aloe vera ning see on ideaalne pealekandmiseks peale karvade eemaldamist, et ära hoida punetust.&nbsp;Selle antibakteriaalsed koostisained takistavad ka depilatsioonijärgsete vistrike teket. Rullik võimaldab täpset pealekandmist ja ei määri riideid.</p>
+<p>Sobib kõikidele nahatüüpidele. Selle kreemjas tekstuur ja väga kerge, 100% looduslik apelsiniõiene aroom rõõmustavad teid iga päev.&nbsp;</p>
+<p><b>Kasutamine: </b>Kasuta&nbsp;"Avoir 20 Ans" deodoranti hommikul ja/või õhtul pärast duši all käimist puhtal ja kuival nahal, kandes see õrnalt kaenlaalustele.&nbsp;Kui tunned vajadust, korda pealekandmist päeva jooksul.<br><br><span class="font-600"><b>Koostisosad:</b>&nbsp;</span>Aqua, hordeum vulgare stem water*, caprylic/capric triglycerides, triethyl citrate, cetearyl alcohol, glyceryl stearate, glycerin, stearic acid, prunus persica juice, aloe vera barbadensis powder*, tocopherol, helianthus annuus seed oil, salvia officinalis (sage) oil, sodium caproyl/lauroyl lactyl lactate, sodium lauroyl glutamate, xanthan gum, citric acid, sodium benzoate, potassium sorbate, benzyl alcohol, dehydroacetic acid, fragrance, linalool, limonene, geraniol, citral.<br><br><!--StartFragment--><span data-mce-fragment="1">* Mahepõllumajandusest pärit koostisosa</span><br data-mce-fragment="1"><span data-mce-fragment="1">** Töödeldud koostisosadest, mis pärinevad mahepõllumajandusest</span></p>
+<p><span data-mce-fragment="1">Valmistatud Prantsusmaal.</span></p>
+<!--StartFragment--><ul><li>99.5% looduslikud ja 12,9% mahepõllumajandusest pärinevad koostisosad</li><li>Kõik toorained töödeldud Prantsusmaal</li><li>Deodorant valmistatud Prantsusmaal (Alsace'is)</li><li>Puuduvad vastuolulised koostisosad, 100% hea teie nahale ja keskkonnale</li><li>Palmiõli ja selle derivaatide vaba</li><li>Pakendamine: 100% ringlussevõetud ja taaskasutatavad pudelid, mis on valmistatud Euroopas</li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>funethic</s:tag>
+    <s:tag>keha</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9051855487303</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.90</s:price>
+      <s:sku/>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+</feed>

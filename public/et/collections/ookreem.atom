@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/ookreem.atom"/>
+  <title>bioskina</title>
+  <updated>2025-02-18T19:54:08+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10004503068999</id>
+    <published>2025-02-18T19:54:08+02:00</published>
+    <updated>2025-02-18T19:54:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-light-natural-glow-cream-refill-30ml"/>
+    <title>BERRICHI Näokreem Light täitepudel 30ml</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-light-natural-glow-cream-refill-30ml-453681.png?v=1739979948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avasta Berrichi näokreem Light – looduslik sära ja tasakaal sinu nahale. Näokreem Light on kerge ja siidine kreem, mis on loodud kombineeritud ja normaalse naha igapäevaseks niisutamiseks ja kaitsmiseks. Kreem aitab taastada naha loomulikku niiskustasakaalu, ühtlustab tekstuuri ja toetab naha loomulikku kaitsevõimet, jättes naha säravaks ja pehmeks.</p><p>Berrichi näokreem Light:</p><ul><li>Kerge ja kiiresti imenduv tekstuur, mis ei ummista poore</li><li>Sügavniisutav toime, mis taastab naha niiskustasakaalu</li><li>Rahustab ärritusi ja leevendab põletikulist nahka</li><li>Ühtlustab nahatooni, vähendades kortsukesi ja pigmendilaike</li><li>Vananemisvastase toimega</li></ul><p><u>Peamised koostisosad:</u></p><ul><li><u>Furtsellaraan</u> - antioksüdant, aitab säilitada naha niiskustasakaalu ja tugevdada naha kaitsebarjääri, aeglustab naha vananemisprotsesse, vähendab põletikke ja kuivust. Furtsellaraani saame Eesti vetes kasvanud vetikatest.<u><br></u></li><li><u>Astaksantiin</u> - antioksüdant, tõhusaim looduslik vananemisvastane aine, millel on võime läbida rakumembraane, mõjutades nahka sügavuti. Stimuleerib kollageeni tootmist, tasakaalustab naha niiskusetaset, kaitseb nahka keskkonategurite eest.</li><li><u>Aloe Vera</u> - antioksüdantsed, antibakteriaalsed ja põletikuvastased omadused, mis kiirendavad paranemist, niisutavad nahka ja takistavad vananemist.</li><li><u>Kare habesamblik </u>- antibakteriaalsete omadustega, aitab nahka rahustada ja kaitsta, soodustades ühtlasema ja säravama jume saavutamist.</li></ul><p>Kombineeritud ja normaalsele nahatüübile. Soovitav vanusele 25+</p><p><b>Kasutamine: </b>Kanna puhtale nahale või peale seerumit. Sobib meigi aluskreemiks, sobib kasutamiseks ka öösel.<b><br><br>Koostisosad:</b>&nbsp;Aqua, Persea Gratissima oil (Organic Avocado Oil)*, Prunus Armeniaca kernel oil (Organic Apricot kernel oil)*, Caryodendron Orinocense seed oil (Cacay Oil), Simmondsia Chinesis seed oil (Organic Jojoba oil)*, Cetearyl Olivate/Sorbitan Olivate (Olivem1000), Cetearyl Alcohol, Glycerin**, Aloe Barbadensis Leaf Juice/Potassium Sorbate/Sodium Benzoate/Citric acid (Aloe Vera), Dehydroacetic Acid/Benzoic Acid/Benzyl Alcohol/Sorbic Acid (Sharomix705), Helianthus Annuus Seed oil/Polyglyceryl-3 Palmitate/Usnea Barbata extract (Usnea Barbata), Furcellaria Lumbricalis extract (Furcellaran), Haemotococcus pluvialis/Tocopherol (Astaxanthin oil)<br><br>* Mahepõllumajandusest pärit koostisosad<br>﻿** Valmistatud orgaanilistest koostisosadest<br><br>Ei sisalda parabeene, silikoone, mineraalõlisid, sünteetilisi maitse- ja värvaineid. Julmusevaba ja vegan. Sobib tundlikule ja allergilisele nahale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>päevakreem</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004503068999</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004501299527</id>
+    <published>2025-02-18T19:46:15+02:00</published>
+    <updated>2025-02-18T19:46:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-age-defence-night-cream-refill-30ml"/>
+    <title>BERRICHI Öökreem Night täitepudel 30ml</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-age-defence-night-cream-refill-30ml-277446.png?v=1739979948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Night Cream<br>
+        <strong>Price: </strong>
+            25.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Berrichi öökreem Night töötab sinu naha heaks, kui sina puhkad. Rikkalik ja sügavniisutav öökreem aitab nahal taastuda ja toibuda päevastest väljakutsetest, andes hommikuks värske ja puhanud ilme. See toidab, niisutab ning aeglustab vananemisilminguid, muutes naha elastsemaks ja pringimaks.</p>
+<p>Berrichi öökreem Night:</p>
+<ul><li>Toidab ja&nbsp;taastab, muutes naha tugevamaks ja vastupidavamaks</li><li>Rahustab ärritunud ja põletikulist nahka</li><li>Sügavniisutav toime, mis hoiab naha pehme ja elastse</li><li>Ühtlustab nahatooni, vähendades peeneid jooni ja kortsukesi</li></ul>
+<p><u>Peamised koostisosad:</u></p>
+<ul><li><u>Furstsellaraan </u>- antioksüdant, aitab säilitada naha niiskustasakaalu ja tugevdada naha kaitsebarjääri, aeglustab naha vananemisprotsesse, vähendab põletikke ja kuivust. Furtsellaraani saame Eesti vetes kasvanud vetikatest.</li><li><u>Astaksantiin </u>-&nbsp;antioksüdant, tõhusaim looduslik vananemisvastane aine, millel on võime läbida rakumembraane, mõjutades nahka sügavuti. Stimuleerib kollageeni tootmist, tasakaalustab naha niiskusetaset, kaitseb nahka keskkonategurite eest.</li><li><u>Retinool</u> -&nbsp;täiustab naha tekstuuri, suurendab sära ja toimib vananemisilmingute vastu. Retinool kiirendab rakkude paranemist ja naha uuenemist, suurendab kollageeni tootmist, siludes samal ajal ebaühtlusi</li><li><u>Aloe vera</u> -&nbsp;antioksüdantsed, antibakteriaalsed ja põletikuvastased omadused, mis kiirendavad paranemist, niisutavad nahka ja takistavad vananemist.</li><li><u><i>Cacay</i>-õli </u>-&nbsp;sisaldab rikkalikult A- ja E-vitamiine. Aitab vähendada kortse ja parandada naha elastsust, ergutab kollageeni tootmist ja rakkude uuenemist.</li></ul>
+<p>Sobib kõikidele nahatüüpidele. Soovitav vanusele 25+</p>
+<p><b>Kasutamine:</b> Kanna puhtale nahale või peale seerumit. Kasutada ainult öökreemina, kuna sisaldab retinooli. Retinooli toime deaktiveerub päikesega ning võib muuta naha päikesele tundlikumaks.<b><br><br>Koostiosad:</b> Aqua, Persea Gratissima oil (Organic Avocado oil), Prunus Armeniaca kernel oil (Organic Apricot kernel oil), Caryodendron Orinocense seed oil (Cacay oil), Aleurites Moluccana seed oil (Kukui nut oil), Cetearyl Olivate/Sorbitan Olivate, Cetearyl Alcohol, Glycerin, Aloe Barbadensis leaf juice (Aloe Vera), Benzyl Alcohol/Dehydroacetic Acid/Sorbic Acid/Benzoic Acid, Retinol/ Adenosine/Hydroxypropyl Cyclodextrin (Retinol A-vitamin), Furcellaria Lumbricalis extract (Furcellaran), Haematococcus pluvialis/AstaZine (Astaxanthin oil)</p>
+<p>Ei sisalda parabeene, silikoone, mineraalõlisid, sünteetilisi maitse- ja värvaineid. Julmusevaba ja vegan. Sobib tundlikule ja allergilisele nahale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004501299527</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9988768989511</id>
+    <published>2025-02-13T22:08:00+02:00</published>
+    <updated>2025-02-13T22:08:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-light-natural-glow-cream-30ml"/>
+    <title>BERRICHI Näokreem Light 30ml</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-light-natural-glow-cream-30ml-286537.png?v=1739897155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            30.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avasta Berrichi näokreem Light – looduslik sära ja tasakaal sinu nahale. Näokreem Light on kerge ja siidine kreem, mis on loodud kombineeritud ja normaalse naha igapäevaseks niisutamiseks ja kaitsmiseks. Kreem aitab taastada naha loomulikku niiskustasakaalu, ühtlustab tekstuuri ja toetab naha loomulikku kaitsevõimet, jättes naha säravaks ja pehmeks.</p>
+<p>Berrichi näokreem Light:</p>
+<ul><li>Kerge ja kiiresti imenduv tekstuur, mis ei ummista poore</li><li>Sügavniisutav toime, mis taastab naha niiskustasakaalu</li><li>Rahustab ärritusi ja leevendab põletikulist nahka</li><li>Ühtlustab nahatooni, vähendades kortsukesi ja pigmendilaike</li><li>Vananemisvastase toimega</li></ul>
+<p><u>Peamised koostisosad:</u></p>
+<ul><li><u>Furtsellaraan</u> -&nbsp;antioksüdant, aitab säilitada naha niiskustasakaalu ja tugevdada naha kaitsebarjääri, aeglustab naha vananemisprotsesse, vähendab põletikke ja kuivust. Furtsellaraani saame Eesti vetes kasvanud vetikatest.</li><li><u>Astaksantiin</u> -&nbsp;antioksüdant, tõhusaim looduslik vananemisvastane aine, millel on võime läbida rakumembraane, mõjutades nahka sügavuti. Stimuleerib kollageeni tootmist, tasakaalustab naha niiskusetaset, kaitseb nahka keskkonategurite eest.</li><li><u>Aloe Vera</u> -&nbsp;antioksüdantsed, antibakteriaalsed ja põletikuvastased omadused, mis kiirendavad paranemist, niisutavad nahka ja takistavad vananemist.</li><li><u>Kare habesamblik</u> -&nbsp;antibakteriaalsete omadustega, aitab nahka rahustada ja kaitsta, soodustades ühtlasema ja säravama jume saavutamist.</li></ul>
+<p>Kombineeritud ja normaalsele nahatüübile. Soovitav vanusele 25+</p>
+<p><b>Kasutamine:</b> Kanna puhtale nahale või peale seerumit. Sobib meigi aluskreemiks, sobib kasutamiseks ka öösel.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Persea Gratissima oil (Organic Avocado Oil)*, Prunus Armeniaca kernel oil (Organic Apricot kernel oil)*, Caryodendron Orinocense seed oil (Cacay Oil), Simmondsia Chinesis seed oil (Organic Jojoba oil)*, Cetearyl Olivate/Sorbitan Olivate (Olivem1000), Cetearyl Alcohol, Glycerin**, Aloe Barbadensis Leaf Juice/Potassium Sorbate/Sodium Benzoate/Citric acid (Aloe Vera), Dehydroacetic Acid/Benzoic Acid/Benzyl Alcohol/Sorbic Acid (Sharomix705), Helianthus Annuus Seed oil/Polyglyceryl-3 Palmitate/Usnea Barbata extract (Usnea Barbata), Furcellaria Lumbricalis extract (Furcellaran), Haemotococcus pluvialis/Tocopherol (Astaxanthin oil)<br></p>
+<p>* Mahepõllumajandusest pärit koostisosad<br>﻿** Valmistatud orgaanilistest koostisosadest</p>
+<p>Klaasist pudel ja pumpsüsteem on korduvkasutatavad.</p>
+<p>Ei sisalda parabeene, silikoone, mineraalõlisid, sünteetilisi maitse- ja värvaineid. Julmusevaba ja vegan. Sobib tundlikule ja allergilisele nahale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>päevakreem</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9988768989511</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9988746379591</id>
+    <published>2025-02-13T22:08:00+02:00</published>
+    <updated>2025-02-13T22:08:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-age-defence-night-cream-30ml"/>
+    <title>BERRICHI Öökreem Night 30ml</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-age-defence-night-cream-30ml-754136.png?v=1739897185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Night Cream<br>
+        <strong>Price: </strong>
+            33.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Berrichi öökreem Night töötab sinu naha heaks, kui sina puhkad. Rikkalik ja sügavniisutav öökreem aitab nahal taastuda ja toibuda päevastest väljakutsetest, andes hommikuks värske ja puhanud ilme. See toidab, niisutab ning aeglustab vananemisilminguid, muutes naha elastsemaks ja pringimaks.</p>
+<p>Berrichi öökreem Night:</p>
+<ul><li>Toidab ja taastab, muutes naha tugevamaks ja vastupidavamaks</li><li>Rahustab ärritunud ja põletikulist nahka</li><li>Sügavniisutav toime, mis hoiab naha pehme ja elastse</li><li>Ühtlustab nahatooni, vähendades peeneid jooni ja kortsukesi</li></ul>
+<p><u>Peamised koostisosad:</u></p>
+<ul><li><u>Furstsellaraan</u> -&nbsp;antioksüdant, aitab säilitada naha niiskustasakaalu ja tugevdada naha kaitsebarjääri, aeglustab naha vananemisprotsesse, vähendab põletikke ja kuivust. Furtsellaraani saame Eesti vetes kasvanud vetikatest.</li><li><u>Astaksantiin </u>-&nbsp;antioksüdant, tõhusaim looduslik vananemisvastane aine, millel on võime läbida rakumembraane, mõjutades nahka sügavuti. Stimuleerib kollageeni tootmist, tasakaalustab naha niiskusetaset, kaitseb nahka keskkonategurite eest.</li><li><u>Retinool</u> -&nbsp;täiustab naha tekstuuri, suurendab sära ja toimib vananemisilmingute vastu. Retinool kiirendab rakkude paranemist ja naha uuenemist, suurendab kollageeni tootmist, siludes samal ajal ebaühtlusi</li><li><u>Aloe Vera </u>-&nbsp;antioksüdantsed, antibakteriaalsed ja põletikuvastased omadused, mis kiirendavad paranemist, niisutavad nahka ja takistavad vananemist.</li><li><u><i>Cacay</i>-õli </u>-&nbsp;sisaldab rikkalikult A- ja E-vitamiine. Aitab vähendada kortse ja parandada naha elastsust, ergutab kollageeni tootmist ja rakkude uuenemist.</li></ul>
+<p>Sobib kõikidele nahatüüpidele. Soovitav vanusele 25+</p>
+<p><b>Kasutamine:</b> Kanna puhtale nahale või peale seerumit. Kasutada ainult öökreemina, kuna sisaldab retinooli. Retinooli toime deaktiveerub päikesega ning võib muuta naha päikesele tundlikumaks. </p>
+<p><b>Koostiosad:</b>&nbsp;Aqua, Persea Gratissima oil (Organic Avocado oil), Prunus Armeniaca kernel oil (Organic Apricot kernel oil), Caryodendron Orinocense seed oil (Cacay oil), Aleurites Moluccana seed oil (Kukui nut oil), Cetearyl Olivate/Sorbitan Olivate, Cetearyl Alcohol, Glycerin, Aloe Barbadensis leaf juice (Aloe Vera), Benzyl Alcohol/Dehydroacetic Acid/Sorbic Acid/Benzoic Acid, Retinol/ Adenosine/Hydroxypropyl Cyclodextrin (Retinol A-vitamin), Furcellaria Lumbricalis extract (Furcellaran), Haematococcus pluvialis/AstaZine (Astaxanthin oil)</p><p>Klaasist pudel ja pumpsüsteem on korduvkasutatavad.</p>
+<p>Ei sisalda parabeene, silikoone, mineraalõlisid, sünteetilisi maitse- ja värvaineid. Julmusevaba ja vegan. Sobib tundlikule ja allergilisele nahale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9988746379591</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">33.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945111363911</id>
+    <published>2025-01-22T15:29:04+02:00</published>
+    <updated>2025-01-22T15:29:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-neroli-collagen-renewal-night-cream-50ml"/>
+    <title>NURME Kollageeni uuendav neroli öökreem 50ml</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-neroli-collagen-renewal-night-cream-50ml-207317.jpg?v=1739897174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Night Cream<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Öökreem niisutab ja toidab intensiivselt, taastades kollageeni ja elastsuse ning võitleb varajaste vananemisilmingutega. Kõrge C- ja E-vitamiini sisaldus koos kirevilja õliga niisutab ja elustab nahka ja muudab selle nooruslikuks ja elastseks.<br><br>Neroli õli, mida toodetakse mõruapelsini õitest, omab võimsaid antimikroobseid ja antibakteriaalseid omadusi, sobides ideaalselt aknele kalduvale nahale ja ummistunud pooridele. See aitab reguleerida rasu tootmist ja tasakaalustada rasust nahka. Antioksüdantide ja E-vitamiini poolest rikkal neroli õlil on ka vananemis- ja vistrikevastane toime, võideldes vabade radikaalidega ning vähendades põletikku ja punetust.<br><br>See toode on pakendatud ümbertöödeldavasse polüpropüleenist õhuvabasse pudelisse. Õhuvaba pakend välistab õhu ligipääsu, tagades mikrobioloogilise puhtuse ja pikendades looduskosmeetika kasutusaega.<b><br><br>Kasutamine:</b> Kanna puhtale nahale pärast teisi seerumeid või kreeme. Lase täielikult imenduda.</p><p><b>Koostisosad:</b>&nbsp;Citrus Aurantium Dulcis Flower Water*, Aqua*, Helianthus Annuus Seed Oil*, Caprylic/Capric Triglyceride**, Argania Spinosa Kernel Oil*, Glycerin**, Passiflora Edulis Seed Oil*, Butyrospermum Parkii Butter*, Betain**, Polyglyceryl-3 Methylglucose Distearate**, Glyceryl Stearate**, Cetearyl Alcohol**, Myristyl Myristate**, Sodium Levulinate**, Ascorbyl Palmitate**, Sodium Anisate**, Panthenol*, Benzyl Alcohol**, Tocopherol**, Lactic Acid**, Sodium Hyaluronate**, Allantoin*, Sodium Benzoate**, Potassium Sorbate**, Xanthan Gum**, Hectorite**, Cellulose**, Passiflora Incarnata Extract*, Citrus Aurantium Flower Oil*, Limonene***, Linalool***.</p><p>* Looduslikku päritolu<br>﻿** Looduskosmeetikas heakskiidetud koostisosa<br>﻿*** Esineb looduslikult eeterlikes õlides</p><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945111363911</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945048318279</id>
+    <published>2025-01-20T09:46:00+02:00</published>
+    <updated>2025-01-20T09:46:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-nurturing-night-cream-50ml"/>
+    <title>NAIF toitev öökreem 50ml</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-nurturing-night-cream-50ml-623217.png?v=1739897168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Night Cream<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf toitev öökreem aitab kaasa kvaliteetsele unele! Taastav öökreem rahustab nahka ja toetab loomulike nahaprotsesside toimimist sinu magamise ajal. Öökreemile lisatud mandliõli, sheavõi ja makadaamia ekstrakt hoiavad naha rikkalikult niisutatuna. <br><br>Kreem imendub kiiresti, ei kleepu ega jäta nahka kiskuvaks. Seega ei pea sa oma pead padjale asetades muretsema! Öökreem on valmistatud ilma mineraalõlide, mikroplasti ja silikoonideta.<br><br>Naïf taastav öökreem sobib igale nahatüübile, ka kõige tundlikumale nahale. Kõik Naïfi tooted on vegan, valmistatud õrna lõhnaga, on dermatoloogiliselt testitud ega sisalda 26 kõige levinumat allergeeni.<b><br><br>Kasutamine:</b> Kanna puhastatud nahale korralik, paks kogus öökreemi. Ära unusta ka kaela ja dekolteed!</p><p><b>Koostisosad:</b>&nbsp;Aqua/ Water, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glycerin, Persea Gratissima (Avocado) Oil, Macadamia Integrifolia Seed Oil, Butyrospermum Parkii (Shea) Butter, Methylpropanediol, Linum Usitatissimum (Linseed) Seed Oil, Cetearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate Citrate, Sucrose Stearate, Tocopherol, Helianthus Annuus, (Sunflower) Seed Oil, Xanthan Gum, Caprylyl Glycol, Phenylpropanol, Parfum/Fragrance, Citric Acid, Sodium Hydroxide</p><p>Taaskasutatud plastikust valmistatud pakend. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mehed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945048318279</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9335420485959</id>
+    <published>2024-07-18T11:00:58+03:00</published>
+    <updated>2024-07-18T11:00:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-sos-sensitive-moisturiser-50ml-copy"/>
+    <title>MÁDARA SOS+ Sensitive öökreem 70ml</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-sos-sensitive-night-cream-70ml-476299.jpg?v=1739897244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Night Cream<br>
+        <strong>Price: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intensiivne öökreem rahustab tundlikku, kergesti ärrituvat ja punetusele kalduvat nahka. Vetika ekstrakti, hüaluroonhapet ja jojobaõli sisaldav mitterasvane koostis tasakaalustab naha mikrobioomi ja tugevdab selle lipiidbarjääri. Aitab vähendada naha ülitundlikkust, punetust ja kõrvetustunnet.</p>
+<p><b>Kasutamine:</b> Kanna igal õhtul puhtale näole, kaelale ja dekolteepiirkonnale. Parima tulemuse saavutamiseks kasuta koos MÁDARA SOS+ Sensitive näokreemiga.</p>
+<p><b>Koostisosad:</b>&nbsp;Aloe Barbadensis (Aloe) Leaf Juice, Simmondsia Chinensis (Jojoba) Seed Oil, Glycerin, Pentylene Glycol, Polyglyceryl-3 Stearate, Cetearyl Alcohol, Coco- Caprylate, Dicaprylyl Carbonate, Isoamyl Laurate, Aqua, Hydrolyzed Rhodophyceae Extract, Cellulose, Octyldodecanol, Caprylic/Capric Triglyceride, Xanthan Gum, Irvingia gabonensis kernel butter, Potassium Hydroxide, Hydrogenated Coco-glycerides, Sodium Hyaluronate, Palmitic acid, Stearic Acid, Tocopherol, Ascorbyl Palmitate, Sodium phytate, Hydrolyzed&nbsp;Hyaluronic Acid<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9335420485959</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">42.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9198980399431</id>
+    <published>2024-05-15T15:56:15+03:00</published>
+    <updated>2024-05-15T15:56:15+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-sensitive-24h-cream-50ml"/>
+    <title>HEJ Sensitive 24h näokreem tundlikule nahale 50ml</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-organic-sensitive-24h-face-cream-50ml-375353.png?v=1739897235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrn ja universaalne kreem tagab intensiivse niisutuse ja särava naha. Rikkalik ja kiiresti imenduv tekstuur jätab nahale meeldiva tunde, olenemata kellaajast.&nbsp;</p>
+<!--StartFragment--><ul><li>Niisutab sügavuti, aitab tasakaalustada naha kaitsebarjääri</li><li>Kiiresti imenduv</li><li>Kanepiõlist, kaera- ja kummeliekstraktist valmistatud looduslik ja jõuline koostisosade kompleks</li><li>Nahatüüp: eriti sobilik tundlikule nahale</li><li>Vähendatud allergeenide sisaldusega parfüümiõli, 100% vegan ja looduslik</li></ul>
+<p><u>Kanepiseemneõli</u> sisaldab olulisi oomega-6 rasvhappeid, soodustab rakkude uuenemist ja kaitseb nahka sellele rasust tunnet jätmata.</p>
+<p><u>Kaeraekstrakt</u> on põletikuvastase ja rahustava toimega ning sobib eriti hästi tundlikule nahale.&nbsp;</p>
+<p><u>Kummeli lilleveel</u> on rahustavad ja antibakteriaalsed omadused, niisutab nahka intensiivselt.&nbsp;</p>
+<p><b>Kasutamine:</b> Kanna näole hommikuti ja õhtuti pärast naha puhastamist. </p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Prunus Armeniaca Kernel Oil, Glycerin, Polyglyceryl-3 Dicitrate/Stearate, Helianthus Annuus Seed Oil*, Cetearyl Alcohol, Distarch Phosphate, Cannabis Sativa Seed Oil*, Hydrogenated Rapeseed Oil, Candelilla Cera, Chamomilla Recutita Flower Extract*, Hypericum Perforatum Extract*, Avena Sativa Kernel Extract*, Xanthan Gum, Sodium Levulinate, Sodium Anisate, Alcohol, Tocopherol, Citric Acid, Parfum** *ingredients from certified organic agriculture, **natural essential oils</p>
+<p>Orgaaniline | Julmusevaba | Vegan | Looduslik</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>päevakreem</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9198980399431</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9042574803271</id>
+    <published>2024-02-16T15:50:04+02:00</published>
+    <updated>2024-02-16T15:50:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-ookreem-50ml"/>
+    <title>Vielö Orgaaniline öökreem 50ml</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-night-cream-50ml-212703.jpg?v=1739897344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Night Cream<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<span data-mce-fragment="1">Rikkalik orgaaniline öökreem, mis niisutab ja toidab nahka intensiivselt üleöö ning stimuleerib naha taastumist.<br data-mce-fragment="1"><br data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), kibuvitsaseemneõli (rahustav), hüaluroonhape (niisutav), nisuiduõli (kaitsev) ja kummeli (antiseptiline), arnika (põletikuvastane) ja kassinaerise (kaitsev) orgaanilised ekstraktid.<br data-mce-fragment="1"><br data-mce-fragment="1">Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br data-mce-fragment="1"><br data-mce-fragment="1">Kasutamine:</b> Masseeri õrnalt värskelt puhastatud nahale ja kaelale. Kasuta õhtuti ja alati, kui nahk vajab rikkalikku niisutust.</span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b><br></b></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad:</b> Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Triticum Vulgare (Wheat) Germ Oil**, Helianthus Annuus Seed Oil**, Glycerin**, Cera Alba**, Polyglyceryl-3 Polyricinoleate*, Aqua*, Butyrospermum Parkii (Shea) Butter**, Sorbitan Sesquioleate*, Oenothera Biennis Oil**, Sodium Levulinate*, Glyceryl Caprylate*, Polyglyceryl-3 Ricinoleate, Sodium Hyaluronate*, Sodium Anisate, Tocopherol*, Citric Acid*, Potassium Sorbate, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Malva Sylvestris Flower Extract**, Viola Tricolor Extract**, Matricaria Chamomilla Flower Extract**, Arnica Montana Flower Extract**, Polyglyceryl-4 Caprate*, Geraniol**/***, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Limonene**/***, Citral**/***.<p>* looduslikust päritolust (99,3%)<br>** sertifitseeritud orgaaniline (89,2%)<br>*** looduslikest eeterlikest õlidest.</p>
+</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>Valmistatud käsitsi Austrias.<br><br><!--StartFragment-->Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9042574803271</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">59.00</s:price>
+      <s:sku/>
+      <s:grams>92</s:grams>
+    </s:variant>
+  </entry>
+</feed>

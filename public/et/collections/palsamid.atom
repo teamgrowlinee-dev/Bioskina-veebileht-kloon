@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/palsamid.atom"/>
+  <title>bioskina</title>
+  <updated>2025-12-06T08:29:40+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10521351684423</id>
+    <published>2025-12-06T08:29:40+02:00</published>
+    <updated>2025-12-06T08:29:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-balneological-peat-strenghtening-conditioner-250ml"/>
+    <title>NURME Juukseid tugevdav turbapalsam 250ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-balneological-peat-strenghtening-conditioner-250ml-2944215.webp?v=1765078819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% looduslik turbapalsam pakub sinu juustele ülimat hooldust, niisutades ja tugevdades neid sügavuti. Selle ainulaadsed koostisosad aitavad vältida murdumist ja lõhenenud otsi, jättes juuksed pehmeks, siledaks ja terveks. Nurme turbapalsam taastab juuste loomuliku läike ja elastsuse, pakkudes iga pesukorraga täiuslikku hooldust. See sobib ideaalselt kuivade ja kahjustatud juuste elustamiseks, taastades vajaliku niiskuse ja elujõu.</p><p><b>Peamised koostisosad:</b></p><ul><li><u>Turvas&nbsp;</u>on rikas toitainete ja mineraalide poolest, mis toidavad ja tugevdavad juukseotsi. See aitab taastada elastsuse ja vastupidavuse, muutes juuksed vastupidavamaks ja elujõulisemaks. </li><li><u>Aloe vera</u>&nbsp;on tuntud oma sügavniisutavate ja rahustavate omaduste poolest. Looduslik koostisosa hoiab juukseotsad pehmed ja siidised, annab läiget ja vähendab kuivust. </li><li><u>Jojobaõli</u> on looduslik niisutaja, mis toidab juukseid sügavuti ja taastab nende loomuliku niiskustasakaalu. Hoiab ära juuste murdumise juukseotste lõhenemise, andes juustele tugevust ja elastsust.<u><br></u></li><li><u>Kookosõli</u>&nbsp;toidab juukseid sügavuti, parandades nende struktuuri ja luues tervema välimuse. Silub juukseid ja vähendab kuivust, jättes need pehmeks ja kergesti kammitavaks.</li><li><u>Provitamiin B5</u> tugevdab ja taastab juukseid seestpoolt. Vähendab murdumist ja lõhenemist, lisades samal ajal läiget ja muutes juuksed kergesti kammitavaks. </li><li><u>Kadaka eeterlik õli</u>&nbsp;suurendab juuste loomulikku läiget ja pehmust. Siluv toime kaitseb väliste kahjustuste eest ja hoiab juukseotsad hästi hooldatud. Õli võimendab ka turba kasulikke omadusi.</li></ul><p><b>Kasutamine:</b>&nbsp;Pese juukseid hoolikalt Nurme Peanahka rahustava turbašampooniga. Seejärel kanna väike kogus palsamit puhastele juukseotstele ja lase 2–3 minutit mõjuda. Loputa hoolikalt rohke veega. Palsami pikem mõju tugevdab selle toitvat toimet. Lisaks võib palsamit peanahasse masseerida, et nahka veelgi niisutada.</p><p><b>Koostisosad:</b>&nbsp;Aqua*, Cetearyl Alcohol**, Glycerin, Distearoylethyl Dimonium Chloride**, Betaine**, Peat*, Caprylic/Capric Triglyceride**, Aloe Barbadensis Leaf Juice*, Benzyl Alcohol**, Panthenol**, Dehydroacetic Acid**, Simmondsia Chinensis (Jojoba) Seed Oil*, Juniperus Communis (Juniper berry) Fruit Oil*, Tocopherol**, Helianthus Annuus Seed Oil**, Limonene***, Potassium Sorbate**, Sodium Benzoate, Citric Acid</p><p>*Looduslikku päritolu<br>﻿** Looduskosmeetikas heakskiidetud koostisosa<br>﻿*** Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10521351684423</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10334012047687</id>
+    <published>2025-08-31T16:29:16+03:00</published>
+    <updated>2025-08-31T16:29:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-conditioner-rapuntsel-290ml"/>
+    <title>HOIA Looduslik juuksepalsam Rapuntsel 290ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-conditioner-rapuntsel-290ml-4153801.jpg?v=1756718906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik juuksepalsam sisaldab kasulikke rasvhappeid, mis niisutavad ja toidavad sinu juukseid. Palsamit on rikastatud astelpaju ekstraktiga, mis tugevdab juukseid ja lisab sära.&nbsp;Palsamis sisalduv rikkalik eeterlike õlide kompleks aitab stimuleerida juuksekasvu ja parandab peanaha vereringet.</p><p>Sobilik kõikidele juuksetüüpidele.  HOIA juuksepalsam ei sisalda naftasaadusi, parabeene, silikoone, sulfaate, mikroplastikut, sünteetilisi säilitus- ega lõhnaaineid, mistõttu on see suurepärane valik kõigile, kes otsivad õrna, kuid tõhusat juuksehooldust.&nbsp;<b><br><br>Kasutamine:</b> kanna märgadele juustele, masseerides õrnalt juurtest otsteni. Lase paar minutit mõjuda ja seejärel loputa hoolikalt. Veelgi intensiivsemaks ja niisutavamaks hoolduseks kasuta seda sügavniisutava juuksemaskina, jättes selle enne loputamist kauemaks mõjuma.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Cetyl alcohol, Cetrimonium Chloride, *Cocos Nucifera oil, *Hippophae Rhanoides Extract, *Pelargonium Graveolens Flower oil, *Lavandula Angustifolia Flower oil, *Mentha Piperita Leaf oil, *Juniperus Communis Fruit oil, *Citrus Aurantifolia Flower oil, *Rosmarinus Officinails Leaf oil, *Cymbopogon Flexuosus Leaf oil, Tocopherol, Glyceryl stearate, Citric acid, Benzyl alcohol, Phenoxyethanol &amp; Ethylhexylglycerin, **Citral, **Citronellol, **Geraniol, **Limonene, **Linalool</p><p>*Orgaanilist päritolu</p><p>**Eeterlike õlide looduslikud komponendid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10334012047687</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303870730567</id>
+    <published>2025-08-26T12:28:58+03:00</published>
+    <updated>2025-08-26T12:28:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-conditioner-for-kids-200ml"/>
+    <title>LUUV Looduslik laste juuksepalsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-conditioner-for-kids-200ml-2844222.jpg?v=1756222791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV looduslik laste juuksepalsam niisutab, toidab ja kaitseb su pisikese säravaid kiharaid. LUUV laste juuksepalsam on&nbsp;sertifitseeritud üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga.</p><p>On aeg jätta hüvasti kangekaelsete pusadega ja tervitada probleemivaba stiili! Palsam&nbsp;tugevdab juukseid juurtest otsteni, muutes need kergesti kammitavaks ja imeliselt kergeks. Rikastatud naturaalsete õlide ja betaiiniga, niisutab palsam juukseid sügavuti ning parandab juuste üldist tervist ja väljanägemist.&nbsp;Ning otse loomulikult ei saa me mööda vaadata sellest mõnusalt magusast vaniljearoomist, mis on looduslikku päritolu, ei sisalda allergeene ning mis kohe kindlasti võidab iga lapse(meelse)südame. </p><ul><li>Looduslik ja allergeenivaba</li><li>Magus vaniljearoom</li><li>Ei ärrita nahka ega silmi</li><li>ECOCERT/COSMOS sertifikaadiga</li><li>98,72% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p><b>Kasutamine:</b>&nbsp;Kasuta palsamit pärast šampooniga pesu ja kanna juukseotstele. Lase mõjuda ja loputa! Palsamit võid kasutada pärast iga pesukorda.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Cetyl Alcohol, Betaine, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303870730567</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304865075527</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-50ml-copy"/>
+    <title>BEE IT taastav juuksemask 1000ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-1000ml-6779386.png?v=1756222787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            46.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304865075527</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303987679559</id>
+    <published>2025-08-26T10:05:09+03:00</published>
+    <updated>2025-08-26T10:05:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-50ml"/>
+    <title>BEE IT taastav juuksemask 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-200ml-244590.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303987679559</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084352393543</id>
+    <published>2025-03-28T09:16:54+02:00</published>
+    <updated>2025-03-28T09:16:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-moisturizing-hair-mask-with-rhubarb-extract-refill-100ml"/>
+    <title>Magrada Rabarberi juuksemask riitsinusõliga täitepakend - 500 ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-refill-500ml-702844.png?v=1743213040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            30.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<div class="entry-content"><p>Kuldmedaliga pärjatud (Pure Beauty Global Awards 2021 Winner) juuksemask on mõeldud kuivade ja kahjustunud kiharate intensiivseks toitmiseks ja niisutamiseks.</p>
+<p>Rabarberi juuksemask riitsinus- ja makadaamiapähkliõliga hellitab, taaselustab ning silub kahjustada saanud juukseid. Taimede elujõud tasakaalustab ja toidab. Looduslik hoolitsus parandab juuksestruktuuri ja vähendab kahusust, lisades soengule lummava sära. Siidjalt kreemine koostis annab juustele kevadise värskuse ning rabarberi mahlase aroomi.</p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Makadaamiapähkliõlis</u> on ohtralt rasvhappeid ja kaaliumi, mis muudavad juuksed tugevamaks ja kergemini kammitavaks. Makadaamiaõli sisaldab antioksüdante, mis aitavad juustel kahjulikest keskkonnamõjudest taastuda.</li><li><u>Riitsinusõli</u> on mikroobidevastase toimega, aidates kõõma ja teiste peanahaprobleemide vastu, mis halvendavad juuste tervist. Õlis sisalduv E-vitamiin niisutab juuksejuuri ning annab kiharatele terve sära.</li></ul>
+<p><b>Kasutamine: </b>Kanna mask pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 5-15 minutit, seejärel loputa rohke veega.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 94,16%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan&nbsp;| alkoholivaba&nbsp;| EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084352393543</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084347969863</id>
+    <published>2025-03-28T09:16:54+02:00</published>
+    <updated>2025-03-28T09:16:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-hair-stimulating-conditioner-with-linden-flower-extract-refill-500ml"/>
+    <title>Magrada Pärnaõie juuksepalsam Põhjamaise kaseekstraktiga täitepakend 500ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-hair-stimulating-conditioner-with-linden-flower-extract-refill-500ml-520987.png?v=1743213044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Naudi südasuviseid hetki aastaringselt. See on palsam, mida iseloomustab tõhusate põhjamaiste taimede kooslus, mis soodustab ja kiirendab loomulikku juuksekasvu. Palsami siidjalt kreemine koostis hajub juustel ühtlaselt, jättes kiharatesse õrnalt mesise pärnaõie aroomi – just nagu soojal juulikuu ööl.</p>
+<p>Põhjamaine kaseekstrakt niisutab ja pehmendab juukseid, muutes need hõlpsasti kammitavaks. Orgaaniline aaloe-ekstrakt rahustab peanahka ja ennetab juukseotste kuivamist. Taimeekstraktide kooslus lisab kiharatele tervislikku sära, kaitseb neid kuumtöötluse eest ning hoiab juuksefolliikulite pigmentatsiooni, säilitades juuste elujõu ja elastsuse. Kerge koostisega palsam sobib kogu perele igapäevaseks kasutamiseks.</p>
+<ul><li><u>Põhjamaine pärnaõieekstrakt</u> on niisutava ja pehmendava toimega, sobides nii tundlikule kui ka ärritunud peanahale.</li><li><u>Orgaaniline põhjamaine kaseekstrakt</u> stimuleerib pea vereringet ning tugevdab juuksejuuri, kiirendades seeläbi juuste loomulikku kasvu.</li><li><u>Orgaaniline aaloe-ekstrakt</u> on nahale sügavalt rahustav ja niisutav. Aaloe on tuntud oma rikkaliku A-, C- ja E-vitamiinide, foolhappe ning kollageeni sisalduse poolest.</li></ul>
+<p><b>Kasutamine:&nbsp;</b>Kanna palsam pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 2-3 minutit, seejärel loputa rohke veega. Palsam sobib igapäevaseks kasutamiseks.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Glycerin, Behentrimonium Methosulfate, Parfum, Cetyl Alcohol, Betula Alba (Birch) Leaf Exract*, Aloe Barbadensis (Aloe Vera) Extract*, Butylene Glycol, Alcohol, Tilia Cordata (Linden Flower) Extract, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Geraniol</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 92,77%.&nbsp;</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084347969863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084341285191</id>
+    <published>2025-03-28T09:16:53+02:00</published>
+    <updated>2025-03-28T09:16:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-moisturizing-hair-mask-with-rhubarb-extract-travel-size-100-ml"/>
+    <title>Magrada Rabarberi juuksemask riitsinusõliga reisisuuruses - 100 ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-travel-size-100ml-344835.png?v=1743213039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<div class="entry-content"><p>Kuldmedaliga pärjatud (Pure Beauty Global Awards 2021 Winner) juuksemask on mõeldud kuivade ja kahjustunud kiharate intensiivseks toitmiseks ja niisutamiseks.</p>
+<p>Rabarberi juuksemask riitsinus- ja makadaamiapähkliõliga hellitab, taaselustab ning silub kahjustada saanud juukseid. Taimede elujõud tasakaalustab ja toidab. Looduslik hoolitsus parandab juuksestruktuuri ja vähendab kahusust, lisades soengule lummava sära. Siidjalt kreemine koostis annab juustele kevadise värskuse ning rabarberi mahlase aroomi.</p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Makadaamiapähkliõlis</u> on ohtralt rasvhappeid ja kaaliumi, mis muudavad juuksed tugevamaks ja kergemini kammitavaks. Makadaamiaõli sisaldab antioksüdante, mis aitavad juustel kahjulikest keskkonnamõjudest taastuda.</li><li><u>Riitsinusõli</u> on mikroobidevastase toimega, aidates kõõma ja teiste peanahaprobleemide vastu, mis halvendavad juuste tervist. Õlis sisalduv E-vitamiin niisutab juuksejuuri ning annab kiharatele terve sära.</li></ul>
+<p><b>Kasutamine: </b>Kanna mask pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 5-15 minutit, seejärel loputa rohke veega.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 94,16%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan&nbsp;| alkoholivaba&nbsp;| EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084341285191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084333748551</id>
+    <published>2025-03-28T09:16:52+02:00</published>
+    <updated>2025-03-28T09:16:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-hair-stimulating-conditioner-with-linden-flower-extract-travel-size-100ml"/>
+    <title>Magrada Pärnaõie juuksepalsam Põhjamaise kaseekstraktiga reisisuuruses 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-hair-stimulating-conditioner-with-linden-flower-extract-travel-size-100ml-426881.png?v=1743213039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Naudi südasuviseid hetki aastaringselt. See on palsam, mida iseloomustab tõhusate põhjamaiste taimede kooslus, mis soodustab ja kiirendab loomulikku juuksekasvu. Palsami siidjalt kreemine koostis hajub juustel ühtlaselt, jättes kiharatesse õrnalt mesise pärnaõie aroomi – just nagu soojal juulikuu ööl.</p>
+<p>Põhjamaine kaseekstrakt niisutab ja pehmendab juukseid, muutes need hõlpsasti kammitavaks. Orgaaniline aaloe-ekstrakt rahustab peanahka ja ennetab juukseotste kuivamist. Taimeekstraktide kooslus lisab kiharatele tervislikku sära, kaitseb neid kuumtöötluse eest ning hoiab juuksefolliikulite pigmentatsiooni, säilitades juuste elujõu ja elastsuse. Kerge koostisega palsam sobib kogu perele igapäevaseks kasutamiseks.</p>
+<ul><li><u>Põhjamaine pärnaõieekstrakt</u> on niisutava ja pehmendava toimega, sobides nii tundlikule kui ka ärritunud peanahale.</li><li><u>Orgaaniline põhjamaine kaseekstrakt</u> stimuleerib pea vereringet ning tugevdab juuksejuuri, kiirendades seeläbi juuste loomulikku kasvu.</li><li><u>Orgaaniline aaloe-ekstrakt</u> on nahale sügavalt rahustav ja niisutav. Aaloe on tuntud oma rikkaliku A-, C- ja E-vitamiinide, foolhappe ning kollageeni sisalduse poolest.</li></ul>
+<p><b>Kasutamine:&nbsp;</b>Kanna palsam pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 2-3 minutit, seejärel loputa rohke veega. Palsam sobib igapäevaseks kasutamiseks.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Glycerin, Behentrimonium Methosulfate, Parfum, Cetyl Alcohol, Betula Alba (Birch) Leaf Exract*, Aloe Barbadensis (Aloe Vera) Extract*, Butylene Glycol, Alcohol, Tilia Cordata (Linden Flower) Extract, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Geraniol</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 92,77%.&nbsp;</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084333748551</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013928227143</id>
+    <published>2025-03-01T13:39:40+02:00</published>
+    <updated>2025-03-01T13:39:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-detangling-spray-100ml"/>
+    <title>LUUV Looduslik laste pusapalsam 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-detangling-spray-100ml-412749.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laste pusapalsam, millel on ülemaailmselt tunnustatud ECOCERT/COSMOS sertifikaat, muudab sinu lapse juuksehooldusrutiini. On aeg jätta hüvasti kangekaelsete pusadega ja tervitada probleemivaba stiili!<br></p><p>Pusasprei on spetsiaalselt laste juustele välja töötatud ning loodud alistama kõik pusad, sõlmed ja sasipuntrad. Palsam jätab juuksed kergesti kammitavaks ja siidpehmeks ning selle mahlane pirniaroom on looduslik, allergeenivaba ja laste vaieldamatu lemmik. Lisaks võid olla rahulik, teades, et lõhn on looduslikult saadud ega sisalda allergeene. Sinu lapse juuksed on heades kätes. </p><ul><li>Looduslik ja allergeenivaba</li><li>Mahlane pirniaroom</li><li>Ei ärrita nahka</li><li>ECOCERT/COSMOS sertifikaadiga</li><li>99,76% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Enne kasutamist loksuta pudelit. Pihusta palsam juustele, lase mõni hetk toimida ning kammi juuksed läbi. Võib kasutada nii märgadel juustel peale pesu kui ka kuivadel juustel igapäevaselt.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Propanediol, Betaine, Coconut Alkanes, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013928227143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013974069575</id>
+    <published>2025-03-01T13:39:26+02:00</published>
+    <updated>2025-03-01T13:39:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-caring-conditioner-with-plum-oil-200ml"/>
+    <title>LUUV Looduslik hooldav palsam ploomiõliga 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-caring-conditioner-with-plum-oil-200ml-901624.png?v=1740891410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hooldatud juuksed iga päev! Looduslik ploomiõliga rikastatud palsam sobib suurepäraselt igapäevaseks kasutamiseks kõikidele juuksetüüpidele. Külmpressitud orgaaniline ploomiõli niisutab juukseid, taastab juukseotsi ja kaitseb kuumtöötluse eest. Looduslike õlide, proteiinide ja aktiivainete segu annab kõik vajaliku, et juuksed oleksid tugevad ja läikivad. Sobib ka värvitud juustele.</p><ul><li>sobib kõikidele juuksetüüpidele, ka värvitud juustele</li><li>hooldav ja pehmendav toime</li><li>niisutab ja kaitseb juukseid</li><li>kaitseb juukseid kuumtöötluse eest</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | parabeenivaba<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine:&nbsp;</b>Kanna palsam juustele pärast šampooniga pesemist, alustades juukseotstest. Lase mõjuda 2–3 minutit, seejärel loputa rohke veega.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Distearoylethyl Dimonium Chloride, Cetearyl Alcohol, Glycerin, Cetyl alcohol, Aloe Barbadensis Leaf Juice, Betaine, PCA Glyceryl Oleate, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Potassium Sorbate, Citric Acid, Cymbopogon Martini (Palmarosa) oil, Parfum, Geraniol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013974069575</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013938385223</id>
+    <published>2025-03-01T13:39:12+02:00</published>
+    <updated>2025-03-01T13:39:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-volumizing-seabuckthorn-conditioner-200ml"/>
+    <title>LUUV Looduslik kohevust andev astelpaju palsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-volumizing-seabuckthorn-conditioner-200ml-722591.png?v=1740891411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik astelpaju palsam sobib normaalsetele ja rasustele juustele, annab juustele pehmuse, volüümi ja sära. Astelpaju- ja riitsinusõli tugevdavad juukseid, aitavad vältida juuste lõhenemist ja stimuleerivad juuste kasvu. Nisuproteiin muudab juuksed tugevamaks ning suurendab kohevust ja elastsust. Provitamiin B5 muudab juuksed kergesti kammitavaks ja kaitseb kuumtöötlemise eest.</p>
+<ul><li>sobib kõikidele juuksetüüpidele, sealhulgas rasustele juustele</li><li>annab juustele kohevuse ja sära</li><li>niisutab ja tugevdab juukseid</li><li>tsitruse lõhnaga</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine: </b>Kanna palsam juustele pärast šampooniga pesemist, alustades juukseotstest. Lase mõjuda 2–3 minutit, seejärel loputa rohke veega.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Coco-Glucoside, Betaine, Citric Acid, Xanthan Gum, Hippophae Rhamnoides (Sea Buckthorn) oil, Hydrolyzed Wheat Protein, PCA Glyceryl Oleate, Citrus Reticulata (Mandarin oil), Citrus Aurantium Dulcis (Orange) Oil, Sodium Benzoate, Potassium Sorbate, Parfum, Limonene</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013938385223</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013980164423</id>
+    <published>2025-03-01T13:39:04+02:00</published>
+    <updated>2025-03-01T13:39:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-softening-protecting-honey-conditioner-200ml"/>
+    <title>LUUV Looduslik pehmendav meepalsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-softening-protecting-honey-conditioner-200ml-904989.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik meepalsam muudab juuksed pehmeks ja kergesti kammitavaks ning aitab taastada kahjustunud juukseotsi. Orgaaniline meeekstrakt muudab juuksed siidiseks ja kaitseb keskkonnamõjude eest. Orgaaniline odra ekstrakt stimuleerib juuste kasvu ja annab sära. Nisuproteiin tugevdab juukseid ja suurendab nende elastsust. Sobib ka värvitud juustele.</p>
+<ul><li>sobib kõikidele juuksetüüpidele, ka värvitud juustele</li><li>pehmendava ja kaitsva toimega</li><li>annab juustele pehmuse</li><li>parandab juukse struktuuri ja tugevdab juukseid</li><li>mesiselt magusa lõhnaga</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine:</b>&nbsp;Kanna palsam juustele pärast šampooniga pesemist, alustades juukseotstest. Lase mõjuda 2–3 minutit, seejärel loputa rohke veega.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Distearoylethyl Dimonium Chloride, Cetearyl Alcohol, Glycerin, Cocos Nucifera, Cetyl alcohol, Aloe Barbadensis Leaf juice, Betaine, Ricinus Communis Seed (Castor) Oil, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Hydrolyzed Wheat Protein, Hordeum Vulgare (Barlay sprouts) Extract, Hippophae Rhamnoides (Sea Buckthorn) oil, PCA Glyceryl Oleate, Panthenol, Guar Hydroxypropyltrimonium Chloride, Coco-Glucoside, Glyceryl Oleate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013980164423</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9951840633159</id>
+    <published>2025-01-31T09:23:39+02:00</published>
+    <updated>2025-01-31T09:23:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/blokzeep-conditioner-bar-avocado-60g"/>
+    <title>Blokzeep Avokaado tahke palsam 60g</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Blokzeep</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/blokzeep-conditioner-bar-avocado-60g-193510.jpg?v=1739897160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blokzeep<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spetsiaalselt kuivadele ja kahjustatud juustele. Avokaados sisalduvatel headel rasvadel on palju kasutusvõimalusi, sealhulgas palsamina. Palsamis sisalduv avokaadoõli mõjub kuivadele juustele niisutavalt, andes neile kauni läike. Lisaks avokaadole sisaldab  palsam ka sheavõid ja mangovõid,  mis on samuti tuntud oma heade omaduste poolest. Sheavõis on rohkelt antioksüdante, mis reguleerivad  naha ja juuste niiskustasakaalu ning on  niisutava ja rahustava toimega. Mangovõi on sheavõiga sarnase struktuuriga ja sisaldab samuti palju antioksüdante. Sellel on taastav ja juuksejuuri tugevdav toime. Selline koostisainete kombinatsioon on ideaalne turgutus sinu juustele!</p>
+<p>Avokaado tahke palsam on jätkusuutlik kolmel põhjusel:</p>
+<ul><li>Vähem vett: tavaline palsamipudel sisaldab 80% vett, mida tuleb iga kord transportida</li><li>Tõhusam kasutamine: tahke palsam kestab 3 korda kauem kui tavaline vedela palsami pudel</li><li>Plastivaba pakend</li></ul>
+<p>Avokaado tahke palsam on käsitsi valmistatud Euroopas ja transporditakse Hollandisse CO2-neutraalsel viisil. Pakend on 100% plastivaba.</p>
+<p><b>Kasutamine:</b> Masseeri palsam pärast šampooniga pesemist õrnalt märgadesse juukseotstesse ja seejärel loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Sodium Coco-Sulfate, Cetearyl Alcohol, Cocamidopropyl Betaine, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate SE, Sea Salt, Cocos Nucifera Oil, Parfum, Persea Gratissima (Avocado) Oil, Mangifera Indica Seed (Mango) Butter, Phenoxyethanol, Tocopherol (Vitamin E), Benzyl Benzoate, Hexyl Cinnamal</p>
+<p>looduslikud koostisosad | julmusevaba | käsitsi valmistatud</p>
+<p><link rel="File-List" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml"><link rel="themeData" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx"><link rel="colorSchemeMapping" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml"><style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Aptos;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blokzeep</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9951840633159</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9951837651271</id>
+    <published>2025-01-31T09:23:14+02:00</published>
+    <updated>2025-01-31T09:23:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/blokzeep-conditioner-bar-olive-60g"/>
+    <title>Blokzeep Oliiviõli tahke palsam 60g</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Blokzeep</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/blokzeep-conditioner-bar-olive-60g-613662.jpg?v=1739897167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blokzeep<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oliiviõli on sajandeid tuntud kui fantastiline juuksepalsam. Võimsal ja looduslikul koostisainel, mis on rikas rasvhapete ja antioksüdantse E-vitamiini poolest, on intensiivselt toitev ja pehmendav toime ilma juukseid raskeks muutmata. Lisaks oliiviõlile sisaldab palsam ka sheavõid. Sheavõis on rohkelt antioksüdante, mis reguleerivad naha ja juuste niiskustasakaalu ning on seega niisutava ja rahustava toimega. Selline koostisainete kombinatsioon on ideaalne turgutus sinu juustele!</p><p>Oliiviõli tahke palsam on jätkusuutlik kolmel põhjusel:</p><ul><li>Vähem vett: tavaline palsamipudel sisaldab 80% vett, mida tuleb iga kord transportida</li><li>Tõhusam kasutamine: tahke palsam kestab 3 korda kauem kui tavaline vedela palsami pudel</li><li>Palstivaba pakend</li></ul><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 15">
+<meta name="Originator" content="Microsoft Word 15">
+<link rel="File-List" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel="themeData" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx">
+<link rel="colorSchemeMapping" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ET</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Aptos;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]-->
+<p>Oliiviõli tahke palsam on käsitsi valmistatud Euroopas ja transporditakse Hollandisse CO2-neutraalsel viisil. Pakend on 100% plastivaba.</p><p><b>Kasutamine: </b>Masseeri palsam pärast šampooniga pesemist õrnalt märgadesse juukseotstesse ja seejärel loputa.</p><p><b>Koostisosad:</b>&nbsp;Sodium Coco-Sulfate, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cocamidopropyl Betaine, Glyceryl Stearate SE, Sea Salt, Olea Europaea (Olive) Fruit Oil, Parfum, Mentha Piperita Extract, Calendula Officinalis Extract, Phenoxyethanol, Tocopherol (Vitamin E), Benzyl Benzoate, Linalool, Benzyl Salicylate, Limonene, Hydroxycitronellal, Citronellol</p><p>looduslikud koostisosad | julmusevaba | käsitsi valmistatud</p>
+<link rel="File-List" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml"><link rel="themeData" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx"><link rel="colorSchemeMapping" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml"><style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Aptos;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blokzeep</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9951837651271</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9951825101127</id>
+    <published>2025-01-31T09:22:36+02:00</published>
+    <updated>2025-01-31T09:22:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/blokzeep-conditioner-bar-argan-60g"/>
+    <title>Blokzeep Argaaniaõli tahke palsam 60g</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Blokzeep</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/blokzeep-conditioner-bar-argan-60g-519679.jpg?v=1739897153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blokzeep<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Argaaniaõli tahke palsam on mõeldud eelkõige kuivadele juustele. Argaaniaõli on rikkalik segu, sisaldades  rasvhappeid, antioksüdante ja E vitamiini. Õlil on võime tungida suhteliselt sügavale juustesse, muutes need elastsemaks. Lisaks on argaaniaõlis oluliseks koostisosaks linoolhape, mis loob kaitsekihi, mis paneb juuksed paremini niiskust hoidma ja annab neile läike. Argaaniaõlis sisalduvad antioksüdandid pakuvad ka välist kaitset.</p>
+<p>Argaaniaõli tahke palsam on jätkusuutlik kolmel põhjusel:</p>
+<ul><li>Vähem vett: tavaline palsamipudel sisaldab 80% vett, mida tuleb iga kord transportida</li><li>Tõhusam kasutamine: tahke palsam kestab 3 korda kauem kui tavaline vedela palsami pudel</li><li>Plastivaba pakend</li></ul>
+<p>Argaaniaõli tahke palsam on käsitsi valmistatud Euroopas ja transporditakse Hollandisse CO2-neutraalsel viisil. Pakend on 100% plastivaba.</p>
+<p><b>Kasutamine:</b>&nbsp;Masseeri palsam pärast šampooniga pesemist õrnalt märgadesse juukseotstesse ja seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Sodium Coco-Sulfate, Cetearyl Alcohol, Cocamidopropyl Betaine, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate SE, Sea Salt, Theobroma Cacao Seed Butter, Parfum, Argania Spinosa Kernel Oil, Mentha Piperita Leaf Extract, Tilia Cordata Extract, Аloe Barbadensis Extract, Phenoxyethanol, Tocopherol (Vitamin E), Linalool, Coumarin, Benzyl Alcohol, Limonene</p>
+<p>looduslikud koostisosad | julmusevaba | käsitsi valmistatud</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blokzeep</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9951825101127</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945646629191</id>
+    <published>2025-01-22T13:13:34+02:00</published>
+    <updated>2025-01-22T13:13:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-gloss-and-vibrancy-conditioner-200ml"/>
+    <title>MÁDARA Gloss and Vibrancy palsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-gloss-and-vibrancy-conditioner-200ml-676619.jpg?v=1739897175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toida ja tugevda juukseid&nbsp;MÁDARA läiget lisava palsamiga, mille koostisesse kuuluvad põhjamaine kask ja jõhvikas. Muudab juuksed siidiselt siledaks, läikivaks ja paremini sätitavaks.&nbsp;Lisaks on see palsam pakendatud 60% ulatuses taaskasutatud pakendisse, et vähendada igal aastal uuest materjalist toodetavate plastpakendite arvu.</p><p><b>Kasutamine: </b>​Masseeri märgadesse, puhastesse juustesse. Lase mõjuda 1-3 minutit, seejärel loputa hoolikalt veega. Parimate tulemuste saavutamiseks kasutage koos MÁDARA Gloss And Vibrancy šampooniga.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Betaine, Glycerin, Distearoylethyl Dimonium Chloride, Mica (CI 77019), D-panthenol (Provitamin B5), Lactic Acid, Benzyl Alcohol, Aroma, CI 77891 (Titanium Dioxide), Sodium Benzoate, Betula Alba (Birch) Leaf Extract, Hydrolyzed Wheat Protein, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Potassium Sorbate, Limonene, Linalool, Citrus Aurantium Peel Oil</p><p>COSMOS NATURAL sertifikaadiga</p><p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945646629191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945641550151</id>
+    <published>2025-01-22T12:54:34+02:00</published>
+    <updated>2025-01-22T12:54:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-colour-and-shine-conditioner-200ml"/>
+    <title>MÁDARA Colour and Shine palsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-colour-and-shine-conditioner-200ml-869960.jpg?v=1739897158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Juuksevärvi kaitsev palsam toidab ja kaitseb töödeldud ja värvitud juukseid tõhusalt. Koostises sisalduvad linaseeme, hobukastan ja teeleht toidavad ja kaitsevad töödeldud juukseid. Aitab siluda ja vähendada kahu ning hoida juuksevärvi erksust, et juuksed oleksid läikivamad, siidiselt siledad ja paremini sätitavad.&nbsp;Lisaks on see palsam pakendatud 60% ulatuses taaskasutatud pakendisse, et vähendada igal aastal uuest materjalist toodetavate plastpakendite arvu.</p><p><b>Kasutamine: </b>​Masseeri märgadesse, puhastesse juustesse. Lase mõjuda 1-3 minutit, seejärel loputa hoolikalt veega. Parimate tulemuste saavutamiseks kasutage koos MÁDARA Colour and Shine šampooniga.&nbsp;</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Betaine, Glycerin, Behentrimonium Chloride, D-panthenol (Provitamin B5), Mica (CI 77019), Lactic Acid, Benzyl Alcohol, Aroma, CI 77891 (Titanium Dioxide), Sodium Benzoate, Linum Usitatissimum (Linseed) Seed Extract, Hydrolyzed Wheat Protein, Potassium Sorbate, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Plantago Major (Plantain) Leaf Extract, Limonene, Linalool, Citrus Aurantium Peel Oil</p><p>COSMOS NATURAL sertifikaadiga<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945641550151</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945634505031</id>
+    <published>2025-01-21T20:22:37+02:00</published>
+    <updated>2025-01-21T20:22:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-nourish-and-repair-conditioner-200ml"/>
+    <title>MÁDARA Nourish and Repair palsam 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-nourish-and-repair-conditioner-200ml-492639.jpg?v=1739897193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rikkalik ja kreemjas palsam toidab ja taastab kuivi, kahjustatud juukseid. Koostises sialduvad nõgeselehe ja küdooniaekstraktid aitavad vältida murdumist ja juukseotste lõhenemist. Juuksed näevad siidisemad ja tervemad välja.  Lisaks on see palsam pakendatud 60% ulatuses taaskasutatud pakendisse, et vähendada igal aastal uuest materjalist toodetavate plastpakendite arvu.</p><p><b>Kasutamine:</b> Masseeri märgadesse, puhastesse juustesse. Lase mõjuda 1-3 minutit, seejärel loputa hoolikalt veega. Parimate tulemuste saamiseks kasuta koos MÁDARA Nourish and Repair šampooniga.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Sodium Coco-sulfate, Coco-glucoside, Rosa Damascena (Rose) Flower Water, Cocamidopropyl Betaine, Glycerin, Betaine, Glyceryl Oleate, Sodium Chloride, Citric acid, Aroma, Benzyl Alcohol, Brassica Alcohol, Pyrus Cydonia (Quince) Fruit Extract, Urtica Dioica (Nettle) Leaf Extract, Hydrolyzed Wheat Protein, Sodium Benzoate, Brassicyl Isoleucinate Esylate, Potassium Sorbate, Limonene, Linalool, Citrus Aurantium Peel Oil</p><p>COSMOS NATURAL sertifikaadiga<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945634505031</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945653117255</id>
+    <published>2025-01-21T20:04:32+02:00</published>
+    <updated>2025-01-21T20:04:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-feed-repair-dry-rescue-hair-mask-180ml"/>
+    <title>MÁDARA Repair &amp; Dry juuksemask 180ml</title>
+    <s:type>Hair Mask</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-feed-repair-dry-rescue-hair-mask-180ml-298387.png?v=1740808672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Hair Mask<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toida juukseid sügavuti selle erakordse taimeõlide põhise ja kukeseene ekstrakti sisaldava taastava maskiga, mis hoiab ära juuksekiu kahjustumise, hoiab juuksevärvi värske ja juuksed pehmena. Tugevdab juukseid ja muudab need vastupidavamaks mehaanilistele ja kuumakahjustustele. Tagab siidiselt siledad ja läikivad juuksed.</p><p><b>Kasutamine: </b>Kanna puhastele, kergelt niisketele juustele ja juukseotstele. Lase mõjuda 5–10 minutit ja loputa hoolikalt.</p><p><b>Koostisosad:</b>&nbsp;Cantharellus cibarius (chanterelle) extract, Cetearyl Alcohol, Distearoylethyl Dimonium Chloride, Glycerin, Brassica Alcohol, PCA Glyceryl Oleate, Sodium PCA, Brassicyl Isoleucinate Esylate, Lactic Acid, Aroma, Cocos Nucifera (Coconut) Oil, Xylitylglucoside, Butylene Glycol, Guar Hydroxypropyltrimonium Chloride, Benzyl Alcohol, Anhydroxylitol, Persea Gratissima (Avocado) Oil, Hydrolyzed Wheat Protein, Sodium Benzoate, Xylitol, Hydrolyzed Keratin, Potassium Sorbate, Ascorbyl Palmitate, Butyrospermum Parkii (Shea) Butter, Oenothera Biennis (Evening Primrose) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tocopherol, Crambe Maritima (Sea Kale) Leaf Extract, Leuconostoc/Radish Root Ferment Filtrate, Linalool, Limonene, Citrus Aurantium Peel Oil, Juniperus Virginiana Oil, Benzyl Salicylate</p><p>COSMOS NATURAL sertifikaadiga<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945653117255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939522158919</id>
+    <published>2025-01-19T11:02:30+02:00</published>
+    <updated>2025-01-19T11:02:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-conditioner-250ml"/>
+    <title>Vielö Orgaaniline juuksepalsam 250ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-conditioner-250ml-654164.jpg?v=1739897176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline palsam on spetsiaalselt loodud kahjustatud juuste tugevdamiseks ja niisutamiseks, jättes need pehmeks ja siledaks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), sojaekstrakt (ergutav), nisuiduõli (kaitsev), orgaanilised lavendli (rahustav), salvei (tugevdav) ja kassinaerise (niisutav) ektraktid.&nbsp;<br><br>Sobib kõikidele juuksetüüpidele.<b><br><br>Kasutamine:</b> Kanna pärast šampooniga pesemist märgadele juustele. Masseeri õrnalt juustesse ja peanahale. Loputa hoolikalt.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Cetyl Alcohol*, Glycerin**, Aqua*, Betaine*, Citric Acid*, Xanthan Gum*, Lavandula Angustifolia Flower Oil**, Tocopherol*, Salvia Officinalis Oil**, Helianthus Annuus Seed Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Malva Sylvestris Flower Extract**, Lavandula Angustifolia Flower Extract**, Glycine Soja Seed Extract*, Urtica Dioica Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Polyglyceryl-4 Caprate*, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (88,9%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939522158919</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9674447552839</id>
+    <published>2024-10-04T15:10:26+03:00</published>
+    <updated>2024-10-04T15:10:26+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-hydrating-hair-mist-100ml"/>
+    <title>HOIA Sügavniisutav juuksesprei 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-hydrating-hair-mist-100ml-963057.jpg?v=1739897245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meeldiva lõhnaga sügavniisutav juuksesprei aitab juukseid hoida tervete, tugevate ja säravatena.&nbsp;Sprei sisaldab juukseid tugevdavat kodumaist nõgest ja riisivett, taimset keratiini, sügavniisutavat hüaluroonahapet ja aaloed, juukseid pehmendavaid vetikaekstrakte ja kodumaiseid taimehüdrosoole, toitvaid õlisid ja sära lisavaid eeterlikke õlisid.</p>
+<p><b>Kasutamine:</b>&nbsp;Loksuta pudelit enne kasutamist ja piserda sobiv kogus märgadesse või kuivadesse juustesse. Loputada pole vaja.</p>
+<p><b>Koostisosad:</b>&nbsp;*Salvia Officinalis Distillate water, *Achillea Millefolium Distillate water, Oryza Sativa Seed water, Chodrus Crispus extract, Sargassum Fluitans/Natans extract, Hydrolyzed Wheat Protein, Crambe Abyssinica Seed oil, *Nigella Sativa Seed oil, Saccharomyces Ferment, Lactobacillus Ferment, Hydronated Sodium Hyaluronate, Glycerin, Aloe Barbadensis Leaf juice, Sodium Levulinate, Urtica Dioica Plant extract, Pentylene Glycol, Sodium Anisate, *Lavandula Angustifolia oil, *Pelargonium Graveolens oil, Citric Acid. **Citral, **Geraniol, **Linalool, **Limonene, **Citronellol.</p>
+<p>*Mahepõllumajanduslik päritolu. *Eeterliku õli looduslikud komponendid.</p>
+<p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9674447552839</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975915221319</id>
+    <published>2024-05-19T20:38:07+03:00</published>
+    <updated>2024-05-19T20:38:07+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/linden-lille-konditsioneer-koore-ekstraktiga-250ml"/>
+    <title>Magrada Pärnaõie juuksepalsam Põhjamaise kaseekstraktiga 250ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-hair-stimulating-conditioner-with-linden-flower-extract-250ml-1045756.png?v=1763665703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<!--StartFragment--><img loading="lazy" class="alignnone wp-image-11494" src="https://www.magrada.eu/wp-content/uploads/2020/03/1-2-300x300.png" alt="anne stiil ilulemmik 2019" width="100" height="100" style="box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: auto; max-width: 100%; border: none; display: inline-block; vertical-align: middle; border-radius: 0px; box-shadow: none; color: rgb(0, 0, 0); font-family: Mryiadpro-regular, -apple-system, BlinkMacSystemFont, Arial, Helvetica, &quot;Helvetica Neue&quot;, Verdana, sans-serif; font-size: 18.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.2px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(241, 240, 237); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img loading="lazy" class="alignnone wp-image-11499" src="https://www.magrada.eu/wp-content/uploads/2020/03/2-2-300x300.png" alt="iluteemant proff soovitab" width="100" height="100" style="box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: auto; max-width: 100%; border: none; display: inline-block; vertical-align: middle; border-radius: 0px; box-shadow: none; color: rgb(0, 0, 0); font-family: Mryiadpro-regular, -apple-system, BlinkMacSystemFont, Arial, Helvetica, &quot;Helvetica Neue&quot;, Verdana, sans-serif; font-size: 18.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.2px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(241, 240, 237); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><p>Naudi südasuviseid hetki aastaringselt. See on palsam, mida iseloomustab tõhusate põhjamaiste taimede kooslus, mis soodustab ja kiirendab loomulikku juuksekasvu. Palsami siidjalt kreemine koostis hajub juustel ühtlaselt, jättes kiharatesse õrnalt mesise pärnaõie aroomi – just nagu soojal juulikuu ööl.</p>
+<p>Põhjamaine kaseekstrakt niisutab ja pehmendab juukseid, muutes need hõlpsasti kammitavaks. Orgaaniline aaloe-ekstrakt rahustab peanahka ja ennetab juukseotste kuivamist. Taimeekstraktide kooslus lisab kiharatele tervislikku sära, kaitseb neid kuumtöötluse eest ning hoiab juuksefolliikulite pigmentatsiooni, säilitades juuste elujõu ja elastsuse. Kerge koostisega palsam sobib kogu perele igapäevaseks kasutamiseks.</p>
+<ul><li><u>Põhjamaine pärnaõieekstrakt</u> on niisutava ja pehmendava toimega, sobides nii tundlikule kui ka ärritunud peanahale.</li><li><u>Orgaaniline põhjamaine kaseekstrakt</u> stimuleerib pea vereringet ning tugevdab juuksejuuri, kiirendades seeläbi juuste loomulikku kasvu.</li><li><u>Orgaaniline aaloe-ekstrakt</u> on nahale sügavalt rahustav ja niisutav. Aaloe on tuntud oma rikkaliku A-, C- ja E-vitamiinide, foolhappe ning kollageeni sisalduse poolest.</li></ul>
+<p><b>Kasutamine:&nbsp;</b>Kanna palsam pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 2-3 minutit, seejärel loputa rohke veega. Palsam sobib igapäevaseks kasutamiseks.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Glycerin, Behentrimonium Methosulfate, Parfum, Cetyl Alcohol, Betula Alba (Birch) Leaf Exract*, Aloe Barbadensis (Aloe Vera) Extract*, Butylene Glycol, Alcohol, Tilia Cordata (Linden Flower) Extract, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Geraniol</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 92,77%.&nbsp;</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975915221319</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975923675463</id>
+    <published>2024-05-19T20:32:26+03:00</published>
+    <updated>2024-05-19T20:32:26+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/rabarberi-juuste-mask-kastooroliga-250-ml"/>
+    <title>Magrada Rabarberi juuksemask riitsinusõliga - 250 ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-250ml-9001472.png?v=1763665705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            15.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<!--StartFragment-->
+<!--StartFragment--><img class="alignnone wp-image-11509" src="https://www.magrada.eu/wp-content/uploads/2020/12/5-300x300.png" alt="pure beauty global awards 2021" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img class="alignnone wp-image-11514" src="https://www.magrada.eu/wp-content/uploads/2020/12/6-1-300x300.png" alt="pure beauty global awards 2021" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img class="alignnone wp-image-11524" src="https://www.magrada.eu/wp-content/uploads/2020/12/8-300x300.png" alt="global green beauty awards 2021" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img class="alignnone wp-image-11519" src="https://www.magrada.eu/wp-content/uploads/2020/12/7-300x300.png" alt="buduaar beauty award 2022" width="100" height="100" style="box-sizing: inherit; border-radius: var(--media-radius); height: auto; max-width: 100%; border: var(--media-border-width) solid rgba(var(--color-foreground),var(--media-border-opacity)); box-shadow: var(--media-shadow-horizontal-offset) var(--media-shadow-vertical-offset) var(--media-shadow-blur-radius) rgba(var(--color-shadow),var(--media-shadow-opacity)); margin-bottom: var(--media-shadow-vertical-offset); color: rgba(18, 18, 18, 0.75); font-family: Akko, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.6px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><!--EndFragment-->
+<p>Kuldmedaliga pärjatud (Pure Beauty Global Awards 2021 Winner) juuksemask on mõeldud kuivade ja kahjustunud kiharate intensiivseks toitmiseks ja niisutamiseks.</p>
+<p>Rabarberi juuksemask riitsinus- ja makadaamiapähkliõliga hellitab, taaselustab ning silub kahjustada saanud juukseid. Taimede elujõud tasakaalustab ja toidab. Looduslik hoolitsus parandab juuksestruktuuri ja vähendab kahusust, lisades soengule lummava sära. Siidjalt kreemine koostis annab juustele kevadise värskuse ning rabarberi mahlase aroomi.</p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Makadaamiapähkliõlis</u> on ohtralt rasvhappeid ja kaaliumi, mis muudavad juuksed tugevamaks ja kergemini kammitavaks. Makadaamiaõli sisaldab antioksüdante, mis aitavad juustel kahjulikest keskkonnamõjudest taastuda.</li><li><u>Riitsinusõli</u> on mikroobidevastase toimega, aidates kõõma ja teiste peanahaprobleemide vastu, mis halvendavad juuste tervist. Õlis sisalduv E-vitamiin niisutab juuksejuuri ning annab kiharatele terve sära.</li></ul>
+<p><b>Kasutamine: </b>Kanna mask pärast šampooni kasutamist niisketesse juustesse, alustades juukseotstest. Hoia toodet peas 5-15 minutit, seejärel loputa rohke veega.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Loodusliku päritoluga koostisosad: 94,16%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan&nbsp;| alkoholivaba&nbsp;| EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975923675463</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975921054023</id>
+    <published>2024-05-19T19:09:03+03:00</published>
+    <updated>2024-05-19T19:09:03+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/voluumi-andev-kindlustaja-lille-ekstraktiga"/>
+    <title>Magrada Pärnaõie tahke juuksepalsam 50g</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-volumizing-solid-conditioner-with-linden-flower-extract-50g-360749.png?v=1739897404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>Pai juustele, pai keskkonnale. Lisaks sellele, et tahke palsam on keskkonnasõbralik, on seda praktiline kaasa pakkida nii reisikohvrisse kui ka trennikotti!</p>
+<p>Segu parimatest looduslikest koostisosadest taastab ja toidab juukseid, muutmata neid raskeks. Taimsed komponendid nagu pärnaõis, kakao- ja shea-või ning magusmandliõli muudavad juuksed pehmeks ja elastseks, jättes kiharatesse õrnalt mesise pärnaõie aroomi – just sellise nagu soojal juunikuu ööl.</p>
+<ul><li><u>Põhjamaine pärnaõieekstrakt</u> on niisutava ja pehmendava toimega, sobides nii tundlikule kui ka ärritunud peanahale.</li><li><u>Shea–või</u> ehk võiseemnikuõli ekstraheeritakse Aafrikas põliselt kasvava võiseemnikupuu pähklitest. Shea-või pehmendab ja niisutab nahka sügavuti, aidates hoida selle niiskustasakaalu.</li><li><u>Kakaovõi </u>sisaldab rohkesti asendamatuid rasvhappeid, mis aitavad parandada naha kaitsevõimet.</li><li><u>Provitamiin B5</u> lisab kiharatele tervislikku elastsust ja sära ning parandab töödeldud juuste struktuuri.</li></ul>
+<p><b>Kasutamine: </b>Peale šampooniga pesemist masseeri palsamit õrnade liigutustega märgades juusteotsas ja seejärel loputa.</p>
+<p><b>Koostisosad:</b> Cetearyl Alcohol, Theobroma Cacao (Cocoa) Seed Butter, Behentrimonium Methosulfate, Butyrospermum Parkii (Shea) Butter, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Parfum, Tilia Cordata (Linden) Flower Extract, Hexyl Cinnamal, Geraniol</p>
+<p>Loodusliku päritoluga koostisosad: 99%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | SLS-vaba | alkoholivaba| silikoonivaba | vegan | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975921054023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

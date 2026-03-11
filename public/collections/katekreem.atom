@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/katekreem.atom"/>
+  <title>bioskina</title>
+  <updated>2026-02-17T11:28:34+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/9674257432903</id>
+    <published>2026-02-17T11:28:34+02:00</published>
+    <updated>2026-02-17T11:28:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-nail-and-cuticle-oil-15ml"/>
+    <title>HOIA Nail and Cuticle Oil 15ml</title>
+    <s:type>Nail Oil</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-nail-and-cuticle-oil-15ml-330292.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Nail Oil<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Quickly absorbed in a comfortable bottle with a roller, HOIA Restorative Nail Oil contains an extraordinary variety of fatty acids that moisturize and nourish your nails and cuticles. The rich complex of essential oils contained in nail oil provides the necessary care for your nails. The oil promotes the growth of nails, makes them stronger and more elastic, and helps to keep nails healthy and beautiful. </span></p>
+<p><strong>How to use:</strong> <span>Apply the oil to clean nails and cuticles with the help of a roller and massage until absorbed. To achieve results, use 1-2 times a day.</span></p>
+<p><span>For the best hand care, in addition to Restorative Nail Oil, use HOIA Rejuvenating Hand Serum, which is quickly absorbed and effectively moisturizes the skin.</span></p>
+<p><strong>Ingredients:</strong> <span>*Persea Gratissima Fruit oil, *Nigella Sativa Seed oil, Olive Squalane, Rubus Idaesus Seed oil, *Argania Spinosa Kernel oil, *Rosa Canina Seed Oil, *Triticum Vulgare oil, *Punica Granatum Seed oil, *Carrot Seed oil, *Commiphora Myrrha Oil, *Lavandula Angustifolia Flower oil, *Boswellia Serrata Gum oil, Tocopherol, **Geraniol, **Linalool, **Limonene. </span></p>
+<p><span>*From organic farming. **Natural components of essential oil.</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>küüneõli</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674257432903</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9674670768455</id>
+    <published>2025-09-27T09:45:50+03:00</published>
+    <updated>2025-09-27T09:45:50+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-sea-buckthorn-vitamin-care-hand-cream-50ml"/>
+    <title>NURME Sea Buckthorn Vitamin Care Hand Cream 50ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-sea-buckthorn-vitamin-care-hand-cream-50ml-5213426.webp?v=1758992013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            7.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rich in natural vitamins, it is perfect for the skin on your hands, however rough or dry. Enriched with orange essential oil, it leaves the skin delicately scented. </p>
+<div>
+<div>
+<strong>How to use: </strong>Massage into hands.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> <span>Aqua*, Helianthus Annuus Seed Oil*, Polyglyceryl-3 Methylglucose Distearate*, Glycerin*, Myristyl Myristate**, Butyrospermum Parkii Butter*, Hippophae Rhamnoides Fruit Oil*, Citrus Aurantium Dulcis Peel Oil*, Tocopherol (Vitamin E)*, Limonene***, Sodium Benzoate**, Glyceryl Stearate**, Cetearyl Alcohol**, Potassium Sorbate**, Citric Acid**, Panthenol (Provitamin B5)*, Xanthan Gum**, Citral***, Linalool***, Hectorite**, Cellulose**, Maltodextrin**, Curcuma Longa Root Extract*, Acacia Senegal Gum**.</span>
+</div>
+<div>
+<br><span>* Natural origin</span><br><span>** Natural cosmetics approved ingredient</span><br><span>*** Occurs naturally in essential oil</span>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674670768455</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9674649076039</id>
+    <published>2025-09-07T23:29:13+03:00</published>
+    <updated>2025-09-07T23:29:13+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-argan-oil-nourishing-hand-cream-50ml"/>
+    <title>NURME Argan Oil Nourishing Hand Cream 50ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-argan-oil-nourishing-hand-cream-50ml-6198235.webp?v=1757298821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            7.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nourishing Argan Oil Hand Cream is rich in natural vitamins, perfect for your hands, no matter how rough or dry they are. Bergamot essential oil leaves skin with a pleasant fresh scent. Argan oil<a href="https://nurmecosmetics.com/shop/hair/hair-oils/100-pure-argan-oil/"></a> in the cream absorbs quickly and soothes the skin. The oil retains the skin’s natural moisture, helping to moisturise and soothe itchy and sensitive skin. In addition, it strengthens the nails and softens cuticles.</span></p>
+<p><span>This hand cream is ideal for use in cold winter weather and on hands prone to dryness.</span></p>
+<div>
+<div>
+<strong>How to use: </strong>Massage into hands.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> Aqua*, Polyglyceryl-3 Methylglucose Distearate*, Glyceryl Stearate*, Cetearyl Alcohol*, Myristyl Myristate*, Helianthus Annuus Seed Oil*, Butyrospermum Parkii Butter*, Argania Spinosa Kernel Oil*, Glycerin*, Xanthan Gum*, Hectorite*, Cellulose*, Panthenol (Provitamin B5), Sodium Benzoate*, Potassium Sorbate*, Citrus Aurantium Bergamia Fruit Oil*, Citric Acid, Linalool**, Limonene**.
+<div><br></div>
+<div>* Natural cosmetics approved ingredient</div>
+<div>** Occurs naturally in essential oils</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674649076039</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014098522439</id>
+    <published>2025-02-25T13:43:34+02:00</published>
+    <updated>2025-02-25T13:43:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-nourishing-honey-hand-cream-70ml"/>
+    <title>LUUV Nourishing Honey Hand Cream 70ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-nourishing-honey-hand-cream-70ml-929616.png?v=1740560027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nourishing Honey Hand Cream – your ticket to velvety-smooth hands that feel as sweet as honey! Why settle for ordinary when you can pamper your hands with a certified ECOCERT / COSMOS eco-certificate product? Honey-infused hand cream is here to rescue your delicate skin and wrap it in nature’s loving embrace. This cream forms a natural shield, guarding your delicate skin from the elements and leaving you feeling confident in any weather – whether it’s battling hard water or braving harsh winds. The secret behind this is beeswax! This natural wonder ingredient not only protects your hands but also brings the sweet scent of honey to your fingertips. This hand cream is also infused with the luxurious goodness of mango butter, ensuring your hands stay perfectly hydrated.</p>
+<p>With continued use, you’ll notice the delightful transformation of your hand’s skin. It becomes irresistibly soft and regains its elasticity, making your hands feel youthful and rejuvenated. Nourishing Honey Hand Cream is not just a quick fix; it’s a long-term partner in keeping your paws looking and feeling their absolute best!</p>
+<ul>
+<li><span>Nourishes and moisturizes</span></li>
+<li aria-level="1"><span>Forms natural protective shield</span></li>
+<li aria-level="1"><span>Rich cream for the cold season</span></li>
+<li aria-level="1"><span>Mild honey scent</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">What makes honey such an effective ingredient in cosmetics?</span></p>
+<ul>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">High sugar content</span> – ​​honey contains glucose and fructose. Sugars have many different roles, one of the most important of which is to nourish cells. When used cosmetically, it has a rejuvenating effect not only on the skin, but also on the hair.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">The density and viscosity of honey </span>– it creates a protective barrier for our skin and plays an important role in maintaining moisture in the skin. It also creates a protective layer on wounds that allows healing without contamination.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU">
+<span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">Antibacterial properties</span> – mostly the property of honey is used for medicinal purposes. However, it can also be very useful when using cosmetics. Honey is very useful in solving problems like various skin rashes or scalp infections.</span><br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply on hands when necessary</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocos Nucifera Oil, Mangifera Indica seed (Mango) butter, Persea Gratissima (Avocado) oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glycerin, Cetyl Alcohol, Triethyl Citrate, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Cera Alba (Beeswax), Hippophae Rhamnoides Fruit Oil, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Aroma, Citral, D-limonene, Linalool</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014098522439</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014156161351</id>
+    <published>2025-02-25T13:43:01+02:00</published>
+    <updated>2025-02-25T13:43:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-moisturizing-hand-cream-70ml"/>
+    <title>LUUV Moisturizing Hand Cream 70ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-moisturizing-hand-cream-70ml-635051.png?v=1740560024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moisturizing Hand Cream – your daily dose of hand and nail pampering! Crafted with care and certified with the prestigious ECOCERT/COSMOS eco-certificate, this hand cream is your eco-conscious choice for healthy and happy hands. Its light, yet deeply nourishing formula is designed to make your hands feel their absolute best. Enriched with the goodness of coconut oil, it softens and nurtures your delicate hand skin, while avocado oil provides intense hydration, ensuring your hands stay supple and moisturized all day long.</p>
+<p>This hand cream doesn’t leave you waiting! It absorbs instantly, leaving your hands feeling irresistibly soft and silky, without any greasy residue. Its mild, fresh aroma is the perfect blend of natural fragrances that’ll uplift your mood. Treat your hands to the luxury they deserve and make Moisturizing Hand Cream your daily companion. </p>
+<ul>
+<li><span>Moisturizes</span></li>
+<li aria-level="1"><span>Absorbs quickly</span></li>
+<li aria-level="1"><span>Light cream for daily hand care</span></li>
+<li aria-level="1"><span>Mild fresh aroma</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients: </span></p>
+<ul>
+<li data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU" aria-label="Tõlgitud tekst" data-placeholder="Tõlge" dir="ltr" class="tw-data-text tw-text-large tw-ta">
+<span style="text-decoration: underline;">Coconut oil</span><span><span style="text-decoration: underline;">/coconut fat</span> is the lightest of solid fats. With good absorption and blends well into the skin, nourishing but not heavy. Is very similar to the lipids in our own skin, so human skin absorbs it well.</span>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | certified | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply on hands when necessary</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocos nucifera oil, Olus Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glycerin, Persea Gratissima oil, Triethyl Citrate, Betaine, Glyceryl Stearate SE, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Cetyl Alcohol, Cymbopogon Flexuosus Leaf (Lemongrass) Oil, Xanthan Gum, Aroma, Citral, Linalool, Geraniol, Limonene</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014156161351</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10004466499911</id>
+    <published>2025-02-18T20:50:05+02:00</published>
+    <updated>2025-02-18T20:50:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-hand-cream-silky-touch-75ml"/>
+    <title>BERRICHI Hand Cream 75ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-hand-cream-silky-touch-75ml-432476.png?v=1739979953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            15.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Berrichi Hand Cream is a daily treatment that helps relieve roughness and leaves hands soft and hydrated. The algae-based, antioxidant-rich formula provides anti-aging care. Fatty acids and vitamins from botanical oils nourish the skin, protect it from environmental stressors and help maintain its natural elasticity, leaving hands silky and smooth without a greasy feel. The gentle tropical scent of mandarin and mango soothes the senses.</p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Astaxanthin</span> – one of the most powerful natural antioxidants used in cosmetics. Based on research, its antioxidant activity can be up to 6000 times stronger than vitamin C, helping protect the skin from free radicals significantly more effectively. Thanks to its unique properties, astaxanthin helps protect skin cells from oxidative stress, which is one of the main causes of premature skin aging. Unlike vitamin C, astaxanthin works stably and supports the skin’s protective ability more deeply.</li>
+<li>
+<span style="text-decoration: underline;">Furcellaran</span> – a natural algae extract sourced from Estonian waters that helps the skin retain moisture and protect itself from external stressors. It supports the skin’s moisture balance and helps prevent dryness, making the skin softer and smoother. Furcellaran supports the skin’s natural balance, relieves dryness, and helps keep the skin calm and well cared for.</li>
+<li>
+<span style="text-decoration: underline;">Cocoa butter</span> – a rich and nourishing natural plant butter that helps soften and protect dry skin. Its valuable fatty acids, including stearic and oleic acid, help retain moisture and support the skin’s natural protective barrier. Cocoa butter naturally contains vitamin E, which supports elasticity and helps keep the skin smooth and cared for—especially in cold and dry weather.</li>
+<li>
+<span style="text-decoration: underline;">Babassu oil</span> – a light, fast-absorbing natural oil that helps nourish and soften dry and rough skin. Thanks to its lauric acid content, it supports the skin’s natural defenses and is especially suitable for skin affected by cold and wind. Babassu oil leaves the skin velvety soft and silky smooth and offers softening, moisturizing, and anti-aging benefits.</li>
+<li>
+<span style="text-decoration: underline;">Rosemary extract</span> – helps protect the formula from oxidation, meaning oils and active ingredients stay fresh and effective for longer. It helps maintain product quality throughout the entire period of use and supports a well cared for, balanced-looking skin.</li>
+<li>
+<span style="text-decoration: underline;">Aloe vera</span> – helps the skin retain moisture and relieve dryness, supporting the skin’s natural balance. It soothes the skin and helps keep it soft, fresh, and cared for with daily use."</li>
+</ul>
+<p><span>Suitable for all skin types.</span></p>
+<p><strong>How to use: </strong>For light hydration, apply a small amount of cream to keep the skin soft and balanced. For richer, more nourishing care, use a larger amount and gently massage it into the skin.</p>
+<p><strong>Ingredients:</strong> <span>Aqua, Persea Gratissima (Avocado) Oil*, Coco-Caprylate/Caprate, Simmondsia Chinensis Seed (Jojoba) Oil*, Prunus Armeniaca Kernel (Apricot) Oil*, Theobroma Cacao Seed Butter*, Cetearyl Alcohol, Cetearyl Olivate, Orbignya Oleifera Seed (Babassu) Oil*, Aloe Barbadensis Leaf Juice, Sorbitan Olivate, Glycerin**, Ricinus Communis Seed Oil*, Furcellaria Lumbricalis Extract, Rosmarinus Officinalis Leaf Extract, Astaxanthin, Haematococcus Pluvialis Oil, Tocopherol, Helianthus Annuus Seed Oil, Benzyl Alcohol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid, Citric Acid, Citrus Nobilis Peel (Mandarin) Oil Expressed*, Sodium Benzoate, Potassium Sorbate, Parfum, Limonene, Linalool.</span></p>
+<p>99,29% ingredients of natural origin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10004466499911</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9674688856391</id>
+    <published>2025-01-19T11:27:56+02:00</published>
+    <updated>2025-01-19T11:27:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-sea-buckthorn-vitamin-care-hand-cream-50ml-copy"/>
+    <title>NURME Monoi Tiare Hydrating Hand Cream 50ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-monoi-tiare-hydrating-hand-cream-50ml-199581.webp?v=1739897180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rich in natural vitamins, it is perfect for the skin on your hands, however rough or dry. Enriched with monoi tiare oil, it leaves the skin delicately scented. </p>
+<div>
+<div>
+<strong>How to use: </strong>Massage into hands.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> <span>Aqua, Cocos Nucifera Oil, Glycerin*, Polyglyceryl-3 Methylglucose Distearate*, Glyceryl Stearate*, Gardenia Tahitensis Flower Extract, Cetearyl Alcohol*, Myristyl Myristate*, Panthenol, Xanthan Gum*, Hectorite*, Cellulose*, Sodium Benzoate*, Potassium Sorbate*, Citric Acid.</span>
+</div>
+<div>
+<br><span>* Natural cosmetics approved ingredient</span><br><span>** Occurs naturally in essential oils</span>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674688856391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9674208084295</id>
+    <published>2024-10-04T15:11:31+03:00</published>
+    <updated>2024-10-04T15:11:31+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-restoring-hand-cream-superstar-30ml"/>
+    <title>HOIA Restoring Hand Cream Superstar 30ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-restoring-hand-cream-superstar-30ml-398262.png?v=1739897239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            11.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Fast absorbing hand cream is extremely rich in organic butters, phytosterols, plant-based vitamins, algae extracts, aloe and powerful skin-protecting and restoring superstar ingredient Ectoin. Hand cream effectively balances skin moisture balance, rejuvenates, hydrates and restores skin, helps to maintain a healthy and beautiful skin.</span></p>
+<p><strong>How to use:</strong> <span>Apply on hands when needed.</span></p>
+<p><strong>Ingredients:</strong> <span>*Achillea Millefolium Distillate, Cocos Nucifera oil, Crambe Abyssinica Seed Oil Phytosterol, *Butoryspermum Parkii butter, Sargassum Fluitans/Natans Extract, Glycerin, Ectoin, Niacinamid, Saccharide Isomerate, Citrus, Reticulata Peel oil, Tocopherol, Furcellaria Lumbricalis extract, Inulin, Fructose, Sodium Hyaluronate, Hibiscus Sabdariffa Flower extract, Chodrus Crispus Extract, Aloe Barbadensis extract, Magnolia Officinalis Bark extract, Glyceryl Caprylate, Pentylene Glycol, Gardenia Tahitensis Flower extract, Haematococcus Pluvialis extract, Sodium Levulinate, Sodium Anisate, Sodium Citrate, **Limonene, *Linalool. </span></p>
+<p><span>*Organic. **Natural components of essential oil.</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674208084295</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.13</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9041734271303</id>
+    <published>2024-02-16T10:44:32+02:00</published>
+    <updated>2024-02-16T10:44:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/copy-of-organic-hand-wash-250ml"/>
+    <title>Vielö Organic Hand Balm 50ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hand-balm-50ml-856976.jpg?v=1739897346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1">Nourishing organic hand balm, specially designed to moisturise and soften dry and sensitive hands.</span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1">Created with organic whey (nourishing), wheat germ oil (protecting), hyaluronic acid (hydrating), organic extracts of calendula (regenerating), lavender (soothing) and sage (strengthening).</span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1">Suitable for all skin types.</span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><strong>How to use: </strong>Shake well before use. Dispense into hands. Massage gently. </p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><strong>Ingredients: </strong>Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate /Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Polyglyceryl-4 Caprate*, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span>* from natural origin (99,8%)</span><br><span>** certified organic (88,9%)</span><br><span>*** from natural essential oil</span></p>
+<div class="product__description rte quick-add-hidden">
+<p>Handmade in Austria</p>
+<p>Inspired by circular economy, Vielö refines a high-quality by-product of cheese production, liquid organic whey, and uses it to create certified organic and sustainable skin and body care products. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9041734271303</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

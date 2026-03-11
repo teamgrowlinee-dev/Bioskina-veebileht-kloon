@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/luuv.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-26T13:59:30+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/10303963201863</id>
+    <published>2025-08-26T13:59:30+03:00</published>
+    <updated>2025-08-26T13:59:30+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-deodorant-fresh-breeze-50ml"/>
+    <title>LUUV Deodorant Fresh Breeze 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-fresh-breeze-50ml-6627868.png?v=1756222791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Fresh deodorant with natural deodorizing agents prevents the formation of body odor and keeps you fresh and dry all day long!</p>
+<p>Deodorant allows the skin to breathe freely, does not disrupt the skin’s natural functioning, and does not clog pores. Rice starch in the deodorant absorbs sweat, while antibacterial sage extract combats odor-causing bacteria. Moisturizing and soothing aloe vera nourishes delicate underarm skin. The deodorant dries quickly and leaves no stains on your favorite clothes. The blend of green tea and lemon essential oils refreshes and invigorates both body and mind.</p>
+<p>Our deodorant is free from aluminum, alcohol, and baking soda, and is 100% vegan!</p>
+<ul>
+<li>24h protection</li>
+<li>Fresh “green” scent</li>
+<li>Non-irritating</li>
+<li>Non-comedogenic</li>
+<li>Moisturizes and soothes</li>
+<li>Preserves skin’s natural function</li>
+<li>Free from soda, alcohol, and aluminum</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Apply to clean underarms. Use daily.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Dunaliella Salina Extract, Helianthus Annuus Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Nobilis (Mandarin) Peel Oil, Citrus Aurantium (Orange) Peel Oil, Xanthan Gum, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Mica, Titanium Dioxide (CI 77891), Raphanus Sativus (Radish) Root Extract, Citric Acid, Maltodextrin, Parfum, Citral, Limonene, Linalool</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303963201863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303944720711</id>
+    <published>2025-08-26T13:59:30+03:00</published>
+    <updated>2025-08-26T13:59:30+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-deodorant-lemongrass-green-50ml"/>
+    <title>LUUV Deodorant Lemongrass Green 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-lemongrass-green-50ml-1178078.png?v=1756222794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Unisex deodorant with natural deodorizing agents prevents the formation of body odor and keeps you fresh and dry all day long!</p>
+<p>The unisex deodorant allows the skin to function naturally and does not clog pores. Rice starch in the deodorant absorbs sweat, sage extract combats odor-causing bacteria, and aloe moisturizes and soothes delicate underarm skin. The deodorant dries quickly and does not leave stains on clothes. The fresh blend of essential oils is suitable for both men and women.</p>
+<p>The Unisex deodorant is certified with the globally recognized ECOCERT/COSMOS certification, so you can be sure you’re using a product that’s not only good for you but also for our planet. Additionally, it is aluminum-free, alcohol-free, and soda-free, and 100% vegan!</p>
+<ul>
+<li>24h protection </li>
+<li>Fresh scent that is suitable for both men and women </li>
+<li>Non-irritating </li>
+<li>Non-comedogenic</li>
+<li>Moisturizes and soothes</li>
+<li>Preserves skin’s natural function</li>
+<li>Free from soda, alcohol, and aluminum<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | paraben free | vegan | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Apply to clean underarms. Use daily.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate, Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate, Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Citrus Limon Peel (Lemon) Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Citrus Aurantium Bergamia Fruit (Bergamot) Oil, Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Limonene, Citral, Linalool, Geraniol</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303944720711</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303907070279</id>
+    <published>2025-08-26T13:59:29+03:00</published>
+    <updated>2025-08-26T13:59:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-deodorant-soothing-comfort-50ml"/>
+    <title>LUUV Deodorant Soothing Comfort 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-soothing-comfort-50ml-7238915.png?v=1756222794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV Soothing deodorant with natural deodorizing agents prevents the formation of body odor and absorbs excess sweat. With 24 hours of proven protection, you can feel fresh and energized all day long!</p>
+<p>Deodorant does not disrupt the skin’s natural functioning and does not clog pores. Rice starch in the deodorant absorbs sweat, while sage extract has antibacterial properties. Additionally, it contains moisturizing aloe vera, which nourishes and soothes the skin under the arms – an ideal choice for sensitive skin! The deodorant dries quickly and does not leave stains on clothes. The organic and enchanting floral scent refreshes both body and mind.</p>
+<p>Soothing deodorant is free from aluminum, alcohol, and baking soda, and is 100% vegan!</p>
+<ul>
+<li>24h protection</li>
+<li>Pleasent mild floral scent</li>
+<li>Non-irritating</li>
+<li>Non-comedogenic</li>
+<li>Moisturizes and soothes</li>
+<li>Preserves skin’s natural function</li>
+<li>Free from soda, alcohol and aluminum</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Apply to clean underarms. Use daily.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate, Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate,Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Cymbopogon Martini (Palmarosa) oil, Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Parfum, Geraniol, Linalool, Limonene, Citral</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303907070279</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303884919111</id>
+    <published>2025-08-26T13:59:29+03:00</published>
+    <updated>2025-08-26T13:59:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-deodorant-citrus-bliss-50ml"/>
+    <title>LUUV Deodorant Citrus Bliss 50ml</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deodorant-citrus-bliss-50ml-1045610.png?v=1756222797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Citrus natural deodorant with deodorizing agents that ensure you feel fresh, cheerful, and energized all day long. With 24-hour proven protection against unpleasant odors.</p>
+<p>The deodorant allows the skin to breathe freely and does not interfere with its natural functions or clog pores. LUUV's secret weapons are sweat-absorbing rice starch and antibacterial sage extract. Additionally, the deodorant contains moisturizing and soothing aloe vera, gently nurturing underarm skin. The harmonious blend of citrus essential oils creates a delightful scent bouquet.</p>
+<p>Dries quickly and leaves no stains on clothes. And best of all, the deodorant is free from aluminum, alcohol, and baking soda, and is 100% vegan!</p>
+<ul>
+<li>24h protection</li>
+<li>Energizing citrus scent</li>
+<li>Non-irritating</li>
+<li>Non-comedogenic</li>
+<li>Moisturizes and soothes</li>
+<li>Preserves skin’s natural function</li>
+<li>Free from soda, alcohol, and aluminum</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Apply to clean underarms. Use daily.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Zinc Ricinoleate, Tetrasodium Glutamate Diacetate,Oryza Sativa (Rice) Starch, Propanediol, Aloe Barbadensis Leaf Juice, Triethyl Citrate, Polyglyceryl-3-Caprylate, Salvia Officinalis Leaf Extract, Citric acid, Citrus Aurantium Dulcis Oil (Orange oil), Glyceryl Caprylate, Benzoic Acid, Xanthan Gum, Parfum, Limonene, Linalool, Citral, Benzyl Salicylate, Hydroxycitronellal, Hexyl Cinnamal, Geraniol</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>deodorant</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303884919111</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303870730567</id>
+    <published>2025-08-26T12:28:58+03:00</published>
+    <updated>2025-08-26T12:28:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-conditioner-for-kids-200ml"/>
+    <title>LUUV Natural Conditioner For Kids 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-conditioner-for-kids-200ml-2844222.jpg?v=1756222791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This enchanting conditioner deeply moisturizes, nourishes, and protects the hair, leaving it irresistibly shiny. LUUV children’s hair conditioner is certified with the prestigious ECOCERT/COSMOS eco-certificate.</p>
+<p>Say goodbye to tangles and hello to effortlessly smooth and manageable hair! Conditioner strengthens hair from roots to ends, making it easy to comb and wonderfully lightweight. Infused with natural oils and betaine, it deeply moisturizes and enhances the overall health and beauty of the hair. And let’s not forget about that enchanting vanilla aroma! It’s derived from natural sources and is completely allergen-free. If your little one dreams of becoming the next Rapunzel with long, flowing locks, LUUV natural conditioner for kids is the perfect choice!</p>
+<ul>
+<li>Natural and allergen-free</li>
+<li>Sweet vanilla scent</li>
+<li>Does not irritate skin</li>
+<li>ECOCERT/COSMOS certified</li>
+<li>Natural origin 98,72%</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;">  Use the conditioner after shampoo and apply from the ends only. Let it sit and rinse! You can use the conditioner after every wash.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Cetyl Alcohol, Betaine, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303870730567</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012201189703</id>
+    <published>2025-03-01T13:40:32+02:00</published>
+    <updated>2025-03-01T13:40:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-volumizing-shampoo-250ml"/>
+    <title>LUUV Natural Volumizing Seabuckthorn Shampoo 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-volumizing-seabuckthorn-shampoo-250ml-549035.png?v=1740891413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Natural shampoo enriched with sea buckthorn oil is natural and gentle, which gives hair fluffiness and shine. Sea buckthorn oil strengthens the hair, provides the necessary nutrients to the hair and scalp, and helps prevent split ends. Wheat protein strengthens hair, stimulates hair growth and increases hair fluffiness and elasticity. Essential oils contribute to the normal functioning of the sebum secretion of the scalp and give a feeling of freshness.</span></p>
+<ul>
+<li>suitable for all hair types, including oily hair</li>
+<li>provides natural volume</li>
+<li>with cleansing effect</li>
+<li>gives hair fluffiness and shine</li>
+<li>moisturizes and strengthens the hair</li>
+<li>with a citrus scent</li>
+<li>seabuckthorn oil to nourish the hair</li>
+<li>made with natural cleansers</li>
+<li>gentle on the scalp</li>
+<li>98,58% natural ingredients</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shampoo thoroughly on wet hair. Massage into a lather. Rinse. Repeat the procedure, if necessary.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Vegetable Oil, Panthenol, Cetyl Alcohol, PCA Glyceryl Oleate, Ricinus Communis Seed (Castor) Oil, Glycerin, Hippophae Rhamnoides (Sea Buckthorn) oil, Hydrolyzed Wheat Protein, Glyceryl Stearate, Citric Acid, Tocopherol (E-vitamin), Sodium Benzoate, Potassium Sorbate, Parfum, Linalool</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012201189703</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012253454663</id>
+    <published>2025-03-01T13:40:25+02:00</published>
+    <updated>2025-03-01T13:40:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-softening-honey-shampoo-250ml"/>
+    <title>LUUV Natural Softening Honey Shampoo 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-softening-honey-shampoo-250ml-212888.png?v=1740891413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Natural honey shampoo makes the hair soft and easy to comb, nourishing the hair from roots to ends. Organic honey extract makes the hair silky and protects from environmental effects. Organic barley extract stimulates hair growth and gives shine. Wheat protein strengthens the hair and increases elasticity. Also suitable for colored hair.</span></p>
+<ul>
+<li>suitable for all hair types, including dyed hair</li>
+<li>strengthens hair from root to tip</li>
+<li>with a softening and protective effect</li>
+<li>gives hair softness</li>
+<li>improves hair structure </li>
+<li>with a honey-sweet smell<br>
+</li>
+<li>gentle on the scalp</li>
+<li>made with mild, plant-based cleansers</li>
+<li>with natural bee glue extract</li>
+<li>99,22% natural ingredients</li>
+</ul>
+<p><span>natural | cruelty free | sustainable</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shampoo thoroughly on wet hair. Massage into a lather. Rinse. Repeat the procedure, if necessary.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Betaine, Citric Acid, Hydrolyzed Wheat Protein, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Panthenol, Hordeum Vulgare (Barlay) Extract, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Glycerin, Sodium Benzoate, Potassium Sorbate, Parfum</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012253454663</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012259385671</id>
+    <published>2025-03-01T13:40:19+02:00</published>
+    <updated>2025-03-01T13:40:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-caring-shampoo-250ml"/>
+    <title>LUUV Natural Caring Shampoo with Plum Oil 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-caring-shampoo-with-plum-oil-250ml-277927.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>LUUV natural shampoo with plum oil is suitable for everyday use for all hair types. Cold-pressed plum kernel oil moisturizes both the scalp and hair and protects hair from heat treatment. Natural betaine and aloe keep hair moisturized. Natural gentle plum shampoo makes hair well combed, silky and elastic. Suitable for both coloured and natural hair.</span></p>
+<ul>
+<li>suitable for all hair types, including dyed hair and curly hair</li>
+<li>with caring and softening effect</li>
+<li>moisturizes and protects your hair</li>
+<li>protects hair from heat treatment</li>
+<li>mild, plant-based cleansers</li>
+<li>gentle on the scalp</li>
+<li>gentle enough for everyday use</li>
+<li>with organic plum oil for a silky finish</li>
+<li>99,18% natural ingredients</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shampoo thoroughly on wet hair. Massage into a lather. Rinse. Repeat the procedure, if necessary.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate (and) Lauryl Glucoside, Oryza Sativa (Rice) Starch, Cocamidoprpyl Betaine, Glycerin, Betaine, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate (and) Potassium Sorbate, Coco-Glucoside (and) Glyceryl Oleate, Cymbopogon Martini (Palmarosa) oil, Citric Acid, Parfum</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012259385671</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012314435911</id>
+    <published>2025-03-01T13:40:08+02:00</published>
+    <updated>2025-03-01T13:40:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-kids-shower-foam-150ml"/>
+    <title>LUUV Natural Kids Shower Foam 150ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shower-foam-150ml-609563.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is LUUV kids shower foam – the ultimate bath-time companion that brings joy, playfulness, and eco-consciousness to your little one’s daily routine! Certified with the leading ECOCERT / COSMOS eco-certificate, this delightful foam will make showering an adventure filled with laughter and fun.</p>
+<p>We understand that your child’s delicate skin deserves only the best, which is why this shower foam is crafted from carefully selected detergents that are gentle and won’t irritate your child’s precious skin. The sweet and juicy pear aroma is completely derived from natural sources, ensuring a captivating scent without any allergens. As for the vibrant pinkish purple color, a surprising secret ingredient is used – potato extract! That’s right, this eco-certified formula uses this natural wonder to create a mesmerizing hue that will captivate your child’s imagination. It’s like a burst of colorful magic in every pump!</p>
+<ul>
+<li>Natural and allergen-free</li>
+<li>Fresh pear scent</li>
+<li>Does not irritate or dry skin<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shower gel on damp skin with light circular movements, rinse and dry.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocamidopropyl Betaine, Glycerin, Coco-Glucoside, Ipomoea Batatas (Potato) Root Extract, Cetyl Alcohol, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma, Acacia Senegal Gum, Maltodextrin</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012314435911</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013911187783</id>
+    <published>2025-03-01T13:40:01+02:00</published>
+    <updated>2025-03-01T13:40:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-kids-shampoo-250ml"/>
+    <title>LUUV Natural Kids Shampoo 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shampoo-250ml-163262.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV natural kids shampoo  – where fun meets healthy hair! This shampoo takes your child’s hair care to new heights with its completely natural, tear-free formula. Designed for little adventurers, it leaves hair strong, shiny, and gently detangles even the most resistant knots. With ECOCERT/COSMOS eco-certificate, you can trust that LUUV kids shampoo is not only gentle on your little one’s hair but also on the environment.</p>
+<p>Carefully selected herbal detergents are perfect for your child’s delicate scalp, ensuring a nurturing and soothing wash. Shampoo is also infused with the goodness of moisturizing aloe and plant betaine – not only does it make their hair easy to comb, but it also strengthens it from root to tip, leaving it looking healthy, vibrant, and ready for any adventure that comes their way. The sweet and juicy pear aroma is naturally derived and allergen-free. LUUV natural kids shampoo is not only natural but also vegan, making it a choice you can feel great about. Experience hair that’s as soft as a mother’s caress and join the fun today!</p>
+<ul>
+<li>Natural and allergen-free</li>
+<li>Tear-free formula</li>
+<li>Fresh pear scent</li>
+<li>Does not irritate skin</li>
+<li>ECOCERT/COSMOS certified</li>
+<li>Natural origin 98,4%</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shampoo thoroughly on wet hair. Massage into a lather. Rinse. Repeat the procedure, if necessary.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Oryza Sativa (Rice) Starch, Aloe Barbadensis Leaf Juice, Betaine, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Glyceryl Oleate, Hydrolyzed Wheat Protein, Sodium Benzoate, Potassium Sorbate, Aroma</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013911187783</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013922165063</id>
+    <published>2025-03-01T13:39:52+02:00</published>
+    <updated>2025-03-01T13:39:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-kids-bubble-bath-200ml"/>
+    <title>LUUV Natural Kids Bubble Bath 200ml</title>
+    <s:type>Bath Foam</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-bubble-bath-200ml-677435.png?v=1740891419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Bath Foam<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Transform your child’s bath time into a delightful adventure with LUUV pear bath foam for kids! This incredible bath foam is not only certified with the prestigious ECOCERT / COSMOS eco-certificate, but it also adds a touch of magic and excitement to every bathing experience. The rich and velvety soft foam, derived from carefully selected herbal detergents, caresses your little one’s delicate skin without causing any irritation or dryness. And the delicious pear aroma? It’s all-natural, creating a truly mouth-watering bathing experience.</span></p>
+<ul>
+<li>Natural and allergen-free</li>
+<li>Fresh pear scent</li>
+<li>Does not irritate or dry skin</li>
+<li>ECOCERT/COSMOS certified<br>
+</li>
+<li>Natural origin 98,72%</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Just add this magical foam to warm running water, and let the enchanting bath time adventure begin!</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Aroma, Glyceryl Oleate, Sodium Benzoate, Potassium Sorbate, Citric Acid</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>vann</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013922165063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013928227143</id>
+    <published>2025-03-01T13:39:40+02:00</published>
+    <updated>2025-03-01T13:39:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-kids-detangling-spray-100ml"/>
+    <title>LUUV Natural Kids Detangling Spray 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-detangling-spray-100ml-412749.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Certified with the globally recognized ECOCERT/COSMOS certification, this spray is a game-changer for your little one’s hair care routine. It’s time to say goodbye to stubborn tangles and hello to hassle-free styling!</p>
+<p>LUUV Detangle spray is specially formulated to tame even the most stubborn knots, leaving your little one’s hair silky smooth, strong, and oh-so-shiny! And let’s not forget the delightful scent! Detangling spray comes with a mouthwatering juicy pear scent that kids absolutely adore. Plus, you can rest easy knowing that the scent is naturally derived and free from any allergens. Your little one’s hair is in good hands. And now that your little one’s hair is tangle-free, it’s time to explore a whole new world of hairstyles! From cute pigtails to stylish braids, this spray opens up endless possibilities for your child’s hair adventures.</p>
+<ul>
+<li>Natural and allergen-free</li>
+<li>Fresh pear scent</li>
+<li>Does not irritate skin</li>
+<li>ECOCERT/COSMOS certified</li>
+<li>Natural origin 99,76%</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Shake the bottle before use. Spray the conditioner on the hair, let it work for a few moments and comb through the hair. Can be used both on wet hair after washing and on dry hair daily.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Olus Oil, Propanediol, Betaine, Coconut Alkanes, Sodium Benzoate, Potassium Sorbate, Citric Acid, Aroma</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013928227143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013974069575</id>
+    <published>2025-03-01T13:39:26+02:00</published>
+    <updated>2025-03-01T13:39:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-caring-conditioner-with-plum-oil-200ml"/>
+    <title>LUUV Natural Caring Conditioner With Plum Oil 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-caring-conditioner-with-plum-oil-200ml-901624.png?v=1740891410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Maintained hair every day! Natural conditioner enriched with plum oil is perfect for daily use on all hair types. Cold-pressed plum oil moisturizes hair, restores hair ends and protects against heat treatment. The mixture of natural oils, proteins and active substances provides everything necessary for hair to be strong and shiny. Also suitable for colored hair.</span></p>
+<ul>
+<li id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwiX3-GDwdqGAxV6PhAIHYrmHigQ3ewLegQIBRAU"><span class="Y2IQFc" lang="en">suitable for all hair types, including dyed hair</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwiX3-GDwdqGAxV6PhAIHYrmHigQ3ewLegQIBRAU"><span class="Y2IQFc" lang="en">caring and softening effect</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwiX3-GDwdqGAxV6PhAIHYrmHigQ3ewLegQIBRAU"><span class="Y2IQFc" lang="en">moisturizes and protects hair</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwiX3-GDwdqGAxV6PhAIHYrmHigQ3ewLegQIBRAU">
+<span class="Y2IQFc" lang="en">protects hair from heat treatment</span><br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | paraben free</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the conditioner on your hair after shampooing, starting from the tips. Leave in for 2–3 minutes, then rinse with plenty of water.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Distearoylethyl Dimonium Chloride, Cetearyl Alcohol, Glycerin, Cetyl alcohol, Aloe Barbadensis Leaf Juice, Betaine, PCA Glyceryl Oleate, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Potassium Sorbate, Citric Acid, Cymbopogon Martini (Palmarosa) oil, Parfum, Geraniol</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013974069575</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013938385223</id>
+    <published>2025-03-01T13:39:12+02:00</published>
+    <updated>2025-03-01T13:39:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-volumizing-seabuckthorn-conditioner-200ml"/>
+    <title>LUUV Natural Volumizing Seabuckthorn Conditioner 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-volumizing-seabuckthorn-conditioner-200ml-722591.png?v=1740891411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Natural sea buckthorn conditioner is suitable for normal/oily hair, it gives the hair softness, volume and shine. Sea buckthorn and castor oils strengthen the hair, help to prevent hair splitting and stimulate hair growth. Wheat protein makes the hair stronger and increases volume and elasticity. Provitamin B5 makes the hair easy to comb and protects from heat treatment. </span></p>
+<ul>
+<li>suitable for all hair types, including oily hair</li>
+<li>gives hair fluffiness and shine</li>
+<li>moisturizes and strengthens the hair</li>
+<li>with a citrus scent<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan </span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the conditioner on your hair after shampooing, starting from the tips. Leave in for 2–3 minutes, then rinse with plenty of water.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Betaine, Citric Acid, Xanthan Gum, Hippophae Rhamnoides (Sea Buckthorn) oil, Hydrolyzed Wheat Protein, PCA Glyceryl Oleate, Citrus Reticulata (Mandarin oil), Citrus Aurantium Dulcis (Orange) Oil, Sodium Benzoate, Potassium Sorbate, Parfum, Limonene</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013938385223</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013980164423</id>
+    <published>2025-03-01T13:39:04+02:00</published>
+    <updated>2025-03-01T13:39:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-softening-protecting-honey-conditioner-200ml"/>
+    <title>LUUV Natural Softening &amp; Protecting Honey Conditioner 200ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-softening-protecting-honey-conditioner-200ml-904989.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Natural honey conditioner makes the hair soft and easy to comb, restoring damaged hair ends. Organic honey extract makes the hair silky and protects from environmental effects. Organic barley extract stimulates hair growth and gives shine. Wheat protein strengthens the hair and increases elasticity. Also suitable for colored hair.</span><br></p>
+<ul>
+<li>suitable for all hair types, including dyed hair</li>
+<li>with a softening and protective effect</li>
+<li>gives hair softness</li>
+<li>improves hair structure and strengthens hair</li>
+<li>with a honey-sweet smell<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable </span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the conditioner on your hair after shampooing, starting from the tips. Leave in for 2–3 minutes, then rinse with plenty of water.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Distearoylethyl Dimonium Chloride, Cetearyl Alcohol, Glycerin, Cocos Nucifera, Cetyl alcohol, Aloe Barbadensis Leaf juice, Betaine, Ricinus Communis Seed (Castor) Oil, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Hydrolyzed Wheat Protein, Hordeum Vulgare (Barlay sprouts) Extract, Hippophae Rhamnoides (Sea Buckthorn) oil, PCA Glyceryl Oleate, Panthenol, Guar Hydroxypropyltrimonium Chloride, Coco-Glucoside, Glyceryl Oleate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum  </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013980164423</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012262302023</id>
+    <published>2025-02-25T14:40:49+02:00</published>
+    <updated>2025-02-25T14:40:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-energizing-shower-gel-250ml"/>
+    <title>LUUV Natural Energizing Carrot Shower Gel 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-energizing-carrot-shower-gel-250ml-522072.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imagine stepping into your shower and being greeted by a burst of citrusy goodness that awakens your senses and puts a smile on your face every morning. That’s exactly what this shower gel delivers with its pleasant citrus scent that’s bound to become your new favorite. But it’s more than just a fragrant delight. This shower gel is formulated to effectively remove dirt and grime, leaving your skin squeaky clean and revitalized. It also deeply moisturizes your skin, ensuring that you step out of the shower feeling as soft and smooth as a carrot straight from the garden.</p>
+<p>The key ingredient is pure carrot oil, a rich source of essential vitamins that work wonders for your skin. It enhances skin elasticity, helping you maintain that youthful glow you’ve always wanted. Make it an essential part of your well-scented bathroom routine, and let the rejuvenating power of carrots and citrus awaken your senses and delight you every single day. Showering has never been this enjoyable!</p>
+<ul>
+<li><span>Moisturizing</span></li>
+<li aria-level="1"><span>Improves skin elasticity</span></li>
+<li aria-level="1"><span>Refreshing citrus scent</span></li>
+<li aria-level="1">
+<span>For all skin types</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Coco-Glucoside</span><span> </span>is a detergent, 100% natural (derived from coconut), environmentally friendly and certified. The detergent is gentle – also suitable for sensitive skin and children.</li>
+<li>
+<span style="text-decoration: underline;">Carrot oil</span> (specifically carrot seed oil) contains a lot of carotene, which gives a complexion-enhancing effect. Carrot oil is always in a carrier oil (i.e., diluted) because it is too intense on its own. It contains a lot of vitamin A. The natural SPF of carrot oil is around 40, but since it is diluted, it ends up around SPF 10.</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shower gel on damp skin with light circular movements, rinse and dry.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate (and) Lauryl Glucoside, Oryza Sativa (Rice) Starch, Cocamidoprpyl Betaine, Glycerin, Betaine, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate (and) Potassium Sorbate, Coco-Glucoside (and) Glyceryl Oleate, Cymbopogon Martini (Palmarosa) oil, Citric Acid, Parfum</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012262302023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012265840967</id>
+    <published>2025-02-25T14:04:54+02:00</published>
+    <updated>2025-02-25T14:04:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-exfoliating-shower-gel-250ml"/>
+    <title>LUUV Natural Exfoliating Shower Gel 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-exfoliating-shower-gel-250ml-332480.png?v=1740725717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural Exfoliating Shower Gel – the ultimate way to rejuvenate your skin and start your day with a refreshing burst of energy. This invigorating shower gel offers a dual-action formula that gently exfoliates and cleanses, leaving your skin irresistibly fresh and radiant.</p>
+<p>Designed with your skin’s well-being in mind, our formula ensures a gentle exfoliation that sweeps away dead skin cells without causing any micro damage. Feel confident knowing that bamboo particles are not only kind to your skin but also eco-friendly, embracing the values of both beauty and sustainability. As the bamboo particles delicately scrub away impurities, they also awaken your skin’s natural renewal process, fostering improved elasticity and texture. Experience the joy of skin that feels irresistibly soft and smooth to the touch, every single day. The light and fresh scent of green tea not only invigorates your senses but also sets the stage for a perfect start to your day.</p>
+<p>This exfoliating shower gel isn’t just a treat for the ladies – it’s versatile design caters to the dynamic lifestyles of both genders, making it an ideal addition to any daily routine. Welcome each day with skin that’s fresh, vibrant, and ready to take on the world.</p>
+<ul>
+<li><span>Gentle, but effective</span></li>
+<li aria-level="1">
+<span>Doesn</span><span>‘</span><span>t dry skin</span>
+</li>
+<li aria-level="1"><span>For daily use</span></li>
+<li aria-level="1"><span>Fresh green tea scent</span></li>
+<li aria-level="1">
+<span>Safe for the environment</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li><span><span style="text-decoration: underline;">Coco-Glucoside</span> is a detergent, 100% natural (derived from coconut), environmentally friendly and certified. The detergent is gentle – also suitable for sensitive skin and children.</span></li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply the shower gel on damp skin with light circular movements, rinse and dry.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Coco-Glucoside, Bambusa Vulgaris powder, Vegetable Glycerin, Citric Acid, Xanthan Gum, Sodium Benzoate, Potassium Sorbate, Parfum</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012265840967</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012280652103</id>
+    <published>2025-02-25T14:04:45+02:00</published>
+    <updated>2025-02-25T14:04:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-deep-moisture-soft-plum-body-cream-200ml"/>
+    <title>LUUV Deep Moisture Soft Plum Body Cream 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-deep-moisture-soft-plum-body-cream-200ml-412185.png?v=1740560030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say hello to plum perfection – introducing delightful LUUV Natural Deeply Moisturizing Body Cream with Plum Oil! Infused with the nourishing goodness of plum oil and coconut oil, this cream brings balance and harmony to your skin’s moisture levels while warding off any external foes that dare to challenge your skin’s health! Let’s talk about the star ingredient: cold-pressed plum seed oil. Bursting with vitamins A, C, and E, it’s a powerhouse of nourishment for your skin. This oil is also packed with omega fatty acids that restore and replenish skin, leaving it feeling oh-so-soft and supple. And let’s not forget the delightful touch of cranberry extract, a powerful antioxidant that fights the signs of aging, giving your skin a youthful and radiant appearance.</p>
+<p>With its foamy texture and fast absorption, this cream ensures that your skin feels pampered without any greasy residue or clogged pores. It’s a perfect match even for those with sensitive skin, providing gentle care and nourishment. So, let the enchanting aroma of plums dance around you as you embrace the joy of smooth, nourished, and glowing skin!</p>
+<ul>
+<li>Light foamy texture</li>
+<li>Deeply moisturizing</li>
+<li>Quickly absorbing</li>
+<li>Suitable for sensitive skin</li>
+<li>Mild plum scent<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Suitable for everyday use. Apply cream to clean skin and rub in circular motions until absorbed.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocos nucifera oil, Mangifera indica seed (Mango) butter, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydrolyzed wheat protein, Prunus domestica (Plum) seed oil, Cetyl alcohol, Vaccinium Macrocarpon fruit (Cranberry) extract, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Xanthan gum, Parfum, Mica, Titanium dioxide, CI 77491</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012280652103</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012274393415</id>
+    <published>2025-02-25T14:04:32+02:00</published>
+    <updated>2025-02-25T14:04:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-nourishing-and-protecting-honey-cream-200ml"/>
+    <title>LUUV Nourishing and Protecting Honey Cream 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-nourishing-and-protecting-honey-cream-200ml-311638.png?v=1740560031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            15.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This little jar of joy is here to transform your skincare routine into a blissful and nourishing experience. Imagine a velvety smooth cream that not only pampers your skin but also creates a natural shield against whatever life throws at it. With the power of beeswax, this cream becomes your skin’s ultimate superhero, protecting it from harsh water and challenging climates. No need to worry about dryness either, as it is also packed with the goodness of nourishing shea butter. And it’s not just about the benefits – the sweet aroma of honey is pure bliss for your body and senses.</p>
+<p>With consistent use, watch as your skin transforms into a softer, smoother, and more resilient version of itself. It’s like unlocking the secret to youthful, radiant skin – you’ll be glowing with confidence! Tailored specifically for dry, very dry, and mature skin, this cream is here to turn your skincare routine into a joyful self-care ritual. It’s the perfect companion for those seeking an extra boost of hydration and love.</p>
+<p>To top it all off, it carries the globally recognized ECOCERT / COSMOS certification. Feel confident knowing that you’re treating your skin to the finest, most natural ingredients out there. Your skin deserves this blissful treat, and you deserve to feel radiant and revitalized.</p>
+<ul>
+<li>Silky and foamy texture</li>
+<li>Deeply moisturizing</li>
+<li>For dry and mature skin</li>
+<li>Sweet honey aroma<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Suitable for everyday use. Apply cream to clean skin and rub in circular motions until absorbed.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocos Nucifera Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate SE, Cera Alba (Beeswax), Glycerin, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Hippophae Rhamnoides Fruit Oil, Glyceryl Caprylate, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Tocopherol, Triethyl Citrate, Benzoic Acid, Aroma, Citral, D-limonene, Linalool</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012274393415</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.60</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10012297560391</id>
+    <published>2025-02-25T14:04:21+02:00</published>
+    <updated>2025-02-25T14:04:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-deep-moisture-soft-plum-body-cream-200ml-copy"/>
+    <title>LUUV Energizing vitamin body cream 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-energizing-vitamin-body-cream-200ml-663135.png?v=1740560032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enriched with the goodness of sea buckthorn, this body cream works wonders in softening and revitalizing your skin. Suitable for all skin types, it’s a true game-changer in your skincare routine. Indulge in the luxurious touch of mango butter as it effortlessly nourishes and hydrates, leaving your skin irresistibly silky and smooth.</p>
+<p>Brace yourself for the true vitamin explosion from the sea buckthorn oil, packed with vitamins A and C. These powerful antioxidants work their magic, giving your skin the ultimate boost it deserves. At the same time, carrot oil restores vitality and radiance, giving your complexion a natural glow that’s simply breathtaking. Whether you have dry or oily skin, our body cream works wonders in balancing it out, all while keeping your pores clear and free. But the true magic happens when you look in the mirror – a beautiful, glowing complexion that radiates with vitality and health.</p>
+<ul>
+<li>Light foamy texture</li>
+<li>Softens and nourishes</li>
+<li>For all skin types</li>
+<li>Fresh citrus aroma<br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Suitable for everyday use. Apply cream to clean skin and rub in circular motions until absorbed.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocos Nucifera, Mangifera Indica seed (Mango) butter, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydrolyzed Wheat Protein, Cetyl Alcohol, Dunaliella Salina (Carrot) Extract, Helianthus Annuus Seed Oil, Hippophae Rhamnoides (Sea buckthorn) oil, Citrus Nobilis (Mandarin oil), Citrus Aurantium (Orange oil), Triethylcitrate, Glyceryl Caprylate, Xanthan Gum, Benzoic Acid, Parfum, Limonene, Citral, Linalool</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10012297560391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10013986750791</id>
+    <published>2025-02-25T13:45:53+02:00</published>
+    <updated>2025-02-25T13:45:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-natural-seabuckthorn-body-scrub-200ml"/>
+    <title>LUUV Natural Seabuckthorn Body Scrub 200ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-seabuckthorn-body-scrub-200ml-989413.png?v=1740560026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural Seabuckthorn Body Scrub – your ultimate skincare indulgence for radiant, velvety-soft skin. This body scrub is expertly formulated to provide your skin with the care it truly deserves. Infused with the goodness of sea buckthorn and enriched with exfoliating particles, it offers a multi-dimensional approach to skincare. It gently removes dull, lifeless skin cells, revealing a fresh and luminous complexion. All this without causing any harm to your delicate skin.</p>
+<p>The true beauty lies in moisturizing herbal oils. As you massage the scrub onto your skin, these oils work in harmony to lavish your body with hydration, leaving it irresistibly soft and silky. Zesty essence of orange and mandarin essential oils not only stimulate your skin but also invigorate your mind, transforming your shower routine into an awakening experience that leaves you feeling refreshed and renewed. ECOCERT / COSMOS eco-certificate guarantees that this body scrub is crafted with the utmost respect for nature, ensuring that your beauty regimen is as sustainable as it is effective.</p>
+<p>Embrace the luxury of softness, the thrill of rejuvenation, and the enchantment of an energizing citrus symphony – all within a single jar of LUUV Natural Seabuckthorn Body Scrub.</p>
+<ul>
+<li><span>Gentle, but effective</span></li>
+<li aria-level="1">
+<span>Doesn</span><span>‘</span><span>t dry skin</span>
+</li>
+<li aria-level="1"><span>Refreshing citrus aroma</span></li>
+<li aria-level="1"><span>Safe for the environment</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients:</span></p>
+<ul>
+<li><span><span style="text-decoration: underline;">Seabuckthorn oil</span> is a natural super moisturizer. It contains a high concentration of fatty acids, including omega-3, omega-6, omega-7, and omega-9, which help maintain the skin’s moisture level and prevent moisture loss.<br>The high content of vitamin C in the oil makes the skin radiant and bright, helping to even out the complexion.<br>The antioxidants present in the oil, such as vitamin C, vitamin E, and beta-carotene, protect the skin from free radical damage and promote a youthful appearance.</span></li>
+<li><span><span style="text-decoration: underline;">Carrot oil</span> (specifically carrot seed oil) contains a lot of carotene, which gives a complexion-enhancing effect. Carrot oil is always in a carrier oil (i.e., diluted) because it is too intense on its own. It contains a lot of vitamin A. The natural SPF of carrot oil is around 40, but since it is diluted, it ends up around SPF 10.</span></li>
+<li><span>Exfoliating particles made from<strong> </strong><span style="text-decoration: underline;">rice</span> – no plastic! The particles are not angular or sharp, so they do not damage the skin. At the same time, they are strong enough to provide a good exfoliating effect. </span></li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified | paraben free</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Incorporate it into your routine once a week to maintain beautifully polished skin. Also ideal before applying self-tanning products, ensuring an even and flawless tan that lasts.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Oryza Sativa (Rice) Powder, Glycerin, Dunaliella Salina Extract, Helianthus Annus Seed Oil, Coco-Glucoside, Glyceryl Oleate, Xanthan gum, Hippophae Rhamnoides (Sea Buckthorn) oil, Citrus Aurantium Dulcis (Orange) Oil, Citrus Nobilis Peel (Mandarin) Oil, Citric Acid, Sodium benzoate, Potassium Sorbate, Aroma, Citral, Linalool, Limonene</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10013986750791</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014032789831</id>
+    <published>2025-02-25T13:44:35+02:00</published>
+    <updated>2025-02-25T13:44:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-magnesium-cream-200ml"/>
+    <title>LUUV Magnesium Cream 200ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-magnesium-cream-200ml-418252.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing uplifting and rejuvenating LUUV Magnesium Cream – your gateway to a world of wellness and relaxation.  Certified with the prestigious ECOCERT/COSMOS eco-certificate, this Magnesium Cream is a trusted and sustainable choice for your well-being. With daily use, it becomes your partner in preventing and reducing magnesium deficiency, while providing relief from muscle aches and tensions. Harnessing the power of magnesium chloride, it offers a transdermal method of absorption, allowing your body to benefit from this vital mineral in the fastest and most efficient way. </p>
+<p>This cream is infused with the goodness of coconut oil, a natural emollient that closely resembles your skin’s own lipids. This dynamic duo ensures that even those with dry skin can absorb magnesium effectively, while providing deep hydration and nourishment. Plus, it’s suitable for even the most sensitive skin, ensuring a gentle and soothing experience for all. </p>
+<ul>
+<li>For everyday use</li>
+<li>Prevents/reduces magnesium deficiency</li>
+<li>Relieves muscle pain and tension</li>
+<li>Moisturizing and nourishing</li>
+<li>For the whole family</li>
+<li>Suitable during pregnancy</li>
+<li>ECOCERT/COSMOS</li>
+<li>Beauty Shortlist Awards 2024- Wellbeing Category Gold medal<br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients: </span></p>
+<ul>
+<li id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwi-ruvxp7CGAxVrExAIHSOFDeAQ3ewLegQIBRAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">Magnesium</span><span> </span>helps muscles to relax, muscle spasms are caused by lack of magnesium. Post-workout, transdermal magnesium is best because it’s topical (you apply it to the area that strained the muscles). There are no side effects when taking topical magnesium and the effect is immediate.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwi-ruvxp7CGAxVrExAIHSOFDeAQ3ewLegQIBRAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">Coconut oil</span>/coconut fat is the lightest of solid fats. With good absorption and blends well into the skin, nourishing but not heavy. Is very similar to the lipids in our own skin, so human skin absorbs it well.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwi-ruvxp7CGAxVrExAIHSOFDeAQ3ewLegQIBRAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">Lemon essential oil</span><span> </span>is used to perfume the product, but it also has strong detox properties. Mild enough with a pleasant citrus scent. It is well suited for anti-cellulite products and for boosting the skin. Strengthens the immune system.</span></li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified | paraben free</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Magnesium cream is suitable for use by the whole family and is also safe for pregnant women to use. It wonderfully helps relieve muscle tension after exercise and prevents and reduces magnesium deficiency in the body. In children, it helps relieve discomfort caused by growing pains. The cream contains magnesium chloride, which is best absorbed through the skin and also the fastest way to reduce magnesium deficiency.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Magnesium Chloride , Cocos Nucifera Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate , Glyceryl stearate SE, Citrus Limon Peel (Lemon) Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Mentha Piperita (Peppermint) Oil, Triethyl Citrate, Glyceryl Caprylate, Xanthan gum, Benzoic Acid, Citral, Limonene</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>emad</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>magnesium</s:tag>
+    <s:tag>sport</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014032789831</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014045110599</id>
+    <published>2025-02-25T13:44:12+02:00</published>
+    <updated>2025-02-25T13:44:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-sensitive-intimate-wash-140ml"/>
+    <title>LUUV Sensitive Intimate Wash 140ml</title>
+    <s:type>Intimate Wash</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-sensitive-intimate-wash-140ml-859869.png?v=1740560026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Intimate Wash<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sensitive Intimate Wash – the gentlest way to care for your most delicate areas! LUUV understands the importance of maintaining the fragile pH balance, and that’s why we’ve carefully selected herbal detergents that won’t disrupt it. With a perfectly balanced pH level of 3.5-4.5, you can trust that your intimate area will stay harmonious and healthy. Intimate wash is also completely odorless, so you can feel confident and comfortable all day long. Plus, it’s specially formulated for sensitive skin, so you can finally say goodbye to worries about irritation or redness.</p>
+<p>Sensitive Intimate Wash is certified with the leading ECOCERT/COSMOS eco-certificate. It’s time to indulge in the forbidden fruits of paradise – the secret to feeling fresh, confident, and beautifully balanced. Make the switch today, and rediscover the joy of taking care of yourself.</p>
+<ul>
+<li><span>Odourless</span></li>
+<li aria-level="1"><span>For sensitive skin</span></li>
+<li aria-level="1"><span>With dense silky foam – also suitable for shaving</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients: </span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Coco-Glucoside</span><span> </span>is a detergent, 100% natural (derived from coconut), environmentally friendly and certified. The detergent is gentle – also suitable for sensitive skin and children.</li>
+<li><span class="Y2IQFc" lang="en">100% natural<span> </span><span style="text-decoration: underline;">wheat protein</span><span> </span>soothes skin irritations and has an anti-inflammatory effect.</span></li>
+<li><span class="Y2IQFc" lang="en">The <span style="text-decoration: underline;">glycerin</span> we use is 100% natural and does not contain palm oil. The best feature of glycerin is that it takes moisture from the air and carries it into the skin, being able to carry it quite deeply. With a very strong moisturizing effect, and does not create a heavy/oily feeling.</span></li>
+</ul>
+<p><span>natural | cruelty free | sustainable | vegan | certified | paraben free</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Suitable for intimate parts or for the whole body.</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocamidopropyl Betaine, Oryza Sativa (Rice) Starch, Coco-Glucoside, Glycerin, Glyceryl Oleate, Betaine, Cocos Nucifera, Cetyl alcohol, Hydrolyzed Wheat Protein, Citric Acid, Xanthan gum, Sodium Benzoate, Potassium Sorbate</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>intiimpesu</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014045110599</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014098522439</id>
+    <published>2025-02-25T13:43:34+02:00</published>
+    <updated>2025-02-25T13:43:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-nourishing-honey-hand-cream-70ml"/>
+    <title>LUUV Nourishing Honey Hand Cream 70ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-nourishing-honey-hand-cream-70ml-929616.png?v=1740560027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nourishing Honey Hand Cream – your ticket to velvety-smooth hands that feel as sweet as honey! Why settle for ordinary when you can pamper your hands with a certified ECOCERT / COSMOS eco-certificate product? Honey-infused hand cream is here to rescue your delicate skin and wrap it in nature’s loving embrace. This cream forms a natural shield, guarding your delicate skin from the elements and leaving you feeling confident in any weather – whether it’s battling hard water or braving harsh winds. The secret behind this is beeswax! This natural wonder ingredient not only protects your hands but also brings the sweet scent of honey to your fingertips. This hand cream is also infused with the luxurious goodness of mango butter, ensuring your hands stay perfectly hydrated.</p>
+<p>With continued use, you’ll notice the delightful transformation of your hand’s skin. It becomes irresistibly soft and regains its elasticity, making your hands feel youthful and rejuvenated. Nourishing Honey Hand Cream is not just a quick fix; it’s a long-term partner in keeping your paws looking and feeling their absolute best!</p>
+<ul>
+<li><span>Nourishes and moisturizes</span></li>
+<li aria-level="1"><span>Forms natural protective shield</span></li>
+<li aria-level="1"><span>Rich cream for the cold season</span></li>
+<li aria-level="1"><span>Mild honey scent</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">What makes honey such an effective ingredient in cosmetics?</span></p>
+<ul>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">High sugar content</span> – ​​honey contains glucose and fructose. Sugars have many different roles, one of the most important of which is to nourish cells. When used cosmetically, it has a rejuvenating effect not only on the skin, but also on the hair.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU"><span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">The density and viscosity of honey </span>– it creates a protective barrier for our skin and plays an important role in maintaining moisture in the skin. It also creates a protective layer on wounds that allows healing without contamination.</span></li>
+<li class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tõlge" aria-label="Tõlgitud tekst" data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU">
+<span class="Y2IQFc" lang="en"><span style="text-decoration: underline;">Antibacterial properties</span> – mostly the property of honey is used for medicinal purposes. However, it can also be very useful when using cosmetics. Honey is very useful in solving problems like various skin rashes or scalp infections.</span><br>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | certified</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply on hands when necessary</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocos Nucifera Oil, Mangifera Indica seed (Mango) butter, Persea Gratissima (Avocado) oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glycerin, Cetyl Alcohol, Triethyl Citrate, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Cera Alba (Beeswax), Hippophae Rhamnoides Fruit Oil, Citrus Aurantium Dulcis (Orange) Oil, Xanthan Gum, Aroma, Citral, D-limonene, Linalool</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014098522439</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10014156161351</id>
+    <published>2025-02-25T13:43:01+02:00</published>
+    <updated>2025-02-25T13:43:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/luuv-moisturizing-hand-cream-70ml"/>
+    <title>LUUV Moisturizing Hand Cream 70ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-moisturizing-hand-cream-70ml-635051.png?v=1740560024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moisturizing Hand Cream – your daily dose of hand and nail pampering! Crafted with care and certified with the prestigious ECOCERT/COSMOS eco-certificate, this hand cream is your eco-conscious choice for healthy and happy hands. Its light, yet deeply nourishing formula is designed to make your hands feel their absolute best. Enriched with the goodness of coconut oil, it softens and nurtures your delicate hand skin, while avocado oil provides intense hydration, ensuring your hands stay supple and moisturized all day long.</p>
+<p>This hand cream doesn’t leave you waiting! It absorbs instantly, leaving your hands feeling irresistibly soft and silky, without any greasy residue. Its mild, fresh aroma is the perfect blend of natural fragrances that’ll uplift your mood. Treat your hands to the luxury they deserve and make Moisturizing Hand Cream your daily companion. </p>
+<ul>
+<li><span>Moisturizes</span></li>
+<li aria-level="1"><span>Absorbs quickly</span></li>
+<li aria-level="1"><span>Light cream for daily hand care</span></li>
+<li aria-level="1"><span>Mild fresh aroma</span></li>
+<li aria-level="1">
+<span>ECOCERT/COSMOS certified</span><br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Key ingredients: </span></p>
+<ul>
+<li data-ved="2ahUKEwjjoLOBobCGAxUjFBAIHQFWBLoQ3ewLegQIDxAU" aria-label="Tõlgitud tekst" data-placeholder="Tõlge" dir="ltr" class="tw-data-text tw-text-large tw-ta">
+<span style="text-decoration: underline;">Coconut oil</span><span><span style="text-decoration: underline;">/coconut fat</span> is the lightest of solid fats. With good absorption and blends well into the skin, nourishing but not heavy. Is very similar to the lipids in our own skin, so human skin absorbs it well.</span>
+</li>
+</ul>
+<p><span>natural | cruelty free | sustainable | certified | paraben free | vegan</span></p>
+<p><span>The product is made in Estonia</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Apply on hands when necessary</span></span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> <span>Aqua, Cocos nucifera oil, Olus Oil, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Glycerin, Persea Gratissima oil, Triethyl Citrate, Betaine, Glyceryl Stearate SE, Oryza Sativa (Rice) Starch, Glyceryl Caprylate, Benzoic Acid, Cetyl Alcohol, Cymbopogon Flexuosus Leaf (Lemongrass) Oil, Xanthan Gum, Aroma, Citral, Linalool, Geraniol, Limonene</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10014156161351</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

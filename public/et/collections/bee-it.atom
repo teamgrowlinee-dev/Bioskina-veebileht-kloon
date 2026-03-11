@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/bee-it.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-30T19:19:28+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10333410656583</id>
+    <published>2025-08-30T19:19:28+03:00</published>
+    <updated>2025-08-30T19:19:28+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-face-cream-50ml"/>
+    <title>BEE IT Näokreem 50 ml</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-face-cream-50ml-9846172.png?v=1756636044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Niisutav ja vananemist ennetav näokreem pehme ja kerge tekstuuriga, mida on lihtne peale kanda. Kreemis sisalduvad toimeained on 100% looduslikku päritolu ning sertifitseeritud NaturOxygen® ja Pentavitin® EcoCert, Cosmos ja Natrue sertifikaadiga. Rikastatud madalmolekulaarse hüaluroonhappe, sheavõi, E-vitamiini, taruvaigu ja orgaanilise meega, kiirendab BEE IT näokreem naha ainevahetust ning uuenemist, muutes selle toidetuks, säravaks ning nooruslikuks.&nbsp;</p><p><b>Kasutamine: </b>Kanna nahale ja masseeri sisse ringjate liigutustega.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Helianthus annuus (Sunflower) seed oil, Cetearyl alcohol, Prunus amygdalus dulcis (Sweet almond) oil, Ethylhexyl palmitate, Cetearyl glucoside, Sorbitan olivate, Phenoxyethanol, Parfum [Fragrance], Butyrospermum parkii (Shea) butter, Glycerin, Cyamopsis tetragonoloba (guar) gum, Tocopheryl acetate, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Citric acid, Coumarin, Limonene, Alpha-isomethyl ionone, Saccharide isomerate, Hydroxycitronellal, Mel/Honey*, Propolis wax, Saccharomyces lysate, Disodium succinate, Sodium citrate, Glutamic acid, Glycine, Threonine, Valine.</p><p>*Orgaanilist päritolu</p><p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav</p><p>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>päevakreem</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333410656583</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10333406888263</id>
+    <published>2025-08-30T19:19:27+03:00</published>
+    <updated>2025-08-30T19:19:27+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-hand-and-body-cream-50ml"/>
+    <title>BEE IT käte- ja kehakreem 50ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-hand-and-body-cream-50ml-5351249.png?v=1756636043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Niisutav käte- ja kehakreem on pehme tekstuuriga ja lõhnastatud, sobib suurepäraselt kuivale, punetavale ja hoolt vajavale nahale. Rikastatud õlide, vitamiinide, taruvaigu ja orgaanilise meega, toidab see sinu nahka, muutes selle elastseks, säravaks ja lõhnavaks. Pehme ja kerge nagu pai, eemaldab see igapäevase stressi ja toob meeldiva lõõgastustunde nii kehale kui vaimule.&nbsp;</p><p><b>Kasutamine: </b>Kasuta iga päev pärast dušši või vanni kuival nahal. Kanna kogu kehale ja masseeri õrnalt kuni kreem on täielikult imendunud.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Helianthus annuus seed oil, Glyceryl stearate SE, Cetearyl alcohol, Ethylhexyl palmitate, Parfum, Glycerin, Prunus amygdalus dulcis oil, Potassium sorbate, Sodium benzoate, Citric acid, Tocopheryl acetate, Mel*, Propolis, Coumarin, Limonene, Tetrasodium glutamate diacetate, Alpha-isomethyl ionone, Hydroxycitronellal, Linalool, Geraniol, Isoeugenol.</p><p>*Orgaanilist päritolu<br><br>100% looduslikud koostisosad<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333406888263</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304982942023</id>
+    <published>2025-08-26T10:05:12+03:00</published>
+    <updated>2025-08-26T10:05:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-sun-spf50-maya-50ml"/>
+    <title>BEE IT päikesekaitsekreem Maya SPF50 50ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-sun-spf50-maya-50ml-7388105.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kõrge kaitsega päikesekaitsekreem kaitseb nahka nii UVA- kui ka UVB-kiirguse eest. Sobib tundlikule nahale ja ka alla 3-aastastele lastele. Kaitseb nahka päikesekahjustuse eest ning hoiab selle niisutatuna. </p><p>Tõhus ka mesilaste kaitsmisel! </p><p><b>Kasutamine:</b>&nbsp;Kanna näole ja kehale enne päikese käes viibimist. Korda pealekandmist sageli, et saavutada ohutu, ühtlane ja kauakestev päevitus.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua [Water], Ethylhexyl methoxycinnamate, Octocrylene, Butyl methoxydibenzoylmethane, Methylene bis-benzotriazolyl tetramethylbutylphenol, Helianthus annuus (Sunflower) seed oil, Glyceryl stearate SE, Prunus amygdalus dulcis (Sweet almond) oil, Glycerin, Phenoxyethanol, Decyl glucoside, Tocopheryl acetate, Citric acid, Parfum [Fragrance], Ethylhexylglycerin, Aloe barbadensis leaf juice*, Tetrasodium glutamate diacetate, Olea europaea (Olive) fruit oil*, Oryza sativa (Rice) bran oil, Vitis vinifera (Grape) seed oil, Allantoin, Propylene glycol, Xanthan gum, Vaccinium myrtillus (Myrtle) fruit extract, Avena sativa (Oat) kernel extract*, Calendula officinalis flower extract*, Sodium hydroxide, Mel/Honey*, Propolis wax, Sodium benzoate, Potassium sorbate.</p><p>*Orgaanilist päritolu<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas. <br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304982942023</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304944210247</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-for-kids-maya-50ml"/>
+    <title>BEE IT šampoon ja dušigeel Maya lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-50ml-4970425.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.<b><br><br>Kasutamine: </b>Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p><p><b>Koostisosad:</b>&nbsp;Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.</p><p>Kasutamine: Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p><p>*Orgaanilist päritolu<br><br>Looduslik toode füsioloogilise pH-ga 4.5-5.5<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304944210247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304872186183</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-blue-for-kids-50ml-copy"/>
+    <title>BEE IT šampoon ja dušigeel Maya lastele 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-250ml-2802370.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.<b><br><br>Kasutamine: </b>Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.</p>
+<p>Kasutamine: Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p>*Orgaanilist päritolu<br><br>Looduslik toode füsioloogilise pH-ga 4.5-5.5<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304872186183</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304870482247</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-nourishing-shampoo-1000ml"/>
+    <title>BEE IT toitev šampoon 1000ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-nourishing-shampoo-1000ml-8247533.png?v=1756222788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev šampoon kahjustatud peanahale ja juustele. Puhastab hoolikalt, säilitades samaaegselt juuste struktuuri. Pehme kreemjas tekstuur ning kerge vaht pehmete ja elujõuliste juuste heaks.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna niiskele peanahale ja juustele, masseeri õrnalt ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Phenoxyethanol, Xanthan gum, Glycerin, Disodium cocoamphodiacetate, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Citric acid, Guar hydroxypropyltrimonium chloride, Panthenol, Argania spinosa kernel oil, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Mel/Honey*, Coumarin, Limonene, Dehydroacetic acid, Alpha-isomethyl ionone, CI 19140 [Yellow 5].</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304870482247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304865075527</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-50ml-copy"/>
+    <title>BEE IT taastav juuksemask 1000ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-1000ml-6779386.png?v=1756222787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            46.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304865075527</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303997477191</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-blue-for-kids-50ml"/>
+    <title>BEE IT šampoon ja dušigeel sinine lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-blue-for-kids-250ml-687213.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303997477191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303992791367</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-pink-for-kids-50ml"/>
+    <title>BEE IT šampoon ja dušigeel roosa lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-pink-for-kids-250ml-813819.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam. </p>
+<p><b>Kasutamine:</b> Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303992791367</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303987679559</id>
+    <published>2025-08-26T10:05:09+03:00</published>
+    <updated>2025-08-26T10:05:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-50ml"/>
+    <title>BEE IT taastav juuksemask 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-200ml-244590.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303987679559</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303979815239</id>
+    <published>2025-08-26T10:05:09+03:00</published>
+    <updated>2025-08-26T10:05:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-nourishing-shampoo-50ml"/>
+    <title>BEE IT toitev šampoon 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-nourishing-shampoo-250ml-159598.jpg?v=1739897346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev šampoon kahjustatud peanahale ja juustele. Puhastab hoolikalt, säilitades samaaegselt juuste struktuuri. Pehme kreemjas tekstuur ning kerge vaht pehmete ja elujõuliste juuste heaks.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna niiskele peanahale ja juustele, masseeri õrnalt ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Phenoxyethanol, Xanthan gum, Glycerin, Disodium cocoamphodiacetate, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Citric acid, Guar hydroxypropyltrimonium chloride, Panthenol, Argania spinosa kernel oil, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Mel/Honey*, Coumarin, Limonene, Dehydroacetic acid, Alpha-isomethyl ionone, CI 19140 [Yellow 5].</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303979815239</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303975129415</id>
+    <published>2025-08-26T10:05:08+03:00</published>
+    <updated>2025-08-26T10:05:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-regenerating-shower-gel-50ml"/>
+    <title>BEE IT taastav dušigeel 50ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-regenerating-shower-gel-250ml-523322.jpg?v=1739897335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meeliergutav ja taastav looduslikult aktiivsete bioloogiliste koostisosadega dušigeel. Võimendab loomulikku heaolutunnet tänu taruvaigu ja orgaanilise mee kasulikele omadustele.</p>
+<p><b>Kasutamine</b>: Kanna kogu kehale ning seejärel loputa, naudi momenti.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Potassium sorbate, Sodium benzoate, Citric acid, Tetrasodium glutamate diacetate, Coumarin, Limonene, Alpha-isomethyl ionone, Hydroxycitronellal, Dehydroacetic acid, Mel/Honey*, Propolis wax.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303975129415</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148243149127</id>
+    <published>2024-04-09T16:18:03+03:00</published>
+    <updated>2024-04-09T16:18:03+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-aftersun-50ml"/>
+    <title>BEE IT päevitusjärgne kreem 50ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-aftersun-50ml-405291.png?v=1739897341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrna ja värske geelja tekstuuriga päevitusjärgne kreem ühtlustab nahatooni pehme luminestseeruva puudutusega. Toode sisaldab hüaluroonhapet, inositooli, taime&nbsp;<i>Acmella oleracea</i>, orgaanilist mett ja taruvaiku, et tagada tõhus niisutav, kaitsev, taastav ja siluv toime. Sügavalt toidetud ja niisutatud naha jaoks.&nbsp;</p>
+<p><b>Kasutamine:</b> Kanna näole ja kehale pärast päikese käes viibimist, ole valmis vau-efektiks.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Polysorbate 20, Parfum [Fragrance], Carbomer, Mannitol, Phenoxyethanol, Microcrystalline cellulose, Sodium hydroxide, Tetrasodium glutamate diacetate, Ethylhexylglycerin, Propanediol, CI 77492 [Iron oxides], CI 77491 [Iron oxides], Mica, Acmella oleracea extract, Acrylates/ammonium methacrylate copolymer, CI 77891 [Titanium dioxide], Tocopheryl acetate, Triethyl citrate, Caprylic/capric triglyceride, CI 77499 [Iron oxides], Titanium dioxide, Hydroxypropyl methylcellulose, Sodium hyaluronate, 1,2-Hexanediol, Simethicone, Inositol, Mel/Honey*, Propolis wax.<br><br><!--StartFragment-->*Orgaanilist päritolu</p><!--StartFragment--><p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas. <br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148243149127</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148221980999</id>
+    <published>2024-04-09T16:14:58+03:00</published>
+    <updated>2024-04-09T16:14:58+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-sun-spf30-50ml"/>
+    <title>BEE IT päikesekaitsekreem SPF30 50ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-sun-spf30-50ml-603793.png?v=1739897345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Päikesekaitsekreem, mis kaitseb, toidab ja niisutab nahka, tagades samaaegselt ühtlase ja intensiivse päevituse. Orgaaniline aloe vera ekstrakt koos magusmandliõli, tsinkoksiidi, E-vitamiini, orgaanilise mee ja taruvaiguga aitab vältida UV-kiirtega kokkupuutest tingitud enneaegset vananemist. Niisutatud, pehmele ja kadestamisväärselt päevitunud nahale.&nbsp;</p>
+<p><b>Kasutamine:</b> Kanna näole ja kehale enne päikese käes viibimist. Korda pealekandmist sageli, et saavutada ohutu, ühtlane ja kauakestev päevitus.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Ethylhexyl methoxycinnamate, Octocrylene, Butyl methoxydibenzoylmethane, Glyceryl stearate SE, Cetearyl alcohol, Helianthus annuus (Sunflower) seed oil, Prunus amygdalus dulcis (Sweet almond) oil, Methylene bis-benzotriazolyl tetramethylbutylphenol, Phenoxyethanol, Parfum [Fragrance], Decyl glucoside, Citric acid, Glycerin, Titanium dioxide, Tocopheryl acetate, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Zinc oxide, Aloe barbadensis leaf juice*, Propylene glycol, Xanthan gum, Mel/Honey*, Propolis wax, Sodium benzoate, Potassium sorbate.</p>
+<p><!--EndFragment-->*Orgaanilist päritolu</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<!--EndFragment--><br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.&nbsp;<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148221980999</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148218507591</id>
+    <published>2024-04-09T15:57:26+03:00</published>
+    <updated>2024-04-09T15:57:26+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-pink-for-kids-250ml"/>
+    <title>BEE IT šampoon ja dušigeel roosa lastele 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-pink-for-kids-250ml-813819.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam. </p>
+<p><b>Kasutamine:</b> Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148218507591</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148202680647</id>
+    <published>2024-04-09T15:51:03+03:00</published>
+    <updated>2024-04-09T15:51:03+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-blue-for-kids-250ml"/>
+    <title>BEE IT šampoon ja dušigeel sinine lastele 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-blue-for-kids-250ml-687213.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148202680647</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148187410759</id>
+    <published>2024-04-09T15:29:04+03:00</published>
+    <updated>2024-04-09T15:29:04+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-reconstruction-hair-mask-250ml-1"/>
+    <title>BEE IT taastav juuksemask 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-200ml-244590.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kontsentreeritud taastav šampoonijärgselt pealekantav mask, mis rõõmustab oma kohese tõhususega. Annab tugevuse ja elastsuse, toidab ja niisutab sügavuti. Tervete, säravate ja tihedate juuste heaks.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna pärast šampooniga pesemist rätikukuivadesse juustesse. Lase mõjuda 5-10 minutit, seejärel kammi ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</p>
+<!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148187410759</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148173943111</id>
+    <published>2024-04-09T15:20:46+03:00</published>
+    <updated>2024-04-09T15:20:46+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-nourishing-shampoo-250ml"/>
+    <title>BEE IT toitev šampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-nourishing-shampoo-250ml-159598.jpg?v=1739897346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev šampoon kahjustatud peanahale ja juustele. Puhastab hoolikalt, säilitades samaaegselt juuste struktuuri. Pehme kreemjas tekstuur ning kerge vaht pehmete ja elujõuliste juuste heaks.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna niiskele peanahale ja juustele, masseeri õrnalt ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Phenoxyethanol, Xanthan gum, Glycerin, Disodium cocoamphodiacetate, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Citric acid, Guar hydroxypropyltrimonium chloride, Panthenol, Argania spinosa kernel oil, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Mel/Honey*, Coumarin, Limonene, Dehydroacetic acid, Alpha-isomethyl ionone, CI 19140 [Yellow 5].</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148173943111</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9148158837063</id>
+    <published>2024-04-09T14:59:54+03:00</published>
+    <updated>2024-04-09T14:59:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-regenerating-shower-gel-250ml"/>
+    <title>BEE IT taastav dušigeel 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-regenerating-shower-gel-250ml-523322.jpg?v=1739897335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meeliergutav ja taastav looduslikult aktiivsete bioloogiliste koostisosadega dušigeel. Võimendab loomulikku heaolutunnet tänu taruvaigu ja orgaanilise mee kasulikele omadustele.</p>
+<p><b>Kasutamine</b>: Kanna kogu kehale ning seejärel loputa, naudi momenti.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Potassium sorbate, Sodium benzoate, Citric acid, Tetrasodium glutamate diacetate, Coumarin, Limonene, Alpha-isomethyl ionone, Hydroxycitronellal, Dehydroacetic acid, Mel/Honey*, Propolis wax.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9148158837063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

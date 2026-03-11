@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/naopuhastus.atom"/>
+  <title>bioskina</title>
+  <updated>2026-02-18T15:06:00+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/10656408305991</id>
+    <published>2026-02-18T15:06:00+02:00</published>
+    <updated>2026-02-18T15:06:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-melting-cleansing-oil-100ml"/>
+    <title>MÁDARA Melting Cleansing Oil 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-melting-cleansing-oil-100ml-3502637.jpg?v=1771463660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This oil-based cleanser with nourishing lipids deeply, yet delicately purifies and cleans the skin, melting away long wear makeup and mineral sunscreen. Removes impurities without irritating the skin or stripping its natural protective barrier. </p>
+<p>The oil melts upon contact with water and is easy to rinse. Leaves the skin clean, luxuriously soft and nourished. Suitable for use around the eyes.</p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Massage the oil into dry or damp skin, add some water.  Rinse off and follow with your regular face cleansing routine. Suitable for double cleansing.</span><br></p>
+<p><strong>Ingredients:</strong> CAPRYLIC/CAPRIC TRIGLYCERIDE; GLYCERIN**; HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*; AQUA; SUCROSE LAURATE; SUCROSE PALMITATE; AROMA; ALCOHOL; TOCOPHEROL; CI 77163 (BISMUTH CHLORIDE OXIDE)****; OENOTHERA BIENNIS (EVENING PRIMROSE) OIL*; PRUNUS AMYGDALUS DULCIS (ALMOND) OIL*; GLYCOSPHINGOLIPIDS; GLYCOLIPIDS; BENZYL SALICYLATE**; LIMONENE**; CITRUS AURANTIUM PEEL OIL; CITRAL**</p>
+<p>*Ingredients from organic farming<br>**Made using organic ingredients<br>***From natural essential oils<br>****Pure mineral pigments<br><br>100% Natural origin of total<br>39% Organic of total</p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10656408305991</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10656406438215</id>
+    <published>2026-02-18T15:06:00+02:00</published>
+    <updated>2026-02-18T15:06:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-cleansing-milk-200ml"/>
+    <title>MÁDARA Cleansing Milk 200ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-cleansing-milk-200ml-1698263.jpg?v=1771463649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Cleanse the skin and remove makeup with this mild and soothing cleansing milk. Formulated with an innovative complex of 100% natural oils that facilitate the makeup removal and provide a super-smooth skin feel. Gently, yet effectively removes even waterproof makeup, leaving the skin smooth, fresh and hydrated. Boosts the performance of subsequently used moisturisers. The non-irritating velvety formula is also suitable for use around the eyes.</span></p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply a small amount on a cotton pad to remove makeup and cleanse the skin from all impurities. Rinse off with water or wipe off with a clean cotton pad or a cloth. Follow with a moisturiser.</span><br></p>
+<p><strong>Ingredients:</strong> ALOE BARBADENSIS (ALOE) LEAF JUICE*; HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*; SUCROSE DISTEARATE; PENTYLENE GLYCOL; BUTYROSPERMUM PARKII (SHEA) BUTTER*; ISOAMYL LAURATE; SUCROSE STEARATE; GLYCERIN**; AROMA; PALMITIC ACID; STEARIC ACID; XANTHAN GUM; LACTIC ACID; GLYCERYL CAPRYLATE; AVENA SATIVA (OAT) KERNEL EXTRACT*; CALENDULA OFFICINALIS (CALENDULA) FLOWER EXTRACT*; PLANTAGO MAJOR (PLANTAIN) LEAF EXTRACT*; TILIA CORDATA (LINDEN) FLOWER EXTRACT*; AQUA; ASCORBYL PALMITATE; SODIUM PHYTATE; TOCOPHEROL; VANILLIN; JASMINUM OFFICINALE (JASMINE) EXTRACT; LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE; BENZYL SALICYLATE***; LIMONENE***; CITRUS AURANTIUM PEEL OIL; CITRAL***; CITRONELLOL***; GERANIOL***; EUGENOL***</p>
+<p>*Ingredients from organic farming<br>**Made using organic ingredients<br>***From natural essential oils<br><br>100% Natural origin of total<br>25% Organic of total</p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10656406438215</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10019687727431</id>
+    <published>2025-02-28T09:54:55+02:00</published>
+    <updated>2025-02-28T09:54:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/upcircle-beauty-cleansing-face-milk-with-aloe-vera-neroli-flower-120ml"/>
+    <title>UpCircle Beauty Cleansing Face Milk with Aloe Vera + UpCycled Oat Powder 120ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>UpCircle Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/upcircle-beauty-cleansing-face-milk-with-aloe-vera-upcycled-oat-powder-120ml-169518.png?v=1740808672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpCircle Beauty<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our gentle face cleanser is made with oat powder upcycled from the food and drink industry. When applied to the face this creamy oat powder repairs and restores the skin’s moisture barrier.</span><br><br><span>This multi-award winning oat cleanser has a milky, creamy formula that hydrates and nourishes the skin. You can think of the oat powder as the oat milk to your latte and the other ingredients as the skin-loving syrup shots.</span><br><br><span>Suitable for all skin types, this everyday vegan facial cleanser leaves skin buttery soft.</span></p>
+<p><span><strong>How to use: </strong>Massage between your fingers and onto face in upward circular motions. Rinse with warm water. Avoid eye contact.</span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Aloe Barbadensis Leaf Extract, Glycerin, Citrus Aurantium Amara (Neroli) Flower Water, Cetyl Alcohol, Glyceryl Stearate, Helianthus Annuus Seed Oil, Cocos Nucifera (Coconut) Fruit Oil, Avena Sativa (Oatmeal) Kernel Flour, Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citrus Grandis (Grapefruit) Peel Oil, Pelargonium Graveolens (Geranium) Flower Oil, Citrus Aurantium Amara (Petitgrain) Leaf Oil, Citrus Aurantium Amara (Neroli) Flower Oil, Tocopherol, Sodium Stearoyl Lactylate, Dehydroacetic Acid, Benzyl Alcohol, Limonene*, Linalool*, Citronellol*, Geraniol*.</span></p>
+<p><span>*Natural constituent of essential oils listed.</span></p>
+<p><span>99% NATURAL INGREDIENTS</span></p>
+<p><span>Handmade | Social Good | Recycled Materials | Zero Waste | Cruelty Free | Vegan | Natural Resources | Non Toxic</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:tag>upcircle</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10019687727431</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10004486193479</id>
+    <published>2025-02-18T20:45:16+02:00</published>
+    <updated>2025-02-18T20:45:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-deep-cleansing-makeup-oil-100ml"/>
+    <title>BERRICHI Deep Cleansing Makeup Oil 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-deep-cleansing-makeup-oil-100ml-710668.png?v=1739979951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover a gentle but effective way to remove makeup<span> – Berrich’s natural makeup remover oil. This innovative two-in-one product not only removes make-up, but also pampers your skin with six precious oils.</span></p>
+<ul>
+<li>Suitable for all skin types, including sensitive skin</li>
+<li>Effectively removes even water-resistant make-up</li>
+<li>Turns into a gentle emulsion on contact with water</li>
+<li>Thoroughly cleans pores</li>
+<li>Leaves skin silky soft and hydrated<br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Main ingredients:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Astaxanthin</span><strong><span> </span></strong>– an antioxidant, the most effective natural anti-ageing agent with the ability to penetrate cell membranes, affecting the skin deeply. Stimulates the production of collagen, balances the skin’s moisture levels, protects the skin from central irritants.</li>
+<li>
+<span style="text-decoration: underline;">Cacay oil</span><strong><span> </span></strong>– rich in vitamins A and E. Helps reduce wrinkles and improve skin elasticity, stimulating collagen production and cell renewal.</li>
+<li>
+<span style="text-decoration: underline;">Sea buckthorn oil</span><span> </span>– rich in antioxidants, moisturises the skin and supports its regeneration. Contains vitamin C and fatty acids, providing holistic skin care, plus anti-inflammatory properties.</li>
+<li>
+<span style="text-decoration: underline;">Coconut oil (no solids)</span><span> </span>– deeply moisturising, antibacterial and helps reduce inflammation. Accelerates skin healing.</li>
+<li>
+<span style="text-decoration: underline;">Jojoba oil</span><strong><span> </span></strong>– regulates sebum secretion and is easily absorbed. Balances skin moisture levels and has antibacterial properties.</li>
+<li>
+<span style="text-decoration: underline;">Apricot kernel oil</span><strong><span> </span></strong>– softening, nourishing and helps reduce signs of ageing. Rich in vitamins and antioxidants, it improves skin elasticity.</li>
+<li>
+<span style="text-decoration: underline;">Olive oil</span><strong><span> </span></strong>– a potent antioxidant. Protects the skin from external damage and supports the skin’s natural renewal process.</li>
+</ul>
+<ul></ul>
+<p><span>Suitable for all skin types.</span></p>
+<p><strong>How to use: </strong>Shake before use. Apply the oil to dry skin with clean, dry hands and massage gently in a circular motion. Activate the oil on your face with warm water and massage again to create a gently milky emulsion that melts away makeup. Rinse with plenty of warm water. Continue cleansing with a facial cleansing foam or gel.</p>
+<p><strong>Ingredients:</strong> Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Olea Europaea Fruit Oil, Aleurites Moluccanus Seed Oil, Caryodendron Orinocense Seed Oil*, Polyglyceryl-2 Sesquioleate , Simmondsia Chinensis Seed Oil*, Prunus Armeniaca Kernel Oil*, Polyglyceryl-6 Caprylate/Polyglyceryl-3 Cocoate/Polyglyceryl-4 Caprate/Polyglyceryl-6 Ricinoleate, Hippophae Rhamnoides Fruit Extract, Tocopherol/Helianthus Annuus Seed Oil, Haematococcus pluvialis.</p>
+<p>* Ingredients from organic farming</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>meigieemaldus</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10004486193479</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10004489503047</id>
+    <published>2025-02-18T20:33:38+02:00</published>
+    <updated>2025-02-18T20:33:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-face-wash-foam-150ml"/>
+    <title>BERRICHI Face Wash Foam 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-face-wash-foam-150ml-999971.png?v=1739979952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            26.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Discover the perfect balance between effective cleansing and gentle care. Berrich Facial Cleansing Foam is designed to provide your skin with the care of nature. It gently cleanses away dirt and make-up residue, leaving your skin’s natural balance undisturbed for a clean, velvety complexion.</span></p>
+<ul>
+<li>Also suitable for removing thin make-up</li>
+<li>Suitable for everyday use</li>
+<li>Removes dirt and residues from the skin</li>
+<li>Gently exfoliating</li>
+<li>Contains anti-ageing ingredients</li>
+<li>Leaves skin feeling fresh and clean<br>
+</li>
+</ul>
+<p><span style="text-decoration: underline;">Main ingredients:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;">Furcellaran</span><strong> </strong>– antioxidant, helps to maintain skin moisture balance and strengthen the skin’s protective barrier, slows down the skin’s ageing process, reduces inflammation and dryness. Furtsellaran is obtained from algae grown in Estonian waters.</li>
+<li>
+<span style="text-decoration: underline;">Astaxanthin</span><span> </span>– an antioxidant, the most effective natural anti-ageing agent with the ability to penetrate cell membranes, affecting the skin deeply. Stimulates the production of collagen, balances the skin’s moisture levels, protects the skin from central irritants.</li>
+<li>
+<span style="text-decoration: underline;">Lime Pearl™ extract</span><span> </span>– contains natural AHA acids. They gently exfoliate dead skin cells, leaving skin soft, smooth and radiant.</li>
+</ul>
+<ul></ul>
+<p><span>Suitable for all skin types.</span></p>
+<p><strong>How to use: </strong>Apply to damp skin, massaging gently in circular motions for at least 30 seconds, then rinse thoroughly. If you leave the foam on for a longer time, it will act as a gentle exfoliating face mask.</p>
+<p><strong>Ingredients:</strong> <span>Aqua (Water), Glycerin, Disodium/Sodium Cocoyl Glutamate (Protelan AG 37), Lauroyl/Myristoyl Methyl Glucamide (Glucotain Flex), Decyl Glucoside (ELOTANT MILCOSIDE 302), Polyglyceryl-6 Caprylate/Polyglyceryl-3 Cocoate/Polyglyceryl-4 Caprate/Polyglyceryl-6 Ricinoleate (TEGO® Solve 61), Glycerin/Water/Microcitrus Australasica Fruit Extract (LIME PEARL™ AF), Capryloyl/Caproyl Anhydro Methyl Glucamide/Water (Velsan® Flex), Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)*, Potassium Sorbate, Furcellaria Lumbricalis extract (Furcellaran), Citric Acid, Haematococcus pluvialis/Tocopherol (Astaxanthin oil).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10004489503047</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945064571207</id>
+    <published>2025-01-20T13:59:19+02:00</published>
+    <updated>2025-01-20T13:59:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-neroli-purifying-cream-cleanser-200ml"/>
+    <title>NURME Neroli Purifying Cream Cleanser 200ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-neroli-purifying-cream-cleanser-200ml-285031.jpg?v=1739897168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A natural cleansing cream-foam enriched with softening and exfoliating neroli and passion fruit extracts, suitable for all skin types. It is rich in vitamins C and E, revitalizing your skin. The creamy formula contains fruit vitamins A and C, protecting your skin from environmental pollutants.</p>
+<p>Neroli oil, derived from bitter orange blossoms, has powerful antimicrobial and antibacterial properties, making it ideal for acne-prone skin. It regulates sebum production, balancing oily skin. High in antioxidants and vitamin E, neroli oil combats free radicals, reducing acne inflammation and redness.</p>
+<p>Nurme is committed to continuously improving the impact of its products throughout their lifecycle. Packaged in arecyclable PET bottle, it is lightweight to reduce carbon emissions during transport.</p>
+<div>
+<div>
+<strong>How to use: </strong>Massage a small amount of the product all over the face, rinse with water. Avoid contact with eyes.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> Helianthus Annuus Seed Oil*, Aqua*, Citrus Aurantium Dulcis Flower Water*, Coco-Glucoside**, Passiflora Edulis Seed Oil*, Glycerin**, Cocamidopropyl Betaine**, Betain**, Sodium Levulinate**, Lactic Acid**, CI 77891**, Xanthan Gum**, Hectorite**, Cellulose**, Sodium Anisate**, Tocopherol**, Panthenol*, Mica**, Citrus Aurantium Flower Oil*, Benzyl Alcohol**, Passiflora Incarnata Extract*, Linalool***, Sodium Benzoate**, Potassium Sorbate**, Limonene***, Sodium Citrate**.</div>
+<div><br></div>
+<div>* Natural origin</div>
+<div>** Natural cosmetics approved ingredient</div>
+<div>***Occurs naturally in essential oils</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945064571207</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945102254407</id>
+    <published>2025-01-20T13:26:58+02:00</published>
+    <updated>2025-01-20T13:26:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-neroli-gentle-facial-cleansing-foam-150ml"/>
+    <title>NURME Neroli Gentle Facial Cleansing Foam 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-neroli-gentle-facial-cleansing-foam-150ml-259701.jpg?v=1739897181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gentle face cleansing foam with neroli and passion fruit vitamins removes makeup and impurities. Pro-vitamin B5 and babassu oil enhance the skin’s moisture balance, leaving a flawless appearance without drying the skin. Suitable for all skin types.</p>
+<p>The included pro-vitamin B5 and babassu oil boost and tone the skin’s moisture barrier for a radiant complexion. For the best results, follow up with a creamy cleanser to thoroughly remove daily dirt and prepare your skin for toning and deep hydration.</p>
+<p>Neroli oil, derived from bitter orange blossoms, has powerful antimicrobial and antibacterial properties, making it ideal for acne-prone skin. It regulates sebum production, balancing oily skin. High in antioxidants and vitamin E, neroli oil combats free radicals, reducing acne inflammation and redness.</p>
+<div>
+<div>
+<strong>How to use: </strong>Apply to damp skin, gently massage and rinse clean.</div>
+<div><br></div>
+<div>
+<strong>Ingredients:</strong> Aqua, Citrus Aurantium Dulcis Flower Water*, Sodium Cocoamphoacetate**, Citrus Aurantium Amara Flower Water*, Glycerin**, Panthenol*, Sodium Benzoate**, Potassium Sorbate**, Lactic Acid**, Benzyl Alcohol**, Passiflora Incarnata Extract*, Sodium Hyaluronate**.
+<p>* Natural origin</p>
+<p>** Natural cosmetics approved ingredient</p>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945102254407</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945107235143</id>
+    <published>2025-01-20T10:18:02+02:00</published>
+    <updated>2025-01-20T10:18:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/nurme-damask-rose-delicate-cleansing-facial-foam-150ml"/>
+    <title>NURME Damask Rose Delicate Cleansing Facial Foam 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-damask-rose-delicate-cleansing-facial-foam-150ml-218878.png?v=1739897179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rose Face Cleansing Foam is an effective way to clean your face and remove makeup, even on those nights when you’re very tired. For radiant and youthful skin, regular cleansing is essential, especially during puberty when acne can easily develop.</p>
+<ul>
+<li>No need for cotton pads, making it eco-friendly.</li>
+<li>Rose extracts leave your skin soft and prevent dryness after washing.</li>
+<li>It smells divine!</li>
+<li>Use it both as a makeup remover and a refreshing facial cleanser.</li>
+</ul>
+<p><strong>How to use: </strong><span>Pump 1-2 times onto your palm and massage the foam onto face. In case of contact with eyes, rinse immediately. Rinse off the foam with warm water and dry gently with a soft towel. Face tonic or a light cream can be used to complete the cleaning ritual.</span></p>
+<div>
+<div>
+<strong>Ingredients:</strong><span> </span>Rosa Damascena (Damask Rose) Flower Water, Sodium Cocoamphoacetate**, Glycerin*, Babassu Oil Polyglyceryl-4 Esters, Sodium Benzoate**, Potassium Sorbate**, Citric Acid.</div>
+<div></div>
+<div>
+<p class="MsoNormal">*From vegetable source</p>
+<p class="MsoNormal">**Natural cosmetics approved ingredient</p>
+<p class="MsoNormal">***Occurs naturally in essential oils</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945107235143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945053430087</id>
+    <published>2025-01-20T08:47:53+02:00</published>
+    <updated>2025-01-20T08:47:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/naif-cleansing-face-wash-100ml"/>
+    <title>NAIF Cleansing Face Wash 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-cleansing-face-wash-100ml-376187.png?v=1739897186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-ss00rg" data-slate-node="element">
+<p>The gel transforms into a milky formula on contact with water. The advantage of this gel-to-milk formula is that it cleanses the skin without drying it out. Therefore, this face cleanser is suitable for all skin types, even for very oily or sensitive skin and the thinner skin around the eyes.</p>
+<p>Because the facial cleanser contains natural oils, the skin's PH level remains undisturbed and the skin feels moisturized and supple afterward.</p>
+<p>All Naïf products are vegan, made with a gentle fragrance, are dermatologically tested, and do not contain the 26 most common allergens.</p>
+</div>
+<p><strong>How to use: </strong>Moisten the face with lukewarm water. Apply a fingertip-sized amount of gel to a (washable) cotton pad or in the palm of your hand and massage the gel all over your face. The gel will now have a milky texture and slowly foams. After cleansing, rinse with lukewarm water, pat skin dry and apply a nourishing day or night cream. </p>
+<p><strong>Ingredients: </strong>Helianthus Annuus Seed Oil, Glycerin, Aqua/Water, Linum Usitatissimum Seed Oil, Sucrose Palmitate, Parfum/Fragrance, Caprylyl Glycol, Tocopherol</p>
+<p>Tube made from recycled plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mehed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945053430087</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9941160001863</id>
+    <published>2025-01-19T13:54:16+02:00</published>
+    <updated>2025-01-19T13:54:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-organic-naked-remove-it-all-micellar-cleansing-water-150ml"/>
+    <title>HEJ Organic Naked Remove It All Micellar Cleansing Water 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-naked-remove-it-all-micellar-cleansing-water-150ml-797159.png?v=1739897168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            9.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Naked is a fragrance-free skincare line with highly effective and 100% natural ingredients.</span></p>
+<p><span>Micellar Cleansing Water's micelles penetrate deep into your pores. With the help of algae complex and zinc, it can effectively help reduce sebum production and the development of skin impurities. At the same time, hyaluronic acid gives you a long-lasting boost of freshness!</span></p>
+<ul>
+<li><span>Cleans deep into the pores and moisturizes </span></li>
+<li><span>Contains zinc to reduce sebum production and impurities</span></li>
+<li><span>With hyaluronic acid for long-lasting moisture</span></li>
+<li><span>Particularly suitable for impure, oily and combination skin  </span></li>
+<li><span>100% fragrance-free and natural  </span></li>
+</ul>
+<p><span><strong>How to use: </strong>Apply morning and evening to a cotton pad and gently rub it over your face, eyes and lips. If you have heavier make-up, place the pad briefly on the relevant area of ​​skin and let it take effect. You don't have to wash it off! Also suitable for contact lens wearers. </span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Glycerin, Betaine, Coco-Glucoside, Zinc Pca, Sodium Hyaluronate, Prunus Armeniaca Fruit Extract*, Fucus Spiralis Extract, Simmondsia Chinensis Seed Extract*, Tetraselmis Chui Extract, Levulinic Acid, Sodium Anisate, Sodium Levulinate, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide </span></p>
+<p><span>*from certified organic agriculture</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9941160001863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9343509496135</id>
+    <published>2024-07-18T11:01:01+03:00</published>
+    <updated>2024-07-18T11:01:01+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-spot-roll-on-8ml"/>
+    <title>MÁDARA Spot Roll-On 8ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-spot-roll-on-8ml-692861.jpg?v=1739897262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This powerful, concentrated solution attacks blemishes on contact. Juniper Stem Cells and Salicylic Acid instantly get spots under control. Invisible to the skin.</p>
+<p><span style="font-size: 0.875rem;"><strong>How to use:</strong> <span>Apply directly to blemishes. Reapply after 2 hours if necessary. For external use only. Keep out of the eye and lip area. For best results, use in combination with the rest of ACNE solutions.</span></span><br></p>
+<p><strong>Ingredients:</strong> Alcohol, Aqua, Salicylic Acid, Ilex Paraguariensis (Mate) Leaf Extract, Potassium Hydroxide, Cetraria Islandica (Iceland Moss) Extract, Usnea Barbata (Lichen) Extract, Juniperus Communis (Juniper) Callus Culture Extract</p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>noored</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9343509496135</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9343475548487</id>
+    <published>2024-07-18T11:01:00+03:00</published>
+    <updated>2024-07-18T11:01:00+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-sebum-control-clear-skin-wash-140ml"/>
+    <title>MÁDARA Sebum Control Clear Skin Wash 140ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-sebum-control-clear-skin-wash-140ml-429167.jpg?v=1739897250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Free from harsh surfactants, this plant-based cleanser purifies acne-prone skin, helping to minimize the appearance of blackheads and blemishes. Fermented polyaccharides help to regulate sebum and balance the microbiome for a healthy-looking skin. Juniper stem cells and extracts of lichen and mate deliver soothing and antioxidant benefits. </p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply to damp skin, rinse off. Follow with a moisturiser. Use in combination with other ACNE formulas for the best results.</span><br></p>
+<p><strong>Ingredients:</strong> Aqua, Coco-glucoside, Cocamidopropyl Betaine, Glycerin, Xanthan Gum, Propanediol, Sodium PCA, Sodium levulinate, Lactic Acid, Ilex Paraguariensis (Mate) Leaf Extract, Aroma, Acacia Senegal Gum, Alcohol, Sodium anisate, CI 77891 (Titanium Dioxide), Rhamnose, Cetraria Islandica (Iceland Moss) Extract, Usnea Barbata (Lichen) Extract, Juniperus Communis (Juniper) Callus Culture Extract, Glucose, Glucuronic Acid, Linalool</p>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>noored</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9343475548487</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9228059869511</id>
+    <published>2024-05-28T20:59:10+03:00</published>
+    <updated>2024-05-28T20:59:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-the-remover-foaming-oil-cleanser-100ml"/>
+    <title>HEJ Organic The Remover Foaming Oil Cleanser 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-the-remover-foaming-oil-cleanser-100ml-616912.png?v=1739897235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Remover Oil Cleanser frees your skin from dirt, impurities and waterproof make-up without attacking it. The nurturing ingredients from the contained prickly pear seed oil and squalane provide your skin with moisture and support your skins barrier due to re-fattening properties. The oils are non-comedogenic. Thus, the cleansing oil is also suitable for oily skin, but especially for all other skin types. Your skin will feel refreshed and will be optimally prepared for the next steps of your skin care routine.  </span></p>
+<ul>
+<li>Cleanses pore deep, without drying out</li>
+<li>Soft removal of dirt and waterproof make-up</li>
+<li>Leaves a fresh and clean skin feeling</li>
+<li>Squalane provides intensive moisture</li>
+<li>100% vegan and natural<br>
+</li>
+</ul>
+<p><span><strong>How to use: </strong>Spread the foam morning and evening onto your moistened face, massage into your skin and rinse with warm water.</span></p>
+<p><span>Oil Cleanser is the perfect product for the first step of your Double Cleansing Routine.</span></p>
+<p><span><strong>Ingredients:</strong> </span>Aqua, Caprylyl/Capryl Glucoside, Decyl Glucoside, Betaine, Sodium Coco-Sulfate, Coco-Glucoside, Glyceryl Oleate, Squalane, Opuntia Ficus-Indica Stem Extract, Tocopherol, Opuntia Ficus-Indica Flower Extract*, Hydrogenated Palm Glycerides Citrate, Xanthan Gum, Citric Acid, Benzyl Alcohol, Dehydroacetic Acid, Decyl Alcohol, Disodium Phosphate, Lecithin, Ascorbyl Palmitate, Sodium Hydroxide, Parfum**, Limonene**, Linalool**, Citral** ‘ </p>
+<p>*ingredients from certified organic agriculture, **natural essential oils</p>
+<p><span>Organic | Cruelty Free | Vegan | Natural Resources</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9228059869511</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9203381731655</id>
+    <published>2024-05-15T15:56:19+03:00</published>
+    <updated>2024-05-15T15:56:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-the-beautifier-face-wash-peeling-gel-125ml"/>
+    <title>HEJ Organic The Beautifier Face Wash &amp; Peeling Gel 125ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-the-beautifier-face-wash-peeling-gel-125ml-224859.png?v=1739897251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Highlight your beauty with the beautifier face wash and peeling gel. Say goodbye to your facial imperfections and say hello to noticeably more beautiful and even skin with a radiant hey!</span></p>
+<ul>
+<li><span>Gentle peeling based on castor oil for every day</span></li>
+<li><span>Deeply clean and fine complexion</span></li>
+<li><span>With vitamins from prickly pear seed oil for an antioxidant effect</span></li>
+<li><span>Skin type: Also for sensitive skin</span></li>
+<li><span>100% vegan and natural</span></li>
+</ul>
+<p><span><span style="text-decoration: underline;">Prickly Pear Oil</span> helps to regenerate the cells and keeps your skin youthful.</span></p>
+<p><span><span style="text-decoration: underline;">Grapefruit Extract</span> is a natural antibiotic and promotes clear skin.</span></p>
+<p><span><span style="text-decoration: underline;">Prickly Pear Blossom Water</span> brings a combination of essential fatty acids to your skin care.</span></p>
+<p><span><span style="text-decoration: underline;">Castor Oil Pearls</span> remove skin impurities and give you an even complexion.</span></p>
+<p><span><strong>How to use: </strong>Apply to your wet face and massage in with gentle, circular movements. Then rinse off with warm water</span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Opuntia Ficus-Indica Flower Extract*, Glycerin, Sodium Coco-Sulfate, Coco-Glucoside, Sodium Cocoyl Glutamate, Disodium Cocoyl Glutamate, Opuntia Ficus-Indica Seed Oil*, Argania Spinosa Kernel Oil*, Hydrogenated Castor Oil, Citrus Paradisi Fruit Extract*, Acacia Senegal Gum, Xanthan Gum, p-Anisic Acid, Levulinic Acid, Potassium Sorbate, Citric Acid, Parfum**, Limonene**, Linalool**, Citral** *ingredients from certified organic agriculture, **natural essential oils</span><span></span></p>
+<p><span>Organic | Cruelty Free | Vegan | Natural Resources</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9203381731655</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9132669272391</id>
+    <published>2024-03-30T21:02:52+02:00</published>
+    <updated>2024-03-30T21:02:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/norrskin-face-foam-cleanser-150ml"/>
+    <title>NorrSkin Face Foam Cleanser 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>bioskina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/norrskin-face-foam-cleanser-150ml-479702.jpg?v=1739897337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bioskina<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            22.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">NorrSkin Face Foam Cleanser won the Beauty Oscar for BEST CLEANSER IN SWEDEN 2022.</span></p>
+<p><span data-mce-fragment="1">This delicate foam will deeply clean you skin, leaving it softened, fresh and cooled down.</span></p>
+<p><span style="text-decoration: underline;">Benefits: </span></p>
+<ul>
+<li aria-level="1"><span>Cleans your skin while boosting hydration level</span></li>
+<li aria-level="1"><span>Calms down redness and irritation</span></li>
+<li aria-level="1"><span>Supports regenerating and repairing processes in your skin with power of D-Panthenol and Linseed extract</span></li>
+<li aria-level="1"><span>For All Skin Types, including sensitive, rosacea, eczema, and dry and oily skin.<br data-mce-fragment="1"></span></li>
+</ul>
+<p><span data-mce-fragment="1"><span style="text-decoration: underline;">Linseed Extract</span> is extra-rich, plant-derived source of Omega-3 fatty acids. Provides a nourishing and protective barrier for your skin, enhancing its natural glow.</span></p>
+<p><span data-mce-fragment="1"><span style="text-decoration: underline;">Niacinamide</span>, also knows as Vitamin B3 and strong antioxidant, has a cleaning, detoxifying and brightening properties. Decreases redness and irritations on the skin. Stimulates elasticity.</span></p>
+<p><span data-mce-fragment="1"><span style="text-decoration: underline;">Wild Strawberry Extract</span> is strong antioxidant. Contains amino acids, vitamins: B, E, K, PP as well as large amount of minerals, including Fe, P, Ca, S, K, I. It has cleaning, detoxifying and brightening properties.</span></p>
+<p><span data-mce-fragment="1">96,4% natural origin ingredients, dermatologically tested.</span></p>
+<p><span data-mce-fragment="1"><strong>How to use:</strong> Apply the foam on damp skin on your face and neck. Gently massage with circular movements. Rinse.</span></p>
+<p><span data-mce-fragment="1"><strong>Ingredients:</strong> Aqua, Betaine, Glycerin, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Niacinamide, Fragaria Vesca Fruit Extract, Linum Usitatissimum Seed Extract, Panthenol, Pantolactone, Polyglyceryl-4 Caprate, Sodium Phytate, Parfum, Sodium Levulinate, Levulinic Acid, Sodium Benzoate, Potassium Sorbate.</span></p>
+<p><span data-mce-fragment="1">Natural Certified | Clean Certified | Vegan Certified</span></p>
+<p><span data-mce-fragment="1">Inspired by Hälsingland, Sweden.</span></p>
+<p><span data-mce-fragment="1">NorrSkin plants 1 tree for every product sold.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>norrskin</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9132669272391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9041897783623</id>
+    <published>2024-02-16T11:52:37+02:00</published>
+    <updated>2024-02-16T11:52:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/organic-cleansing-milk-100ml"/>
+    <title>Vielö Organic Cleansing Milk 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-cleansing-milk-100ml-720327.jpg?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" class="content-translations text-15 leading-loose text-black">Gentle organic cleansing milk to remove make-up and dirt effortlessly. Soothes the skin, leaving it soft and hydrated.</p>
+<p>Created with organic whey (nourishing), organic wheat germ oil (nurturing), organic rosehip seed oil (soothing) and organic extracts of chamomile (antiseptic), arnica (anti-inflammatory) and sage (antibacterial).<br></p>
+<p>Suitable for all skin types, also for dry and sensitive skin.</p>
+<p data-mce-fragment="1" class="content-translations text-15 leading-loose text-black"><strong>How to Use:</strong> Massage gently into dry skin across face and neck. Rinse with lukewarm water. Use it in the morning and evening and whenever your skin needs natural cleansing. Shake before use.</p>
+<div data-mce-fragment="1" class="content-translations text-15 leading-loose text-black"><span style="font-size: 0.875rem;"></span></div>
+<div data-mce-fragment="1" class="content-translations text-15 leading-loose text-black"><span style="font-size: 0.875rem;"></span></div>
+<div data-mce-fragment="1" class="content-translations text-15 leading-loose text-black"><span style="font-size: 0.875rem;"></span></div>
+<div data-mce-fragment="1" class="content-translations text-15 leading-loose text-black">
+<p><strong>Ingredients:</strong> Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Prunus Armeniaca Kernel Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Glycerin**, Triticum Vulgare (Wheat) Germ Oil**, Aqua*, Cetyl Alcohol*, Sodium Levulinate*, Glyceryl Caprylate*, Citric Acid*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Lavandula Angusti- folia Flower Oil**, Potassium Sorbate, Helianthus Annuus Seed Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelar- gonium Graveolens Flower Oil**, Polyglyceryl-4 Caprate*, Matricaria Chamomilla Flower Extract**, Arnica Montana Flower Extract**, Geraniol**/***, Sodium Lactate*, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Limonene**/***, Citral**/***.</p>
+<p>* from natural origin (99,7%)<br>** certified organic (87,1%)<br>*** from natural essential oils</p>
+<p>Handmade in Austria</p>
+<p>Inspired by circular economy, Vielö refines a high-quality by-product of cheese production, liquid organic whey, and uses it to create certified organic and sustainable skin and body care products. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9041897783623</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.00</s:price>
+      <s:sku/>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

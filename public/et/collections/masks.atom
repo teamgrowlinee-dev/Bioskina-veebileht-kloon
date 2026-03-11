@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/masks.atom"/>
+  <title>bioskina</title>
+  <updated>2025-02-28T10:50:08+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10010808320327</id>
+    <published>2025-02-28T10:50:08+02:00</published>
+    <updated>2025-02-28T10:50:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-fruit-acid-face-mask-fruitfest-50ml"/>
+    <title>HOIA Puuviljahapetega näomask Fruitfest 50ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-fruit-acid-face-mask-fruitfest-50ml-877573.jpg?v=1740808668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puuviljahappeid (AHA) ja looduslikku salitsüülhapet (BHA) sisaldav mask aitab koorida surnud naharakke, stimuleerides samal ajal uute naharakkude ja kollageeni tootmist nahas. Mask aitab nahka niisutada, ennetada pigmendilaikude teket, leevendada aknet, siluda pindmisi kortse, muuta nahka elastsemaks ning anda  värske ja särava jume.&nbsp;<b><br><br>Kasutamine: </b>Puhasta nahk meigist ja kanna sobiv kogus niiskele nahale, vältides silma- ja huuleümbrust. Jäta mask mõjuma 5-10 minutiks. Seejärel loputa hoolikalt sooja veega ja kanna nahale seerumit, õli või kreemi. Kasuta 1-2 korda nädalas. Lõpeta kasutamine, kui kasutamise ajal esineb löövet, sügelust või põletustunnet. Kerge õhetus näol on loomulik.<br><br>AHA-happeid on oluline kasutada ettevaatlikult, eriti tundlikul nahal. Vajadusel kanna nahale päeval päikesekaitsekreem, sest happed võivad muuta naha UV-kiirte suhtes tundlikumaks.</p><p><b>Koostisosad:&nbsp;</b>*Rosa Damascena Distillate, *Citrus Aurantium Flower Distillate, Sargassum Fluitans Extract, *Butyrospermum Parkii Butter, *Simmondsia Chinensis oil, Salix Nigra extract, Saccharum Officinarum Extract, Vaccinium Myrtillus Extract, Citrus Aurantium Dulcis Extract, Acer Saccharum Extract, Citrus Medica Limonum Extract, Xanthan Gum, Pentylene Glycol, Water, Hibiscus Sabdariffa Extract, Sodium Hyaluronate, Hydrolized Sodium Hyaluronate, Lactobacillus Ferment, Kaolin. *Organic.</p><p>Valmistatud käsitsi Saaremaal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10010808320327</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019657384263</id>
+    <published>2025-02-28T09:54:53+02:00</published>
+    <updated>2025-02-28T09:54:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/upcircle-beauty-face-mask-with-kaolin-clay-60ml"/>
+    <title>UpCircle Näomask kaoliinsaviga 60ml</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>UpCircle Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/upcircle-beauty-face-mask-with-kaolin-clay-60ml-860452.png?v=1740808673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpCircle Beauty<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Auhinnatud õrnalt puhastav savimask aitab võidelda vistrikutega, muuta poorid väiksemaks ja ennetada uute punnide teket. Nahk jääb puhtaks, värskeks ja klaariks.&nbsp;<br><br>Puhastav kaoliinsaviga näomask sobib kõikidele nahatüüpidele. Noorendav valge kaoliinsavi on kombineeritud jahvatatud oliivikivide, kookospulbri ja baobabiõliga.<br><br>Inspireeriv, taaskasutav, meeliülendav: detoksifitseeriv näomask on valmistatud peeneks jahvatatud pulbrist, mis on saadud oliivikividest, oliivitööstuse looduslikust kõrvalsaadusest. Jahvatatud oliivikividel on võimsad põletikuvastased omadused. <br><br>CEW Responsibility Award 2022 võitja, Beauty Shortlist Awards 2021 võitja ja Vogue Beauty Awards 2020 auhinna finalist.</p><p><b>Kasutamine:&nbsp;</b>Kanna õhukese kihina niiskele nahale ja lõdvestu kümme minutit. Loputa sooja vee või niiske lapiga, et paljastuks värske, puhastatud nahk.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Kaolin, Helianthus Annuus Seed Oil*, Cocos Nucifera (Coconut) Milk Powder, Olea Europaea (Olive) Leaf Powder*, Butyrospermum Parkii (Shea) Butter*, Theobroma Cacao (Cocoa) Butter*, Glyceryl Stearate, Cetearyl Alcohol, Glycerin, Adansonia Digitata (Baobab) Seed Oil, Curcuma Longa (Turmeric) Root Oil, Citrus Limonum (Lemon) Peel Oil, Linum Usitatissimum (Linseed) Oil, Olea Europaea Fruit Oil, Aloe Barbadensis Leaf Extract*, Cistus Ladaniferus Leaf Oil, Rosmarinus Officinalis Leaf Oil, Zingiber Cassumunar (Plai) Root Oil, Cedrus Atlantica (Cedarwood) Bark Oil, Tocopherol, Xanthan Gum, Sodium Stearoyl Glutamate, Sucrose Stearate, Coco Glucoside, Coconut Alcohol, Dehydroacetic Acid, Lactic Acid, Benzyl Alcohol, Limonene**, Citral**, Linalool**, Geraniol**.<br></p><p>*Mahepõllumajanduslikult kasvatatud koostisosad</p><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 15">
+<meta name="Originator" content="Microsoft Word 15">
+<link rel="File-List" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel="themeData" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx">
+<link rel="colorSchemeMapping" href="file:///C:/Users/490092~1/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ET</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:186;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Aptos;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]-->
+<p>**Loetletud eeterlike õlide looduslik koostisosa</p><p>99% LOODUSLIKUD KOOSTISOSAD</p><p>Käsitsi valmistatud | Sotsiaalne hüve | Taaskasutatud materjalid | Nulljäätmed | Julmusevaba | Vegan | Loodusvarad | Mittetoksiline<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:tag>upcircle</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019657384263</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019601088839</id>
+    <published>2025-02-28T09:54:52+02:00</published>
+    <updated>2025-02-28T09:54:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/upcircle-beauty-face-scrub-with-coffee-and-chamomile-floral-blend-100ml"/>
+    <title>UpCircle Näokoorija kohvi ja kummeliga - Floral Blend 100 ml</title>
+    <s:type>Facial Scrub</s:type>
+    <s:vendor>UpCircle Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/upcircle-beauty-face-scrub-with-coffee-and-chamomile-floral-blend-100ml-904418.png?v=1740808673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpCircle Beauty<br>
+        <strong>Type: </strong>Facial Scrub<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kohvi näokoorija on loodud tundlikule nahale ning rikastatud kummeli, kibuvitsa, geraaniumi ja patšuli eeterlike õlidega.<br><br>Põletikuvastaste omaduste poolest tuntud kummel rahustab punetust ja ärritust, olles ideaalne vahend selliste nahahaiguste puhul nagu rosaatsea, akne ja psoriaas. E- ja B-vitamiini rikas jojobaõli niisutab sügavuti, aidates kuival, dehüdreeritud nahal taastada niiskusesisalduse.<br><br>Orgaaniline näokoorija eemaldab õrnalt surnud naharakud, jättes nahale pehme, sileda ja särava tunde. Kombineeritud sheavõiga, et toita nahka pärast koorimist.<b><br><br>Kasutamine:</b> Niisuta oma nägu veega ja kanna õrnade ringjate liigutustega nahale. Jäta see mõneks hetkeks mõjuma, seejärel loputa sooja veega ja kuivata. Võib kasutada 2-3 korda nädalas.</p><p><b>Koostisosad:</b>&nbsp;Coffea Arabica Seed Powder, Sucrose, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Armeniaca (Apricot) Kernel Oil, Rosa Canina (Rosehip) Fruit Oil, Citrus Aurantium Dulcis (Orange) Peel Oil, Pelargonium Graveolens (Geranium) Flower Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pogostemom Cablin (Patchouli) Leaf Oil, Citrus Aurantium Amara (Bitter Orange) Leaf Oil, Anthemis Nobilis (Chamomile) Flower Oil, Benzyl Alcohol, Dehydroacetic Acid, Benzoic Acid, Sorbic Acid,&amp;nbsp;*Limonene, *Citronellol, *Geraniol, *Linalool.<br></p><p>**Loetletud eeterlike õlide looduslik koostisosa</p><p>99% LOODUSLIKUD KOOSTISOSAD</p><p>Käsitsi valmistatud | Sotsiaalne hüve | Taaskasutatud materjalid | Nulljäätmed | Julmusevaba | Vegan | Loodusvarad | Mittetoksiline<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eurovision</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näokoorija</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:tag>upcircle</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019601088839</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004491632967</id>
+    <published>2025-02-18T20:28:49+02:00</published>
+    <updated>2025-02-18T20:28:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-reveal-purity-powder-scrub-12g"/>
+    <title>BERRICHI Puuderkoorija Scrub 12g</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-reveal-purity-powder-scrub-12g-697773.png?v=1739979951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avasta Berrichi puuderkoorija – õrn ja tõhus koorija, mis eemaldab mustuse ja äratab naha taas ellu. Selle ainulaadse koorija koostisosad ühendavad looduslikud jõud ja teadusliku täpsuse, et muuta sinu nahk siidiselt pehmeks ja värskeks.</p><ul><li>Eemaldab õrnalt mustuse ja surnud naharakud</li><li>Toetab naha uuenemist ja elastsust</li><li>Leevendab põletikke ja vähendab naha ebatasasusi</li><li>Jätab naha siledaks ja matiks, ilma kiskuva tundeta</li><li>Sisaldab võimsaid looduslikke antioksüdante, mis aitavad kaitsta nahka vabade radikaalide eest</li></ul><p><u>Peamised koostisosad:&nbsp;</u></p><ul><li><u>Furtsellaraan</u>– antioksüdant, aitab säilitada naha niiskustasakaalu ja tugevdada naha kaitsebarjääri, aeglustab naha vananemisprotsesse, vähendab põletikke ja kuivust. Furtsellaraani saadakse Eesti vetes kasvanud vetikatest.</li><li><u>Jojoba pärlid</u> – tagavad tõhusa, kuid õrna koorimise.</li><li><u>Bambusjahu</u> – imab tõhusalt endasse liigse rasu, jättes rasusele ja kombineeritud nahale mati ja pehme tunde. Sellel on antibakteriaalsed omadused ning aitab võidelda akne vastu. Soodustab põletike paranemist, rahustab ja reguleerib rasunäärmeid.</li><li><u>Algalite</u> – see vetikapulber aitab nahka koorida õrnalt, ilma mikrovigastusi tekitamata, aitab tasukaalustada rasunäärmete tegevust.</li></ul><p>Sobib kõikidele nahatüüpidele.</p><p><b>Kasutamine:</b> Puista väike kogus koorijat peopesale, lisa paar tilka vett ja hõõru, kuni saad õrna vahu. Kanna saadud segu nahale ning masseeri õrnade ringjate liigutustega. Loputa põhjalikult sooja veega. Kuiva naha puhul kasuta 1x nädalas ja väldi põskesid. Normaalse ja rasuse naha korral sobib kasutamiseks kuni 2x nädalas.</p><p><b>Koostisosad:</b>&nbsp;Bambusa Arundinacea Stem Extract (kooriva toimega Bambusejahu), Oryza Sativa Starch (Riisitärklis), Sodium Lauroyl Glutamate (vahtu tekitav aine), Cellulose (Koorivad oraanžid pärlikesed), Lithothamnion Calcareum Powder (Algalite vetikas) , Hydrogenated Jojoba Oil (Koorivad valged pärlikesed), Furcellaria Lumbricalis Extract (Vetikas), CI 77492, CI 77491.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näokoorija</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004491632967</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">21.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9962896130375</id>
+    <published>2025-02-01T00:17:50+02:00</published>
+    <updated>2025-02-01T00:17:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/clarification-the-radiance-exfoliating-face-scrub-60g"/>
+    <title>Clarification Sära toov näokoorija 60g</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Clarification</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/clarification-the-radiance-exfoliating-face-scrub-60g-543656.jpg?v=1739897187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarification<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clarification usub tulevikku, kus ilu eksisteerib harmooniliselt koos jätkusuutlikkusega.</p><p>100% puhas hooldus, 0% lisatud vett!<br></p><p>Sära toov koorija toimib õrnalt ning toob nahale tagasi selle loomuliku sära. 100% loodusliku päritoluga koostisained koos riisipulbri ja kummeliõie ekstraktidega.<b><br><br>Kasutamine:</b> Sega koorivat pulbrit oma märjal käel, kanna märjale nahale ja masseeri ringjate liigutustega nahale. Loputa hoolikalt.<br><br>Ära hinga tolmu sisse, väldi silma sattumist. </p><p><b>Koostisosad:</b>&nbsp;PUMICE, ORYZA SATIVA (RICE) POWDER, CELLULOSE, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER/LEAF EXTRACT, SACCHARUM OFFICINARUM (SUGAR CANE) EXTRACT, KAOLIN, PRUNUS ARMENIACA (APRICOT) SEED POWDER, PARFUM (FRAGRANCE).</p><p>100% looduslikku päritolu koostisosad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clarification</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näokoorija</s:tag>
+    <s:tag>pulber</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9962896130375</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945383764295</id>
+    <published>2025-01-21T15:40:14+02:00</published>
+    <updated>2025-01-21T15:40:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-detox-ultra-purifying-mud-mask-60ml"/>
+    <title>MÁDARA DETOX puhastav mudamask 60ml</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-detox-ultra-purifying-mud-mask-60ml-293845.jpg?v=1739897183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            25.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puhasta, noorenda ja taasta nahka sügavpuhastava mudamaskiga. Põhjamaade metsade järvemudast koosnev mask toob mitmekülgselt kasu: see klaaristab jumet, ahendab poore, imab endasse üleliigse rasu, vähendab vistrike tekkimist, detoksifitseerib nahka, kõrvaldab akne ja väiksemate ärrituste jäljed ning aitab säilitada naha niiskust. Jätab naha puhtaks, värskeks, elujõuliseks. </p><p><b>Kasutamine:&nbsp;</b> Soovitatav kasutada kaks korda nädalas rasuse, kombineeritud naha puhastamiseks. Kasuta kord nädalas väsinud ja tuhmi naha elustamiseks.</p><p><b>Koostisosad:&nbsp;</b>Aloe Barbadensis (Aloe) Leaf Juice, Kaolin, Glycerin, Montmorillonite, Diatomaceous Earth, Butylene Glycol, Aqua, Sodium PCA, Sodium levulinate, Olea Europaea (Olive) Fruit Oil, Tocopherol, Xanthan Gum, Propanediol, Lactic Acid, Sodium anisate, Glyceryl Caprylate, Charcoal Powder, Alchemilla Vulgaris (Lady's Mantle) Extract, Algae (Algae) Extract, Nasturtium Officinale (Watercress) Flower/Leaf Extract, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), CI 75810 (Chlorophyll), Rhamnose, Maltodextrin, Glucose, Glucuronic Acid</p><p>*Mahepõllumajandusest pärit koostisosad<br>**Puhtad mineraalsed pigmendid<br><br>99% Looduslikku päritolu kogu tootest<br>16% Orgaanilist päritolu kogu tootest<br><br>COSMOS NATURAL sertifikaadiga</p><p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.<br><br>Share</p><!--StartFragment--><!-- x-tinymce/html --><div class="richContent-root-3Sy"></div><div class="richContent-root-3Sy"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945383764295</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945385468231</id>
+    <published>2025-01-21T09:21:55+02:00</published>
+    <updated>2025-01-21T09:21:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-peel-creamy-clay-aha-peel-mask-60ml"/>
+    <title>MÁDARA PEEL AHA savimask 60ml</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-peel-creamy-clay-aha-peel-mask-60ml-458560.jpg?v=1739897164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            25.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kahetoimeline näomask 7% piimhappe ja peensaviga lihvib õrnalt naha pinda, eemaldades surnud naharakud ja vabastades poorid, et tuua esile selgem, värskem ja säravam jume.<br><br>Dermatoloogiliselt testitud koostis  ühtlustab nahatooni ja parandab tekstuuri, muutes naha pehmemaks, siledamaks ja säravamaks.<br><br>Toode on rikastatud valge saviga, mis seob mustust ja aitab vähendada vistrike tekkimist. Jojoobiõlil ja raudrohu ekstraktil on rahustavad ja põletikuvastased omadused.<br><br>Ei sobi õrnale, ülitundlikule nahale.<b><br><br>Kasutamine:</b>&nbsp;Masseeri ringjate liigutustega õrnalt puhtale näole ja kaelale, vältides silmaümbrust. Lase mõjuda 3-10 minutit, loputa korralikult maha. Seejärel kasuta niisutajat.</p><p>Kasuta 2–3 korda nädalas, väldi pärast kasutamist päikese käes viibimist.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Dicaprylyl Carbonate, Kaolin, Lactic Acid, Glycerin, Pentylene Glycol, Polyglyceryl-6 Stearate, Cetearyl Alcohol, Potassium Hydroxide, Simmondsia Chinensis (Jojoba) Seed Oil, Xanthan Gum, Polyglyceryl-6 Behenate, Aroma, Butyrospermum Parkii (Shea) Butter, Palmitic acid, Perlite, Stearic Acid, Achillea Millefolium (Yarrow) Extract, Charcoal Powder, Ascorbyl Palmitate, Tocopherol, Linalool, Geraniol, Citral, Limonene</p><p>COSMOS NATURAL sertifikaadiga<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945385468231</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945391333703</id>
+    <published>2025-01-21T09:09:20+02:00</published>
+    <updated>2025-01-21T09:09:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-sos-hydra-instant-moisture-radiance-mask-60ml"/>
+    <title>MÁDARA SOS HYDRA niisutav mask 60ml</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-sos-hydra-instant-moisture-radiance-mask-60ml-706318.jpg?v=1739897177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            32.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intensiivselt toitev näomask pakub kohest leevendust pingul, stressis ja niiskusvaesuses nahale. Niisutavate looduslike suhkrute, pojengijuure, hüaluroonhappe, linaseemne ja nõgese seguga koostis niisutab ja parandab naha välimust ja tunnet, tagades kohese ja püsiva tulemuse. Rikkaliku tekstuuriga mask hellitab nahka, vähendab väsimuse märke, hooldab, toniseerib, silub ja kaitseb nahka keskkonnakahjustuste ja enneaegse vananemise eest.</p><p><b> Kasutamine: </b>Kasuta kaks korda nädalas või alati, kui nahk tundub pingul, dehüdreeritud ja stressis. Kanna puhtale nahale. Jäta nahale või pühi vatipadja või lapiga 15–20 minuti pärast maha. Maski niisutava toime tugevdamiseks ja pikaajaliste tulemuste tagamiseks kasuta koos MÁDARA SOS Hydra Repair intensiivseerumiga ja/või SOS Hydra Recharge kreemiga.</p><p><b>Koostisosad:&nbsp;</b>Aloe Barbadensis (Aloe) Leaf Juice, Simmondsia Chinensis (Jojoba) Seed Oil, Rosa Damascena (Rose) Flower Water, Cetearyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Arachidyl Alcohol, Behenyl Alcohol, Butyrospermum Parkii (Shea) Butter, Hippophae Rhamnoides (Sea Buckthorn) Fruit Extract, Sodium PCA, Sodium levulinate, Palmitic acid, Stearic Acid, Arachidyl Glucoside, Aqua, Aroma, Betaine, Sodium anisate, Coco-glucoside, Lactic Acid, Linum Usitatissimum (Linseed) Seed Extract, Paeonia Lactiflora (Peony) Root Extract, Urtica Dioica (Nettle) Leaf Extract, Sodium Hyaluronate, Xanthan Gum, Hydrolyzed Hyaluronic Acid, Hydrolyzed Glycosaminoglycans, Ascorbyl Palmitate, Sodium phytate, Tocopherol, Xylitylglucoside, Anhydroxylitol, Benzyl Alcohol, Xylitol, CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), Sodium Benzoate, Potassium Sorbate, Citronellol, Geraniol, Benzyl Salicylate, Eugenol<br></p><p>COSMOS NATURAL sertifikaadiga<br><br>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945391333703</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945379602759</id>
+    <published>2025-01-21T08:51:53+02:00</published>
+    <updated>2025-01-21T08:51:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-peel-brightening-aha-peel-mask-60ml"/>
+    <title>MÁDARA PEEL kirgastav kooriv AHA mask 50ml</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-peel-brightening-aha-peel-mask-60ml-412418.jpg?v=1739897193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            25.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AHA kooriva maskiga toote oma nahale kohese sära. Looduslike aktiivsete hapetega formuleeritud mask toob nahale mitmeti kasu: eemaldab surnud rakud, tuues esile siledama ja säravama nahapinna, koorib, et stimuleerida rakkude uuenemist ja taastumist, kirgastab jumet ning vähendab pigmendilaikude ja peente joonte teket, ahendab poore ja parandab teiste hooldustoodete imendumist ja toimet. Eriti kasulik tuhmile, väsinud nahale, millel on vananemisilmingud, jooned, kortsud, pigmendilaigud,  ummistunud poorid ja akne. </p><p><b>Kasutamine:</b> ​Kanna puhtale nahale, lase mõjuda 3-10 minutit. Loputa hoolikalt maha. Seejärel kasuta oma valitud toonikut ja niisutajat.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Sodium Coco-Sulfate, Coco-Glucoside, Glycerin, Cocamidopropyl Betaine, Parfum, Hydrolyzed Wheat Protein, Gossypium Herbaceum Seed Extract, Glyceryl Oleat, Tocopherol, Hydrogenated Palm Glycerides Citrate, Sodium Levulinate, Sodium Anisate, Sodium Chloride, Glycol Distearate, Citric Acid, Sodium Hydroxide</p><p>COSMOS NATURAL sertifikaadiga</p><p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945379602759</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945051464007</id>
+    <published>2025-01-20T08:36:19+02:00</published>
+    <updated>2025-01-20T08:36:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-circular-face-scrub-50ml"/>
+    <title>NAIF näokoorija 50ml</title>
+    <s:type>Facial Scrub</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-circular-face-scrub-50ml-570470.png?v=1739897161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Facial Scrub<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naïf näokoorija puhastab  ja eemaldab surnud naharakud, stimuleerides rakkude uuenemist. Tulemuseks on särav ja sile nahk. Näokoorija sisaldab ka looduslikke õlisid, nagu makadaamia-, avokaado- ja magusmandliõli. Need koostisained hooldavad nahka ja hoiavad selle pehme ja elastsena, koorismisjärgselt pingul või kiskuvat tunnet tekitamata.&nbsp;<br><br>Kõik Naïfi tooted on 100% vegan, valmistatud õrna lõhnavaga ja dermatoloogiliselt testitud, vabad 26 levinuimast allergeenist. Nahale leebe, tänu tootes sisalduvatele peenetele koorivatele graanulitele, mis võimaldab koorijat mitu korda nädalas kasutada.<b><br><br>Kasutamine:</b> Ilusa ja terve naha saavutamiseks puhasta oma nägu üks või kaks korda nädalas. Niisuta nägu kergelt ja kanna herneterasuurune koorija käe siseküljele. Masseeri koorijat sõrmedega vähemalt 30 sekundit ringjate liigutustega näole. Loputa leige veega.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Calcium Carbonate, Macadamia Integrifolia Seed Oil, Prunus Amygdalus Dulcis Oil, Persea Gratissima Oil, Methylpropanediol, Cetyl Alcohol, Cetearyl Alcohol, Glycerin, Sucrose Stearate, Glyceryl Stearate Citrate, Linum Usitatissimum Oil, Caprylyl Glycol, Parfum, Xanthan Gum, Tocopherol, Phenylpropanol, Bisabolol, Helianthus Annuus Seed Oil, Citric Acid, Sodium Hydroxide</p>
+<p>Taaskasutatud plastikust valmistatud pakend<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mehed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näokoorija</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945051464007</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939539067207</id>
+    <published>2025-01-19T11:15:40+02:00</published>
+    <updated>2025-01-19T11:15:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-facial-masque-50ml"/>
+    <title>Vielö Orgaaniline näomask 50ml</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-facial-masque-50ml-901935.jpg?v=1739897176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Facial Mask<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orgaaniline näomask pakub õrna, kuid tõhusat puhastust, nahka samaaegselt  rahustades ja niisutades.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), valge savi (puhastav), hüaluroonhape (niisutav), orgaaniline nõiapuuvesi (toitev), orgaaniline kibuvitsaseemneõli (rahustav) ja orgaanilised saialille (regenereeriv), kurgi (värskendav) ja kassinaerise (kaitsev) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br>Kasutamine:</b> Kanna rohke kiht toodet puhtale näole ja kaelale. Jäta 15 minutiks, kuni see kuivab. Loputa õrnalt sooja veega. Kasuta üks või kaks korda nädalas.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Hamamelis Virginiana Water**, Rosa Canina Fruit Oil**, Glyceryl Stearate Citrate*, Cetyl Alcohol*, Glycerin**, Helianthus Annuus Seed Oil**, Aqua*, Kaolin*, Butyrospermum Parkii (Shea) Butter**, Triticum Vulgare (Wheat) Germ Oil**, Oenothera Biennis Oil**, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Hyaluronate*, Citric Acid*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Potassium Sorbate, Lavandula Angustifolia Flower Extract**, Cucumis Sativus Fruit Extract**, Malva Sylvestris Flower Extract**, Polyglyceryl-4 Caprate*, Calendula Officinalis Flower Extract**, Sodium Lactate*.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (81,7%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939539067207</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939533988167</id>
+    <published>2025-01-19T11:08:08+02:00</published>
+    <updated>2025-01-19T11:08:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-facial-scrub-50ml"/>
+    <title>Vielö Orgaaniline näokoorija 50ml</title>
+    <s:type>Facial Scrub</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-facial-scrub-50ml-749873.jpg?v=1739897173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Facial Scrub<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrn orgaaniline näokoorija puhastab ja eemaldab tõhusalt surnud naharakud, jättes naha pehmeks ja värskeks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), peeneks jahvatatud aprikoosituumad (kooriv), hüaluroonhape (niisutav), orgaaniline nisuiduõli (toitev) ja orgaanilised kummeli (antiseptiline), kibuvitsa (põletikuvastane) ja saialille (taastav) ekstraktid.&nbsp;<br><br>Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br>Kasutamine:</b> Masseeri õrnalt kuivale ja puhtale nahale. Niisuta sõrmeotsi sooja veega ja masseeri uuesti, kuni koorija muutub valgeks kreemjaks tekstuuriks. Loputa leige veega maha. Kasuta 1-2 korda nädalas.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Glycerin**, Triticum Vulgare (Wheat) Germ Oil**, Prunus Armeniaca Seed Powder**, Aqua*, Xanthan Gum*, Kaolin*, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Anisate, Potassium Sorbate, Citric Acid*, Sodium Hyaluronate*, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Polyglyceryl-4 Caprate*, Rosa Canina Fruit Extract**, Matricaria Chamomilla Flower Extract**, Sodium Lactate*, Calendula Officinalis Flower Extract**.</p><p>* looduslikku päritolu (99,7%)<br>** sertifitseeritud orgaaniline (92,7%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näokoorija</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939533988167</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">37.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9201313055047</id>
+    <published>2024-05-15T15:56:17+03:00</published>
+    <updated>2024-05-15T15:56:17+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-naked-enzyme-peeling-powder-30g"/>
+    <title>HEJ Naked ensüümkoorija 30g</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-naked-enzyme-peeling-powder-30g-875333.png?v=1739897244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ensüümkoorija eemaldab õrnalt, kuid tõhusalt surnud naharakud ning annab nahale pikaajaliselt sileda ja pehme tunde. Tsink ja aselaiinhape aitavad vältida ebapuhtuste teket. Lisaks mõjuvad orgaaniline aprikoosituuma pulber ning orgaaniline jojobaõli eriti õrnalt sinu nahale ning jätavad ühtlase jume ja sileda naha tunde.&nbsp;</p>
+<p>
+<!--StartFragment--></p>
+<ul><li>Naha tüüp: ebapuhas, rasune ja kombineeritud nahk</li>
+<!--EndFragment--><li>Sisalduvad tsink ja aselaiinhape võitlevad ebapuhtustega</li><li>Värske välimus ja sileda naha tunne</li><li>Õrn kooriv toime aitab ühtlast jumet saavutada</li><li>100% lõhnavaba ja looduslik</li></ul>
+<p><b>Kasutamine:</b>&nbsp;Kasuta 1-2 korda nädalas. Kanna sarapuupähklisuurune kogus niisutatud kätele ja aja vahule. Kanna ringjate liigutustega näole, masseeri 1-2 minutit ja seejärel eemalda veega. Pärast ensüümkoorija kasutamist kanna päevasel ajal kindlasti päikesekaitset. Hoida lastele kättesaamatus kohas.</p>
+<p><b>Koostis:&nbsp;</b>Sodium Cocoyl Glutamate, Talc, Maltodextrin, Magnesium Sulfate, Prunus Armeniaca Seed Powder*, Betaine, Aqua, Azelaic Acid, Simmondsia Chinensis Seed Oil*, Prunus Armeniaca Fruit Extract*, Lipase, Protease, Zinc Pca, Bisabolol, Glycerin, Xanthan Gum * from certified organic agriculture<br><br><!--StartFragment-->Orgaaniline | Julmusevaba | Vegan | Looduslik</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>pulber</s:tag>
+    <s:tag>tahke</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9201313055047</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9201261347143</id>
+    <published>2024-05-15T15:56:17+03:00</published>
+    <updated>2024-05-15T15:56:17+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-naked-pink-exfoliating-mask-30ml"/>
+    <title>HEJ Naked Pink kooriv mask 30ml</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-naked-pink-exfoliating-mask-30ml-398506.png?v=1739897243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            15.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hej Pink kooriva maski koostis tagab kolmekordse nahahoolduse: koorimise, niisutuse ja kaitse.&nbsp;</p>
+<p><u>AHA-happed</u> toimivad naha ülemistes kihtides, eemaldades surnud naharakud ja mustuse. <u>BHA-happed </u>tungivad sügavamatesse nahakihtidesse. AHA- ja BHA-happed koos tagavad tõhusa kooriva tulemuse.&nbsp;</p>
+<p>Glütseriinist, pentüleenglükoolist, betaiinist, biosahhariidkummist ja hüaluroonhappest valmistatud <u>viiekordne niisutuskompleks</u> ennetab niiskuskadu ja jätab nahale värske tunde.&nbsp;</p>
+<!--StartFragment--><ul><li>Kolmekordne nahahooldus: koorimine, niisutamine ja kaitse</li><li>Tõhus AHA- ja BHA- hapetega keemiline koorimine naha koheseks pehmendamiseks ja kaitsebarjääri tugevdamiseks&nbsp;</li><li>Viiekordne niisutuskompleks toimib dehüdratsiooni vastu</li><li>Nahatüüp: eriti sobilik ebapuhtale, rasusele ja kombineeritud nahale</li><li>100% lõhnavaba ja looduslik</li></ul>
+<p>Kasutamine: Kanna korra nädalas puhastatud näonahale, väldi silmade ümbrust. Jäta mask 5 minutiks ning seejärel loputa põhjalikult sooja veega. 24 tunni jooksul peale maski pealekandmist kasuta kindlasti päikesekaitsekreemi. Maski esmakordsel kasutamisel vähenda pealekandmisaega 2-3 minutini ning pikenda seda järgemööda. Nahaärrituse ilmnemisel lõpeta kohe kasutamine. Ei sobi ärritunud või tundlikule nahale, ära kasuta haavadel või nende ümbruses. Hoia lastele kättesaamatus kohas.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Helianthus Annuus Seed Oil*, Pentylene Glycol, Betaine, Glycerin, Zea Mays Starch, Salicylic Acid, Xanthan Gum, Pectin, Bisabolol, Dipotassium Glycyrrhizate, Sodium Hydroxide, Citric Acid, Sodium Benzoate, Lactic Acid, Mica, Chondrus Crispus Powder, Sodium Hyaluronate, CI 77891, Tartaric Acid, CI 77491, Tocopherol, Glucose, Biosaccharide Gum-1, Acer Saccharum Extract, Sodium Levulinate, Silica, Glyceryl Caprylate, Sodium Anisate, Tin Oxide, Citrus Limon Peel Oil *ingredients from certified organic agriculture</p>
+<p>Organic | Julmusevaba | Vegan | Looduslik</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9201261347143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9132720357703</id>
+    <published>2024-03-30T21:02:53+02:00</published>
+    <updated>2024-03-30T21:02:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/norrskin-night-repair-face-mask-50ml"/>
+    <title>NorrSkin parandav öine mask 50ml</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>bioskina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/norrskin-night-repair-face-mask-50ml-403415.png?v=1739897341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bioskina<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NorrSkin näomask niisutab, rahustab ja taastab nahka ning toetab epidermise uuendamist. Sisaldab rikkalikult vitamiine ja mineraale, on mittekomedogeenne nahahooldustoode.</p>
+<p><u>Eelised:</u></p>
+<!--StartFragment--><ul><li aria-level="1">Parandab ja taastab kahjustunud, väsinud nahka ning taastab loomuliku terve välimuse</li><li aria-level="1">Niatsiinamiid tasakaalustab õli ja rasu tootmist</li><li aria-level="1">Jojobaõli ja linaseemneõli pehmendavad naha tekstuuri</li><li aria-level="1">Turgutab nahka mineraalide ja vitamiinidega</li><li aria-level="1">Silub nahka, leevendab ärritust</li><li aria-level="1">Niatsiinamiid ja lineseemne ekstrakt toidavad sügavuti ja taastavad naha immuunbarjääri</li><li aria-level="1">Vähendab peenete kurdude ja kortsude nähtavust</li>
+<!--EndFragment--><li aria-level="1">Igapäevasel kasutamisel on maskil tugev vananemisvastane toime</li></ul>
+<p><u>Skvalaan</u> kaitseb nahka veekao eest. Niisutab nahka sügavuti ning selle leebe koostis teeb selle sobilikuks ka tundlikule nahale. Reguleerib rasueritust ning on tugeva vananemisvastase toimega koostisaine.</p>
+<p><u>Linaseemneõlis&nbsp;</u>on rohkelt taimseid oomega-3 rasvhappeid. Loob nahale toitva ja kaitsva kaitsebarjääri.</p>
+<p><u>Aloe vera geel</u> rahustab, puhastab, niisutab ja on antibakteriaalse ning seenevastase toimega.</p>
+<p>97.5% looduslikku päritolu koostisosad, dermatoloogiliselt testitud.</p>
+<p><b>Kasutamine:</b> Kanna rikkalik kogus maski puhtale nahale. Lase imenduda 10-15 minutit ning seejärel masseeri ülejäänud osa ka sisse. Kasuta regulaarselt 1-2 korda nädalas.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Linum Usitatissimum Seed Oil, Squalane, Cetearyl Alcohol, Glycerin, Glyceryl Stearate Citrate, Glyceryl Stearate, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii Butter, 1,2-Hexanediol, Simmondsia Chinensis Seed Oil, Hamamelis Virginiana Water, Linum Usitatissimum Seed Extract, Fragaria Vesca Fruit Extract, Sodium Hyaluronate, Helianthus Annuus Seed Oil, Tocopherol, Pantolactone, Panthenol, Xanthan Gum, Parfum, Lactic Acid, Sodium Phytate, Sodium Benzoate, Potassium Sorbate, Hydroxyacetophenone, Linalool, Citronellol, Hexyl Cinnamal.<br><br><!--StartFragment-->Natural sertifikaat | Clean sertifikaat | Vegan sertifikaat<!--EndFragment--><br><br>Inspireeritud Rootsist, Hälsinglandist.</p>
+<p>NorrSkin istutab 1 puu iga müüdud toote kohta.<br></p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>norrskin</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9132720357703</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">36.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

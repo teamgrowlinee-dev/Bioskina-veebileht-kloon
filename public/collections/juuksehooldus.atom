@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/juuksehooldus.atom"/>
+  <title>bioskina</title>
+  <updated>2025-08-26T10:05:10+03:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/10304865075527</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-reconstruction-hair-mask-50ml-copy"/>
+    <title>BEE IT Reconstruction Hair Mask 1000ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-1000ml-6779386.png?v=1756222787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            46.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">A concentrated repairing post shampoo mask which gratifies for its immediate effectiveness. Gives strength and elasticity, deeply hydrating and nourishing for a healthy, luminous and plumped up hair.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Apply after shampooing to towel-dried hair. Leave on for 5-10 minutes, then comb and rinse. </span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">*Organic</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">100% Natural Ingredients</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Made in Italy</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10304865075527</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10303987679559</id>
+    <published>2025-08-26T10:05:09+03:00</published>
+    <updated>2025-08-26T10:05:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-reconstruction-hair-mask-50ml"/>
+    <title>BEE IT Reconstruction Hair Mask 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-200ml-244590.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">A concentrated repairing post shampoo mask which gratifies for its immediate effectiveness. Gives strength and elasticity, deeply hydrating and nourishing for a healthy, luminous and plumped up hair.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Apply after shampooing to towel-dried hair. Leave on for 5-10 minutes, then comb and rinse. </span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">*Organic</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">100% Natural Ingredients</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">“Less plastic is fantastic” packaging is using 70% less plastic compared to a normal bottle pack. Less bulk, being soft and doesn’t break, generates a better recycling chain and allows use of all its contents.</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Made in Italy</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10303987679559</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10084352393543</id>
+    <published>2025-03-28T09:16:54+02:00</published>
+    <updated>2025-03-28T09:16:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/magrada-moisturizing-hair-mask-with-rhubarb-extract-refill-100ml"/>
+    <title>Magrada Moisturizing Hair Mask with Rhubarb Extract Refill 500ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-refill-500ml-702844.png?v=1743213040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            30.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Voluminous, shiny, healthy – we have created a professional hair care collection for you to enjoy beautiful salon hair every day.</p>
+<p>The gold medal-winning (Pure Beauty Global Awards 2021 Winner) hair mask is designed for intensive nurturing and moisturising of dry and damaged hair.</p>
+<p>The rhubarb hair mask with castor oil and macadamia oil pampers, revives, and smooths damaged hair. The vitality of the plants has a balancing and nurturing effect. The natural care improves the hair structure and reduces damage, adding a captivating shine to the hair.</p>
+<p>The silky, creamy composition will give the hair a spring-like freshness and the juicy aroma of rhubarb.</p>
+<ul>
+<li>Thanks to its anti-inflammatory and anti-bacterial properties, <span style="text-decoration: underline;">rhubarb root extract</span> soothes a sensitive and irritated scalp.</li>
+<li>
+<span style="text-decoration: underline;">Macadamia oil</span> is rich in fatty acids and potassium, which will make your hair stronger and easier to comb. Macadamia oil contains antioxidants which help the hair to recover from damaging environmental impacts.</li>
+<li>
+<span style="text-decoration: underline;">Castor oil</span> has an anti-microbial effect, which helps to reduce dandruff and other scalp issues deteriorating hair health. The vitamin E in the oil moisturises hair roots and gives the hair a healthy shine.</li>
+</ul>
+<p><strong>How to use:</strong> Apply the mask on damp hair after shampooing, starting from the tips. Leave in for 5–15 minutes, then rinse with plenty of water.</p>
+<p>Store at a temperature of 5 to 25 degrees. When storing, protect from direct sunlight. Do not store the product near heaters or other heat sources.</p>
+<p><strong>Ingredients:</strong> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Ingredients of natural origin: 94,16%.</p>
+<p>The list of ingredients may be changed. Please see the packaging for the updated and most accurate list of ingredients.</p>
+<p><span>paraben-free </span><span>|</span><span> sulphate-free </span><span>|</span><span> silicone-free </span><span>|</span><span> vegan </span><span>|</span><span> alcohol-free | EU allergen-free | cruelty-free </span><span>|</span><span> hand-made </span><span>|</span><span> with a minimal list of ingredients</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10084352393543</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/10084341285191</id>
+    <published>2025-03-28T09:16:53+02:00</published>
+    <updated>2025-03-28T09:16:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/magrada-moisturizing-hair-mask-with-rhubarb-extract-travel-size-100-ml"/>
+    <title>Magrada Moisturizing Hair Mask with Rhubarb Extract Travel Size 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-travel-size-100ml-344835.png?v=1743213039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p>Voluminous, shiny, healthy – we have created a professional hair care collection for you to enjoy beautiful salon hair every day.</p>
+<p>The gold medal-winning (Pure Beauty Global Awards 2021 Winner) hair mask is designed for intensive nurturing and moisturising of dry and damaged hair.</p>
+<p>The rhubarb hair mask with castor oil and macadamia oil pampers, revives, and smooths damaged hair. The vitality of the plants has a balancing and nurturing effect. The natural care improves the hair structure and reduces damage, adding a captivating shine to the hair.</p>
+<p>The silky, creamy composition will give the hair a spring-like freshness and the juicy aroma of rhubarb.</p>
+<ul>
+<li>Thanks to its anti-inflammatory and anti-bacterial properties, <span style="text-decoration: underline;">rhubarb root extract</span> soothes a sensitive and irritated scalp.</li>
+<li>
+<span style="text-decoration: underline;">Macadamia oil</span> is rich in fatty acids and potassium, which will make your hair stronger and easier to comb. Macadamia oil contains antioxidants which help the hair to recover from damaging environmental impacts.</li>
+<li>
+<span style="text-decoration: underline;">Castor oil</span> has an anti-microbial effect, which helps to reduce dandruff and other scalp issues deteriorating hair health. The vitamin E in the oil moisturises hair roots and gives the hair a healthy shine.</li>
+</ul>
+<p><strong>How to use:</strong> Apply the mask on damp hair after shampooing, starting from the tips. Leave in for 5–15 minutes, then rinse with plenty of water.</p>
+<p>Store at a temperature of 5 to 25 degrees. When storing, protect from direct sunlight. Do not store the product near heaters or other heat sources.</p>
+<p><strong>Ingredients:</strong> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Ingredients of natural origin: 94,16%.</p>
+<p>The list of ingredients may be changed. Please see the packaging for the updated and most accurate list of ingredients.</p>
+<p><span>paraben-free </span><span>|</span><span> sulphate-free </span><span>|</span><span> silicone-free </span><span>|</span><span> vegan </span><span>|</span><span> alcohol-free | EU allergen-free | cruelty-free </span><span>|</span><span> hand-made </span><span>|</span><span> with a minimal list of ingredients</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10084341285191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9945653117255</id>
+    <published>2025-01-21T20:04:32+02:00</published>
+    <updated>2025-01-21T20:04:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-feed-repair-dry-rescue-hair-mask-180ml"/>
+    <title>MÁDARA FEED Repair &amp; Dry Rescue hair mask 180ml</title>
+    <s:type>Hair Mask</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-feed-repair-dry-rescue-hair-mask-180ml-298387.png?v=1740808672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Hair Mask<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal" style="text-align: justify;">Deeply nourish your hair with this exceptional oil blend and fungi-based restructure mask that also prevents fiber damage , preserves colour and softens the hair.  Strengthens the lipid matrix and improves protection against mechanical damage and heat appliance to ensure silky smooth high-shine hair for days.</p>
+<p class="MsoNormal" style="text-align: justify;"><b>How to use: </b><span style="font-family: 'Arial',sans-serif;">​​​​</span>Apply to clean, damp hair lengths and ends. Leave in for 5–10 minutes and rinse out thoroughly.</p>
+<p class="MsoNormal" style="text-align: justify;"><b>Ingredients:</b> Cantharellus cibarius (chanterelle) extract, Cetearyl Alcohol, Distearoylethyl Dimonium Chloride, Glycerin, Brassica Alcohol, PCA Glyceryl Oleate, Sodium PCA, Brassicyl Isoleucinate Esylate, Lactic Acid, Aroma, Cocos Nucifera (Coconut) Oil, Xylitylglucoside, Butylene Glycol, Guar Hydroxypropyltrimonium Chloride, Benzyl Alcohol, Anhydroxylitol, Persea Gratissima (Avocado) Oil, Hydrolyzed Wheat Protein, Sodium Benzoate, Xylitol, Hydrolyzed Keratin, Potassium Sorbate, Ascorbyl Palmitate, Butyrospermum Parkii (Shea) Butter, Oenothera Biennis (Evening Primrose) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tocopherol, Crambe Maritima (Sea Kale) Leaf Extract, Leuconostoc/Radish Root Ferment Filtrate, Linalool, Limonene, Citrus Aurantium Peel Oil, Juniperus Virginiana Oil, Benzyl Salicylate</p>
+<p class="MsoNormal" style="text-align: justify;">COSMOS ORGANIC certified</p>
+<p class="MsoNormal" style="text-align: justify;">Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>madara</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9945653117255</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9674447552839</id>
+    <published>2024-10-04T15:10:26+03:00</published>
+    <updated>2024-10-04T15:10:26+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-hydrating-hair-mist-100ml"/>
+    <title>HOIA Hydrating Hair Mist 100ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-hydrating-hair-mist-100ml-963057.jpg?v=1739897245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Pleasantly scented hydrating spray helps to keep hair healthy, strong and shiny. Spray contains locally sourced nettle extract and rice water to strengthen hair, plant-based keratin, deeply moisturizing hyaluronic acid and aloe, hair-softening seaweed extracts and plant hydrosols, nourishing oils and shine-enhancing essential oils.</span></p>
+<p><strong>How to use:</strong> Shake the bottle before use and spray an appropriate amount onto wet or dry hair. No need to rinse hair.</p>
+<p><strong>Ingredients:</strong> <span>*Salvia Officinalis Distillate water, *Achillea Millefolium Distillate water, Oryza Sativa Seed water, Chodrus Crispus extract, Sargassum Fluitans/Natans extract, Hydrolyzed Wheat Protein, Crambe Abyssinica Seed oil, *Nigella Sativa Seed oil, Saccharomyces Ferment, Lactobacillus Ferment, Hydronated Sodium Hyaluronate, Glycerin, Aloe Barbadensis Leaf juice, Sodium Levulinate, Urtica Dioica Plant extract, Pentylene Glycol, Sodium Anisate, *Lavandula Angustifolia oil, *Pelargonium Graveolens oil, Citric Acid. **Citral, **Geraniol, **Linalool, **Limonene, **Citronellol. </span></p>
+<p><span>*Organic. **Natural components of essential oil</span></p>
+<p>Handmade in Saaremaa</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674447552839</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/8975923675463</id>
+    <published>2024-05-19T20:32:26+03:00</published>
+    <updated>2024-05-19T20:32:26+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/rhubarb-hair-mask-with-castor-oil-250-ml"/>
+    <title>Magrada Moisturizing Hair Mask with Rhubarb Extract 250ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-hair-mask-with-rhubarb-extract-250ml-9001472.png?v=1763665705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            15.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><img class="alignnone wp-image-11509" src="https://www.magrada.eu/wp-content/uploads/2020/12/5-300x300.png" alt="pure beauty global awards 2021" width="100" height="100"><img class="alignnone wp-image-11514" src="https://www.magrada.eu/wp-content/uploads/2020/12/6-1-300x300.png" alt="pure beauty global awards 2021" width="100" height="100"><img class="alignnone wp-image-11524" src="https://www.magrada.eu/wp-content/uploads/2020/12/8-300x300.png" alt="global green beauty awards 2021" width="100" height="100"><img class="alignnone wp-image-11519" src="https://www.magrada.eu/wp-content/uploads/2020/12/7-300x300.png" alt="buduaar beauty award 2022" width="100" height="100"></p>
+<p>Voluminous, shiny, healthy – we have created a professional hair care collection for you to enjoy beautiful salon hair every day.</p>
+<p>The gold medal-winning (Pure Beauty Global Awards 2021 Winner) hair mask is designed for intensive nurturing and moisturising of dry and damaged hair.</p>
+<p>The rhubarb hair mask with castor oil and macadamia oil pampers, revives, and smooths damaged hair. The vitality of the plants has a balancing and nurturing effect. The natural care improves the hair structure and reduces damage, adding a captivating shine to the hair.</p>
+<p>The silky, creamy composition will give the hair a spring-like freshness and the juicy aroma of rhubarb.</p>
+<ul>
+<li>Thanks to its anti-inflammatory and anti-bacterial properties, <span style="text-decoration: underline;">rhubarb root extract</span> soothes a sensitive and irritated scalp.</li>
+<li>
+<span style="text-decoration: underline;">Macadamia oil</span> is rich in fatty acids and potassium, which will make your hair stronger and easier to comb. Macadamia oil contains antioxidants which help the hair to recover from damaging environmental impacts.</li>
+<li>
+<span style="text-decoration: underline;">Castor oil</span> has an anti-microbial effect, which helps to reduce dandruff and other scalp issues deteriorating hair health. The vitamin E in the oil moisturises hair roots and gives the hair a healthy shine.</li>
+</ul>
+<p><strong>How to use:</strong> Apply the mask on damp hair after shampooing, starting from the tips. Leave in for 5–15 minutes, then rinse with plenty of water.</p>
+<p>Store at a temperature of 5 to 25 degrees. When storing, protect from direct sunlight. Do not store the product near heaters or other heat sources.</p>
+<p><strong>Ingredients:</strong> Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Behentrimonium Methosulfate, Macadamia Ternifolia (Macadamia) Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetyl Alcohol, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Parfum, Butylene Glycol, Rheum Palmatum (Rhubarb) Root Extract, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin</p>
+<p>Ingredients of natural origin: 94,16%.</p>
+<p>The list of ingredients may be changed. Please see the packaging for the updated and most accurate list of ingredients.</p>
+<p><span>paraben-free </span><span>|</span><span> sulphate-free </span><span>|</span><span> silicone-free </span><span>|</span><span> vegan </span><span>|</span><span> alcohol-free | EU allergen-free | cruelty-free </span><span>|</span><span> hand-made </span><span>|</span><span> with a minimal list of ingredients</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/8975923675463</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9175632150855</id>
+    <published>2024-04-28T20:20:14+03:00</published>
+    <updated>2024-04-28T20:20:14+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/naif-easy-styling-hair-lotion-for-baby-kids-150ml"/>
+    <title>NAIF Easy Styling Hair Lotion for Baby &amp; Kids 150ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-easy-styling-hair-lotion-for-baby-kids-150ml-404694.png?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">A hair lotion to tame and take care of wild kids hair. Naïf's Easy Styling Hair Lotion makes combing easier and reduces tangles and frizz for all hair types. </span></p>
+<ul>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;" class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Hair lotion with natural ingredients that doesn't make the hair greasy</span></li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;" class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Softens knots and tangles in the hair and reduces frizz in curls</span></li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;" class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Can also be used with cradle cap</span></li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="mso-bidi-font-family: Arial;">For use on babies and children, for all hairtypes</span></li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><span style="mso-bidi-font-family: Arial;">Does not contain microplastics, mineral oils, SLES or silicones</span></li>
+</ul>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use: </span></b><span style="mso-bidi-font-family: Arial;">Spray on towel-dried hair from 30 cm away. Massage gently, comb through the hair and style. Suitable for daily use.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua/Water, Methylpropanediol, Caprylyl/Capryl Glucoside, Glycerin, Gossypium Hirsutum (Cotton Seed) Extract, Caprylyl Glycol, Phenylpropanol, Inulin, Betaine, Sodium Cocoyl Glutamate, Glyceryl Caprylate, Polyglyceryl-6 Oleate, Sodium Surfactin, Parfum/Fragrance (allergen-free), Lactic Acid, Citric Acid, Sodium Hydroxide</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Bottle made from recycled plastic</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9175632150855</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9148187410759</id>
+    <published>2024-04-09T15:29:04+03:00</published>
+    <updated>2024-04-09T15:29:04+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/bee-it-reconstruction-hair-mask-250ml-1"/>
+    <title>BEE IT Reconstruction Hair Mask 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-reconstruction-hair-mask-200ml-244590.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">A concentrated repairing post shampoo mask which gratifies for its immediate effectiveness. Gives strength and elasticity, deeply hydrating and nourishing for a healthy, luminous and plumped up hair.</span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">How to use:</span></b><span style="mso-bidi-font-family: Arial;"> Apply after shampooing to towel-dried hair. Leave on for 5-10 minutes, then comb and rinse. </span></p>
+<p class="MsoNormal"><b><span style="mso-bidi-font-family: Arial;">Ingredients:</span></b><span style="mso-bidi-font-family: Arial;"> Aqua, Behenamidopropyl dimethylamine, Cetearyl alcohol, Lactic acid, Phenoxyethanol, Parfum, Guar hydroxypropyltrimonium chloride, Tocopheryl acetate, Sorbitol, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Olea europaea fruit oil*, Opuntia ficus-indica seed oil, Glycerin, Myrtus communis extract, Panthenol, Hamamelis virginiana leaf extract*, Mel*, Propolis, Retinyl palmitate, Limonene, Linalool, Sodium benzoate, Potassium sorbate.</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">*Organic</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">100% Natural Ingredients</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Animal Friendly | No Paraffin | No Silicones | No Parabens | 100% Recyclable</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">“Less plastic is fantastic” packaging is using 70% less plastic compared to a normal bottle pack. Less bulk, being soft and doesn’t break, generates a better recycling chain and allows use of all its contents.</span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">By purchasing BEE IT cosmetics  you contribute to the creation of new bee oasis. </span></p>
+<p class="MsoNormal"><span style="mso-bidi-font-family: Arial;">Made in Italy</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>juuksehooldus</s:tag>
+    <s:tag>juuksemask</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9148187410759</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

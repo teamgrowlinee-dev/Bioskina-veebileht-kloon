@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/naopuhastus.atom"/>
+  <title>bioskina</title>
+  <updated>2026-02-18T15:06:00+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10656408305991</id>
+    <published>2026-02-18T15:06:00+02:00</published>
+    <updated>2026-02-18T15:06:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-melting-cleansing-oil-100ml"/>
+    <title>MÁDARA Sulav puhastusõli 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-melting-cleansing-oil-100ml-3502637.jpg?v=1771463660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õlipõhine puhastusvahend toitvate lipiididega puhastab nahka sügavuti, kuid õrnalt, eemaldades nii kauakestva meigi kui mineraalse päikesekaitsekreemi. Eemaldab mustuse nahka ärritamata või selle loomulikku kaitsebarjääri häirimata. </p><p>Õli sulab veega kokkupuutel ja on kergesti maha loputatav. Jätab naha puhtaks, luksuslikult pehmeks ja toidetuks. Sobib kasutamiseks silmade ümbruses.</p><p><b> Kasutamine:</b> Masseeri õli kuivale või niiskele nahale, lisa veidi vett. Loputa hoolikalt ja järgi oma tavapärast näopuhastusrutiini. Sobib kahekordseks puhastuseks.</p><p><b></b>﻿<b>Koostisosad:&nbsp;</b>CAPRYLIC/CAPRIC TRIGLYCERIDE; GLYCERIN**; HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*; AQUA; SUCROSE LAURATE; SUCROSE PALMITATE; AROMA; ALCOHOL; TOCOPHEROL; CI 77163 (BISMUTH CHLORIDE OXIDE)****; OENOTHERA BIENNIS (EVENING PRIMROSE) OIL*; PRUNUS AMYGDALUS DULCIS (ALMOND) OIL*; GLYCOSPHINGOLIPIDS; GLYCOLIPIDS; BENZYL SALICYLATE**; LIMONENE**; CITRUS AURANTIUM PEEL OIL; CITRAL**</p><p>*Mahepõllumajandusest saadud koostisained<br>**Toodetud ökoloogilistest koostisainetest<br>***Looduslikest eeterlikest õlidest<br>****Puhtad mineraalpigmendid</p><p>100% Looduslikku päritolu<br>﻿39% Mahepõllumajanduslikku päritolu</p><p>Palun arvesta, et koostisainete nimekiri võib muutuda ning aeg-ajalt pisut erineda kodulehel kuvatud teabest. Kõige värskem ja täpsem koostisainete nimekiri on kuvatud toote pakendil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10656408305991</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10656406438215</id>
+    <published>2026-02-18T15:06:00+02:00</published>
+    <updated>2026-02-18T15:06:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-cleansing-milk-200ml"/>
+    <title>MÁDARA Puhastuspiim 200ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-cleansing-milk-200ml-1698263.jpg?v=1771463649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puhasta nahk ja eemalda meik selle õrna ja rahustava puhastuspiimaga. Valmistatud uuendusliku 100% looduslike õlide kompleksiga, mis hõlbustab meigi eemaldamist ja toob nahale siidiselt sileda tunde. Eemaldab õrnalt, kuid tõhusalt isegi veekindla meigi, jättes naha pehmeks, värskeks ja niisutatuks. Parandab järgnevalt kasutatavate niisutajate toimet. Mitteärritav sametine koostis sobib kasutamiseks ka silmade ümbruses. </p><p><b>Kasutamine:</b> Kanna väike kogus vatipadjale, et eemaldada meik ja puhastada nahk mustusest. Loputa veega või pühi puhta vatipadja või lapiga. Seejärel kanna peale niisutaja.&nbsp;</p><p><b>Koostisosad:</b>&nbsp;ALOE BARBADENSIS (ALOE) LEAF JUICE*; HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*; SUCROSE DISTEARATE; PENTYLENE GLYCOL; BUTYROSPERMUM PARKII (SHEA) BUTTER*; ISOAMYL LAURATE; SUCROSE STEARATE; GLYCERIN**; AROMA; PALMITIC ACID; STEARIC ACID; XANTHAN GUM; LACTIC ACID; GLYCERYL CAPRYLATE; AVENA SATIVA (OAT) KERNEL EXTRACT*; CALENDULA OFFICINALIS (CALENDULA) FLOWER EXTRACT*; PLANTAGO MAJOR (PLANTAIN) LEAF EXTRACT*; TILIA CORDATA (LINDEN) FLOWER EXTRACT*; AQUA; ASCORBYL PALMITATE; SODIUM PHYTATE; TOCOPHEROL; VANILLIN; JASMINUM OFFICINALE (JASMINE) EXTRACT; LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE; BENZYL SALICYLATE***; LIMONENE***; CITRUS AURANTIUM PEEL OIL; CITRAL***; CITRONELLOL***; GERANIOL***; EUGENOL***</p><p>*Mahepõllumajandusest saadud koostisained<br>**Toodetud ökoloogilistest koostisainetest <br>﻿***Looduslikest eeterlikest õlidest</p><p>100% Looduslikku päritolu<br>﻿25% Mahepõllumajanduslikku päritolu</p><p>Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10656406438215</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019687727431</id>
+    <published>2025-02-28T09:54:55+02:00</published>
+    <updated>2025-02-28T09:54:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/upcircle-beauty-cleansing-face-milk-with-aloe-vera-neroli-flower-120ml"/>
+    <title>UpCircle Puhastav näopiim aloe vera ja kaerapulbriga 120ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>UpCircle Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/upcircle-beauty-cleansing-face-milk-with-aloe-vera-upcycled-oat-powder-120ml-169518.png?v=1740808672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpCircle Beauty<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrn näopuhastusvahend on valmistatud toidu- ja joogitööstusest pärinevast ümbertöödeldud kaerajahust. Näole kandes taastab kreemjas kaerajahu naha niiskusbarjääri.<br></p>
+<p>Mitmete auhindadega pärjatud näopuhastusvahendil on piimjas ja kreemjas koostis, mis niisutab ja toidab nahka. <br>Kujuta ette kaerajahu kui kaerapiima teie latte jaoks ja teisi koostisosi kui nahasõbralikke siirupitilku. Igapäevane vegan näopuhastusvahend sobib kõikidele nahatüüpidele ning jätab naha võiselt pehmeks.</p>
+<p><b>Kasutamine:</b> Masseeri sõrmede vahel ja kanna näole ringjate liigutustega, liikudes alt ülespoole. Loputa sooja veega. Väldi silma sattumist.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Aloe Barbadensis Leaf Extract, Glycerin, Citrus Aurantium Amara (Neroli) Flower Water, Cetyl Alcohol, Glyceryl Stearate, Helianthus Annuus Seed Oil, Cocos Nucifera (Coconut) Fruit Oil, Avena Sativa (Oatmeal) Kernel Flour, Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citrus Grandis (Grapefruit) Peel Oil, Pelargonium Graveolens (Geranium) Flower Oil, Citrus Aurantium Amara (Petitgrain) Leaf Oil, Citrus Aurantium Amara (Neroli) Flower Oil, Tocopherol, Sodium Stearoyl Lactylate, Dehydroacetic Acid, Benzyl Alcohol, Limonene*, Linalool*, Citronellol*, Geraniol*.</p>
+<p>*Loetletud eeterlike õlide looduslik koostisosa<br><br>99% LOODUSLIKUD KOOSTISOSAD<br><br>Käsitsi valmistatud | Sotsiaalne hüve | Taaskasutatud materjalid | Nulljäätmed | Julmusevaba | Vegan | Loodusvarad | Mittetoksiline</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:tag>upcircle</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019687727431</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004486193479</id>
+    <published>2025-02-18T20:45:16+02:00</published>
+    <updated>2025-02-18T20:45:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-deep-cleansing-makeup-oil-100ml"/>
+    <title>BERRICHI Meigieemaldusõli Makeup Oil 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-deep-cleansing-makeup-oil-100ml-710668.png?v=1739979951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avasta õrn, kuid tõhus viis meigi eemaldamiseks – Berrichi looduslik meigieemaldusõli Makeup Oil. See innovaatiline kaks-ühes toode mitte ainult ei eemalda meiki, vaid ka hellitab sinu nahka kuue väärtusliku õliga.</p><ul><li>Sobib kõikidele nahatüüpidele, sealhulgas tundlikule nahale</li><li>Eemaldab efektiivselt ka veekindla meigi</li><li>Muutub veega kokkupuutel õrnaks emulsiooniks</li><li>Puhastab põhjalikult poorid</li><li>Jätab naha siidpehmeks ja niisutatuks</li></ul><p><u>Peamised koostisosad:&nbsp;</u></p><ul><li><u>Astaksantiin</u> – antioksüdant, tõhusaim looduslik vananemisvastane aine, millel on võime läbida rakumembraane, mõjutades nahka sügavuti. Stimuleerib kollageeni tootmist, tasakaalustab naha niiskusetaset, kaitseb nahka keskkonnategurite eest.</li><li><u>Cacay-õli </u>– sisaldab rikkalikult A- ja E-vitamiine.  Aitab vähendada kortse ja parandada naha elastsust, ergutab kollageeni tootmist ja rakkude uuenemist.</li><li><u>Astelpajuõli </u>– antioksüdantiderohke, niisutab nahka ja toetab selle taastumist. Sisaldab C-vitamiini ja rasvhappeid, pakkudes nahale terviklikku hoolt, lisaks on ta põletikuvastase toimega.</li><li><u>Kookosõli (tahkete osadeta)</u> – sügavalt niisutav, antibakteriaalne ning aitab vähendada põletikku. Kiirendab naha paranemisprotsesse.</li><li><u>Jojobaõli </u>– reguleerib rasu eritust ja on kergesti imenduv. Tasakaalustab naha niiskuse taset ja on antibakteriaalsete omadustega.</li><li><u>Aprikoosituumaõli</u> – pehmendav, toitev ja aitab vähendada vananemise märke. Vitamiinide ja antioksüdantide rikas, parandab naha elastsust.</li><li><u>Oliiviõli</u> – tugev antioksüdant. Kaitseb nahka väliste kahjustuste eest ja toetab naha loomulikku uuenemist.</li></ul><p>Sobib kõikidele nahatüüpidele.</p><p><b>Kasutamine:&nbsp;</b>Enne kasutamist loksutada. Kanna õli puhaste kuivade kätega kuivale nahale ning masseeri õrnalt ringjate liigutustega. Aktiveeri näol olev õli sooja veega ja masseeri veel, et tekiks õrnalt piimjas emulsioon, mis sulatab nahalt lahti kogu meigi. Loputa rohke sooja veega. Jätka näpuhastust näopesuvahu või -geeliga.</p><p><b>Koostisosad:</b>&nbsp;Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Olea Europaea Fruit Oil, Aleurites Moluccanus Seed Oil, Caryodendron Orinocense Seed Oil*, Polyglyceryl-2 Sesquioleate , Simmondsia Chinensis Seed Oil*, Prunus Armeniaca Kernel Oil*, Polyglyceryl-6 Caprylate/Polyglyceryl-3 Cocoate/Polyglyceryl-4 Caprate/Polyglyceryl-6 Ricinoleate, Hippophae Rhamnoides Fruit Extract, Tocopherol/Helianthus Annuus Seed Oil, Haematococcus pluvialis.</p><p>* Mahepõllumajandusest pärit koostisosad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>meigieemaldus</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004486193479</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10004489503047</id>
+    <published>2025-02-18T20:33:38+02:00</published>
+    <updated>2025-02-18T20:33:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/berrichi-face-wash-foam-150ml"/>
+    <title>BERRICHI Näopesuvaht Foam 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-face-wash-foam-150ml-999971.png?v=1739979952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            26.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avasta täiuslik tasakaal tõhusa puhastuse ja õrna hoolduse vahel. Berrichi näopuhastusvaht on loodud selleks, et pakkuda sinu nahale looduslähedast hooldust. Vaht puhastab õrnalt mustuse ja meigijäägid, vaht ei riku naha loomulikku tasakaalu ning tulemuseks on puhas ja sametine näonahk.</p><ul><li>Sobib ka õrna meigi eemaldamiseks</li><li>Sobib igapäevaseks kasutamiseks</li><li>Eemaldab nahalt mustuse ja jäägid</li><li>Õrnalt kooriva toimega</li><li>Sisaldab vananemisvastaseid koostisosi</li><li>Annab nahale värske ja puhta tunde</li></ul><p><u>Peamised koostisosad:</u></p><ul><li><u>Furtsellaraan</u>– antioksüdant, aitab säilitada naha niiskustasakaalu ja tugevdada naha kaitsebarjääri, aeglustab naha vananemisprotsesse, vähendab põletikke ja kuivust. Furtsellaraani saadakse Eesti vetes kasvanud vetikatest.</li><li><u>Astaksantiin</u> – antioksüdant, tõhusaim looduslik vananemisvastane aine, millel on võime läbida rakumembraane, mõjutades nahka sügavuti. Stimuleerib kollageeni tootmist, tasakaalustab naha niiskusetaset, kaitseb nahka keskkonnategurite eest.</li><li><u>Sõrmlaimi ekstrakt Lime Pearl™</u> – sisaldab looduslikke AHA-happeid. Need koorivad õrnalt surnud naharakud, muutes naha pehmeks, ühtlaseks ja säravaks.</li></ul><p><b>Kasutamine:</b>&nbsp;Kanna vaht niiskele nahale õrnalt masseerides, masseeri õrnade ringjate liigutustega vähemalt 30 sekundit ja seejärel loputa hoolikalt. Kui jätad vahu nahale pikemalt, siis see toimib nagu õrnalt kooriv näomask.</p><p><b>Koostisosad:&nbsp;</b>Aqua (Water), Glycerin, Disodium/Sodium Cocoyl Glutamate (Protelan AG 37), Lauroyl/Myristoyl Methyl Glucamide (Glucotain Flex), Decyl Glucoside (ELOTANT MILCOSIDE 302), Polyglyceryl-6 Caprylate/Polyglyceryl-3 Cocoate/Polyglyceryl-4 Caprate/Polyglyceryl-6 Ricinoleate (TEGO® Solve 61), Glycerin/Water/Microcitrus Australasica Fruit Extract (LIME PEARL™ AF), Capryloyl/Caproyl Anhydro Methyl Glucamide/Water (Velsan® Flex), Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)*, Potassium Sorbate, Furcellaria Lumbricalis extract (Furcellaran), Citric Acid, Haematococcus pluvialis/Tocopherol (Astaxanthin oil).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10004489503047</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945064571207</id>
+    <published>2025-01-20T13:59:19+02:00</published>
+    <updated>2025-01-20T13:59:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-neroli-purifying-cream-cleanser-200ml"/>
+    <title>NURME Neroli puhastav kreem-vaht 200ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-neroli-purifying-cream-cleanser-200ml-285031.jpg?v=1739897168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik puhastav kreem-vaht on rikastatud pehmendava ja kooriva neroli ja kirevilja ekstraktidega ning sobib kõikidele nahatüüpidele. Sisaldab rohkelt C- ja E-vitamiine, mis taaselustavad sinu nahka. Kreemjas puhastusvahend sisaldab puuviljavitamiine A- ja C, mis kaitsevad sinu nahka keskkonna saasteainete eest.<br><br>Neroli õli, mida toodetakse mõruapelsini õitest, omab võimsaid antimikroobseid ja antibakteriaalseid omadusi, sobides ideaalselt aknele kalduvale nahale ja ummistunud pooridele. See aitab reguleerida rasu tootmist ja tasakaalustada rasust nahka. Antioksüdantide ja E-vitamiini poolest rikkal neroli õlil on ka vananemis- ja vistrikevastane toime, võideldes vabade radikaalidega ning vähendades põletikku ja punetust.<br><br>Nurme on pühendunud oma toodete mõju pidevale parandamisele läbi kogu toote elutsükli. Pakendatud ringlussevõetavasse PET-pakendisse, mille kerge kaal aitab vähendada transpordi ajal tekkivat süsinikuheidet.<b><br><br>Kasutamine: </b>Masseeri väike kogus toodet kogu näole, loputa veega. Väldi silma sattumist.</p><p><b>Koostisosad:</b>&nbsp;Helianthus Annuus Seed Oil*, Aqua*, Citrus Aurantium Dulcis Flower Water*, Coco-Glucoside**, Passiflora Edulis Seed Oil*, Glycerin**, Cocamidopropyl Betaine**, Betain**, Sodium Levulinate**, Lactic Acid**, CI 77891**, Xanthan Gum**, Hectorite**, Cellulose**, Sodium Anisate**, Tocopherol**, Panthenol*, Mica**, Citrus Aurantium Flower Oil*, Benzyl Alcohol**, Passiflora Incarnata Extract*, Linalool***, Sodium Benzoate**, Potassium Sorbate**, Limonene***, Sodium Citrate**.</p><p>* Looduslikku päritolu<br>﻿** Looduskosmeetikas heakskiidetud koostisosa<br>﻿*** Esineb looduslikult eeterlikes õlides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945064571207</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945102254407</id>
+    <published>2025-01-20T13:26:58+02:00</published>
+    <updated>2025-01-20T13:26:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-neroli-gentle-facial-cleansing-foam-150ml"/>
+    <title>NURME Õrn neroli näopuhastusvaht 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-neroli-gentle-facial-cleansing-foam-150ml-259701.jpg?v=1739897181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrn näopuhastusvaht neroli ja kirevilja vitamiinidega eemaldab meigi ja mustuse. Provitamiin B5 ja babassuõli parandavad naha niiskustasakaalu, jättes veatu välimuse nahka kuivatamata. Sobib kõikidele nahatüüpidele.<br><br>Koostises sisalduv provitamiin B5 ja babassuõli tugevdavad ja tõstavad naha niiskusbarjääri särava jume jaoks. Parimate tulemuste saavutamiseks kasutage esmalt kreemjat puhastusvahendit ning seejärel näovahtu, mis eemaldab põhjalikult päeva jooksul tekkinud mustuse ning valmistab naha ette toniseerimiseks ja sügavaks niisutamiseks.<br><br>Neroli õli, mis on valmistatud mõruapelsini õitest, omab võimsaid antimikroobseid ja antibakteriaalseid omadusi, sobides ideaalselt aknele kalduvale nahale. Reguleerib rasu tootmist, tasakaalustades rasust nahka.&nbsp;See aitab reguleerida rasu tootmist ja tasakaalustada rasust nahka. Antioksüdantide ja E-vitamiini poolest rikkal neroli õlil on ka vananemis- ja vistrikevastane toime, võideldes vabade radikaalidega ning vähendades põletikku ja punetust.<b><br><br>Kasutamine:</b> Kanna niiskele nahale, masseeri õrnalt ja loputa hoolikalt.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Citrus Aurantium Dulcis Flower Water*, Sodium Cocoamphoacetate**, Citrus Aurantium Amara Flower Water*, Glycerin**, Panthenol*, Sodium Benzoate**, Potassium Sorbate**, Lactic Acid**, Benzyl Alcohol**, Passiflora Incarnata Extract*, Sodium Hyaluronate**.</p>
+<p>* Looduslikku päritolu</p><p>** Looduskosmeetikas heakskiidetud koostisosa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945102254407</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945107235143</id>
+    <published>2025-01-20T10:18:02+02:00</published>
+    <updated>2025-01-20T10:18:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-damask-rose-delicate-cleansing-facial-foam-150ml"/>
+    <title>NURME Roosi näopesuvaht 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-damask-rose-delicate-cleansing-facial-foam-150ml-218878.png?v=1739897179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roosi näopesuvaht on tõhus viis näo puhastamiseks ja meigi eemaldamiseks, isegi neil õhtutel, kui olete väga väsinud. Särava ja noorusliku naha jaoks on regulaarne puhastamine hädavajalik, eriti puberteedieas, kui akne on kerge tekkima.&nbsp;</p>
+<ul><li>Pole vaja vatipadjakesi ja säästad sellega loodust</li><li>Roosiekstraktid jätavad naha pehmeks ega lase näonahal pärast pesemist kuivaks muutuda</li><li>Näopesuvaht lõhnab jumalikult!</li><li>Kasuta seda nii meigieemaldajana kui ka värskendava näopuhastusvahendina.</li></ul>
+<p><b>Kasutamine:</b> Pumpa 1–2 pumbatäit peopesale ja masseeri vaht näole. Silma sattumisel loputa koheselt. Pese vaht näolt maha sooja veega maha ja kuivata õrnalt pehme rätikuga. Puhastusrituaali lõpetamisel võib kasutada näotoonikut või kerget kreemi.</p>
+<p><!--EndFragment--><b>Koostisosad:</b>&nbsp;Rosa Damascena (Damask Rose) Flower Water, Sodium Cocoamphoacetate**, Glycerin*, Babassu Oil Polyglyceryl-4 Esters, Sodium Benzoate**, Potassium Sorbate**, Citric Acid.</p><p>*Taimsest allikast</p><p>**Looduskosmeetikas heakskiidetud koostisosa</p><p>***Esineb looduslikult eeterlikes õlides<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945107235143</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945053430087</id>
+    <published>2025-01-20T08:47:53+02:00</published>
+    <updated>2025-01-20T08:47:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-cleansing-face-wash-100ml"/>
+    <title>NAIF näopesugeel 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-cleansing-face-wash-100ml-376187.png?v=1739897186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pesugeel muutub kokkupuutel veega piimjaks ning puhastab nahka ilma seda kuivatamata. Selle õrna koostise tõttu on näopuhastusvahend sobilik kõikidele nahatüüpidele, isegi väga rasusele või tundlikule nahale ning silmaümbruse nahal kasutamiseks.&nbsp;<br><br>Kuna näopuhastusvahend sisaldab looduslikke õlisid, püsib naha PH tase muutumatuna ning nahk tundub pärast pesu niisutatud ja elastne.<br><br>Kõik Naïfi tooted on vegan, õrna lõhnaga, dermatoloogiliselt testitud ega sisalda 26 kõige levinumat allergeeni.<b><br><br>Kasutamine:</b> Niisuta nägu leige veega. Kanna sõrmeotsasuurune kogus geeli (pestavale) vatipadjale või peopesale ja masseeri geeliga kogu nägu. Geel on nüüd piimja tekstuuriga ja hakkab aeglaselt vahutama. Pärast puhastamist loputa leige veega, patsuta nahk kuivaks ja kanna näole toitev päeva- või öökreem.</p><p><b>Koostisosad:</b>&nbsp;Helianthus Annuus Seed Oil, Glycerin, Aqua/Water, Linum Usitatissimum Seed Oil, Sucrose Palmitate, Parfum/Fragrance, Caprylyl Glycol, Tocopherol</p><p>Taaskasutatud plastikust valmistatud pakend<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mehed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>talv</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945053430087</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9941160001863</id>
+    <published>2025-01-19T13:54:16+02:00</published>
+    <updated>2025-01-19T13:54:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-organic-naked-remove-it-all-micellar-cleansing-water-150ml"/>
+    <title>HEJ Naked mistsellaarpuhastusvesi 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-naked-remove-it-all-micellar-cleansing-water-150ml-797159.png?v=1739897168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            9.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hej Naked on lõhnavaba nahahooldussari, mis sisaldab ülitõhusaid ja 100% looduslikke koostisosi.<br><br>Mitsellaarpuhastusvee mitsellid tungivad sügavale naha pooridesse. Vetikakompleksi ja tsingi abil aitab see tõhusalt vähendada rasu tootmist ja naha ebapuhtuste teket. Lisaks annab hüaluroonhape nahale kauakestva värskuse tõuke!<br></p><ul><li>Puhastab sügavuti ja niisutab</li><li>Sisaldab tsinki, mis vähendavad rasu tootmist ja ebapuhtuste teket</li><li>Hüaluroonhape tagab kauakestva niisutuse</li><li>Eriti sobilik ebapuhtale, rasusele ja kombineeritud nahale</li><li>100% lõhnavaba ja looduslik</li></ul><p><b>Kasutamine: </b>Kanna hommikul ja õhtul vatipadjale ja hõõru õrnalt näole, silmadele ja huultele. Tugevama meigi puhul aseta vatipadjake korraks vastavale nahapiirkonnale ja lase mõjuda. Sa ei pea seda maha pesema! Sobib ka kontaktläätsede kandjatele.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Glycerin, Betaine, Coco-Glucoside, Zinc Pca, Sodium Hyaluronate, Prunus Armeniaca Fruit Extract*, Fucus Spiralis Extract, Simmondsia Chinensis Seed Extract*, Tetraselmis Chui Extract, Levulinic Acid, Sodium Anisate, Sodium Levulinate, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide</p><p>*koostisosad sertifitseeritud mahepõllumajandusest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9941160001863</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9343509496135</id>
+    <published>2024-07-18T11:01:01+03:00</published>
+    <updated>2024-07-18T11:01:01+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-spot-roll-on-8ml"/>
+    <title>MÁDARA vistrikevastane kontsentraat rullikuga 8ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-spot-roll-on-8ml-692861.jpg?v=1739897262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Võimas kontsentreeritud lahus, mis sisaldab salitsüülhapet ja kadaka tüvirakke, aitab saada vistrikud kontrolli alla ja vähendada nende teket. Nahal märkamatu.</p>
+<p><b>Kasutamine: </b>Kanna otse vistrikele. Korda vajadusel kahe tunni möödudes. Ainult välispidiseks kasutamiseks. Hoia eemal silmade ja huulte piirkonnast. Parima tulemuse saavutamiseks kasuta koos ülejäänud ACNE sarja toodetega.</p>
+<p><b>Koostisosad:&nbsp;</b>Alcohol, Aqua, Salicylic Acid, Ilex Paraguariensis (Mate) Leaf Extract, Potassium Hydroxide, Cetraria Islandica (Iceland Moss) Extract, Usnea Barbata (Lichen) Extract, Juniperus Communis (Juniper) Callus Culture Extract</p>
+<p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>noored</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9343509496135</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9343475548487</id>
+    <published>2024-07-18T11:01:00+03:00</published>
+    <updated>2024-07-18T11:01:00+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/madara-sebum-control-clear-skin-wash-140ml"/>
+    <title>MÁDARA Sebum Control klaari naha pesuvahend 140ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-sebum-control-clear-skin-wash-140ml-429167.jpg?v=1739897250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taimsete koostisosadega puhastusvahend, mis ei sisalda agressiivseid pindaktiivseid aineid, puhastab aknele kalduvat nahka, aidates vähendada mustpeade ja vistrike teket. Kääritatud polüahhariidid aitavad reguleerida rasueritust ja tasakaalustada mikrobioomi, andes nahale tervema välimuse. Kadaka tüvirakkudel ning sambliku ja mate ekstraktidel on nahka rahustavad ja antioksüdatiivsed omadused.&nbsp;</p>
+<p><b>Kasutamine:</b> Kanna niiskele nahale, loputa hoolikalt. Seejärel kanna nahale niisutavat kreemi. Parima tulemuse saavutamiseks kasuta koos teiste ACNE sarja toodetega.&nbsp;</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Coco-glucoside, Cocamidopropyl Betaine, Glycerin, Xanthan Gum, Propanediol, Sodium PCA, Sodium levulinate, Lactic Acid, Ilex Paraguariensis (Mate) Leaf Extract, Aroma, Acacia Senegal Gum, Alcohol, Sodium anisate, CI 77891 (Titanium Dioxide), Rhamnose, Cetraria Islandica (Iceland Moss) Extract, Usnea Barbata (Lichen) Extract, Juniperus Communis (Juniper) Callus Culture Extract, Glucose, Glucuronic Acid, Linalool</p>
+<p>* Palun arvesta, et koostisosade nimekiri võib muutuda ning aeg-ajalt veidi erineda. Kõige värskema teabe leiad alati toote pakendilt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>noored</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9343475548487</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9228059869511</id>
+    <published>2024-05-28T20:59:10+03:00</published>
+    <updated>2024-05-28T20:59:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-the-remover-foaming-oil-cleanser-100ml"/>
+    <title>HEJ vahutav näopuhastusõli 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-the-remover-foaming-oil-cleanser-100ml-616912.png?v=1739897235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vahutav näopuhastusõli puhastab sinu naha mustusest, ebapuhtustest ja veekindlasti meigist, ilma seda ärritamata või kuivatamata. Viigikaktuseseemneõli ja skvalaani toitvad koostisosad pakuvad nahale niisutust ja toetavad selle barjääri. Õlid ei ole komedogeensed ning seetõttu sobib vahend igale nahatüübile, ka rasusele nahale. Sinu nahk tunneb end värskena ning on parimal moel ette valmistatud nahahooldusrutiini järgmisteks sammudeks.&nbsp;</p><ul><li>Puhastab poorid sügavuti, nahka liigselt kuivatamata</li><li>Eemaldab õrnalt mustuse ja veekindla meigi</li><li>Jätab nahale puhta ja värske tunde</li><li>Skvalaan pakub intensiivset niisutust</li><li>100% vegan ja looduslik</li></ul>
+<p><b>Kasutamine:</b> Kanna vaht hommikul ja õhtul niisutatud näole, masseeri õrnalt vahule ja seejärel loputa sooja veega.&nbsp;</p>
+<p>Näopuhastusõli on ideaalne toode sinu naha puhastusrutiini esimeseks sammuks.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Caprylyl/Capryl Glucoside, Decyl Glucoside, Betaine, Sodium Coco-Sulfate, Coco-Glucoside, Glyceryl Oleate, Squalane, Opuntia Ficus-Indica Stem Extract, Tocopherol, Opuntia Ficus-Indica Flower Extract*, Hydrogenated Palm Glycerides Citrate, Xanthan Gum, Citric Acid, Benzyl Alcohol, Dehydroacetic Acid, Decyl Alcohol, Disodium Phosphate, Lecithin, Ascorbyl Palmitate, Sodium Hydroxide, Parfum**, Limonene**, Linalool**, Citral**&nbsp;*ingredients from certified organic agriculture, **natural essential oils<br><br><!--StartFragment-->Orgaaniline | Julmusevaba | Vegan | Looduslik</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9228059869511</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9203381731655</id>
+    <published>2024-05-15T15:56:19+03:00</published>
+    <updated>2024-05-15T15:56:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hej-the-beautifier-face-wash-peeling-gel-125ml"/>
+    <title>HEJ Cactus The Beautifier kooriv näopesugeel 125ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-the-beautifier-face-wash-peeling-gel-125ml-224859.png?v=1739897251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toonita oma ilu kooriva näopesugeeliga. Jäta hüvasti oma näonaha ebapuhtustega ja tervita kaunimat ja ühtlasemat jumet!</p>
+<!--StartFragment--><ul><li>Riitsinusõli baasil õrn koorimine igapäevaseks kasutamiseks</li><li><span style="font-size: 1em; letter-spacing: 0.01071em;">Sügavalt puhastatud ja klaari jumega nahk</span></li><li><span style="font-size: 1em; letter-spacing: 0.01071em;">Viigikaktuseseemneõli sisaldab vitamiine, millel on antioksüdatiivsed omadused</span><br></li><li>Nahatüüp: sobib ka tundlikule nahale</li><li>100% vegan ja looduslik</li></ul>
+<p><!--StartFragment--><u>Viigikaktuseõli </u>aitab kaasa rakkude uuenemisele ja hoiab naha nooruslikuna.</p>
+<p><u>Greibiekstrakt</u> on looduslik antibiootikum ja puhastava toimega.</p>
+<p><u>Viigikaktuse õievesi</u> sisaldab asendamatuid rasvhappeid.</p>
+<p><u>Riitsinusõli pärlid</u> eemaldavad naha ebapuhtused ja loovad ühtlase jume.&nbsp;</p>
+<p><b>Kasutamine: </b>Kanna märjale näole ja masseeri õrnalt ringjate liigutustega. Seejärel loputa sooja veega.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Opuntia Ficus-Indica Flower Extract*, Glycerin, Sodium Coco-Sulfate, Coco-Glucoside, Sodium Cocoyl Glutamate, Disodium Cocoyl Glutamate, Opuntia Ficus-Indica Seed Oil*, Argania Spinosa Kernel Oil*, Hydrogenated Castor Oil, Citrus Paradisi Fruit Extract*, Acacia Senegal Gum, Xanthan Gum, p-Anisic Acid, Levulinic Acid, Potassium Sorbate, Citric Acid, Parfum**, Limonene**, Linalool**, Citral** *ingredients from certified organic agriculture, **natural essential oils<br><br><!--StartFragment-->Orgaaniline | Julmusevaba | Vegan | Looduslik</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9203381731655</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9132669272391</id>
+    <published>2024-03-30T21:02:52+02:00</published>
+    <updated>2024-03-30T21:02:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/norrskin-face-foam-cleanser-150ml"/>
+    <title>NorrSkin näopuhastusvaht 150ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>bioskina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/norrskin-face-foam-cleanser-150ml-479702.jpg?v=1739897337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bioskina<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            22.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>NorrSkin näopuhastusvaht võitis 2022. aastal Rootsis "Parim puhastusvahend" kategoorias ilu Oscari (Beauty Oscar).</p>
+<p>Õrn vaht puhastab nahka sügavuti, jättes selle pehmeks ja värskeks.</p>
+<p><u>Eelised:</u> </p>
+<ul><li aria-level="1">Puhastab nahka seda samaaegselt niisutades</li><li aria-level="1">Rahustab punetust ja ärritust</li><li aria-level="1">D-pantenool ja linaseemne ekstrakt toetavad naha taastumis- ja paranemisprotsesse. </li><li aria-level="1">Kõikidele nahatüüpidele, sealhulgas kuivale, rasusele, tundlikule, rosaatseale ja ekseemile kalduvale nahale.</li></ul>
+<p><u>Linaseemneekstraktis </u>on rohkelt taimseid oomega-3 rasvhappeid. Loob nahale toitva ja kaitsva kaitsebarjääri, suurendades selle loomulikku sära.</p>
+<p><u>Niatsiinamiidil</u>, mis on tuntud ka kui B3- vitamiin ja tugev antioksüdant, on puhastavad, detoksifitseerivad ja sära andvad omadused. Vähendab naha punetust ja ärritust ning stimuleerib elastsust.</p>
+<p><!--EndFragment--><u>Metsmaasika ekstrakt</u> on tugev antioksüdant. Sisaldab aminohappeid, vitamiine: B, E, K, PP aga ka suurel hulgal mineraalaineid, sh Fe, P, S, K, I. Puhastava, detoksifitseeriva ja sära andvate omadustega.</p>
+<p>96.4% looduslikku päritolu koostisosad, dermatoloogiliselt testitud.</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna vaht niiskele näole ja kaelale. Masseeri õrnalt ringjate liigutustega. Loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Betaine, Glycerin, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Niacinamide, Fragaria Vesca Fruit Extract, Linum Usitatissimum Seed Extract, Panthenol, Pantolactone, Polyglyceryl-4 Caprate, Sodium Phytate, Parfum, Sodium Levulinate, Levulinic Acid, Sodium Benzoate, Potassium Sorbate.<!--EndFragment--><br><br>Natural sertifikaat | Clean sertifikaat | Vegan sertifikaat</p>
+<p>Inspireeritud Rootsist, Hälsinglandist.<br></p>
+<p>NorrSkin istutab 1 puu iga müüdud toote kohta.<br></p>
+<!--EndFragment--><ul></ul>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>norrskin</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9132669272391</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041897783623</id>
+    <published>2024-02-16T11:52:37+02:00</published>
+    <updated>2024-02-16T11:52:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-puhastuspiim-100ml"/>
+    <title>Vielö Orgaaniline puhastuspiim 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-cleansing-milk-100ml-720327.jpg?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+Õrn orgaaniline puhastuspiim, mis eemaldab meigi ja mustuse vaevata. Rahustab nahka, jättes selle pehmeks ja niisutatuks.</div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><br></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), orgaaniline nisuiduõli (kaitsev), orgaaniline kibuvitsaseemneõli (rahustav) ja orgaanilised kummeli (antiseptiline), arnika (põletikuvastane) ja salvei (antibakteriaalne) ekstraktid.&nbsp;</div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><br></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br></b><b>Kasutamine:</b>&nbsp;Enne kasutamist loksuta põhjalikult. Masseeri õrnalt üle näo ja kaela. Loputa leige veega. Kasuta hommikuti ja õhtuti ning alati, kui nahk vajab loomulikku puhastamist.<br><span data-mce-fragment="1"><br></span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad:</b> Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Prunus Armeniaca Kernel Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Glycerin**, Triticum Vulgare (Wheat) Germ Oil**, Aqua*, Cetyl Alcohol*, Sodium Levulinate*, Glyceryl Caprylate*, Citric Acid*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Lavandula Angusti- folia Flower Oil**, Potassium Sorbate, Helianthus Annuus Seed Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelar- gonium Graveolens Flower Oil**, Polyglyceryl-4 Caprate*, Matricaria Chamomilla Flower Extract**, Arnica Montana Flower Extract**, Geraniol**/***, Sodium Lactate*, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Limonene**/***, Citral**/***.</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>* looduslikust päritolust (99,7%)<br>** sertifitseeritud mahepõllumajanduslik (87,1%)<br>*** looduslikest eeterlikest õlidest.</p>
+<p>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.<br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041897783623</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.00</s:price>
+      <s:sku/>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

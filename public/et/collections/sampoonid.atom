@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/sampoonid.atom"/>
+  <title>bioskina</title>
+  <updated>2025-12-06T08:29:40+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10521323143495</id>
+    <published>2025-12-06T08:29:40+02:00</published>
+    <updated>2025-12-06T08:29:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-mint-rosemary-shampoo-for-men-250ml"/>
+    <title>NURME Mündi-rosmariini šampoon meestele 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-mint-rosemary-shampoo-for-men-250ml-8660282.webp?v=1765078814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik šampoon meestele sisaldab mündi ja rosmariini eeterlikke õlisid, millel on juustele värskendav ja elustav toime. Šampoon jätab meeldiva lõhna ja elavdab juuksejuuri. </p><p>Rosmariini eeterlik õli aitab säilitada peanaha tasakaalu, piparmünt aga elustab ja värskendab. Kasutajad on  looduslikku šampooni meestele hinnanud üheks parimaks juuksepesuvahendiks kõõma vastu võitlemisel. Stress, aastaaegade vaheldumine ja nõrgenenud immuunsüsteem on vaid mõned tegurid, mis võivad peanahka katta valgete kõõmalaikudega. Rosmariin rahustab sügelevat peanahka ja sisaldab põletikuvastaseid ja antibakteriaalseid komponente, mistõttu kergematel juhtudel võib kõõmast vabanemiseks piisata õigest šampoonivalikust.</p><p><b>Kasutamine:</b> Masseeri väike kogus šampooni ringjate liigutustega  märgadele juustele, lase 1-2 mõjuda ja loputa. Vajadusel korda ja kasuta palsamit.&nbsp;</p><p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Sodium Chloride, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citric Acid, Glyceryl Oleate, Mentha Piperita (Peppermint) Oil, Hydrolyzed Wheat Protein, Sodium Benzoate, Potassium Sorbate, Limonene*</p><p><!--EndFragment-->*Esineb looduslikult eeterlikes õlides<br></p><p>0% parabeene | 0% silikoone | 0% sünteetilisi värvi- ja lõhnaaineid</p><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10521323143495</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10521283526983</id>
+    <published>2025-12-06T08:29:39+02:00</published>
+    <updated>2025-12-06T08:29:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-balneological-peat-scalp-soothing-shampoo-250ml"/>
+    <title>NURME Peanahka rahustav turbašampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-balneological-peat-scalp-soothing-shampoo-250ml-5724424.webp?v=1765078816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nurme turbašampoon sisaldab Eesti rabadest pärit turvast ning on spetsiaalselt loodud sinu peanahale ja juustele. Turba, mentooli ja teepuuõli ainulaadne kombinatsioon tagab sügavpuhastuse ja rahustab peanahka. Provitamiin B5 ja nisuproteiin niisutavad, aitavad juukseid tugevdada ja ennetavad otste lõhenemist.</p>
+<p><b>Peamised koostisosad:&nbsp;</b></p>
+<ul><li><u>Turvas</u>: mineraalide ja antioksüdantide rikas turvas aitab rahustada ärritunud peanahka, tasakaalustada mikrobioomi ja soodustada juuste kasvu.&nbsp;Sügavpuhastav koostisosa eemaldab toksiine ja aitab taastada peanaha loomuliku tasakaalu, andes juustele terve läike ja elujõu. </li><li><u>Mentool</u>:&nbsp;stimuleerib peanaha vereringet, soodustab tervet juuste kasvu ja leevendab peanaha ärritust. Turbašampoonis on kasutatud optimaalses koguses mentooli, et pakkuda õrna jahutust ilma ärrituseta. Ideaalne valik neile, kes soovivad tunda end värskena kogu päeva jooksul.</li><li><u>Austraalia teepuuõli</u>: tasakaalustab peanaha rasusust, rahustab ja puhastab sügavuti, muutes selle ideaalseks valikuks nii rasusele kui ka kuivale peanahale. Võrreldes Hiinast pärit teepuuõliga on sellel veidi pehmem lõhn ja see on vähem allergeenne.</li></ul>
+<p><b>Kasutamine:</b> Kanna šampoon märgadele juustele, masseeri õrnalt peanahka ning lase mõni hetk mõjuda. Loputa hoolikalt sooja veega. Parima tulemuse saavutamiseks kasuta regulaarselt koos Nurme Juukseid tugevdava turbapalsamiga.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua*, Coco-Glucoside**, Sodium Coco-Sulfate**, Betaine**, Peat*,&amp;nbsp;Sodium Chloride**, Panthenol**, Citric Acid**, Sodium Benzoate**, Glyceryl Oleate**, Potassium&amp;nbsp;Sorbate**, Hydrolyzed Wheat Protein**, Menthol**, Allantoin**, Melaleuca Alternifolia (Tea Tree)&amp;nbsp;Leaf Oil, Phytic Acid</p>
+<p>*Looduslikku päritolu<br>﻿**Looduskosmeetikas heakskiidetud koostisosa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10521283526983</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10333987078471</id>
+    <published>2025-08-31T16:29:14+03:00</published>
+    <updated>2025-08-31T16:29:14+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-peppermint-and-bergamot-shampoo-200ml"/>
+    <title>HOIA Looduslik šampoon Piparmünt &amp; Bergamot 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-peppermint-and-bergamot-shampoo-200ml-2119036.png?v=1756718904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Värske piparmündilõhnaline orgaaniline šampoon sisaldab sügavniisutavat aaloe verat ja võimsat eeterlike õlide segu. Šampooni on lisatud värskendav ja jahutav piparmündi eeterlik õli, mis stimuleerib juuste kasvu; bergamoti eeterlik õli, mis pehmendab juukseid, ja teepuuõli, millel on antibakteriaalsed omadused. </p><p>Šampoon on looduslik ega sisalda sulfaate, mistõttu ei kuivata see ka peanahka. Šampoon ei sisalda parabeene, mineraalõlisid, silikoone, sulfaate, sünteetilisi säilitus- ega lõhnaaineid.</p><p><b>Kasutamine:</b> kanna sobiv kogus märgadele juustele ja peanahale, pese ja loputa korralikult.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Lauryl Glucoside, *Glycerin, Betain, Olive Oil Glycereth- 8 Esters, Xanthan Gum, Sodium Chloride, *Argania Spinosa Kernel Oil, Sodium Levulinate, *Mentha Piperita Oil, *Melaleuca Alternifolia Leaf Oil, *Citrus Aurantium Bergamia Fruit Oil, *Furcellaria Lumbricalis Extract, *Urtica Dioica Leaf Extract, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Gluconate, Sodium Anisate, Lactic Acid, **Limonene, **Linalool.</p><p>*Orgaanilist päritolu</p><p>**&nbsp;Eeterlike õlide looduslikud komponendid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333987078471</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10333986292039</id>
+    <published>2025-08-31T16:29:14+03:00</published>
+    <updated>2025-08-31T16:29:14+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-lavender-and-rosemary-shampoo-200ml"/>
+    <title>HOIA Looduslik šampoon Lavendel &amp; Rosmariin 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-lavender-and-rosemary-shampoo-200ml-7971243.png?v=1756718906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Värske lõhnaga looduslik šampoon Lavendel &amp; Rosmariin sisaldab aaloe verat, mis on sügavniisutava toimega ja eeterlike õlide segu.&nbsp; Šampoon aitab stimuleerida juuksekasvu, tasakaalustada rasunäärmete tööd, parandada peanaha verevarustust ja hoida seda tervena.</p><p>Šampoon on looduslik ega sisalda sulfaate, seega ei kuivata see peanahka. Šampoon ei sisalda parabeene, mineraalõlisid, silikoone, sulfaate, sünteetilisi säilitus- ega lõhnaaineid.</p><p><b>Kasutamine:</b>&nbsp;Kanna sobiv kogus märgadele juustele ja peanahale, pese ja loputa korralikult.</p><p><!--EndFragment--><b>Koostisosad:&nbsp;</b>Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Lauryl Glucoside, *Glycerin, Betain, Olive Oil Glycereth- 8 Esters , Xanthan Gum, Sodium Chloride, *Argania Spinosa Kernel Oil, Sodium Levulinate, *Rosmarinus Officinalis Leaf Oil, *Lavandula Angustifolia Flower Oil, *Mentha Piperita Leaf Oil, *Furcellaria Lumbricalis Extract, *Urtica Dioica Leaf Extract, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Gluconate, Sodium Anisate, Lactic Acid, **Limonene, **Linalool.<br></p><p>*Orgaanilist päritolu</p><p>**Eeterlike õlide looduslikud komponendid</p><!--StartFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333986292039</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10333985046855</id>
+    <published>2025-08-31T16:29:13+03:00</published>
+    <updated>2025-08-31T16:29:13+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-lemongrass-shampoo-200ml"/>
+    <title>HOIA Looduslik šampoon Sidrunhein 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-lemongrass-shampoo-200ml-2682422.jpg?v=1756718906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Värske sidrunheina lõhnaga orgaaniline šampoon sisaldab sügavniisutavat aaloe verat ja sidrunheina eeterlikku õli, mis on kõõmavastaste omadustega, sobib suurepäraselt kiiresti rasuseks muutuvatele juustele, tugevdab juukse struktuuri ning sellel on antibakteriaalsed omadused. Väidetavalt aitab sidrunheina eeterlik õli võidelda ka täidega.</p><p>Šampoon on looduslik ega sisalda sulfaate, seega ei kuivata see peanahka. Šampoon ei sisalda parabeene, mineraalõlisid, silikoone, sulfaate, sünteetilisi säilitus- ega lõhnaaineid.</p><p><b>Kasutamine:</b>&nbsp;Kanna sobiv kogus märgadele juustele ja peanahale, pese ja loputa korralikult.</p><p><!--EndFragment--><b>Koostisosad:&nbsp;</b>Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Lauryl Glucoside, *Glycerin, Betain, Olive Oil Glycereth- 8 Esters, Xanthan Gum, Sodium Chloride, *Argania Spinosa Kernel Oil, Sodium Levulinate, *Cymbopogon Flexuosus Oil, *Furcellaria Lumbricalis Extract, *Urtica Dioica Leaf Extract, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Gluconate, Sodium Anisate, Lactic Acid, **Citral, **Geraniol, **Limonene, **Linalool.<br></p><p>*Orgaanilist päritolu</p><p>**Eeterlike õlide looduslikud komponendid</p><!--StartFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333985046855</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10333983605063</id>
+    <published>2025-08-31T16:29:13+03:00</published>
+    <updated>2025-08-31T16:29:13+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-odorless-shampoo-200ml"/>
+    <title>HOIA Looduslik šampoon Lõhnatu 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-odorless-shampoo-200ml-2948235.jpg?v=1756718905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sind ootab uus õrnatoimeline looduslik šampoon sügavniisutava aaloe, nisuproteiini ehk taimse keratiini, eestimaise nõgeseekstrakti ja argaaniaõliga. HOIA&nbsp;uus looduslik šampoon hooldab ja tugevdab juukseid, aitab ennetada juuste väljalangemist ning parandab nende struktuuri.&nbsp;</p><p>Šampoon ei sisalda eeterlike õlisid ja on lõhnatu, seega sobib see hästi kõigile – ka tundliku peanahaga inimestele ja lastele.</p><p>Šampoon pakub puhast ja looduslikku juuksehooldust, sisaldamata naftasaadusi, parabeene, silikoone, sulfaate, mikroplastikut, sünteetilisi säilitus- ega lõhnaaineid.</p><p><b>Kasutamine:&nbsp;</b>Kanna sobiv kogus märgadele juustele ja peanahale, pese ja loputa korralikult.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Sodium C14-16 Olen Sulfonate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Lauryl Glucoside, *Glycerin, Betain, Olive Oil Glycereth- 8 Esters, Xanthan Gum, Sodium Chloride, *Argania Spinosa Kernel Oil, *Citrus Nobilis Peel Oil, Sodium Levulinate ,*Urtica Dioica Leaf Extract, Hydrolyzed Wheat Protein, *Furcellaria Lumbricalis Extract, Guar Hydroxypropyltrimonium Chloride, Sodium Anisate, Sodium Gluconate, Lactic Acid, **Citral, **Linalool, **Limonene.</p><p>*Orgaanilist päritolu</p><p>**&nbsp;Eeterlike õlide looduslikud komponendid<span style="color: rgb(193, 193, 193); font-family: -apple-system, BlinkMacSystemFont, " segoe="" ui",="" roboto,="" "helvetica="" neue",="" arial,="" "noto="" sans",="" sans-serif,="" "apple="" color="" emoji",="" "segoe="" ui="" symbol",="" emoji";="" font-size:="" 16px;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" orphans:="" 2;="" text-align:="" left;="" text-indent:="" 0px;="" text-transform:="" none;="" widows:="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(35,="" 35,="" 35);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" display:="" inline="" !important;="" float:="" none;"=""></span><!--EndFragment--><br><br><br><!--StartFragment--><span style="color: rgb(193, 193, 193); font-family: -apple-system, BlinkMacSystemFont, " segoe="" ui",="" roboto,="" "helvetica="" neue",="" arial,="" "noto="" sans",="" sans-serif,="" "apple="" color="" emoji",="" "segoe="" ui="" symbol",="" emoji";="" font-size:="" 16px;="" font-style:="" normal;="" font-variant-ligatures:="" font-variant-caps:="" font-weight:="" 400;="" letter-spacing:="" orphans:="" 2;="" text-align:="" left;="" text-indent:="" 0px;="" text-transform:="" none;="" widows:="" word-spacing:="" -webkit-text-stroke-width:="" white-space:="" background-color:="" rgb(35,="" 35,="" 35);="" text-decoration-thickness:="" initial;="" text-decoration-style:="" text-decoration-color:="" display:="" inline="" !important;="" float:="" none;"=""></span><!--EndFragment--><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333983605063</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10333981638983</id>
+    <published>2025-08-31T16:29:12+03:00</published>
+    <updated>2025-08-31T16:29:12+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/hoia-natural-shampoo-mandarin-200ml"/>
+    <title>HOIA Looduslik šampoon Mandariin 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-natural-mandarin-shampoo-200ml-1044810.jpg?v=1756718905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOIA Looduslik Šampoon Mandariin on õrnatoimeline looduslik šampoon sügavniisutava aaloe, nisuproteiini, eestimaise nõgeseekstrakti ja argaaniaõliga. Šampoonile on lisatud orgaanilist mandariini eeterlikku õli, mis annab šampoonile mõnusa tujutõstva mandariiniaroomi ning lisaks võib aidata parandada peanaha verevarustust ja ennetada keskkonnast tingitud kahju juustele.</p><p>HOIA Looduslik Šampoon hooldab ja tugevdab juukseid ning aitab ennetada juuste väljalangemist.</p><p>HOIA Looduslik Šampoon ei sisalda naftasaadusi, parabeene, silikoone, sulfaate, mikroplastikut, sünteetilisi säilitus- ega lõhnaaineid. Šampooni koostisosad on 99% looduslikud ja 84% koostisosadest on orgaanilist päritolu, see ei kuivata peanahka ja õrn sinu juuste vastu.</p><p><b>Kasutamine:</b>&nbsp;Kanna sobiv kogus märgadele juustele ja peanahale, pese ja loputa korralikult.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Sodium C14-16 Olen Sulfonate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Lauryl Glucoside, *Glycerin, Betain, Olive Oil Glycereth- 8 Esters, Xanthan Gum, Sodium Chloride, *Argania Spinosa Kernel Oil, *Citrus Nobilis Peel Oil, Sodium Levulinate ,*Urtica Dioica Leaf Extract, Hydrolyzed Wheat Protein, *Furcellaria Lumbricalis Extract, Guar Hydroxypropyltrimonium Chloride, Sodium Anisate, Sodium Gluconate, Lactic Acid, **Citral, **Linalool, **Limonene.</p><p>*Orgaanilist päritolu</p><p>**Eeterlike õlide looduslikud komponendid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10333981638983</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304944210247</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-for-kids-maya-50ml"/>
+    <title>BEE IT šampoon ja dušigeel Maya lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-50ml-4970425.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.<b><br><br>Kasutamine: </b>Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p><p><b>Koostisosad:</b>&nbsp;Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.</p><p>Kasutamine: Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p><p>*Orgaanilist päritolu<br><br>Looduslik toode füsioloogilise pH-ga 4.5-5.5<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304944210247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304872186183</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-blue-for-kids-50ml-copy"/>
+    <title>BEE IT šampoon ja dušigeel Maya lastele 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-for-kids-maya-250ml-2802370.png?v=1756222789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.<b><br><br>Kasutamine: </b>Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.</p>
+<p>Kasutamine: Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p>*Orgaanilist päritolu<br><br>Looduslik toode füsioloogilise pH-ga 4.5-5.5<br><br>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br><br>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.<br><br>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304872186183</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10304870482247</id>
+    <published>2025-08-26T10:05:11+03:00</published>
+    <updated>2025-08-26T10:05:11+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-nourishing-shampoo-1000ml"/>
+    <title>BEE IT toitev šampoon 1000ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-nourishing-shampoo-1000ml-8247533.png?v=1756222788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev šampoon kahjustatud peanahale ja juustele. Puhastab hoolikalt, säilitades samaaegselt juuste struktuuri. Pehme kreemjas tekstuur ning kerge vaht pehmete ja elujõuliste juuste heaks.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna niiskele peanahale ja juustele, masseeri õrnalt ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Phenoxyethanol, Xanthan gum, Glycerin, Disodium cocoamphodiacetate, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Citric acid, Guar hydroxypropyltrimonium chloride, Panthenol, Argania spinosa kernel oil, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Mel/Honey*, Coumarin, Limonene, Dehydroacetic acid, Alpha-isomethyl ionone, CI 19140 [Yellow 5].</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10304870482247</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303997477191</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-blue-for-kids-50ml"/>
+    <title>BEE IT šampoon ja dušigeel sinine lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-blue-for-kids-250ml-687213.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303997477191</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303992791367</id>
+    <published>2025-08-26T10:05:10+03:00</published>
+    <updated>2025-08-26T10:05:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-shampoo-body-wash-pink-for-kids-50ml"/>
+    <title>BEE IT šampoon ja dušigeel roosa lastele 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-shampoo-body-wash-pink-for-kids-250ml-813819.png?v=1739897342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>Füsioloogilise pH-ga ja naturaalsete koostisosadega šampoon ja dušigeel, mis loovad vanniskäigust nauditava ja meeldiva mängu- ja loomekogemuse. Orgaaniline aloe vera, magusmandliõli, orgaaniline mesi ja taruvaik pakuvad õrnatoimelist ja toitvat niisutust. Juuksed saavad sametised ja säravad ning nahk veelgi pehmem ja lõhnavam. </p>
+<p><b>Kasutamine:</b> Kanna juustesse ja kehale, masseeri õrnalt, seejärel loputa.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Magnesium lauryl sulfate, Cocamidopropyl betaine, Coco-glucoside, Glyceryl oleate, Guar hydroxypropyltrimonium chloride, Glycerin, Aloe barbadensis leaf juice*, Parfum, Sodium benzoate, Potassium sorbate, Sodium chloride, Benzyl alcohol, Myristyl lactate, Prunus amygdalus dulcis oil, Helianthus annuus seed oil, Citric acid, Calendula officinalis extract, Dehydroacetic acid, Mel*, Propolis, Tocopherol.</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>Looduslik toode füsioloogilise pH-ga 4.5-5.5</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.<br></p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303992791367</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10303979815239</id>
+    <published>2025-08-26T10:05:09+03:00</published>
+    <updated>2025-08-26T10:05:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/bee-it-nourishing-shampoo-50ml"/>
+    <title>BEE IT toitev šampoon 50ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>BEE IT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/bee-it-nourishing-shampoo-250ml-159598.jpg?v=1739897346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEE IT<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev šampoon kahjustatud peanahale ja juustele. Puhastab hoolikalt, säilitades samaaegselt juuste struktuuri. Pehme kreemjas tekstuur ning kerge vaht pehmete ja elujõuliste juuste heaks.&nbsp;</p>
+<p><b>Kasutamine:</b>&nbsp;Kanna niiskele peanahale ja juustele, masseeri õrnalt ja loputa.</p>
+<p><b>Koostisosad:&nbsp;</b>Aqua [Water], Magnesium lauryl sulfate, Cocamidopropyl betaine, Phenoxyethanol, Xanthan gum, Glycerin, Disodium cocoamphodiacetate, Parfum [Fragrance], Sodium chloride, Benzyl alcohol, Citric acid, Guar hydroxypropyltrimonium chloride, Panthenol, Argania spinosa kernel oil, Ethylhexylglycerin, Tetrasodium glutamate diacetate, Mel/Honey*, Coumarin, Limonene, Dehydroacetic acid, Alpha-isomethyl ionone, CI 19140 [Yellow 5].</p><!--StartFragment--><p>*Orgaanilist päritolu</p>
+<p>100% looduslikud koostisosad</p>
+<p>Loomasõbralik | Parafiinivaba | Ei sisalda silikoone | Ei sisalda parabeene | 100% taaskasutatav<br><br>"Vähem plastikut on fantastiline" pakend kasutab 70% vähem plastikut võrreldes tavalise pudeli pakendiga. Pakendi väiksem maht, purunematus ning pehmus võimaldavad kasutada kogu selle sisu ning muudavad selle paremaks ümbertöödeldavaks materjaliks taaskasutusahelas.<br></p>
+<p>Ostes BEE IT kosmeetikat aitad kaasa uue mesilaste oaasi loomisele.</p>
+<p>Valmistatud Itaalias.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeit</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>reisisuurus</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10303979815239</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084350329159</id>
+    <published>2025-03-28T09:16:54+02:00</published>
+    <updated>2025-03-28T09:16:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-moisturizing-shampoo-with-rhubarb-extract-refill-500ml"/>
+    <title>Magrada Rabarberi šampoon aaloekstraktiga täitepakend 500 ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-shampoo-with-rhubarb-extract-refill-500ml-952084.png?v=1743213042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<div class="entry-content"><p>Sinu juuksed on äratuseks valmis. Kingi neile kevadist värskust, läiget ja sära!&nbsp;</p>
+<p>Mahlase rabarberiga rikastatud šampoon on mõeldud kuivade ja kahjustunud juuste intensiivseks turgutuseks. Eriliselt niisutav aaloeekstrakt koos provitamiin B5-ga taastab, toidab ja tugevdab kahjustatud juuksestruktuuri. See on vitamiinikuur, mida su kiharad vajavad.<br></p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Orgaaniline aaloeekstakt</u> mõjub peanahale rahustavalt ja niisutavalt. Aaloe sisaldab rikkalikult foolhapet, A-, C- ja E-vitamiine ning kollageeni.</li><li><u>Provitamiin B5</u> lisab juustele tervislikku elastsust ja sära ning parandab töödeldud juuste struktuuri.</li></ul>
+<p><b>Kasutamine: </b>Kanna šampooni põhjalikult märgadesse juustesse. Masseeri vahule. Loputa.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Sodium Chloride, Argan Oil Glycereth-8 Esters, Citric Acid, Aloe Barbadensis (Aloe Vera) Leaf Extract*, Palmitamidopropyltrimonium Chloride, Propylene Glycol, Isostearamide MIPA, Parfum, Panthenol, Rheum Palmatum (Rhubarb) Root Extract, Glyceryl Laurate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate</p>
+<p>*COSMOS Certified Organic Ingredient</p>
+<p>Loodusliku päritoluga koostisosad: 97,57%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan
+<!--StartFragment--> | alkoholivaba | EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084350329159</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084346298695</id>
+    <published>2025-03-28T09:16:53+02:00</published>
+    <updated>2025-03-28T09:16:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-hair-stimulating-shampoo-with-linden-flower-extract-travel-size-100ml-copy"/>
+    <title>Magrada Pärnaõie šampoon Põhjamaise kaseekstraktiga täitepakend 500ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-hair-stimulating-shampoo-with-linden-flower-extract-refill-500ml-513082.png?v=1743213039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<!--StartFragment-->
+<div class="entry-content"><p>Kanna suve endaga kaasas – kaseekstraktiga pärnaõie šampoon on võimas põhjamaine eliksiir, mis soodustab ja kiirendab loomulikku juuksekasvu. Šampooni mesimagus lõhn lennutab hetkega suve sulnitesse mälestustesse, mis toovad naeratuse näole ka kargel talvehommikul.</p>
+<p>Ergutav šampoon vähendab juuste kahusust, toites ja niisutades juuksekarva struktuuri ning andes kiharatele kauni läike ja sära. Orgaanilised taimeekstraktid soodustavad juuksekasvu ja parandavad nende elastsust. Juuksed on pärast pesu pehmed, kerged, lendlevad!</p>
+<p>Šampoon sobib igapäevaseks kasutamiseks kogu perele, samuti tundlikule ja õrnale peanahale.</p></div>
+<ul><li><u>Põhjamaine pärnaõieekstrakt</u> on niisutava ja pehmendava toimega, sobides nii tundlikule kui ka ärritunud peanahale.</li><li><u>Orgaaniline põhjamaine kaseekstrakt</u> stimuleerib pea vereringet ja tugevdab juuksejuuri, kiirendades seeläbi juuste loomulikku kasvu.</li><li><u>Orgaaniline aaloe-ekstrakt</u> on nahale sügavalt rahustav ja niisutav. Aaloe on tuntud oma rikkaliku A-, C- ja E-vitamiinide, foolhappe ning kollageeni sisalduse poolest.</li><li><u>Provitamiin B5</u> lisab juustele tervislikku elastsust ja sära ning parandab töödeldud juuste struktuuri.</li></ul>
+<p><b>Kasutamine: </b>Kanna šampoon põhjalikult märgadesse juustesse. Masseeri toode vahule. Loputa. Vajadusel korda protseduuri.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Sodium Chloride, Citric Acid, Argan Oil Glycereth-8 Esters*, Parfum, Aloe Barbadensis (Aloe Vera) Leaf Extract, Palmitamidopropyltrimonium Chloride, Propylene Glycol, Isostearamide MIPA, Betula Alba (Birch) Leaf Extract, Glycerin, Alcohol, Panthenol, Tilia Cordata (Linden) Flower Extract, Glyceryl Laurate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Geraniol</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 97,44%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084346298695</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084338565447</id>
+    <published>2025-03-28T09:16:52+02:00</published>
+    <updated>2025-03-28T09:16:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-moisturizing-shampoo-with-rhubarb-extract-travel-size-100ml"/>
+    <title>Magrada Rabarberi šampoon aaloekstraktiga reisisuuruses 100 ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-moisturizing-shampoo-with-rhubarb-extract-travel-size-100ml-751831.png?v=1743213039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<div class="entry-content"><p>Sinu juuksed on äratuseks valmis. Kingi neile kevadist värskust, läiget ja sära!&nbsp;</p>
+<p>Mahlase rabarberiga rikastatud šampoon on mõeldud kuivade ja kahjustunud juuste intensiivseks turgutuseks. Eriliselt niisutav aaloeekstrakt koos provitamiin B5-ga taastab, toidab ja tugevdab kahjustatud juuksestruktuuri. See on vitamiinikuur, mida su kiharad vajavad.<br></p></div>
+<ul><li><u>Rabarberi juureekstrakt</u>, mil on põletikuvastased ja antibakteriaalsed omadused, paitab tundlikku ja ärritunud peanahka.</li><li><u>Orgaaniline aaloeekstakt</u> mõjub peanahale rahustavalt ja niisutavalt. Aaloe sisaldab rikkalikult foolhapet, A-, C- ja E-vitamiine ning kollageeni.</li><li><u>Provitamiin B5</u> lisab juustele tervislikku elastsust ja sära ning parandab töödeldud juuste struktuuri.</li></ul>
+<p><b>Kasutamine: </b>Kanna šampooni põhjalikult märgadesse juustesse. Masseeri vahule. Loputa.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Sodium Chloride, Argan Oil Glycereth-8 Esters, Citric Acid, Aloe Barbadensis (Aloe Vera) Leaf Extract*, Palmitamidopropyltrimonium Chloride, Propylene Glycol, Isostearamide MIPA, Parfum, Panthenol, Rheum Palmatum (Rhubarb) Root Extract, Glyceryl Laurate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate</p>
+<p>*COSMOS Certified Organic Ingredient</p>
+<p>Loodusliku päritoluga koostisosad: 97,57%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan
+<!--StartFragment--> | alkoholivaba | EL allergeenidevaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084338565447</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10084325359943</id>
+    <published>2025-03-28T09:16:51+02:00</published>
+    <updated>2025-03-28T09:16:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-hair-stimulating-shampoo-with-linden-flower-extract-250ml-copy"/>
+    <title>Magrada Pärnaõie šampoon Põhjamaise kaseekstraktiga reisisuuruses 100ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-hair-stimulating-shampoo-with-linden-flower-extract-travel-size-100ml-976915.png?v=1743213040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<div class="entry-content"><p>Kanna suve endaga kaasas – kaseekstraktiga pärnaõie šampoon on võimas põhjamaine eliksiir, mis soodustab ja kiirendab loomulikku juuksekasvu. Šampooni mesimagus lõhn lennutab hetkega suve sulnitesse mälestustesse, mis toovad naeratuse näole ka kargel talvehommikul.</p>
+<p>Ergutav šampoon vähendab juuste kahusust, toites ja niisutades juuksekarva struktuuri ning andes kiharatele kauni läike ja sära. Orgaanilised taimeekstraktid soodustavad juuksekasvu ja parandavad nende elastsust. Juuksed on pärast pesu pehmed, kerged, lendlevad!</p>
+<p>Šampoon sobib igapäevaseks kasutamiseks kogu perele, samuti tundlikule ja õrnale peanahale.</p></div>
+<ul><li><u>Põhjamaine pärnaõieekstrakt</u> on niisutava ja pehmendava toimega, sobides nii tundlikule kui ka ärritunud peanahale.</li><li><u>Orgaaniline põhjamaine kaseekstrakt</u> stimuleerib pea vereringet ja tugevdab juuksejuuri, kiirendades seeläbi juuste loomulikku kasvu.</li><li><u>Orgaaniline aaloe-ekstrakt</u> on nahale sügavalt rahustav ja niisutav. Aaloe on tuntud oma rikkaliku A-, C- ja E-vitamiinide, foolhappe ning kollageeni sisalduse poolest.</li><li><u>Provitamiin B5</u> lisab juustele tervislikku elastsust ja sära ning parandab töödeldud juuste struktuuri.</li></ul>
+<p><b>Kasutamine: </b>Kanna šampoon põhjalikult märgadesse juustesse. Masseeri toode vahule. Loputa. Vajadusel korda protseduuri.</p>
+<p>Säilitada temperatuuril 5 – 25 kraadi. Ladustamisel kaitsta otsese päikesevalguse käest. Ärge hoidke toodet küttekehade ega muude soojusallikate läheduses.</p>
+<p><b>Koostisosad:</b> Aqua, Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Disodium Lauryl Sulfosuccinate, Sodium Chloride, Citric Acid, Argan Oil Glycereth-8 Esters*, Parfum, Aloe Barbadensis (Aloe Vera) Leaf Extract, Palmitamidopropyltrimonium Chloride, Propylene Glycol, Isostearamide MIPA, Betula Alba (Birch) Leaf Extract, Glycerin, Alcohol, Panthenol, Tilia Cordata (Linden) Flower Extract, Glyceryl Laurate, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Hexyl Cinnamal, Geraniol</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 97,44%.</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--><!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10084325359943</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012201189703</id>
+    <published>2025-03-01T13:40:32+02:00</published>
+    <updated>2025-03-01T13:40:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-volumizing-shampoo-250ml"/>
+    <title>LUUV Looduslik kohevust andev astelpaju šampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-volumizing-seabuckthorn-shampoo-250ml-549035.png?v=1740891413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astelpajuõliga rikastatud šampoon on looduslik ja õrn ning annab juustele kohevuse ja sära. Astelpajuõli tugevdab juukseid, pakkudes juustele ja peanahale vajalikke toitaineid ning ennetades juukseotste lõhenemist. Nisuproteiin tugevdab juukseid, stimuleerib juuste kasvu ning suurendab juuste kohevust ja elastsust. Eeterlikud õlid aitavad kaasa peanaha rasuerituse normaalsele talitlusele ja toovad värskustunde.</p>
+<ul><li>sobib kõikidele juuksetüüpidele, sealhulgas ka rasustele juustele</li><li>annab juustele loomulikku volüümi</li><li>puhastava toimega</li><li>lisab juustele kohevust ja sära</li><li>niisutab ja tugevdab juukseid</li><li>tsitruse lõhnaga</li><li>astelpajuõli toidab juukseid</li><li>sisaldab ainult looduslikke puhastusaineid</li><li>õrn peanahale</li><li>98,58% looduslikud koostisosad</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | vegan</p>
+<p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;Kanna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Cetearyl Alcohol, Lecithin, Sodium Cetearyl Sulfate, Vegetable Oil, Panthenol, Cetyl Alcohol, PCA Glyceryl Oleate, Ricinus Communis Seed (Castor) Oil, Glycerin, Hippophae Rhamnoides (Sea Buckthorn) oil, Hydrolyzed Wheat Protein, Glyceryl Stearate, Citric Acid, Tocopherol (E-vitamin), Sodium Benzoate, Potassium Sorbate, Parfum, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012201189703</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012253454663</id>
+    <published>2025-03-01T13:40:25+02:00</published>
+    <updated>2025-03-01T13:40:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-softening-honey-shampoo-250ml"/>
+    <title>LUUV Looduslik pehmendav meešampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-softening-honey-shampoo-250ml-212888.png?v=1740891413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looduslik meešampoon muudab juuksed pehmeks ja kergesti kammitavaks, toites juukseid juurtest otsteni. Orgaaniline meeekstrakt muudab juuksed siidiseks ja kaitseb keskkonnamõjude eest. Orgaaniline odra ekstrakt stimuleerib juuste kasvu ja annab sära. Nisuproteiin tugevdab juukseid ja suurendab nende elastsust. Sobib ka värvitud juustele.</p><ul><li>sobib kõikidele juuksetüüpidele, ka värvitud juustele</li><li>tugevdab juukseid juurtest otsteni</li><li>pehmendava ja kaitsva toimega</li><li>annab juustele pehmuse</li><li>parandab juukse struktuuri</li><li>mesiselt magusa lõhnaga</li><li>õrn peanahale</li><li>valmistatud õrnade taimsete pesuainetega</li><li>loodusliku taruvaigu ekstraktiga</li><li>99,22% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine: </b>Kanna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.<br></p><p><b>Koostisosad:</b>&nbsp;Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Betaine, Citric Acid, Hydrolyzed Wheat Protein, Helianthus Annuus Seed Oil, Propolis (Bee glue) extract, Panthenol, Hordeum Vulgare (Barlay) Extract, Glyceryl Oleate, Guar Hydroxypropyltrimonium Chloride, Glycerin, Sodium Benzoate, Potassium Sorbate, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012253454663</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10012259385671</id>
+    <published>2025-03-01T13:40:19+02:00</published>
+    <updated>2025-03-01T13:40:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-caring-shampoo-250ml"/>
+    <title>LUUV Looduslik hooldav šampoon ploomiõliga 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-caring-shampoo-with-plum-oil-250ml-277927.png?v=1740891412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUUV looduslik ploomiõliga šampoon sobib igapäevaseks kasutamiseks kõikidele juuksetüüpidele. Külmpressitud orgaaniline ploomiõli niisutab nii peanahka kui juukseid ning kaitseb juukseid kuumtöötlemise kahjulike mõjude eest. Looduslik betaiin ja aaloe hoiavad juukseid niisutatuna. Looduslik õrn šampoon muudab juuksed hästi kammitavaks, siidiseks ja elastseks. Sobib nii värvitud kui loomulikele juustele.</p><ul><li>sobib kõikidele juuksetüüpidele, sealhulgas värvitud juustele ja lokkis juustele</li><li>hooldava ja niisutava toimega</li><li>niisutab ja kaitseb juukseid</li><li>kaitseb juukseid kuumtöötluse eest</li><li>õrnade, taimsete pesuainetega</li><li>õrn peanahale</li><li>sobib igapäevaseks kasutamiseks</li><li>siidise viimistluse toob orgaaniline ploomiõli</li><li>99,18% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan<br><br>Toode on valmistatud Eestis<b><br><br>Kasutamine:</b>&nbsp;Kanna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate (and) Lauryl Glucoside, Oryza Sativa (Rice) Starch, Cocamidoprpyl Betaine, Glycerin, Betaine, Prunus Domestica (Plum) Seed oil, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate (and) Potassium Sorbate, Coco-Glucoside (and) Glyceryl Oleate, Cymbopogon Martini (Palmarosa) oil, Citric Acid, Parfum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10012259385671</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10013911187783</id>
+    <published>2025-03-01T13:40:01+02:00</published>
+    <updated>2025-03-01T13:40:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-kids-shampoo-250ml"/>
+    <title>LUUV Looduslik lastešampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-kids-shampoo-250ml-163262.png?v=1740891417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> LUUV looduslik lastešampoon – kus mäng kohtub läikivate juustega! See looduslik pisaravaba koostisega šampoon viib laste juuksehoolduse täiesti uuele tasemele! Spetsiaalselt pere väikestele mõeldud šampoon muudab juuksed tugevaks, kergesti kammitavaks ja kaunilt läikivaks.&nbsp; Üle maailma tunnustatud ECOCERT / COSMOS ökosertifikaadiga saad aga kindel olla, et šampoon pole mitte ainult õrn pere pisematele, vaid on ohutu ka meie keskkonnale.</p><p>Hoolikalt valitud taimsed pesuained hooldavad ja rahustavad lapse õrna peanahka ega ärrita silmi. Lisaks on šampoon rikastatud niisutava aaloe ja hooldava taimse betaiiniga – need mitte ainult ei tee juuksed kergesti kammitavaks ega alista isegi kõige tõrksamad pusad, vaid aitavad ka laste juukseid juurtest otsteni tugevdada. Šampoonil on mõnusalt mahlane pirniaroom, mis kohe kindlasti kogu pere südamed võidab. Ning otse loomulikult on see lõhn looduslikku päritolu ega sisalda allergeene.</p><ul><li>Looduslik ja allergeenivaba</li><li>Pisaravaba koostis</li><li>Mahlane pirniaroom</li><li>Ei ärrita nahka</li><li aria-level="1" style="box-sizing: inherit; font-weight: 400;"><span style="box-sizing: inherit; font-weight: 400;">ECOCERT/COSMOS sertifikaadiga</span></li><li style="box-sizing: inherit; font-weight: 400;" aria-level="1">98,4% looduslikud koostisosad</li></ul><p>looduslik | julmusevaba | jätkusuutlik | vegan | sertifitseeritud</p><p>Toode on valmistatud Eestis</p><p><b>Kasutamine:</b>&nbsp;anna šampoon hoolikalt märgadele juustele, aja vahule. Seejärel loputa. Vajadusel korda protseduuri.</p><p><b>Koostisosad:&nbsp;</b>Aqua, Coco-Glucoside, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Oryza Sativa (Rice) Starch, Aloe Barbadensis Leaf Juice, Betaine, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Glyceryl Oleate, Hydrolyzed Wheat Protein, Sodium Benzoate, Potassium Sorbate, Aroma</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2025</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10013911187783</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10019841507655</id>
+    <published>2025-02-28T09:54:22+02:00</published>
+    <updated>2025-02-28T09:54:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-joliehair-body-shampoo-200ml"/>
+    <title>Petit&amp;Jolie Beebide juukse- ja kehašampoon 200ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-hair-body-shampoo-200ml-339984.png?v=1740808671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit&amp;Jolie juukse- ja kehašampoon puhastab ja hooldab õrnalt beebi nahka ja juukseid. Ainulaadsed koostisosad ennetavad naha kuivust ja tagavad naha pehmuse ja niisutatuse. Šampoon sobib kuiva ja tundliku nahaga lastele. See ei tekita silmades kipitust.&nbsp;</p><p>Beebi juukse- ja kehašampoon ei sisalda parabeene, SLS-i, parafiini ega sünteetilisi lõhna- ja värvaineid. Beebišampoon on valmistatud 100% looduslikest koostisosadest. </p><p>Pudel on valmistatud 100% taaskasutatud plastikust. </p><p><b>Kasutamine:</b> Duši all või vannis käies lisa väike kogus šampooni oma käele või pesulapile ning masseeri kergelt beebi nahka ja juukseid. Pärast seda loputa hästi veega.</p><p><b>Koostisosad:</b>&nbsp;Aqua, Glycerin, Sodium Cocoyl Glutamate, Coco-Glucoside, Decyl Glucoside, Xanthan Gum, Glyceryl Oleate, Parfum*, Dicaprylyl Ether, Sodium Anisate, Sodium Levulinate</p><p>* looduslikest eeterlikest õlidest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019841507655</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9962787733831</id>
+    <published>2025-02-01T00:18:10+02:00</published>
+    <updated>2025-02-01T00:18:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/clarification-moisturizing-powder-shampoo-40g"/>
+    <title>Clarification Niisutav pulberšampoon 40g</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Clarification</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/clarification-moisturizing-powder-shampoo-40g-903958.jpg?v=1739897182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarification<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            18.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clarification usub tulevikku, kus ilu eksisteerib harmooniliselt koos jätkusuutlikkusega.<br><br>100% puhas hooldus, 0% lisatud vett!<br></p>
+<p>Niisutav pulberšampoon orgaanilise riisi ja maisipulbriga on uuenduslik juuste pesuvahend. Kokkupuutel veega vahutab koheselt ja rikkalikult nagu klassikaline šampoon. Koosneb eranditult õrnadest ja looduslikest koostisosadest ning sobib ka tundlikule peanahale.<br><br>Pulberšampooni 100% loodusliku päritoluga koostisained annavad juustele niisutust, volüümi ja sära.<br><br>Taaskasutatud alumiiniumist valmistatud plastivaba pakend on kompaktne ja kerge ning seda on lihtne transportida. Loomulikult ei sisalda šampoon sulfaate ega säilitusaineid.<b><br><br>Kasutamine:</b> Puista teelusikatäis pulbrit pihku, kanna juba märgadele juustele. Vajadusel korda pikemate juuste puhul. Ära hinga tolmu sisse, väldi silma sattumist.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Sodium Myristoyl Glutamate, Disodium Cocoyl Glutamate, Citric acid, Sodium chloride, Oryza Sativa St arch / Oryza Sativa (Rice) Starch*, Zea Mays starch / Zea Mays (Corn) Starch*, Maltodextrin, aqua/water, Kaolin, Sodium cocoate, Glucose, Parfum / Fragrance, Sodium Cocoyl Alaninate, Sodium Hyaluronate.</p>
+<p>100% looduslikku päritolu koostisosad</p>
+<p>11,12% kogu koostisosadest on pärit mahepõllumajandusest<br></p>
+<p>*Mahepõllumajandusest pärit koostisosad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clarification</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>pulber</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9962787733831</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9962837901639</id>
+    <published>2025-02-01T00:17:57+02:00</published>
+    <updated>2025-02-01T00:17:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/clarification-the-volume-powder-dry-shampoo-35g"/>
+    <title>Clarification Volüümi andev kuivšampoon 35g</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Clarification</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/clarification-the-volume-powder-dry-shampoo-35g-186172.jpg?v=1739897196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarification<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clarification usub tulevikku, kus ilu eksisteerib harmooniliselt koos jätkusuutlikkusega.<br><br>100% puhas hooldus, 0% lisatud vett!<br><br>Volüümi andev kuivšampoon sobib ideaalselt tundlikule peanahale, tuues värske tunde ja tekstuuri. 100% looduslikku päritolu koostisosad maisitärklise, valge savi ja kaerajahuga.</p><p><b>Kasutamine: </b>Puista väike kogus pulbrit peopesale, seejärel kanna pulber juuksejuurtele. Masseeri õrnalt peanahka, et pulber jaotuks ühtlaselt ja aitaks rasu imada. Harja juukseid, kuni puuder kaob täielikult.<br><br>Ära hinga tolmu sisse, väldi silma sattumist. Pärast kasutamist pese käed.&nbsp;</p><p><b>Koostiosad</b>:&nbsp;Zea Mays (corn) starch, Kaolin, Avena Sativa (Oat) kernel flour</p><p>100% looduslikku päritolu koostisosad</p><p>95% kogu koostisosadest on pärit mahepõllumajandusest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clarification</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>kuivšampoon</s:tag>
+    <s:tag>pulber</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9962837901639</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9962943480135</id>
+    <published>2025-01-31T14:07:07+02:00</published>
+    <updated>2025-01-31T14:07:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/clarification-duo-set-of-cleansing-powders-body-and-hair"/>
+    <title>Clarification Puhastavate pulbrite komplekt - kehale ja juustele</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Clarification</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/clarification-duo-set-of-cleansing-powders-body-and-hair-537546.webp?v=1739897187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clarification<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clarification usub tulevikku, kus ilu eksisteerib harmooniliselt koos jätkusuutlikkusega.</p><p>100% puhas hooldus, 0% lisatud vett!<br></p><p>Komplektis sisaldub Clarification Niisutav pulberšampoon 40g ja&nbsp;Clarification Niisutav kehapesu pulber 40g, mõlemad tooted pakuvad ainulaadset hoolitsust.&nbsp;<b><br><br>Niisutav pulberšampoon</b> orgaanilise riisi ja maisipulbriga on uuenduslik juuste pesuvahend. Kokkupuutel veega vahutab koheselt ja rikkalikult nagu klassikaline šampoon. Koosneb eranditult õrnadest ja looduslikest koostisosadest ning sobib ka tundlikule peanahale.<br><br>Pulberšampooni 100% loodusliku päritoluga koostisained annavad juustele niisutust, volüümi ja sära.<br></p><p>Orgaanilise kaera ja valge saviga <b>kehapesu pulber</b> on väga uuenduslik kehapesuvahend. Kokkupuutel veega vahutab koheselt ja rikkalikult nagu traditsiooniline dušigeel. Koosneb eranditult õrnadest ja looduslikest koostisosadest ning sobib tundlikule nahale.<br><br>Looduslik hooldus kehale, niisutab ja puhastab õrnalt kõiki nahatüüpe. <br></p><p><b>Kasutamine:</b></p><p><b>Niisutav pulberšampoon:</b>&nbsp;Puista teelusikatäis pulbrit pihku, kanna juba märgadele juustele. Vajadusel korda pikemate juuste puhul. Ära hinga tolmu sisse, väldi silma sattumist. </p><p><b>Niisutav kehapesu pulber:</b>&nbsp;Puista käele teelusikatäis pulbrit, lisa mõned tilgad vett ja hõõru käsi kokku kuni pulber läheb vahule, seejärel kanna märjale nahale. Vajadusel korda. Ära hinga tolmu sisse, väldi silma sattumist. </p><p><b>Koostisosad:</b></p><p><b>Niisutav pulberšampoon:</b>&nbsp;Sodium Myristoyl Glutamate, Disodium Cocoyl Glutamate, Citric acid, Sodium chloride, Oryza Sativa St arch / Oryza Sativa (Rice) Starch*, Zea Mays starch / Zea Mays (Corn) Starch*, Maltodextrin, aqua/water, Kaolin, Sodium cocoate, Glucose, Parfum / Fragrance, Sodium Cocoyl Alaninate, Sodium Hyaluronate.</p><p>100% looduslikku päritolu koostisosad</p><p>11,12% kogu koostisosadest on pärit mahepõllumajandusest</p><p>*Mahepõllumajandusest pärit koostisosad</p><p><b>Niisutav kehapesu pulber:</b>&nbsp;Sodium Lauroyl Glutamate, Aqua / Water, Kaolin, Avena Sativa Kernel Flour / Avena Sativa (Oat) Kernel Flour*, Sodium Myristoyl Glutamate, Citric Acid, Parfum / Fragrance, Glucose, Sodium Hyaluronate</p><p>100% looduslikku päritolu koostisosad</p><p>10% kogu koostisosadest on pärit mahepõllumajandusest</p><p>*Mahepõllumajandusest pärit koostisosad<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clarification</s:tag>
+    <s:tag>juuksed</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>pulber</s:tag>
+    <s:tag>valentinipäev</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9962943480135</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

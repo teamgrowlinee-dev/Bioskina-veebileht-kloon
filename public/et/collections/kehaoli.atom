@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/kehaoli.atom"/>
+  <title>bioskina</title>
+  <updated>2025-02-28T09:54:24+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/10019914350919</id>
+    <published>2025-02-28T09:54:24+02:00</published>
+    <updated>2025-02-28T09:54:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/petit-jolie-massage-oi-100ml"/>
+    <title>Petit&amp;Jolie Beebi massaažiõli 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Petit &amp; Jolie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/petitjolie-massage-oil-100ml-159958.png?v=1740808668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petit &amp; Jolie<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petit &amp; Jolie massaažiõli toidab ja kaitseb nahka ning sobib väga hästi beebimassaažiks, pakkudes lõõgastava hetke teile mõlemale. Ülipehme õli koosneb mahepõllumajanduslikult kasvatatud päevalille-, jojoba- ja mandliõlide kombinatsioonist. </p><p>Massaažiõli on 100% looduslikest koostisosadest ning ei sisalda parafiini ega sünteetilisi lõhna- ja värvaineid.</p><p>Massaažiõli sobib ka nahaõliks (igale vanusele).</p><p><b>Kasutamine: </b>Tilguta paar tilka õli õrnalt kätele ja beebi nahale.</p><p><b>Koostisosad:&nbsp;</b>Helianthus Annuus Hybrid Oil*&nbsp;<em>(sunflower),</em>&nbsp;Simmondsia Chinensis Seed Oil*&nbsp;<em>(jojoba),</em>&nbsp;Prunus Amygdalus Dulcis Oil*&nbsp;<em>(almond),</em>&nbsp;Schizandra Sphenanthera Fruit Extract, Tocopherol&nbsp;<em>(vitamin E),</em>&nbsp;Helianthus Annuus Seed Oil&nbsp;<em>(sunflower),</em>&nbsp;Vanilla Planifolia Fruit Extract<em>&nbsp;(vanilla), Parfum</em>*</p><p>* orgaaniline päritolu</p><p> ** looduslikest eeterlikest õlidest<br><br> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>petit&amp;jolie</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10019914350919</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014171103559</id>
+    <published>2025-02-25T13:42:23+02:00</published>
+    <updated>2025-02-25T13:42:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-shimmering-carrot-dry-oil-bronze-100ml"/>
+    <title>LUUV Sädelusega porgandi kuivõli PRONKS 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-shimmering-carrot-dry-oil-bronze-100ml-155486.png?v=1740560028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pronksjas sädelev nahk on vaid käeulatuses! LUUV Sädelusega porgandi kuivõli on aaloe baasil rikkalikult niisutav vitamiinipomm, mis annab nahale pilkupüüdvalt kauni sära. A-vitamiini ja beetakaroteeni rikas porgandiõli muudab naha kaunilt jumekaks ilma isepruunistava efektita.<br><br>Porgandiõlis sisalduvad antioksüdandid ja E-vitamiin aitavad säilitada naha nooruslikkust, aaloe aga rahustab ja niisutab nahka sügavuti ning aitab säilitada selle niiskustaset. Nahk jääb siidiselt pehme, elastne, elujõuline ja särav. Kuivõli teeb õrnalt sädelevaks mica valgustpeegeldavad osakesed, mis on ohutud nii nahale kui keskkonnale. Sobib ideaalselt kõikidele nahatüüpidele, ei ummista nahapoore ning sobib igapäevaseks kasutamiseks. Geelja tekstuuriga kuivõli libiseb sulgkergelt üle naha, imendub kiiresti ning ei jäta nahka kleepuvaks ega õliseks. </p>
+<ul><li>Niisutab sügavuti</li><li>Parandab naha elastsust</li><li>Parandab jumet</li><li>Geeljas tekstuur</li><li>Imendub kiiresti</li><li>Mahapestav sädelus</li><li>Kõikidele nahatüüpidele</li><li>Looduslik SPF10</li></ul>
+<p><u>Põhilised koostisosad:</u></p>
+<ul><li><u>Porgandiõli</u>&nbsp;(täpsemalt porgandi seemneõli) sisaldab palju karoteeni, mis annab jumet parandava efekti. Porgandiõli on alati mingis kandjaõlis (st lahjendatuna), kuna iseseisvalt on ta liiga intensiivne. Sisaldab rohkelt A-vitamiini. Porgandiõli looduslik SPF on u 40, aga kuna ta on lahjendatud, siis jääb u SPF 10.</li><li><u>Aaloet</u> on kasutatud rahvameditisiinis juba sajandeid. Aaloe on väga hea naha niisutaja ja ärrituste leevendaja, seepärast aitab ka suurepäraselt päikesepõletuse puhul. Aaloe on rahustava toimega ja kannab hapnikku nahas. Teeb naha siidiseks ja pehmeks.</li><li><u>Apelsini eeterlikku õli</u> kasutatakse enamasti toote lõhnastamiseks – värske, magusa tsitruselise aroomiga. Eeterlikud õlid on võimelised läbi naha minema. Annab kohese tujutõstva, energiat andva tunde. Tsitrused sobivad naha kirgastamiseks.</li><li>Karamelli kasutame tooni andmiseks (isepruunistavas vahus, Pronksi kuivõlis), 100% looduslik värv. Omab ka mõnusat karamellist aroomi. Keskkonnasõbralik valik.</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p>
+<p>Toode on valmistatud Eestis</p>
+<p><b>Kasutamine:</b> Loksuta pudelit enne kasutamist. Määri sobiv kogus toodet puhtale nahale.&nbsp;</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Dunaliella Salina Extract, Helianthus Annuus Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Nobilis (Mandarin) Peel Oil, Citrus Aurantium (Orange) Peel Oil, Xanthan Gum, Triethyl Citrate, Glyceryl Caprylate, Benzoic Acid, Mica, Titanium Dioxide (CI 77891), Raphanus Sativus (Radish) Root Extract, Citric Acid, Maltodextrin, Parfum, Citral, Limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014171103559</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/10014163992903</id>
+    <published>2025-02-25T13:42:17+02:00</published>
+    <updated>2025-02-25T13:42:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/luuv-natural-carrot-dry-oil-with-aloe-vera-100ml"/>
+    <title>LUUV Porgandi kuivõli aaloega 100ml</title>
+    <s:type>Foot Cream</s:type>
+    <s:vendor>LUUV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/luuv-natural-carrot-dry-oil-with-aloe-vera-100ml-860544.png?v=1740560025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LUUV<br>
+        <strong>Type: </strong>Foot Cream<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loomulik särav jume ilma päevitamise ja isepruunistajateta? Jah, LUUV Porgandi kuivõliga on see võimalik! See kuivõli on looduslik vitamiinipomm, mis niisutab su nahka sügavuti ning taastab selle sära ja elastsuse. Porgandiõlis sisalduv A-vitamiin ja beetakaroteen annavad nahale kauni tervisliku jume, kuid ei isepruunista nahka. Kuivõlis leidub ka rohkesti antioksüdante ja E-vitamiini, mis aitavad säilitada naha nooruslikkust. Aaloe mõjub aga rahustavalt ning pakub pikaajalist niisutust.<br><br>Kuivõlil on geeljas kergesti hajutatav tekstuur, mis imendub kiiresti ning ei jäta nahka rasvaseks ega kleepuvaks. Selle mõnus tsitruseline lõhn mõjub värskendavalt ja meeli lõõgastavalt. Porgandi kuivõli on loodud kõiki nahatüüpe silmas pidades, see ei ummista poore ning sobib hästi igapäevaseks nahahoolduseks. Porgandi kuivõli aaloega on looduslik, vegan ning sisaldab ainult häid koostisosasid.</p>
+<ul><li>Niisutab sügavuti</li><li>Parandab naha elastsust</li><li>Parandab jumet</li><li>Imendub kiiresti</li><li>Ei jäta nahka rasvaseks</li><li>Kõikidele nahatüüpidele</li><li>Looduslik SPF10</li></ul>
+<p><u>Põhilised koostisosad:</u></p>
+<ul><li><u>Porgandiõli </u>(täpsemalt porgandi seemneõli) sisaldab palju karoteeni, mis annab jumet parandava efekti. Porgandiõli on alati mingis kandjaõlis (st lahjendatuna), kuna iseseisvalt on ta liiga intensiivne. Sisaldab rohkelt A-vitamiini. Porgandiõli looduslik SPF on u 40, aga kuna ta on lahjendatud, siis jääb u SPF 10.</li><li><u>Aaloet</u> on kasutatud rahvameditisiinis juba sajandeid. Aaloe on väga hea naha niisutaja ja ärrituste leevendaja, seepärast aitab ka suurepäraselt päikesepõletuse puhul. Aaloe on rahustava toimega ja kannab hapnikku nahas. Teeb naha siidiseks ja pehmeks.</li><li><u>Apelsini eeterlikku õli</u> kasutatakse enamasti toote lõhnastamiseks – värske, magusa tsitruselise aroomiga. Eeterlikud õlid on võimelised läbi naha minema. Annab kohese tujutõstva, energiat andva tunde. Tsitrused sobivad naha kirgastamiseks.</li></ul>
+<p>looduslik | julmusevaba | jätkusuutlik | parabeenivaba | vegan</p>
+<p><b>Kasutamine:&nbsp;</b>Kanna sobiv kogus toodet puhtale nahale. Sobib igapäevaseks kasutamiseks kõikidele nahatüüpidele.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Dunaliella Salina Extract, Helianthus Annuus Seed Oil, Aloe Barbadensis Leaf Juice, Citrus Reticulata (Mandarin Oil), Citrus Sinensis (Orange Oil), Xanthan Gum, Triethyl Citrate, Sodium benzoate, Potassium sorbate, Glyceryl Caprylate, Citric Acid, Benzoic Acid, Parfum, Citral, Limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>jumetoode</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>luuv</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/10014163992903</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945124307271</id>
+    <published>2025-01-20T10:06:08+02:00</published>
+    <updated>2025-01-20T10:06:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/nurme-calming-baby-oil-100ml"/>
+    <title>NURME Rahustav beebiõli 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Nurme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/nurme-calming-baby-oil-100ml-165192.webp?v=1739897163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nurme<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beebiõlis sisalduv magusmandliõli imendub nahka muudest õlidest kiiremini, ennetab naha kuivust ning hoiab lapse naha pehme ja niisutatuna. Kasuta mandliõli või beebiõli igapäevaseks massaažiks või määri seda ainult kuivadele piirkondadele. Väga tõhus beebikõõma ravimisel, kuna tegemist on kergema õliga, mis pehmendab ketendavat nahka, ilma uut õrna nahka kahjustamata. Parim teadaolev kaitse mähkmelööbe vastu.<b><br><br>Kasutamine:</b> Kasuta igapäevaselt masseerimisel või määri ainult kuivadele kohtadele. Võib lisada ka vannivette.&nbsp;<br>Väga tõhus beebikõõma vastu. Masseeri õrnalt beebi peanahale, anna veidi aega imendumiseks ja seejärel harja õrnalt.&nbsp;</p><p><b>Koostisosad:&nbsp;</b>Prunus Amygdalis Dulcis (Sweet Almond) Oil*.<br>﻿*Orgaaniline</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>nurme</s:tag>
+    <s:tag>vann</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945124307271</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9945056575815</id>
+    <published>2025-01-20T09:54:21+02:00</published>
+    <updated>2025-01-20T09:54:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/naif-soothing-baby-oil-for-baby-kids-100ml"/>
+    <title>NAIF rahustav õli beebidele &amp; lastele 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>NAIF</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/naif-soothing-baby-oil-for-baby-kids-100ml-192649.png?v=1739897180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAIF<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mõnus õli, mis toidab nahka, imendub kiiresti ega kleepu.  Toidab ja niisutab beebi tundlikku nahka pärast vanniskäiku.<br><br>Päevalilleseemne-ja puuvillaseemneõli lisamine aitab beebiõlil lukustada vannijärgse niiskuse nii, et nahk ei kuivaks ja beebi naha loomulik kaitsekiht jääb puutumata.<b><br><br>Kasutamine:</b> Kannda mõni tilk nahale või kätele ja masseeri õli õrnalt ringjate liigutustega. Imendub kiiresti.</p><p><b>Koostisosad:</b>&nbsp;Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Parfum/fragrance, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Gossypium (Cotton Seed) Oil, Bisabolol</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>lapsed</s:tag>
+    <s:tag>naif</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9945056575815</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9222837338439</id>
+    <published>2024-05-26T10:24:42+03:00</published>
+    <updated>2024-05-26T10:24:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/magrada-5in1-beauty-oil-with-lavender-100ml"/>
+    <title>Magrada 5in1 Lavendli iluõli 100ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-5in1-beauty-oil-with-lavender-100ml-235763.jpg?v=1739897235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><p>Igaõhtune ilurituaal loob spaanaudingu koduses miljöös. Orgaaniline iluõli pakub lõõgastavat naudingut kehale ja meeltele. Kooslus mahe-väiketootjate looduslikult ekstraheeritud essentsõlidest leevendab pingeid ning soodustab uinumist.</p>
+<ul><li><u>Orgaaniline värvohakaõli</u> külmpressituna taastab ja säilitab naha niiskusetaset.</li><li><u>Orgaanilise aprikoosikiviõli</u> kerge tekstuur toidab nahka mineraalide ning A-, B-, C- ja E-vitamiinidega.</li><li><u>Orgaaniline jojoobiõli</u> sisaldab A- ja E-vitamiini ning sel on ka imelised nahka pinguldavad omadused.</li></ul>
+<p>Aroomiteraapias kasutatakse looduslikult ekstraheeritud essentse, et tasakaalustada meie meeli, keha ja nahka. Looduslikel lõhnadel on positiivne mõju ka heaolule.</p>
+<p>Õli peamised omadused: rahustav, lõõgastav, meeleolu tõstev, leevendab ärevustunnet, soodustab uinumist.</p>
+<ul><li>Hiiumaa lavendlitalu – kõige põhjapoolseima lavendlitalu lavendlipõllud kingivad vaid parimat <u>orgaanilist lavendli essentsõli</u>.</li><li>Päikselist sünergiat lisab külmpressitud <u>orgaaniline valge greibi essentsõli</u>.</li><li><u>Orgaanilisel kadaka essentsõlil</u> on pingeid maandav ja rahustav toime.</li></ul>
+<p><b>Kasutamine:&nbsp;</b>Hõõru õli kuivale või niiskele nahale, masseeri ühtlaselt. Pingetest vabanemiseks tupsuta õli ka meelekohtadele ja nina piirkonda.</p>
+<p><b>Koostisosad: </b>Carthamus Tinctorius (Safflower) Seed Oil*, Prunus Armeniaca (Apricot) Kernel Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Citrus Paradisi (Grapefruit) Peel Oil*, Lavandula Angustifolia (Lavender) Oil*, Juniperus Communis (Juniper) Fruit Oil, Tocopherol (Vitamin E), Linalool, Limonene</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 100%</p><p>Koostisosade loetelu võib muutuda.&nbsp;</p>
+<p>Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | vegan | alkoholivaba | julmusevaba | käsitööna valmistatud | minimaalne koostis</p>
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9222837338439</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975918661959</id>
+    <published>2024-05-19T18:39:50+03:00</published>
+    <updated>2024-05-19T18:39:50+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/golden-shimmer-gel-with-carrot-extract-100-ml"/>
+    <title>Magrada Kuldne särageel porgandiekstraktiga 100ml</title>
+    <s:type>Body Serum</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-golden-body-shimmer-with-carrot-extract-100ml-707401.png?v=1743130295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Body Serum<br>
+        <strong>Price: </strong>
+            23.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Saavuta kullasära sekunditega! Sinu ees on uus <i>go-to</i> toode kumava efekti loomiseks. Hetkega imenduv õlivaba geel kingib nahale imelise kullatoonise läike.</p>
+<p>Tänu looduslikku päritolu mineraalidele (kuldne ja pronks), naistepuna-, porgandi- ja aaloeekstraktidele, jääb nahk sillerdav ja täiuslikult niisutatud. Geeli aroom on inspireeritud mere pakatavast värskusest ja õrnast suvetuulest. Mitu-head-asja-ühes-toode on kiiresti imenduv ja kerge koostisega, jättes naha meeldivalt siidiseks. Säraefekt sobib suurepäraselt nii pidulike ürituste kui ka sillerdava suveilmaga.</p>
+<ul><li>Imeline ravimtaim <u>naistepuna</u> ehk jaanilill on ärritusevastase toimega. Naistepunaekstrakt sobib ideaalselt tundlikule nahale omades puhastavat ning antimikroobset toimet.</li><li><u>Porgandijuureekstrakt</u> soodustab päevitumist ning aitab jumel kauem püsida.</li><li><u>Aaloeekstrakt</u> soodustab haavade paranemist, niisutab, värskendab, on põletikuvastane, rahustab, mahendab ärritust ning kaitseb nahka.</li></ul>
+<p><b>Kasutamine:</b>&nbsp;Särageeli kasutamine on imelihtne, kanna toode hoolsalt puhtale nahale. Ei määri riideid ning geeli võib kasutada nii kehal, dekolteel kui ka näonahal. Eriti ideaalselt sobib kuma õhtuste ürituste ning päikeseliste ilmadega. Hoiusta tihedalt suletud originaalpakendis. Kaitsta otsese päikesevalguse eest.</p>
+<p><b>Koostisosad:</b>&nbsp;Aqua, Glycerin, Xanthan Gum, Daucus Carota Sativa (Carrot) Root Extract, Hypericum Perforatum Extract, Aloe Barbadensis (Aloe Vera) Extract, Panthenol, Parfum, Phenoxyethanol, Ethylhexylglycerin, Potassium Sorbate, Sodium Benzoate, Mica, CI 77891, CI 77491</p>
+<p>Loodusliku päritoluga koostisosad: 95,89%.&nbsp;</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | alkoholivaba | EL allergeenidevaba | vegan | <br>julmusevaba | käsitööna valmistatud | minimaalne koostis<!--EndFragment-->
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>eurovision</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehamask</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>suvetoode</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975918661959</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/8975928754503</id>
+    <published>2024-05-19T09:11:19+03:00</published>
+    <updated>2024-05-19T09:11:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/carrot-oil-with-rosemary-extract-75-ml"/>
+    <title>Magrada Porgandiõli rosmariiniekstraktiga 75ml</title>
+    <s:type>Tanning Oil &amp; Lotion</s:type>
+    <s:vendor>Magrada Organic Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/magrada-carrot-oil-with-rosemary-extract-75ml-130403.png?v=1739897404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magrada Organic Cosmetics<br>
+        <strong>Type: </strong>Tanning Oil &amp; Lotion<br>
+        <strong>Price: </strong>
+            14.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toetudes porgandi vitamiinirikkale väele oleme loonud minimalistliku valemiga näo-ja kehaõli, mis sobib imeliselt igapäevaseks hoolduseks. Porgandieliksiir valmistab naha ette päikesehooajaks ja päevitamiseks.</p>
+<p>Kooslus ühendab endas päevalilleseemneõli ning võimsaid porgandijuure- ja rosmariiniekstrakte. See on loomuliku päevituse pikendaja, mis kiirendab päevitusprotsessi ja hoiab naha niisutatuna. Porgandiõli kuldne värvus kingib ka nahale kullasärase lõpptulemuse.</p>
+<ul><li><u>Porgandijuureekstrakt</u> soodustab päevitumist ning aitab jumel kauem püsida.</li><li><u>Rosmariiniekstrakt</u> on suurepärane põletikuvastane antioksüdant, mis sobib ka tundlikule ja õrnale nahale.</li><li><u>Päevalilleseemneõli </u>on uskumatult rikas loodusliku E-vitamiini ja asendamatute rasvhapete – oomega-6 jaoomega-9 – allikas. Kerge toitev õli sobib ideaalselt naha niisutamiseks, rahustamiseks ja taastamiseks, aidates samal ajal parandada jumet.</li></ul>
+<p>Õli on valmistatud juunist oktoobrini korjatud maheporgandite juurtest. Porgandijuuri leotatakse päevalilleseemneõlis, mis annab tootele kollakas-oranžika värvuse. See omakorda kingib päevituseliksiirile suure beetakaroteeni ja vitamiinide sisalduse.</p>
+<p><b>Kasutamine:</b>&nbsp;Alusta õli kasutamist paar nädalat enne lõunamaareisi või rannahooaja algust. Kanna seda õhtuti puhtale nahale – nii imendub eliksiir kõige paremini ning nahk saab maksimaalselt kasu. Jätka toote kasutamist päevitamise ajal iga päev. Kasuta õli ka pärast päikese käes viibimist, et jume säilitada ja pikendada. Enne päikese kätte minekut kasuta alati päikesekaitsekreemi, kuna õli ei sisalda UV-filtreid. Toode ei määri riideid.</p>
+<p><b>Koostisosad:</b>&nbsp;Helianthus Annuus (Sunflower) Seed Oil*, Daucus Carota Sativa (Carrot) Root Extract*, Rosemary (Rosmarinus Officinalis) Leaf Extract*</p>
+<p>*COSMOS sertifitseeritud orgaaniline koostisosa</p>
+<p>Loodusliku päritoluga koostisosad: 100%.&nbsp;Orgaanilise päritoluga koostisosad: 100%.&nbsp;</p>
+<p>Koostisosade loetelu võib muutuda. Kõige värskema ja täpsema koostisainete nimekirja leiad toote pakendilt.</p>
+<p>parabeenivaba | sulfaadivaba | silikoonivaba | alkoholivaba | lõhnaainetevaba| EL allergeenidevaba | vegan |&nbsp;<br> julmusevaba | käsitööna valmistatud | minimaalne koostis</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>kehaõli</s:tag>
+    <s:tag>magrada</s:tag>
+    <s:tag>päevitus</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/8975928754503</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

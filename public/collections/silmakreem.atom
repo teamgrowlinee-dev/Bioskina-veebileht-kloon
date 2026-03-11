@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/collections/silmakreem.atom"/>
+  <title>bioskina</title>
+  <updated>2025-02-28T09:54:54+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/products/10019676324167</id>
+    <published>2025-02-28T09:54:54+02:00</published>
+    <updated>2025-02-28T09:54:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/upcircle-beauty-eye-cream-with-cucumber-hyaluronic-acid-coffee-15ml"/>
+    <title>UpCircle Beauty Eye Cream with Cucumber, Hyaluronic Acid + Coffee, 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>UpCircle Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/upcircle-beauty-eye-cream-with-cucumber-hyaluronic-acid-coffee-15ml-835499.png?v=1740808675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpCircle Beauty<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gentle dermatologically approved eye cream with hyaluronic acid and coffee to brighten, refresh and renew, reducing the appearance of dark circles and fine lines.</p>
+<p>This multi-award winner is suitable for all skin types. Use both morning and night. The eye cream should be the first part of the moisturising section of your skincare routine. </p>
+<p>Inspiring, upcycling, uplifting: This brightening eye cream for dark circles is made with coffee oil extracted from repurposed grounds and anti-inflammatory maple bark extract, a by-product of the wood industry.</p>
+<p><span><strong>How to use: </strong>Apply a small amount around the contour of your eye. Use morning and night.</span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Butyrospermum Parkii (Shea) Butter, Glycerin, C14-22 Alcohols, Helianthus Annuus (Sunflower) Seed Oil*, Vitis Vinifera (Grape) Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract*, Xanthan Gum, Coffea Arabica (Coffee) Seed Extract, Acer Rubrum (Maple) Extract, Sodium Hyaluronate, Olea Europaea (Olive) Fruit Oil, Calendula Officinalis Extract*, Rosmarinus Officinalis (Rosemary) Leaf Extract*, Anthemis Nobilis (Chamomile) Flower Oil, Tocopherol, Sodium Hydroxide, C12-20 Alkyl Glucoside, Potassium Sorbate, Sorbic Acid, Citric Acid, Sodium Benzoate, Salicylic Acid, Benzyl Alcohol, Limonene**. </span></p>
+<p><span>*Organically grown ingredients </span></p>
+<p><span>**Natural constituent of essential oils listed.</span></p>
+<p><span>99% NATURAL INGREDIENTS</span></p>
+<p><span>Handmade | Social Good | Recycled Materials | Zero Waste | Cruelty Free | Vegan | Natural Resources | Non Toxic</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:tag>soodukas</s:tag>
+    <s:tag>supersoodukas</s:tag>
+    <s:tag>upcircle</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/10019676324167</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9995972968775</id>
+    <published>2025-02-17T09:35:01+02:00</published>
+    <updated>2025-02-17T09:35:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/berrichi-age-defence-eye-cream-15ml"/>
+    <title>BERRICHI Age Defence Eye Cream 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>Berrichi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/berrichi-age-defence-eye-cream-15ml-587219.png?v=1739897155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Berrichi<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brightening eye cream for aging skin with powerful natural ingredients and science based formula.</p>
+<p>Lightly absorbable eye cream deeply moisturizes and nourishes the delicate skin around the eyes. The cream prevents and relieves signs of aging, reduces dark circles under the eyes and restores the skin’s natural function and protective barriers.</p>
+<p>Eye eye cream contains powerful antioxidants furcellaran and astaxanthin, which have anti-aging and deep moisturising effects has been confirmed in many scientific studies. We get furcellaran from algae grown in Estonian waters, astaxanthin from other clean and Nordic sea plants.</p>
+<p>Concerns about dark circles under the eyes and pigmentation are alleviated by koji-acid and alpha arbutin.</p>
+<ul></ul>
+<ul>
+<li aria-level="1"><span>Moisturizes and nourishes delicate skin around the eyes.</span></li>
+<li aria-level="1"><span>Silky and soft texture.</span></li>
+<li aria-level="1"><span>Easily absorbed.</span></li>
+<li aria-level="1"><span>Prevents and reduces signs of aging.</span></li>
+<li aria-level="1"><span>Reduces dark circles under the eyes and pigment spots.</span></li>
+<li aria-level="1">
+<span>Contains furcellaran,</span><span> </span><span>astaxanthin, aloe vera,</span><span> </span><i><span>cacay</span></i><span> </span><span>oil, apricot oil, avocado oil,</span><span> </span><span>koji acid and alpha arbutin.</span>
+</li>
+</ul>
+<p><span>For all skin types and for ages 25+</span></p>
+<p><strong>How to use: </strong>Apply a small amount of cream around the clean eye area with your finger, pat gently and evenly onto the skin. <span>You will notice improvements in 2 weeks of use.</span></p>
+<p><strong>Ingredients:</strong> <span>Aqua, Persea Gratissima oil (Organic Avocado Oil)*, Prunus Armeniaca kernel oil (Organic Apricot kernel oil)*, Cetearyl Olivate/Sorbitan Olivate (Olivem1000), Cetearyl Alcohol, Simmondsia Chinesis seed oil (Organic Jojoba oil)*, Caryodendron Orinocense seed oil (Cacay Oil), Glycerin**, Aloe Barbadensis Leaf Juice/Potassium Sorbate/Sodium Benzoate/Citric acid (Aloe Vera), Dehydroacetic Acid/Benzoic Acid/Benzyl Alcohol/Sorbic Acid (Sharomix705), Koji acid, A-arbutin, Furcellaria Lumbricalis extract (Furcellaran), Haemotococcus pluvialis/Tocopherol (Astaxanthin oil)</span><br><br><span>*Ingredients from organic farming</span><br><span>**Made using organic ingredients</span></p>
+<p><span>98,9% natural origin of total</span></p>
+<p>Free from parabens, silicones, mineral oils, synthetic flavours and colourants. Cruelty free and vegan. Suitable for sensitive and allergic skin.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berrichi</s:tag>
+    <s:tag>eesti</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9995972968775</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9941163049287</id>
+    <published>2025-01-19T13:44:23+02:00</published>
+    <updated>2025-01-19T13:44:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hej-organic-sensitive-eye-cream-serum-15ml"/>
+    <title>HEJ Organic Sensitive Eye Cream-Serum 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>Hej</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hej-organic-sensitive-eye-cream-serum-15ml-872495.png?v=1739897181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hej<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            13.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sensitive Eye Cream-Serum's delicate texture melts with the warmth of your skin. Squalane reduces moisture loss, combats dryness wrinkles and gives the skin a silky feel. It supports the decongestant and calming effects of paracress and safflower oil.</span></p>
+<ul>
+<li><span>Silky care for the eye area ensures an alert look</span></li>
+<li><span>Paracress reduces fine lines and redness</span></li>
+<li><span>Squalane retains moisture around the eyes</span></li>
+<li><span>Especially for sensitive skin</span></li>
+<li><span>Allergen-reduced perfume oil, 100% vegan and natural</span></li>
+</ul>
+<p><span><strong>How to use: </strong>Distribute one pump onto your fingertips. Gently tap on the area under your eyes.</span></p>
+<p><span><strong>Ingredients:</strong> Aqua, Helianthus Annuus Seed Oil*, Glycerin, Squalane, Coco-Caprylate, Polyglyceryl-3 Dicitrate/ Stearate, Cetearyl Alcohol, Cannabis Sativa Seed Oil*, Carthamus Tinctorius Seed Oil, Oleic Acid, Sodium Levulinate, Hypericum Perforatum Extract*, Avena Sativa Kernel Extract*, Chamomilla Recutita Flower Extract*, Triethyl Citrate, Terminalia Arjuna Bark Extract, Xanthan Gum, Tocopherol, Spilanthes Acmella Flower/Leaf/Stem Extract, Astragalus Membranaceus Root Extract, Lecithin, Uniquinone Ubiquinone, Citric Acid, Sodium Anisate </span></p>
+<p><span>*ingredients from certified organic agriculture</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hej</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9941163049287</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.10</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9674508927303</id>
+    <published>2024-10-04T15:11:44+03:00</published>
+    <updated>2024-10-04T15:11:44+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/hoia-super-firming-eye-serum-instant-effect-10ml"/>
+    <title>HOIA Super Firming Eye Serum Instant Effect 10ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>HOIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/hoia-super-firming-eye-serum-instant-effect-10ml-615777.png?v=1739897243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOIA<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="entry-content">
+<p><span>Eye Serum is supercharged with innovative active ingredients such as botanical vitamin A and C, botox-like peptides, caffeine, niacinamide, hyaluronic acid, rosehip oil, botanical retinol bakuchiol, all infused into organic peppermint and rosemary plant waters, which are grown and distilled in Saaremaa. This rich cocktail instantly cools, soothes and smooths the under-eye area, fine lines, reduces dark circles and keeps the eye area bright, moisturized and beautiful. Lightweight and fast-absorbing.</span></p>
+<p><strong>How to use:</strong> Apply small amount to eye area and massage until absorbed. </p>
+<p><strong>Ingredients:</strong> <span>*Rosimarinus Officinalis Distillate, *Mentha Piperita Distillate, Sargassum Fluitans/Natans Extract, *Rosa Canina Seed oil, Tetrapeptide-21, Nicotanamid, Caffeine, Bakuchiol, Ascorbyl Tetraisopalmitate, Sodium Hyaluronate, Hydrolized Sodium Hyaluronate, Tocopheryl-acetat, Hydroxypropyl Methylcellulose, Pullulan, Porphyridium Cruentum Extract, Butylene Glycol, Glyerin, Haematococcus Pluvialis extract, Sodium Levulinate, Sodium Anisate, Magnolia Officinalis Bark extract, Glyceryl Caprylate, Pentylene Glycol, Citric acid, Mica , CI77891, CI 77491, Lauroyl Lysine. </span></p>
+<p><span>*Organic</span></p>
+<p><span>Handmade in Saaremaa</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eesti</s:tag>
+    <s:tag>hoia</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9674508927303</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">38.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9343458181447</id>
+    <published>2024-07-18T11:01:00+03:00</published>
+    <updated>2024-07-18T11:01:00+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/madara-anti-fatigue-eye-rescue-cream-15ml"/>
+    <title>MÁDARA Anti-Fatigue Eye Rescue Cream 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>MADARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/madara-anti-fatigue-eye-rescue-cream-15ml-826053.jpg?v=1739897249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MADARA<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            32.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The unique multi-layered texture firms and smooths away signs of fatigue. Age-defying Smart Antioxidant complex of Lichen, Moss, Fern and Alchemilla hydrates and corrects fine lines and wrinkles.</p>
+<p>Skin-dynamising natural aescin boosts circulation and strengthens capillaries to depuff and reduce dark circles and brighten up the eye area.</p>
+<p><span style="font-size: 0.875rem;"><strong>How to use: </strong>Apply 4 small drops around the eye and pat into the skin. Use morning and night.</span><br></p>
+<p><strong>Ingredients:</strong> Aqua, Simmondsia Chinensis (Jojoba) Seed Oil, Glycerin, Cetearyl Alcohol, Isoamyl Laurate, Arachidyl Alcohol, Behenyl Alcohol, Dipalmitoyl hydroxyproline, Sodium levulinate, Palmitic acid, Stearic Acid, Arachidyl Glucoside, Caffeine, Propanediol, Aroma, Glyceryl Caprylate, Sodium anisate, CI 77891 (Titanium Dioxide), Mica (CI 77019), Xanthan Gum, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Alchemilla Vulgaris (Lady's Mantle) Extract, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Camomile) Flower Extract, Coco-glucoside, Sodium PCA, Xylitylglucoside, Anhydroxylitol, Ascorbyl Palmitate, Hydrolyzed Hyaluronic Acid, Polypodium Vulgare (Fern) Rhizome Extract, Sodium Hyaluronate, Sodium phytate, Tocopherol, Xylitol, Potassium Hydroxide, Cetraria Islandica (Lichen) Thallus Extract, Citric acid, Sphagnum Magellanicum (Moss) Extract, Vanillin, Escin, Benzyl Salicylate, Limonene, Citral, Linalool, Eugenol</p>
+<div class="richContent-root-3Sy"></div>
+<div class="productPage-ingredientMessage-3FP">
+<div class="richContent-root-3Sy">* Please note that ingredient lists may change and slightly vary from time to time. You will always find the most up-to-date information on the actual product packaging.</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>madara</s:tag>
+    <s:tag>mehed</s:tag>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9343458181447</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/products/9042533810503</id>
+    <published>2024-02-16T15:38:29+02:00</published>
+    <updated>2024-02-16T15:38:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/products/organic-eye-cream-15ml"/>
+    <title>Vielö Organic Eye Cream 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-eye-cream-15ml-750536.jpg?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1">Nourishing organic eye cream to deliver long-lasting hydration and effectively nurture the delicate skin around the eyes.</span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1">Created with organic whey (nourishing), organic rosehip seed oil (soothing), hyaluronic acid (hydrating), organic sunflower oil (nurturing) and organic extracts of camomile (invigorating), eyebright (strengthening) and mallow (protecting).</span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1">Suitable for all skin types, also for dry and sensitive skin.</span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1"><strong>How to use:</strong> Shake well before use. Apply to clean and dry skin. Massage in gently. </span></p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><strong>Ingredients: </strong>Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Polyglyceryl-3 Dicitrate/ Stearate*, Glycerin**, Helianthus Annuus Seed Oil**, Cetyl Alcohol*, Aqua*, Prunus Armeniaca Kernel Oil**, Triticum Vulgare (Wheat) Germ Oil**, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Hyaluronate*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Potassium Sorbate, Citric Acid*, Polyglyceryl-4 Caprate*, Matricaria Chamomilla Flower Extract**, Malva Sylvestris Leaf Extract**, Euphrasia Officinalis Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Lavandula Angustifolia Flower Oil**, Limonene**/***, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Citral**/***.</p>
+<p class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span>* from natural origin (99,7%)</span><br><span>** certified organic (87,1%)</span><br><span>*** from natural essential oils</span></p>
+<p>Handmade in Austria</p>
+<p>Inspired by circular economy, Vielö refines a high-quality by-product of cheese production, liquid organic whey, and uses it to create certified organic and sustainable skin and body care products. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/products/9042533810503</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">47.00</s:price>
+      <s:sku/>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

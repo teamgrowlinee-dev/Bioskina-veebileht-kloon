@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="et" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bioskina.com/et/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bioskina.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bioskina.com/et/collections/vielo.atom"/>
+  <title>bioskina</title>
+  <updated>2025-01-19T11:15:40+02:00</updated>
+  <author>
+    <name>bioskina</name>
+  </author>
+  <entry>
+    <id>https://bioskina.com/et/products/9939539067207</id>
+    <published>2025-01-19T11:15:40+02:00</published>
+    <updated>2025-01-19T11:15:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-facial-masque-50ml"/>
+    <title>Vielö Orgaaniline näomask 50ml</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-facial-masque-50ml-901935.jpg?v=1739897176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Facial Mask<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orgaaniline näomask pakub õrna, kuid tõhusat puhastust, nahka samaaegselt  rahustades ja niisutades.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), valge savi (puhastav), hüaluroonhape (niisutav), orgaaniline nõiapuuvesi (toitev), orgaaniline kibuvitsaseemneõli (rahustav) ja orgaanilised saialille (regenereeriv), kurgi (värskendav) ja kassinaerise (kaitsev) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br>Kasutamine:</b> Kanna rohke kiht toodet puhtale näole ja kaelale. Jäta 15 minutiks, kuni see kuivab. Loputa õrnalt sooja veega. Kasuta üks või kaks korda nädalas.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Hamamelis Virginiana Water**, Rosa Canina Fruit Oil**, Glyceryl Stearate Citrate*, Cetyl Alcohol*, Glycerin**, Helianthus Annuus Seed Oil**, Aqua*, Kaolin*, Butyrospermum Parkii (Shea) Butter**, Triticum Vulgare (Wheat) Germ Oil**, Oenothera Biennis Oil**, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Hyaluronate*, Citric Acid*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Potassium Sorbate, Lavandula Angustifolia Flower Extract**, Cucumis Sativus Fruit Extract**, Malva Sylvestris Flower Extract**, Polyglyceryl-4 Caprate*, Calendula Officinalis Flower Extract**, Sodium Lactate*.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (81,7%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939539067207</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939533988167</id>
+    <published>2025-01-19T11:08:08+02:00</published>
+    <updated>2025-01-19T11:08:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-facial-scrub-50ml"/>
+    <title>Vielö Orgaaniline näokoorija 50ml</title>
+    <s:type>Facial Scrub</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-facial-scrub-50ml-749873.jpg?v=1739897173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Facial Scrub<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Õrn orgaaniline näokoorija puhastab ja eemaldab tõhusalt surnud naharakud, jättes naha pehmeks ja värskeks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), peeneks jahvatatud aprikoosituumad (kooriv), hüaluroonhape (niisutav), orgaaniline nisuiduõli (toitev) ja orgaanilised kummeli (antiseptiline), kibuvitsa (põletikuvastane) ja saialille (taastav) ekstraktid.&nbsp;<br><br>Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br>Kasutamine:</b> Masseeri õrnalt kuivale ja puhtale nahale. Niisuta sõrmeotsi sooja veega ja masseeri uuesti, kuni koorija muutub valgeks kreemjaks tekstuuriks. Loputa leige veega maha. Kasuta 1-2 korda nädalas.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Glycerin**, Triticum Vulgare (Wheat) Germ Oil**, Prunus Armeniaca Seed Powder**, Aqua*, Xanthan Gum*, Kaolin*, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Anisate, Potassium Sorbate, Citric Acid*, Sodium Hyaluronate*, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Polyglyceryl-4 Caprate*, Rosa Canina Fruit Extract**, Matricaria Chamomilla Flower Extract**, Sodium Lactate*, Calendula Officinalis Flower Extract**.</p><p>* looduslikku päritolu (99,7%)<br>** sertifitseeritud orgaaniline (92,7%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näokoorija</s:tag>
+    <s:tag>näomask</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939533988167</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">37.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939522158919</id>
+    <published>2025-01-19T11:02:30+02:00</published>
+    <updated>2025-01-19T11:02:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-conditioner-250ml"/>
+    <title>Vielö Orgaaniline juuksepalsam 250ml</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-conditioner-250ml-654164.jpg?v=1739897176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline palsam on spetsiaalselt loodud kahjustatud juuste tugevdamiseks ja niisutamiseks, jättes need pehmeks ja siledaks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), sojaekstrakt (ergutav), nisuiduõli (kaitsev), orgaanilised lavendli (rahustav), salvei (tugevdav) ja kassinaerise (niisutav) ektraktid.&nbsp;<br><br>Sobib kõikidele juuksetüüpidele.<b><br><br>Kasutamine:</b> Kanna pärast šampooniga pesemist märgadele juustele. Masseeri õrnalt juustesse ja peanahale. Loputa hoolikalt.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Cetyl Alcohol*, Glycerin**, Aqua*, Betaine*, Citric Acid*, Xanthan Gum*, Lavandula Angustifolia Flower Oil**, Tocopherol*, Salvia Officinalis Oil**, Helianthus Annuus Seed Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Malva Sylvestris Flower Extract**, Lavandula Angustifolia Flower Extract**, Glycine Soja Seed Extract*, Urtica Dioica Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Polyglyceryl-4 Caprate*, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (88,9%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>palsam</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939522158919</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939477496135</id>
+    <published>2025-01-19T10:58:05+02:00</published>
+    <updated>2025-01-19T10:58:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-shampoo-250ml"/>
+    <title>Vielö Orgaaniline šampoon 250ml</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-shampoo-250ml-599294.webp?v=1739897169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline šampoon on spetsiaalselt loodud kahjustatud juuste ja tundliku peanaha õrnaks puhastamiseks ja niisutamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), must kaer (niisutav), sojavalk (tugevdav) ja orgaanilised lavendli (rahustav), nõgese (antioksüdant) ja rosmariini (stimuleeriv) ekstraktid.<br><br>Sobib kõikidele juuksetüüpidele.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna märgadele juustele. Masseeri õrnalt juustesse ja peanahale. Loputa hoolikalt.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Aqua*, Glycerin**, Decyl Glucoside*, Disodium Cocoyl Glutamate*, Xanthan Gum*, Betaine*, Polyglyceryl-3 Caprate*, Citric Acid*, Sodium Cocoyl Glutamate*, Lavandula Angustifolia Flower Oil**, Hydrolyzed Wheat Gluten*, Hydrolyzed Wheat Protein*, Potassium Sorbate, Salvia Officinalis Oil**, Citronellol**/***, Hydrolyzed Soy Protein*, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Lecithin*, Avena Strigosa Seed Extract*, Malva Sylvestris Flower Extract**, Lavandula Angustifolia Flower Extract**, Caesalpinia Spinosa Gum*, Urtica Dioica Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (68,1%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>juuksed</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:tag>šampoon</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939477496135</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939545588039</id>
+    <published>2025-01-19T10:38:22+02:00</published>
+    <updated>2025-01-19T10:38:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-foot-balm-50ml"/>
+    <title>Vielö Orgaaniline jalapalsam 50ml</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-foot-balm-50ml-911694.jpg?v=1739897171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Facial Mask<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline jalapalsam on spetsiaalselt loodud kuivade jalgade ja lõhenenud kandade niisutamiseks ja pehmendamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), nisuiduõli (kaitsev), hüaluroonhape (niisutav), orgaanilised saialille (taastav), lavendli (rahustav) ja salvei (tugevdav)  ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine:</b> Kanna puhtale ja kuivale nahale ning masseeri hästi sisse. Regulaarne kasutamine aitab kaitsta nahka kuivamise eest.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate /Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Polyglyceryl-4 Caprate*, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (88,9%)<br>*** looduslikust eeterlikust õlist</p><p>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jalakreem</s:tag>
+    <s:tag>keha</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939545588039</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939551486279</id>
+    <published>2025-01-19T10:26:56+02:00</published>
+    <updated>2025-01-19T10:26:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-hand-wash-refill-500ml"/>
+    <title>Vielö Orgaaniline kätepesu täitepakend 500ml</title>
+    <s:type>Hand Wash</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hand-wash-refill-500ml-257750.jpg?v=1739897189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Hand Wash<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kätepesu, mis on spetsiaalselt loodud õrnalt puhastama, jättes käed pehmeks ja siledaks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), sojavalk (tugevdav) ja orgaanilised lavendli (rahustav), nõgese (antioksüdant) ja rosmariini (stimuleeriv) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna toode märgadele kätele, loputa korralikult.<b><br><br>Koostisosad:</b> Lactis Serum Proteinum**, Aqua*, Glycerin**, Decyl Glucoside*, Disodium Cocoyl Glutamate*, Betaine*, Polyglyceryl-3 Caprate*, Xanthan Gum*, Sodium Cocoyl Glutamate*, Citric Acid*, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Hydrolyzed Soy Protein*, Polyglyceryl-4 Caprate*, Sodium Lactate*, Caesalpinia Spinosa Gum*, Lavandula Angustifolia Flower Extract**, Urtica Dioica Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (67,5%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939551486279</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939547980103</id>
+    <published>2025-01-19T10:24:54+02:00</published>
+    <updated>2025-01-19T10:24:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-body-lotion-refill-500ml"/>
+    <title>Vielö Orgaaniline kehakreem täitepakend 500ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-body-lotion-refill-500ml-719231.jpg?v=1739897176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kehakreem, mis on spetsiaalselt loodud kuiva ja tundliku naha niisutamiseks ja pehmendamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), nisuiduõli (kaitsev), hüaluroonhape (niisutav), saialille (taastav), lavendli (rahustav) ja salvei (tugevdav) orgaanilised ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.</p><p><b>Kasutamine: </b>Enne kasutamist loksuta põhjalikult. Kanna puhtale ja kuivale nahale. Masseeri õrnalt sisse.</p><p><b>Koostisosad:</b>&nbsp;Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Potassium Sorbate, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Gra- veolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Arnica Montana Flower Extract**, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (89,7%)<br>*** looduslikest eeterlikest õlidest<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p><!--StartFragment-->
+<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939547980103</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9939528384839</id>
+    <published>2025-01-19T10:14:45+02:00</published>
+    <updated>2025-01-19T10:14:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/vielo-organic-body-scrub-50ml"/>
+    <title>Vielö Orgaaniline kehakoorija 50ml</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-body-scrub-50ml-231547.webp?v=1739897173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Body Scrub<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kehakoorija on spetsiaalselt loodud naha õrnaks puhastamiseks ja koorimiseks, surnud naharakkude eemaldamiseks ja keha taaselustamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), peeneks jahvatatud aprikoosituumad (kooriv), nisuiduõli (niisutav), orgaanilised kaselehe (puhastav), lavendli (rahustav) ja rosmariini (stimuleeriv) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna niiskele nahale ning masseeri ringjate liigutustega õrnalt sisse. Loputa hoolikalt maha. Veega kokkupuutel ja õrnalt sisse masseerides muutub koorija toitvaks kreemiks, mida saab kergesti maha pesta.</p><p><b>Koostisosad:&nbsp;</b>Lactis Serum Proteinum**, Glycerin**, Aqua*, Decyl Glucoside*, Prunus Armeniaca Seed Powder**, Triticum Vulgare Germ Oil**, Citric Acid*, Betaine*, Xanthan Gum*, Disodium Cocoyl Glutamate*, Sodium Cocoyl Glutamate*, Lavandula Angustifolia Flower Oil**, Potassium Sorbate, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Lavandula Angustifolia Flower Extract**, Betula Alba Leaf Extract**, Glycine Soja Seed Extract*, Rosmarinus Officinalis Leaf Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (74,9%)<br>*** looduslikust eeterlikust õlist</p><p>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakoorija</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9939528384839</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.50</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9042574803271</id>
+    <published>2024-02-16T15:50:04+02:00</published>
+    <updated>2024-02-16T15:50:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-ookreem-50ml"/>
+    <title>Vielö Orgaaniline öökreem 50ml</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-night-cream-50ml-212703.jpg?v=1739897344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Night Cream<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<span data-mce-fragment="1">Rikkalik orgaaniline öökreem, mis niisutab ja toidab nahka intensiivselt üleöö ning stimuleerib naha taastumist.<br data-mce-fragment="1"><br data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), kibuvitsaseemneõli (rahustav), hüaluroonhape (niisutav), nisuiduõli (kaitsev) ja kummeli (antiseptiline), arnika (põletikuvastane) ja kassinaerise (kaitsev) orgaanilised ekstraktid.<br data-mce-fragment="1"><br data-mce-fragment="1">Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br data-mce-fragment="1"><br data-mce-fragment="1">Kasutamine:</b> Masseeri õrnalt värskelt puhastatud nahale ja kaelale. Kasuta õhtuti ja alati, kui nahk vajab rikkalikku niisutust.</span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b><br></b></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad:</b> Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Triticum Vulgare (Wheat) Germ Oil**, Helianthus Annuus Seed Oil**, Glycerin**, Cera Alba**, Polyglyceryl-3 Polyricinoleate*, Aqua*, Butyrospermum Parkii (Shea) Butter**, Sorbitan Sesquioleate*, Oenothera Biennis Oil**, Sodium Levulinate*, Glyceryl Caprylate*, Polyglyceryl-3 Ricinoleate, Sodium Hyaluronate*, Sodium Anisate, Tocopherol*, Citric Acid*, Potassium Sorbate, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Malva Sylvestris Flower Extract**, Viola Tricolor Extract**, Matricaria Chamomilla Flower Extract**, Arnica Montana Flower Extract**, Polyglyceryl-4 Caprate*, Geraniol**/***, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Limonene**/***, Citral**/***.<p>* looduslikust päritolust (99,3%)<br>** sertifitseeritud orgaaniline (89,2%)<br>*** looduslikest eeterlikest õlidest.</p>
+</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>Valmistatud käsitsi Austrias.<br><br><!--StartFragment-->Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:tag>öökreem</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9042574803271</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">59.00</s:price>
+      <s:sku/>
+      <s:grams>92</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9042558714183</id>
+    <published>2024-02-16T15:43:56+02:00</published>
+    <updated>2024-02-16T15:43:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-paevakreem-50ml"/>
+    <title>Vielö Orgaaniline päevakreem 50ml</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-day-cream-50ml-714190.jpg?v=1739897338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<span data-mce-fragment="1">Toitev orgaaniline päevakreem, mis pakub pikaajalist niisutust, jättes naha pehmeks ja siledaks.</span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1"><br></span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), hüaluroonhape (niisutav), orgaaniline aprikoosituumaõli (hooldav) ja orgaanilised kummeli (rahustav), võõrasema (kaitsev) ja arnika (põletikuvastane) ekstraktid.&nbsp;<br data-mce-fragment="1"><br data-mce-fragment="1">Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br data-mce-fragment="1"><br data-mce-fragment="1">Kasutamine:</b> Masseeri õrnalt värskelt puhastatud nahale ja kaelale. Kasuta hommikuti ja õhtuti ning alati, kui nahk vajab loomulikku niisutust. Sobib ideaalselt meigipõhjaks.</span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b><br></b></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad: </b>Lactis Serum Proteinum**, Glyceryl Stearate Citrate*, Prunus Armeniaca Kernel Oil**, Glycerin**, Aqua*, Helianthus Annuus Seed Oil**, Cetyl Alcohol*, Rosa Canina Fruit Oil**, Butyrospermum Parkii (Shea) Butter**, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Hyaluronate*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Lavandula Angustifolia Flower Oil**, Potassium Sorbate, Citric Acid*, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Polyglyceryl-4 Caprate*, Viola Tricolor Extract**, Malva Sylvestris Flower Extract**, Arnica Montana Flower Extract**, Matricaria Chamomilla Flower Extract**, Geraniol**/***, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Limonene**/***, Citral**/***.</div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>* looduslikust päritolust (99,7%)<br>** sertifitseeritud orgaaniline (85,3%)<br>*** looduslikest eeterlikest õlidest.</p>
+</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>Valmistatud käsitsi Austrias.</p>
+<p>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.&nbsp;</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>päevakreem</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9042558714183</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">52.00</s:price>
+      <s:sku/>
+      <s:grams>92</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9042533810503</id>
+    <published>2024-02-16T15:38:29+02:00</published>
+    <updated>2024-02-16T15:38:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-silmakreem-15ml"/>
+    <title>Vielö Orgaaniline silmakreem 15ml</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-eye-cream-15ml-750536.jpg?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Eye Cream<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<span data-mce-fragment="1">Toitev orgaaniline silmakreem, mis pakub pikaajalist niisutust ja hooldab tõhusalt õrna silmaümbruse nahka.<br data-mce-fragment="1"><br data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), orgaaniline kibuvitsaseemneõli (rahustav), hüaluroonhape (niisutav), orgaaniline päevalilleõli (hooldav) ja orgaanilised kummeli (ergutav), silmarohu (tugevdav) ja kassinaerise (kaitsev) ekstraktid.&nbsp;<br data-mce-fragment="1"><br data-mce-fragment="1">Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br data-mce-fragment="1"><br data-mce-fragment="1">Kasutamine: </b>Kanna silmapiirkonnale ja masseeri õrnalt kuni imendumiseni. Kasuta hommikuti ja õhtuti.</span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b><br></b></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad: </b>Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Polyglyceryl-3 Dicitrate/ Stearate*, Glycerin**, Helianthus Annuus Seed Oil**, Cetyl Alcohol*, Aqua*, Prunus Armeniaca Kernel Oil**, Triticum Vulgare (Wheat) Germ Oil**, Sodium Levulinate*, Glyceryl Caprylate*, Sodium Hyaluronate*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Potassium Sorbate, Citric Acid*, Polyglyceryl-4 Caprate*, Matricaria Chamomilla Flower Extract**, Malva Sylvestris Leaf Extract**, Euphrasia Officinalis Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Lavandula Angustifolia Flower Oil**, Limonene**/***, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Citral**/***.<p>* looduslikust päritolust (99,7%)<br>** sertifitseeritud mahepõllumajanduslik (86,4%)<br>*** looduslikest eeterlikest õlidest.</p>
+</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>Valmistatud käsitsi Austrias.<br><br><!--StartFragment-->Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>silmakreem</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9042533810503</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">47.00</s:price>
+      <s:sku/>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041935794503</id>
+    <published>2024-02-16T12:12:08+02:00</published>
+    <updated>2024-02-16T12:12:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-hualuroon-serum-50ml"/>
+    <title>Vielö Orgaaniline hüalurooniga seerum 50ml</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hyaluron-serum-50ml-505516.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Face Serum<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+Intensiivselt toitev orgaaniline hüaluroonseerum, mis annab pikaajalise niisutuse ja tugevdab nahka.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), hüaluroonhape (niisutav) ja orgaanilised saialille (taastav), kibuvitsa (põletikuvastane) ja silmarohu (tugevdav) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br></b><b>Kasutamine:</b> Enne kasutamist loksuta. Kanna peopesadesse 1-2 tilka seerumit ja masseeri õrnalt puhastatud näole ja kaelale. Kasuta hommikuti ja õhtuti ning alati, kui nahk vajab niisutamist.</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><br></div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad:</b> Lactis Serum Proteinum**, Aqua*, Glycerin**, Betaine*, Sodium Levulinate*, Xanthan Gum*, Glyceryl Caprylate*, Sodium Hyaluronate*, Sodium Anisate, Potassium Sorbate, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Citronellol**/***, Polyglyceryl-4 Caprate*, Pelargonium Graveolens Flower Oil**, Citric Acid*, Euphrasia Officinalis Extract**, Rosa Canina Fruit Ex- tract**, Sodium Lactate*, Geraniol**/***, Calendula Officinalis Flower Extract**, Limonene**/***, Citral**/***.</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>* looduslikust päritolust (99,7%)<br>** sertifitseeritud orgaaniline (93,2%)<br>*** looduslikest eeterlikest õlidest</p>
+<p>Valmistatud käsitsi Austrias.<br><br><!--StartFragment-->Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näoseerum</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041935794503</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>92</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041917968711</id>
+    <published>2024-02-16T11:59:12+02:00</published>
+    <updated>2024-02-16T11:59:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-tooner-100ml"/>
+    <title>Vielö Orgaaniline toonik 100ml</title>
+    <s:type>Face Toner</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-toner-100ml-558653.jpg?v=1739897335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Face Toner<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment--><!-- x-tinymce/html --><p>Toitev orgaaniline toonik, mis rahustab, värskendab ja puhastab nahka õrnalt.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), orgaaniline nõiapuupesi (toitev), hüaluroonhape (niisutav) ja orgaanilised saialille (taastav), kassinaerise (kaitsev) ja kummeli (antiseptiline) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Piserda toonik peopesadesse ja masseeri õrnalt näole ja kaelale või pihusta otse näole. Kasuta hommikuti ja õhtuti ning alati, kui nahk vajab värskendavat niisutust. Kasuta enne niisutava kreemi pealekandmist.<b><br><br>Koostisosad:</b> Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Prunus Armeniaca Kernel Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Glycerin**, Triticum Vulgare (Wheat) Germ Oil**, Aqua*, Cetyl Alcohol*, Sodium Levulinate*, Glyceryl Caprylate*, Citric Acid*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Lavandula Angusti- folia Flower Oil**, Potassium Sorbate, Helianthus Annuus Seed Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelar- gonium Graveolens Flower Oil**, Polyglyceryl-4 Caprate*, Matricaria Chamomilla Flower Extract**, Arnica Montana Flower Extract**, Geraniol**/***, Sodium Lactate*, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Limonene**/***, Citral**/***.<br><br>* looduslikku päritolu (99,7%)<br>** sertifitseeritud mahepõllumajandusest (87,1%)<br>*** looduslikest eeterlikest õlidest<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näotoonik</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041917968711</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku/>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041897783623</id>
+    <published>2024-02-16T11:52:37+02:00</published>
+    <updated>2024-02-16T11:52:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-puhastuspiim-100ml"/>
+    <title>Vielö Orgaaniline puhastuspiim 100ml</title>
+    <s:type>Face Cleansing</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-cleansing-milk-100ml-720327.jpg?v=1739897336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Face Cleansing<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+Õrn orgaaniline puhastuspiim, mis eemaldab meigi ja mustuse vaevata. Rahustab nahka, jättes selle pehmeks ja niisutatuks.</div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><br></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), orgaaniline nisuiduõli (kaitsev), orgaaniline kibuvitsaseemneõli (rahustav) ja orgaanilised kummeli (antiseptiline), arnika (põletikuvastane) ja salvei (antibakteriaalne) ekstraktid.&nbsp;</div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><br></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">Sobib kõikidele nahatüüpidele, ka kuivale ja tundlikule nahale.<b><br><br></b><b>Kasutamine:</b>&nbsp;Enne kasutamist loksuta põhjalikult. Masseeri õrnalt üle näo ja kaela. Loputa leige veega. Kasuta hommikuti ja õhtuti ning alati, kui nahk vajab loomulikku puhastamist.<br><span data-mce-fragment="1"><br></span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad:</b> Lactis Serum Proteinum**, Rosa Canina Fruit Oil**, Prunus Armeniaca Kernel Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Glycerin**, Triticum Vulgare (Wheat) Germ Oil**, Aqua*, Cetyl Alcohol*, Sodium Levulinate*, Glyceryl Caprylate*, Citric Acid*, Xanthan Gum*, Sodium Anisate, Tocopherol*, Lavandula Angusti- folia Flower Oil**, Potassium Sorbate, Helianthus Annuus Seed Oil**, Salvia Officinalis Oil**, Citronellol**/***, Pelar- gonium Graveolens Flower Oil**, Polyglyceryl-4 Caprate*, Matricaria Chamomilla Flower Extract**, Arnica Montana Flower Extract**, Geraniol**/***, Sodium Lactate*, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Limonene**/***, Citral**/***.</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>* looduslikust päritolust (99,7%)<br>** sertifitseeritud mahepõllumajanduslik (87,1%)<br>*** looduslikest eeterlikest õlidest.</p>
+<p>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.<br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nägu</s:tag>
+    <s:tag>näopuhastus</s:tag>
+    <s:tag>talv</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041897783623</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.00</s:price>
+      <s:sku/>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041734271303</id>
+    <published>2024-02-16T10:44:32+02:00</published>
+    <updated>2024-02-16T10:44:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/copy-of-organic-katepesu-250ml"/>
+    <title>Vielö Orgaaniline kätepalsam 50ml</title>
+    <s:type>Hand Lotion</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hand-balm-50ml-856976.jpg?v=1739897346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Hand Lotion<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><p>Toitev orgaaniline kätepalsam, mis on spetsiaalselt mõeldud kuivade ja tundlike käte niisutamiseks ja pehmendamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), nisuiduõli (kaitsev), hüaluroonhape (niisutav), orgaanilised saialille (taastav), lavendli (rahustav) ja salvei (tugevdav) ekstraktid.<br><br>Sobib igale nahatüübile.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna palsam kätele, masseeri õrnalt.<b><br><br>Koostisosad:</b> Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate /Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Polyglyceryl-4 Caprate*, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (88,9%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.<br></p><p></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kätekreem</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041734271303</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041705009479</id>
+    <published>2024-02-16T10:36:56+02:00</published>
+    <updated>2024-02-16T10:36:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-kasipesu-250ml"/>
+    <title>Vielö Orgaaniline kätepesu 250ml</title>
+    <s:type>Hand Wash</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-hand-wash-250ml-158204.jpg?v=1739897343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Hand Wash<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kätepesu, mis on spetsiaalselt loodud õrnalt puhastama, jättes käed pehmeks ja siledaks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), sojavalk (tugevdav) ja orgaanilised lavendli (rahustav), nõgese (antioksüdant) ja rosmariini (stimuleeriv) ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine: </b>Enne kasutamist loksuta põhjalikult. Kanna toode märgadele kätele, loputa korralikult.<b><br><br>Koostisosad:</b> Lactis Serum Proteinum**, Aqua*, Glycerin**, Decyl Glucoside*, Disodium Cocoyl Glutamate*, Betaine*, Polyglyceryl-3 Caprate*, Xanthan Gum*, Sodium Cocoyl Glutamate*, Citric Acid*, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Potassium Sorbate, Citronellol**/***, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Hydrolyzed Soy Protein*, Polyglyceryl-4 Caprate*, Sodium Lactate*, Caesalpinia Spinosa Gum*, Lavandula Angustifolia Flower Extract**, Urtica Dioica Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Salvia Officinalis Leaf Extract**, Sodium Benzoate.</p><p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (67,5%)<br>*** looduslikust eeterlikust õlist<br><br>Valmistatud käsitsi Austrias.<br><br>Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kätepesu</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041705009479</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041686004039</id>
+    <published>2024-02-16T10:27:36+02:00</published>
+    <updated>2024-02-16T10:27:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/copy-of-organic-body-wash-250ml-1"/>
+    <title>Vielö Orgaaniline dušigeel 250ml</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-body-wash-250ml-637632.jpg?v=1739897340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<span data-mce-fragment="1"><span data-mce-fragment="1">Toitev orgaaniline dušigeel, mis on spetsiaalselt loodud kuiva ja tundliku naha õrnaks puhastamiseks, toitmiseks ja niisutamiseks.<br data-mce-fragment="1"><br data-mce-fragment="1">Tootes sisalduvad orgaaniline vadak (toitev), nisuproteiin (niisutav), sojavalk (tugevdav) ja orgaanilised arnika (rahustav), kaselehe (puhastav) ja rosmariini (ergutav) ekstraktid.<br data-mce-fragment="1"><br data-mce-fragment="1">Sobib kõikidele nahatüüpidele.</span></span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><br></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><span data-mce-fragment="1"><span data-mce-fragment="1"><b>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna märjale nahale, loputa korralikult.</span></span></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><br></div><div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1"><b>Koostisosad:</b> Lactis Serum Proteinum**, Aqua*, Glycerin**, Decyl Glucoside*, Disodium Cocoyl Glutamate*, Xanthan Gum*, Betaine*, Polyglyceryl-3 Caprate*, Citric Acid*, Sodium Cocoyl Glutamate*, Lavandula Angustifolia Flower Oil**, Salvia Officinalis Oil**, Potassium Sorbate, Hydrolyzed Wheat Protein*, Hydrolyzed Wheat Gluten*, Citronellol**/***, Hydrolyzed Soy Protein*, Pelargonium Graveolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Arnica Montana Flower Extract**, Lavandula Angustifolia Flower Extract**, Caesalpinia Spinosa Gum*, Betula Alba Leaf Extract**, Rosmarinus Officinalis Leaf Extract**, Sodium Lactate*, Salvia Officinalis Leaf Extract**, Sodium Benzoate.<p>* looduslikust päritolust (99,8%)<br>** sertifitseeritud mahepõllumajanduslik (68,3%)<br>*** looduslikest eeterlikest õlidest.</p>
+</div>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>Valmistatud käsitsi Austrias.<br><br><!--StartFragment-->Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehapesu</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041686004039</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bioskina.com/et/products/9041642750279</id>
+    <published>2024-02-16T09:57:01+02:00</published>
+    <updated>2024-02-16T09:57:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://bioskina.com/et/products/orgaaniline-kehakreem-250ml"/>
+    <title>Vielö Orgaaniline kehakreem 250ml</title>
+    <s:type>Lotion</s:type>
+    <s:vendor>vielö</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0790/6829/9591/files/vielo-organic-body-lotion-250ml-512663.jpg?v=1739897339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vielö<br>
+        <strong>Type: </strong>Lotion<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toitev orgaaniline kehakreem, mis on spetsiaalselt loodud kuiva ja tundliku naha niisutamiseks ja pehmendamiseks.<br><br>Tootes sisalduvad orgaaniline vadak (toitev), nisuiduõli (kaitsev), hüaluroonhape (niisutav), saialille (taastav), lavendli (rahustav) ja salvei (tugevdav) orgaanilised ekstraktid.<br><br>Sobib kõikidele nahatüüpidele.<b><br><br>Kasutamine:</b> Enne kasutamist loksuta põhjalikult. Kanna puhtale ja kuivale nahale. Masseeri õrnalt sisse.</p><p><b>Koostisosad:</b> Lactis Serum Proteinum**, Helianthus Annuus Seed Oil**, Triticum Vulgare Germ Oil**, Polyglyceryl-3 Dicitrate/Stearate*, Cetyl Alcohol*, Glycerin**, Betaine*, Aqua*, Citric Acid*, Xanthan Gum*, Tocopherol*, Lavandula Angustifolia Flower Oil**, Sodium Hyaluronate*, Potassium Sorbate, Salvia Officinalis Oil**, Citronellol**/***, Pelargonium Gra- veolens Flower Oil**, Geraniol**/***, Polyglyceryl-4 Caprate*, Arnica Montana Flower Extract**, Lavandula Angustifolia Flower Extract**, Rosmarinus Officinalis Leaf Extract**, Limonene**/***, Calendula Officinalis Flower Extract**, Salvia Officinalis Leaf Extract**, Sodium Lactate*, Citral**/***.</p>
+<div class="content-translations text-15 leading-loose text-black" data-mce-fragment="1">
+<p>* looduslikku päritolu (99,8%)<br>** sertifitseeritud orgaaniline (89,7%)<br>*** looduslikest eeterlikest õlidest</p>
+<p>Valmistatud käsitsi Austrias.<br><br><!--StartFragment-->Ringmajanduslikest põhimõtetest lähtudes kasutab Vielö oma jätkusuutlike naha- ja kehahooldustoodete peamise koostisainena kvaliteetselt rafineeritud juustutootmise kõrvalsaadust, orgaanilist vadakut.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>keha</s:tag>
+    <s:tag>kehakreem</s:tag>
+    <s:tag>vielö</s:tag>
+    <s:variant>
+      <id>https://bioskina.com/et/products/9041642750279</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>
